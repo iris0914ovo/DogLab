@@ -15,9 +15,17 @@
 | [内容规范](docs/CONTENT_GUIDELINES.md) | 语气、创作规则、事实边界、隐私与内容审查 |
 | [视觉系统](docs/DESIGN_SYSTEM.md) | 品牌、色彩、字体、页面网格、响应式与插画规范 |
 
+## Phase 2 视觉交付
+
+- [插画生产规范](docs/ILLUSTRATION_GUIDE.md)
+- [120 种犬种资产索引](docs/ASSET_MANIFEST.md)
+- [第一批六份完整角色 Prompt](docs/FIRST_BATCH_PROMPTS.md)
+- [品牌标志与使用说明](docs/BRAND_IDENTITY.md)
+- [主标志 SVG](public/assets/brand/logo-primary.svg)、[反白标志 SVG](public/assets/brand/logo-reverse.svg)、[辅助符号 SVG](public/assets/brand/symbol.svg)
+
 ## 当前开发阶段
 
-当前处于 **Phase 1：产品需求和内容文档**。仓库尚未初始化 React、Vite 或 TypeScript，无应用依赖、运行脚本、网页、插画或部署配置。本阶段只提交产品文档，不代表应用已实现或测试上线。
+当前处于 **Phase 2：原创视觉系统与角色设计，等待视觉审核**。Phase 1 文档已提交并推送；本批建立插画生产规范、120 种犬种素材计划、原创 SVG 品牌提案与六份角色 Prompt。狗狗图像尚未生成，所有犬种素材均为 PLANNED；品牌提案尚未获用户视觉批准。仓库未初始化 React、Vite 或 TypeScript，没有网站页面、测试算法或 Pages 部署配置。审核前不进入 Phase 3，也不批量生成其余 114 种插画。
 
 | 阶段 | 交付范围 |
 |---|---|

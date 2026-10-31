@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">犬格研究所辅助符号</title><desc id="desc">不闭合观察框与抽象犬鼻、短口线；无医学含义。</desc>
+<g fill="none" stroke="#20201D" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter">
+ <path d="M176 40H40V216H216V112"/>
+ <path d="M72 106Q128 82 184 106L128 156Z"/>
+ <path d="M128 156V181M128 181L111 194M128 181L145 194"/>
+ </g><path d="M188 40H216V68" fill="none" stroke="#AA3D24" stroke-width="10"/>
+ <path d="M90 110L110 106M146 106L166 110" stroke="#20201D" stroke-width="6"/>
+</svg>
