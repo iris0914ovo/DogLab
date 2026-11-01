@@ -1,0 +1,124 @@
+{
+  "breed_id": "B056",
+  "name": "葡萄牙波登可犬",
+  "slug": "portuguese-podengo",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B056-full-v01",
+  "prompt_path": "artifacts/illustrations/B056/full/v01/prompt.txt",
+  "prompt_sha256": "55175726c537d45a21ca382af96a2f9eb7819dd175f879a7512573b0c2b062b9",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-0b2c22f9-dd50-4b80-a312-812749018fd3.png",
+  "saved_at": "2026-11-01T04:30:48.543110+00:00",
+  "raw_path": "artifacts/illustrations/B056/full/v01/raw.png",
+  "raw_sha256": "3fabdffffcf2ebebb6d3f545af43d41712a96b31f5157f62fb38954a1664677c",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 988593,
+    "opaque_pixels": 84,
+    "partial_alpha_pixels": 583839,
+    "bbox": [
+      0,
+      16,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 455651,
+    "core_pixels": 455651
+  },
+  "path": "public/assets/dogs/full/portuguese-podengo-full.png",
+  "sha256": "f419df392f50e2f45c21f15e45f6675ccef2069a997ff103b122ebf37da4d97d",
+  "pixels_sha256": "947d9cd4a53651d90a000f7d7919795914e983dc9a6a7bd0d078f2622187acee",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      206,
+      17,
+      1172,
+      1222
+    ],
+    "uniform_scale": 0.6796680497925311,
+    "resized_dimensions": [
+      657,
+      819
+    ],
+    "position": [
+      183,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 455651,
+    "near_opaque_adjusted": 448987
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 797395,
+    "opaque_pixels": 214423,
+    "partial_alpha_pixels": 36758,
+    "bbox": [
+      183,
+      102,
+      840,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 202822,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      183,
+      102,
+      184,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "葡萄牙波登可选小型刚毛：白底黄褐斑，楔头较细尖口吻、巨大直立耳、大于头宽的耳距形态，粗刚毛与短胡须；小型略长身、腿不极短，天然中长镰尾。四足轻巧站立，非短毛巴仙吉换色。"
+}

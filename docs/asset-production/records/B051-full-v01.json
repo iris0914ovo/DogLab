@@ -1,0 +1,124 @@
+{
+  "breed_id": "B051",
+  "name": "韩国珍岛犬",
+  "slug": "korea-jindo-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B051-full-v01",
+  "prompt_path": "artifacts/illustrations/B051/full/v01/prompt.txt",
+  "prompt_sha256": "99aef04959681af874ced8bfa8217eab2bad48a8ba352596431fa16ada114f44",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-15d9451b-a82d-4b4a-b80e-4642c15ae952.png",
+  "saved_at": "2026-11-01T04:29:49.696497+00:00",
+  "raw_path": "artifacts/illustrations/B051/full/v01/raw.png",
+  "raw_sha256": "1227b63670b51d97a21913dcda8707d33f3dfc9230e218a40691d6cc6fff063e",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 929503,
+    "opaque_pixels": 212,
+    "partial_alpha_pixels": 642801,
+    "bbox": [
+      0,
+      0,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 552388,
+    "core_pixels": 552388
+  },
+  "path": "public/assets/dogs/full/korea-jindo-dog-full.png",
+  "sha256": "052826923ab180a598eda4b90e152e8965ce9f30090240306e3a3862c7ecca2c",
+  "pixels_sha256": "c1f6368d54c6ecf588f139dc97414ac3dfb188e2752acea477e284ca429a3e98",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      199,
+      64,
+      1168,
+      1196
+    ],
+    "uniform_scale": 0.7234982332155477,
+    "resized_dimensions": [
+      701,
+      819
+    ],
+    "position": [
+      161,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 552388,
+    "near_opaque_adjusted": 556353
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 725083,
+    "opaque_pixels": 295407,
+    "partial_alpha_pixels": 28086,
+    "bbox": [
+      161,
+      102,
+      862,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 282648,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      161,
+      102,
+      162,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "韩国珍岛：黄褐双层毛、中型近方身、结实轻盈骨架、三角头、中等细口吻、较小直立耳、深眼，腿正常长；尾自然镰状或松卷背上。四足站立，口吻清楚不圆脸柴犬。"
+}

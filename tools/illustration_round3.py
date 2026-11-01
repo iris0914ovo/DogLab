@@ -13,13 +13,13 @@ def saveq(q):
  temp=QPATH.with_suffix('.tmp');temp.write_text(json.dumps(q,ensure_ascii=False,indent=2)+'\n');temp.replace(QPATH)
 def ingest(id,source):
  q=queue();t=next(t for t in q['tasks'] if t['id']==id)
- base.IDS=[t['id'] for t in q['tasks']];base.BATCH=t['batch_id'];base.VERSION='v01';base.STYLE='DPL-ILL-1.2'
+ base.IDS=[t['id'] for t in q['tasks']];base.BATCH=t['batch_id'];base.VERSION=t.get('version','v01');base.STYLE='DPL-ILL-1.2'
  base.ingest(id,source)
- path=ROOT/f'docs/asset-production/records/{id}-full-v01.json';r=json.loads(path.read_text())
- ref='public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png'
+ path=ROOT/f"docs/asset-production/records/{id}-full-{t.get('version','v01')}.json";r=json.loads(path.read_text())
+ ref=t.get('reference_path','public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png')
  r['reference_images']=[dict(path=ref,sha256=base.sha(ROOT/ref),scope='User-approved round2 style; not copied anatomy')]
  r['tool_parameters']=dict(transparent_background=True,referenced_image_paths=[str(ROOT/ref)])
- r['breed_profile']=t['profile'];r['qc']['visual_status']='NEEDS_AI_AND_USER_REVIEW'
+ r['generation_attempts']=t.get('generation_attempts',1);r['is_current']=True;r['breed_profile']=t['profile'];r['qc']['visual_status']='NEEDS_AI_AND_USER_REVIEW'
  r['qc']['source_alpha_touches_canvas']=any([r['raw_qc']['bbox'][0]==0,r['raw_qc']['bbox'][1]==0,r['raw_qc']['bbox'][2]==r['raw_qc']['size'][0],r['raw_qc']['bbox'][3]==r['raw_qc']['size'][1]])
  path.write_text(json.dumps(r,ensure_ascii=False,indent=2)+'\n')
  t.update(status='qc_pass' if r['qc']['technical_pass'] else 'qc_fail',record_path=str(path.relative_to(ROOT)),source_path=source)
@@ -30,7 +30,7 @@ def finalize(batch):
  records=[]
  for t in tasks:
   assert t['status'] in ['qc_pass','synced'];r=json.loads((ROOT/t['record_path']).read_text());assert base.sha(ROOT/r['path'])==r['sha256'];records.append(r)
- allr=[json.loads(f.read_text()) for f in (ROOT/'docs/asset-production/records').glob('B*-full-*.json')]
+ allr=[json.loads(f.read_text()) for f in (ROOT/'docs/asset-production/records').glob('B*-full-*.json') if json.loads(f.read_text()).get('is_current',True)]
  assert len({r['sha256'] for r in allr})==len(allr),'Duplicate final binary'
  assert len({r['pixels_sha256'] for r in allr})==len(allr),'Duplicate image pixels'
  prior=json.loads((ROOT/'docs/asset-production/round3-preserved-assets.json').read_text())
@@ -49,7 +49,7 @@ def finalize(batch):
   for i,r in enumerate(records):
    x=i%4*512;y=i//4*580;im=Image.open(ROOT/r['path']).convert('RGBA').resize((480,480),Image.Resampling.LANCZOS);sheet.paste(im,(x+16,y+8),im)
    draw.text((x+18,y+492),f"{r['breed_id']} {r['name']}",font=font,fill=fg)
-   draw.text((x+18,y+534),'DPL-ILL-1.2 | v01 | 人工待审核',font=small,fill=fg)
+   draw.text((x+18,y+534),'DPL-ILL-1.2 | '+r['prompt_version'].rsplit('-',1)[-1]+' | 人工待审核',font=small,fill=fg)
   path=ROOT/f'public/assets/dogs/review/{batch}-{label}.png'
   if path.exists():
    import io
@@ -60,7 +60,7 @@ def finalize(batch):
  (ROOT/f'docs/asset-production/batches/{batch}.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
  update_manifest(allr)
  report=f'# {batch} 生产与基础质检报告\n\n实际独立生成并保存{len(records)}张全身PNG，全部1024×1024 RGBA，真实透明背景，主体核心不透明，保留边缘抗锯齿，等比缩放、安全边至少102px。保留原始母图与Prompt/SHA256、工具、处理参数。工具未暴露模型ID时如实为null，不伪造。原生Alpha微量残留与近不透明值按既定处理器规范化，原图不改写；raw_qc保留源图触边风险。\n\n跨所有已生产图片的文件和像素SHA256无重复；本批关联的低分辨率轮廓相似信号{len(near)}项保存在批次JSON中，不等于重复图。自动QC不保证犬种解剖或人工批准，需要合版AI检查和最终人工复核。\n\n|ID|犬种|PNG|记录|基础QC|\n|---|---|---|---|---|\n'
- for t,r in zip(tasks,records):report+=f"|{r['breed_id']}|{r['name']}|[PNG](../../{r['path']})|[JSON](records/{r['breed_id']}-full-v01.json)|PASS|\n"
+ for t,r in zip(tasks,records):report+=f"|{r['breed_id']}|{r['name']}|[PNG](../../{r['path']})|[JSON]({t['record_path'].removeprefix('docs/asset-production/')})|PASS|\n"
  for c in contacts:report+=f'\n[合版 {Path(c).stem}](../../{c})\n'
  report+='\n每批push work后独立临时Git仓库抓取并读取PNG blob核验SHA256和解码。实际远程验证证据保存于verification同名JSON。未验证前不声称远程完成。\n'
  (ROOT/f'docs/asset-production/{batch}-REPORT.md').write_text(report)

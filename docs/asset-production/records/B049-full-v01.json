@@ -1,0 +1,124 @@
+{
+  "breed_id": "B049",
+  "name": "纪州犬",
+  "slug": "kishu",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B049-full-v01",
+  "prompt_path": "artifacts/illustrations/B049/full/v01/prompt.txt",
+  "prompt_sha256": "ffca114057103a962977b9d8e64a2233a9d796c868e37cdb31eb13d9735c06b9",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-e2b3a028-c0c6-4a42-90df-bf06e24e78cc.png",
+  "saved_at": "2026-11-01T04:28:09.446453+00:00",
+  "raw_path": "artifacts/illustrations/B049/full/v01/raw.png",
+  "raw_sha256": "4ea9a3f1dae27bde091c29ac405c0b518c96fa2b62dab5deddfbcaaf7c5b6d51",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 901295,
+    "opaque_pixels": 115,
+    "partial_alpha_pixels": 671106,
+    "bbox": [
+      0,
+      3,
+      1246,
+      1254
+    ],
+    "core_translucent_pixels": 579871,
+    "core_pixels": 579871
+  },
+  "path": "public/assets/dogs/full/kishu-full.png",
+  "sha256": "7a7e1bc116275836bca76ea44c4ce9a61840c2304113e527db115cc76eddddc8",
+  "pixels_sha256": "dcb7a58ac4eaf73b8c3a3601b2c701774f04bc11c9b71369ed996ace27aedd8d",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      190,
+      56,
+      1172,
+      1211
+    ],
+    "uniform_scale": 0.7090909090909091,
+    "resized_dimensions": [
+      696,
+      819
+    ],
+    "position": [
+      164,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 579871,
+    "near_opaque_adjusted": 582364
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 725873,
+    "opaque_pixels": 296977,
+    "partial_alpha_pixels": 25726,
+    "bbox": [
+      164,
+      102,
+      860,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 284788,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      164,
+      102,
+      164,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "纪州犬：白色双层短毛、中型结实略长身、楔形头、中长宽口吻、小厚立耳，深眼黑鼻；腿结实正常长、短整洁颈毛。天然镰状尾上举非紧环，四足站立，区别北海道更紧凑头颅。"
+}

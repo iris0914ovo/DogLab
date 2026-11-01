@@ -1,0 +1,124 @@
+{
+  "breed_id": "B053",
+  "name": "泰国脊背犬",
+  "slug": "thai-ridgeback",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B053-full-v01",
+  "prompt_path": "artifacts/illustrations/B053/full/v01/prompt.txt",
+  "prompt_sha256": "9a6754fdfe1b1ba6b8c36bb5cc7486a5f6b28bd229816bae320cbcffe0143a94",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-10fb31f2-27e5-4f47-bf1d-c4fa6bddb276.png",
+  "saved_at": "2026-11-01T04:29:51.138152+00:00",
+  "raw_path": "artifacts/illustrations/B053/full/v01/raw.png",
+  "raw_sha256": "96359a48c881621259571bc389e3f50537b7931483aacbb1aaf88abd6927b2e7",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1040680,
+    "opaque_pixels": 608,
+    "partial_alpha_pixels": 531228,
+    "bbox": [
+      0,
+      40,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 457730,
+    "core_pixels": 457730
+  },
+  "path": "public/assets/dogs/full/thai-ridgeback-full.png",
+  "sha256": "5fb618cfc926379072e6ce317caed448c96a8f694163854bde30a88781445a9e",
+  "pixels_sha256": "4988076d03bf756fc9ad9d4147f49f56f0e451fda61842f4631139737d718ad7",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      192,
+      41,
+      1205,
+      1213
+    ],
+    "uniform_scale": 0.6988054607508533,
+    "resized_dimensions": [
+      708,
+      819
+    ],
+    "position": [
+      158,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 457730,
+    "near_opaque_adjusted": 473788
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 796724,
+    "opaque_pixels": 234188,
+    "partial_alpha_pixels": 17664,
+    "bbox": [
+      158,
+      102,
+      866,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 216061,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      158,
+      102,
+      158,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "泰国脊背：选择蓝灰短毛，中型肌肉躯干、楔头长口吻、大直立耳、深眼；背部画真实逆向生长毛脊而不是伤疤，毛短贴身；正常长腿、细长尾缓弯上举。四足站立，不画无毛犬皮肤。"
+}

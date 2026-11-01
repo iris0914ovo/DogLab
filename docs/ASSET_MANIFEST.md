@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前54张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成36/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前65张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成47/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -60,18 +60,18 @@
 | B046 | 欧亚犬 | Eurasier | eurasier | 否 | public/assets/dogs/full/eurasier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/eurasier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B047 | 北海道犬 | Hokkaido | hokkaido | 否 | public/assets/dogs/full/hokkaido-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/hokkaido-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B048 | 四国犬 | Shikoku | shikoku | 否 | public/assets/dogs/full/shikoku-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/shikoku-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B049 | 纪州犬 | Kishu | kishu | 否 | public/assets/dogs/full/kishu-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B050 | 甲斐犬 | Kai Ken | kai-ken | 否 | public/assets/dogs/full/kai-ken-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B051 | 韩国珍岛犬 | Korea Jindo Dog | korea-jindo-dog | 否 | public/assets/dogs/full/korea-jindo-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B052 | 迦南犬 | Canaan Dog | canaan-dog | 否 | public/assets/dogs/full/canaan-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B053 | 泰国脊背犬 | Thai Ridgeback | thai-ridgeback | 否 | public/assets/dogs/full/thai-ridgeback-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B049 | 纪州犬 | Kishu | kishu | 否 | public/assets/dogs/full/kishu-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/kishu-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B050 | 甲斐犬 | Kai Ken | kai-ken | 否 | public/assets/dogs/full/kai-ken-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/kai-ken-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B051 | 韩国珍岛犬 | Korea Jindo Dog | korea-jindo-dog | 否 | public/assets/dogs/full/korea-jindo-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/korea-jindo-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B052 | 迦南犬 | Canaan Dog | canaan-dog | 否 | public/assets/dogs/full/canaan-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/canaan-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B053 | 泰国脊背犬 | Thai Ridgeback | thai-ridgeback | 否 | public/assets/dogs/full/thai-ridgeback-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/thai-ridgeback-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B054 | 秘鲁无毛犬 | Peruvian Hairless Dog | peruvian-hairless-dog | 否 | public/assets/dogs/full/peruvian-hairless-dog-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/peruvian-hairless-dog-full.png | 第二轮AI检查：可见裸露皮肤色面、颈胸自然褶皱、大立耳和细长裸尾，不是短毛犬简单去色。 待用户审核。 |
-| B055 | 墨西哥无毛犬 | Xoloitzcuintli | xoloitzcuintli | 否 | public/assets/dogs/full/xoloitzcuintli-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B056 | 葡萄牙波登可犬 | Portuguese Podengo | portuguese-podengo | 否 | public/assets/dogs/full/portuguese-podengo-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B057 | 伊比赞猎犬 | Ibizan Hound | ibizan-hound | 否 | public/assets/dogs/full/ibizan-hound-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B058 | 法老王猎犬 | Pharaoh Hound | pharaoh-hound | 否 | public/assets/dogs/full/pharaoh-hound-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B059 | 澳大利亚牧牛犬 | Australian Cattle Dog | australian-cattle-dog | 否 | public/assets/dogs/full/australian-cattle-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B060 | 比利时马林诺斯犬 | Belgian Malinois | belgian-malinois | 否 | public/assets/dogs/full/belgian-malinois-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B055 | 墨西哥无毛犬 | Xoloitzcuintli | xoloitzcuintli | 否 | public/assets/dogs/full/xoloitzcuintli-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/xoloitzcuintli-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B056 | 葡萄牙波登可犬 | Portuguese Podengo | portuguese-podengo | 否 | public/assets/dogs/full/portuguese-podengo-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/portuguese-podengo-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B057 | 伊比赞猎犬 | Ibizan Hound | ibizan-hound | 否 | public/assets/dogs/full/ibizan-hound-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/ibizan-hound-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B058 | 法老王猎犬 | Pharaoh Hound | pharaoh-hound | 否 | public/assets/dogs/full/pharaoh-hound-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pharaoh-hound-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B059 | 澳大利亚牧牛犬 | Australian Cattle Dog | australian-cattle-dog | 否 | public/assets/dogs/full/australian-cattle-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/australian-cattle-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B060 | 比利时马林诺斯犬 | Belgian Malinois | belgian-malinois | 否 | public/assets/dogs/full/belgian-malinois-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/belgian-malinois-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B061 | 比利时特伏丹犬 | Belgian Tervuren | belgian-tervuren | 否 | public/assets/dogs/full/belgian-tervuren-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B062 | 比利时格罗安达犬 | Belgian Groenendael | belgian-groenendael | 否 | public/assets/dogs/full/belgian-groenendael-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B063 | 比利时拉肯努阿犬 | Belgian Laekenois | belgian-laekenois | 否 | public/assets/dogs/full/belgian-laekenois-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库36/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库47/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

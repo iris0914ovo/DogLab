@@ -1,0 +1,198 @@
+{
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "production_commit": "3752d43741f2f225e58ebbff23dfc50c36e55144",
+  "checked_at": "2026-11-01T04:26:27.806445+00:00",
+  "success": true,
+  "method": "Independent temporary Git repository fetch, actual remote blob SHA256/PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/norwegian-elkhound-full.png",
+      "sha256": "34bb99a1282a10f9a46f02922c43ca0c406961bc233c1fe577d37879cd1eaa29",
+      "bytes": 943597
+    },
+    {
+      "path": "artifacts/illustrations/B037/full/v01/raw.png",
+      "sha256": "199a1b3a0377afff3e183e49931243ba3d2743aa0af050e97450cd7b27b0cdbe",
+      "bytes": 1867189
+    },
+    {
+      "path": "artifacts/illustrations/B037/full/v01/prompt.txt",
+      "sha256": "2e281722c0d206cae11cd36b69feace41acd481ecb95cdaf4b7952f651ffdd3e",
+      "bytes": 1492
+    },
+    {
+      "path": "public/assets/dogs/full/norwegian-lundehund-full.png",
+      "sha256": "5f51033c7a13e018b0cd8e51b7cf7c6f4b255a02e30d41e87f72414b4df95e83",
+      "bytes": 852307
+    },
+    {
+      "path": "artifacts/illustrations/B038/full/v01/raw.png",
+      "sha256": "f50fde1cecde06a35a888e1ae30a1d2e632eb797ca46c360c5fe628c65810fc1",
+      "bytes": 1691610
+    },
+    {
+      "path": "artifacts/illustrations/B038/full/v01/prompt.txt",
+      "sha256": "6ebdfa8e4e04ef6fa11a34cf886e304131a11bdb1f0c985f398ab042df88a6ec",
+      "bytes": 1544
+    },
+    {
+      "path": "public/assets/dogs/full/norwegian-buhund-full.png",
+      "sha256": "632103a76a0a60bc0ef7358b1e78765a9fa0acd988405e11d0e669b7e0a96ef3",
+      "bytes": 845910
+    },
+    {
+      "path": "artifacts/illustrations/B039/full/v01/raw.png",
+      "sha256": "051016e72263ebeb5001cf7164a6a13da299e370336cf2f405a2db5ccf290795",
+      "bytes": 1777158
+    },
+    {
+      "path": "artifacts/illustrations/B039/full/v01/prompt.txt",
+      "sha256": "a4446a1f77f3e5ab84b81061f0586154d53563657648e282d6145e70f86d3f41",
+      "bytes": 1496
+    },
+    {
+      "path": "public/assets/dogs/full/icelandic-sheepdog-full.png",
+      "sha256": "e9b88996c6a417902aa0774aed57b68879f14681a9f047e9400e62efd171e162",
+      "bytes": 946801
+    },
+    {
+      "path": "artifacts/illustrations/B040/full/v01/raw.png",
+      "sha256": "e5c5b9e982e0f9dc3d628d6354a5851600f07e71445b4a2e7dafb3d50bb73969",
+      "bytes": 1857956
+    },
+    {
+      "path": "artifacts/illustrations/B040/full/v01/prompt.txt",
+      "sha256": "daa72c443360d7534da0744cad73b1f591c92197d6f77ff055204f79fb32476f",
+      "bytes": 1507
+    },
+    {
+      "path": "public/assets/dogs/full/swedish-vallhund-full.png",
+      "sha256": "8a72c38df79c9599517ca4d82afdc73bb62784a3843ff5044e20ecfd3a798c5b",
+      "bytes": 1016551
+    },
+    {
+      "path": "artifacts/illustrations/B041/full/v01/raw.png",
+      "sha256": "a36103a1492f8416f8c12983b4a6692f7d1347ea379868054d4da8ac14b1a718",
+      "bytes": 1872761
+    },
+    {
+      "path": "artifacts/illustrations/B041/full/v01/prompt.txt",
+      "sha256": "da1f4ecfb6eb02fb1dee40954a08038b5e7fd71a68c1390cf789c310a97ad60a",
+      "bytes": 1508
+    },
+    {
+      "path": "public/assets/dogs/full/keeshond-full.png",
+      "sha256": "77ec7ade1949e1a8911ed8e0e1b89412a74ec4502b2a19c125f9a1705c316be8",
+      "bytes": 1147869
+    },
+    {
+      "path": "artifacts/illustrations/B042/full/v01/raw.png",
+      "sha256": "624cd8ecc275e95dd4710117c070fbc386d3f3ebb17d263d464c62f0293b6bea",
+      "bytes": 2168713
+    },
+    {
+      "path": "artifacts/illustrations/B042/full/v01/prompt.txt",
+      "sha256": "285f5a4f4f75d0b403fce09bd26529e1696d469736302aa78bb33c67f09bf223",
+      "bytes": 1497
+    },
+    {
+      "path": "public/assets/dogs/full/pomeranian-full.png",
+      "sha256": "a7d705a0e5c7b5bb042731acfcdc18e25aa8f9ac183f0ac76f3e17efa9a72f29",
+      "bytes": 995106
+    },
+    {
+      "path": "artifacts/illustrations/B043/full/v01/raw.png",
+      "sha256": "c902d1bbc41411bdeb4a5829150d93f995fe10432d8e6ff396d1ff9f08e3b905",
+      "bytes": 2071373
+    },
+    {
+      "path": "artifacts/illustrations/B043/full/v01/prompt.txt",
+      "sha256": "6de5aa92202087ce1211ca9b5cbf1ae76fe6db967370e6e35cf31cddb7acfe3f",
+      "bytes": 1502
+    },
+    {
+      "path": "public/assets/dogs/full/german-spitz-mittel-full.png",
+      "sha256": "1260e35fee6647d8fc96b9d51a1061efbc4c2fb166620603bef52bcba7a7bdd3",
+      "bytes": 870312
+    },
+    {
+      "path": "artifacts/illustrations/B044/full/v01/raw.png",
+      "sha256": "8bde1f76de25f0f6f092f59aaa1dba0abefa68b5627439f56d86b80a1bfa92fd",
+      "bytes": 1820292
+    },
+    {
+      "path": "artifacts/illustrations/B044/full/v01/prompt.txt",
+      "sha256": "da7bbf09d37bac461d8519cda99ab205c86e67587c32b9a01acabf427fdc43d2",
+      "bytes": 1541
+    },
+    {
+      "path": "public/assets/dogs/full/japanese-spitz-full.png",
+      "sha256": "bcb42646862b54f3cfae7b93e5545969791ee90fa48fb1894147d724c3ffcc9c",
+      "bytes": 872312
+    },
+    {
+      "path": "artifacts/illustrations/B045/full/v01/raw.png",
+      "sha256": "eed19ebe45aeb9603eabac905640384c3e2a399ef9ca5b2045879d9bcc170b86",
+      "bytes": 1733078
+    },
+    {
+      "path": "artifacts/illustrations/B045/full/v01/prompt.txt",
+      "sha256": "840a0ee486fc287efe2082c94dab2f9acc51a0e8e0d0c77849238ac8b1a46377",
+      "bytes": 1488
+    },
+    {
+      "path": "public/assets/dogs/full/eurasier-full.png",
+      "sha256": "d45f533d45d33b9df65cb8863ccd8ce5a05f491bdeb8494e5fd5ccfb29cabd4e",
+      "bytes": 1032521
+    },
+    {
+      "path": "artifacts/illustrations/B046/full/v01/raw.png",
+      "sha256": "4aab34316120eb738b0de8156d13c8739a16ba9ee122dfb7c5aef9550ea59542",
+      "bytes": 2103028
+    },
+    {
+      "path": "artifacts/illustrations/B046/full/v01/prompt.txt",
+      "sha256": "eec8485faaeff39db30df77fa9958325be02de7aba30db10a581df46f49ed9c4",
+      "bytes": 1476
+    },
+    {
+      "path": "public/assets/dogs/full/hokkaido-full.png",
+      "sha256": "28692b9223082fdb6dfc6ad0680991575a4425d0ce79bac2431c26ff704f716c",
+      "bytes": 807433
+    },
+    {
+      "path": "artifacts/illustrations/B047/full/v01/raw.png",
+      "sha256": "1738892e080ffdcab90647a505d6566f5b2ad8bf6ca724c75b25aed2214c9acb",
+      "bytes": 1627585
+    },
+    {
+      "path": "artifacts/illustrations/B047/full/v01/prompt.txt",
+      "sha256": "5810df8f7a9866838b3e9313374d27b1522bbff72f9cba1db0c18b0a857ccdb4",
+      "bytes": 1485
+    },
+    {
+      "path": "public/assets/dogs/full/shikoku-full.png",
+      "sha256": "018e8edad58c7efa8aa18b9b359955f4917045651b06910872d7aab0b55e5a01",
+      "bytes": 871341
+    },
+    {
+      "path": "artifacts/illustrations/B048/full/v01/raw.png",
+      "sha256": "898956864259661ba16a865ff76bee393034eae263134bc3038cb4c4e63716d8",
+      "bytes": 1793750
+    },
+    {
+      "path": "artifacts/illustrations/B048/full/v01/prompt.txt",
+      "sha256": "eb930d3a99efac43961d53f479d02f5d51fff9268aa02227e2dd32a60915a904",
+      "bytes": 1472
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b03-dpl-ill-1.2-v01-paper.png",
+      "sha256": "76afe34e23a32d3b3f91b93fd9eb9eb4d0ada5dcdfda770bfae6f6f055554ca5"
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b03-dpl-ill-1.2-v01-ink.png",
+      "sha256": "681abf830ce19c88c2d8c590f44129f9cf64555826a128ace4ad64b8110fbbc5"
+    }
+  ],
+  "main_unchanged": true
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B055",
+  "name": "墨西哥无毛犬",
+  "slug": "xoloitzcuintli",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B055-full-v03",
+  "prompt_path": "artifacts/illustrations/B055/full/v03/prompt.txt",
+  "prompt_sha256": "a84015048eb5453c709968db7a6621ef9f53af6eac58c004ce4479fd062ac79e",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-06ea1c3b-10db-40b6-af78-49a635bde217.png",
+  "saved_at": "2026-11-01T04:37:11.124593+00:00",
+  "raw_path": "artifacts/illustrations/B055/full/v03/raw.png",
+  "raw_sha256": "8d534122a6cfdd3f754eed56516c3cc59d7ea4ef685449867e3fe21bc186b9e3",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1204000,
+    "opaque_pixels": 1049,
+    "partial_alpha_pixels": 367467,
+    "bbox": [
+      19,
+      19,
+      1238,
+      1207
+    ],
+    "core_translucent_pixels": 327324,
+    "core_pixels": 327324
+  },
+  "path": "public/assets/dogs/full/xoloitzcuintli-full.png",
+  "sha256": "76f9ab7af7cc710245e22c7128f214533d0e2191e9c8a2a7f2603a85acd0e2f9",
+  "pixels_sha256": "65b8439f9e413e541331777fb765dcb11778fb06f95b9c1fc2497f650c5beb25",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      291,
+      22,
+      1145,
+      1203
+    ],
+    "uniform_scale": 0.6934801016088061,
+    "resized_dimensions": [
+      592,
+      819
+    ],
+    "position": [
+      216,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 327324,
+    "near_opaque_adjusted": 341290
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 872541,
+    "opaque_pixels": 165899,
+    "partial_alpha_pixels": 10136,
+    "bbox": [
+      216,
+      102,
+      808,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 152114,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      216,
+      102,
+      216,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": false,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 3,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "墨西哥无毛犬选标准无毛型：暖深灰裸露皮肤，长楔头、细长口吻、巨大直立耳、杏仁棕眼；骨架结实而轻巧、胸深、腿修长，少量额部短毛允许但身体明确无毛。细长裸尾低弯，侧站，区别秘鲁犬的个体造型不简单复制。"
+}

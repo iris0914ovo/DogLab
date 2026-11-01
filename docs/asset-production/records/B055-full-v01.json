@@ -1,0 +1,125 @@
+{
+  "breed_id": "B055",
+  "name": "墨西哥无毛犬",
+  "slug": "xoloitzcuintli",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B055-full-v01",
+  "prompt_path": "artifacts/illustrations/B055/full/v01/prompt.txt",
+  "prompt_sha256": "ab3e16eefce61bcbb85b56a50c24ff40ecd5b20c89263f556d99715a8259afe1",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-95554622-169f-4a29-ac10-4508738530df.png",
+  "saved_at": "2026-11-01T04:30:47.101340+00:00",
+  "raw_path": "artifacts/illustrations/B055/full/v01/raw.png",
+  "raw_sha256": "95e540077bf46a5dc4bf84db416384b44f2fe7371de0d89c41d7e505041a7686",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1124511,
+    "opaque_pixels": 1765,
+    "partial_alpha_pixels": 446240,
+    "bbox": [
+      0,
+      5,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 380318,
+    "core_pixels": 380318
+  },
+  "path": "artifacts/illustrations/B055/full/v01/rejected-too-similar.png",
+  "sha256": "16101c151dd536afa3c19e748b2d609b8d9b9acb87b99b9d7add323cffc0a1fa",
+  "pixels_sha256": "29a78e8124447d5fa3dacf90d380fb8327da377c7be63a3833f929642c61c93e",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      223,
+      14,
+      1186,
+      1218
+    ],
+    "uniform_scale": 0.6802325581395349,
+    "resized_dimensions": [
+      655,
+      819
+    ],
+    "position": [
+      184,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 380318,
+    "near_opaque_adjusted": 401431
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 845591,
+    "opaque_pixels": 188266,
+    "partial_alpha_pixels": 14719,
+    "bbox": [
+      184,
+      102,
+      839,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 168145,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      184,
+      102,
+      185,
+      103
+    ],
+    "visual_status": "REJECTED_TOO_SIMILAR",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI contact sheet comparison: initial Xolo resembles approved Peruvian hairless reference too closely; archived candidate, not current delivery"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "墨西哥无毛犬选标准无毛型：暖深灰裸露皮肤，长楔头、细长口吻、巨大直立耳、杏仁棕眼；骨架结实而轻巧、胸深、腿修长，少量额部短毛允许但身体明确无毛。细长裸尾低弯，侧站，区别秘鲁犬的个体造型不简单复制。",
+  "is_current": false
+}

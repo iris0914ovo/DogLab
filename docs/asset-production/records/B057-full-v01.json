@@ -1,0 +1,124 @@
+{
+  "breed_id": "B057",
+  "name": "伊比赞猎犬",
+  "slug": "ibizan-hound",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B057-full-v01",
+  "prompt_path": "artifacts/illustrations/B057/full/v01/prompt.txt",
+  "prompt_sha256": "9bcde166ee05611329df95fef34e6e26cf3f398de5aebcb012999941af5b69e9",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-dd5375a4-7f7a-47c5-a5d7-3fee2ad5a682.png",
+  "saved_at": "2026-11-01T04:32:10.350846+00:00",
+  "raw_path": "artifacts/illustrations/B057/full/v01/raw.png",
+  "raw_sha256": "91019b64eb5b7155c0ed81d191852b8fdcbea4ce5bbe2b8be672c4ad614a0406",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1192186,
+    "opaque_pixels": 592,
+    "partial_alpha_pixels": 379738,
+    "bbox": [
+      0,
+      10,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 302473,
+    "core_pixels": 302473
+  },
+  "path": "public/assets/dogs/full/ibizan-hound-full.png",
+  "sha256": "fa2d6ca97cb1dd3cb0ab66a4461a90e203339ce084c0ca323029c2db9a4a45c7",
+  "pixels_sha256": "449909754b26a88fa676472742e4f9313b06fcea17f2eb926ea7540fd5fcc24f",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      266,
+      11,
+      1158,
+      1213
+    ],
+    "uniform_scale": 0.6813643926788685,
+    "resized_dimensions": [
+      608,
+      819
+    ],
+    "position": [
+      208,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 302473,
+    "near_opaque_adjusted": 320567
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 881317,
+    "opaque_pixels": 151418,
+    "partial_alpha_pixels": 15841,
+    "bbox": [
+      208,
+      102,
+      816,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 132755,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      208,
+      102,
+      208,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "伊比赞猎犬：红白短毛，大型极修长视觉型骨架、长窄头、极大直立耳、细长口吻、浅琥珀眼与自然肉色鼻；长颈细长腿深胸收腰，细长尾低弯。四足高挑站立，红白毛与耳形明确，不是普通灵缇立耳。"
+}

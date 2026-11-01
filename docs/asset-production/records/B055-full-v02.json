@@ -1,0 +1,125 @@
+{
+  "breed_id": "B055",
+  "name": "墨西哥无毛犬",
+  "slug": "xoloitzcuintli",
+  "asset_kind": "full",
+  "batch_id": "round3-b04-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B055-full-v02",
+  "prompt_path": "artifacts/illustrations/B055/full/v02/prompt.txt",
+  "prompt_sha256": "1bb8f092c4e9dab8aed593f8673c64089456ce9b51be79947b0320255f4655b0",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-10be94e9-d4e5-4b24-bbf6-a5418432716c.png",
+  "saved_at": "2026-11-01T04:35:22.632379+00:00",
+  "raw_path": "artifacts/illustrations/B055/full/v02/raw.png",
+  "raw_sha256": "93ca2387d0219b46d96c3805c594f8c0f1300a1817098d18b16cd080c0282b34",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1124817,
+    "opaque_pixels": 1406,
+    "partial_alpha_pixels": 446293,
+    "bbox": [
+      0,
+      19,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 381677,
+    "core_pixels": 381677
+  },
+  "path": "artifacts/illustrations/B055/full/v02/rejected-standing-similarity.png",
+  "sha256": "e2b76e2020a5e18e02a548dcbdf3b9cb0a5b44449b5a4bc1a8f8b84ed88d5c62",
+  "pixels_sha256": "f845d1d94db2efaca1f32cdf74f6fbaa5e694e756f672f8a7ae4890dca892feb",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      184,
+      48,
+      1168,
+      1196
+    ],
+    "uniform_scale": 0.7134146341463414,
+    "resized_dimensions": [
+      702,
+      819
+    ],
+    "position": [
+      161,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 381677,
+    "near_opaque_adjusted": 400958
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 826877,
+    "opaque_pixels": 206647,
+    "partial_alpha_pixels": 15052,
+    "bbox": [
+      161,
+      102,
+      863,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 187178,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      161,
+      102,
+      161,
+      103
+    ],
+    "visual_status": "REJECTED_STANDING_SIMILARITY",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "Second standing candidate still too close in pose to Peruvian hairless; archived, final third attempt uses natural sitting pose."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 2,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  },
+  "is_current": false,
+  "breed_profile": "墨西哥无毛犬选标准无毛型：暖深灰裸露皮肤，长楔头、细长口吻、巨大直立耳、杏仁棕眼；骨架结实而轻巧、胸深、腿修长，少量额部短毛允许但身体明确无毛。细长裸尾低弯，侧站，区别秘鲁犬的个体造型不简单复制。"
+}
