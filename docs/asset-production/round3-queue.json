@@ -1106,9 +1106,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B108/full/v01/prompt.txt",
       "profile": "西施：小型结实略长身、圆颅中短可辨口吻、下垂耳覆毛、眼睛不凸，金白长柔毛、面部向两侧分开露眼鼻；腿短但可辨脚掌、全身毛不拖地，长尾覆背。四足温和站立，不绑发饰衣服，不夸张短鼻。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B108-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-2412173f-5a14-4bb7-940f-cfa2bd0a1257.png"
+      "source_path": "/workspace/generated_images/exec-2412173f-5a14-4bb7-940f-cfa2bd0a1257.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B109",
@@ -1117,9 +1118,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B109/full/v01/prompt.txt",
       "profile": "拉萨犬：小型长身正常短腿、较窄长头、中等长度口吻、毛覆盖垂耳；选择金色与深灰耳尖的浓密直长毛，面部胡须长但眼可见，长尾覆背羽毛明显。四足侧站，脚掌露出，区别圆脸西施与白马尔济斯。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B109-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-03e543f7-b01f-498c-8d79-4c5c1f44969b.png"
+      "source_path": "/workspace/generated_images/exec-03e543f7-b01f-498c-8d79-4c5c1f44969b.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B110",
@@ -1128,9 +1130,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B110/full/v01/prompt.txt",
       "profile": "马尔济斯：小型轻巧略长身、精巧头、中等可辨口吻、小下垂耳覆盖丝毛，黑鼻小棕眼；纯白丝质直长毛适度修剪不拖地、腿细正常短长，天然羽毛尾覆背。四足站立，不画比熊卷毛圆团。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B110-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-d1a4a3d6-f9d1-419f-83b8-f5fd1d15e51d.png"
+      "source_path": "/workspace/generated_images/exec-d1a4a3d6-f9d1-419f-83b8-f5fd1d15e51d.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B111",
@@ -1139,9 +1142,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B111/full/v01/prompt.txt",
       "profile": "哈瓦那：小型结实略长身、适度宽头、中等长度口吻、下垂耳覆柔毛，深眼；选择巧克力白斑、柔软波浪长毛而非比熊紧卷，腿短但脚掌可辨。天然毛尾覆背，四足轻松站立。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B111-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-e6b08d5c-6a50-44bf-a866-21e56487619e.png"
+      "source_path": "/workspace/generated_images/exec-e6b08d5c-6a50-44bf-a866-21e56487619e.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B112",
@@ -1150,9 +1154,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B112/full/v01/prompt.txt",
       "profile": "棉花面纱：小型轻巧长身、短细腿、三角略圆颅、中等细口吻、下垂小耳、黑鼻深眼；白色棉絮般蓬松长毛、软散边缘不是丝滑直毛也不是卷毛球。天然毛尾低垂末端轻弯，四足侧站，脸部不极短鼻。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B112-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-fe6e7853-70fd-4f9c-b62d-3a8d5af8fe11.png"
+      "source_path": "/workspace/generated_images/exec-fe6e7853-70fd-4f9c-b62d-3a8d5af8fe11.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B113",
@@ -1161,9 +1166,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B113/full/v01/prompt.txt",
       "profile": "约克夏：小型紧凑精细骨架、小平头、中等细口吻、小尖立耳、深眼；钢蓝背与金棕头腿的丝质长毛，中分面部露眼，腿细且脚掌可辨。天然完整长尾后伸不截断，四足挺立，不画玩偶圆头。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B113-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-9201545e-c941-45bf-834b-00d0cba35658.png"
+      "source_path": "/workspace/generated_images/exec-9201545e-c941-45bf-834b-00d0cba35658.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B114",
@@ -1172,9 +1178,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B114/full/v01/prompt.txt",
       "profile": "丝毛梗：小型身躯略长、骨量比约克夏稍大，楔头长口吻、较大尖立耳；蓝棕丝质平直中长毛、头顶分线、腿毛不拖地，天然完整长尾上举。四足侧站，不能简单复制约克夏换体型。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B114-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-a3eed9fb-d5ff-4937-8f2c-c2334c6e89b0.png"
+      "source_path": "/workspace/generated_images/exec-a3eed9fb-d5ff-4937-8f2c-c2334c6e89b0.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B115",
@@ -1183,9 +1190,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B115/full/v01/prompt.txt",
       "profile": "凯恩梗：小型紧凑稍长身、粗硬双层毛，选择麦灰杂色，宽适度头、较短但不扁口吻、小尖立耳、棕眼，脸毛蓬乱自然胡须；腿短结实、天然中短粗尾直举。四足站立，不画纯白西高地换色模板。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B115-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-4392633d-bd1b-47d8-87cf-4b5b2101a620.png"
+      "source_path": "/workspace/generated_images/exec-4392633d-bd1b-47d8-87cf-4b5b2101a620.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B117",
@@ -1194,9 +1202,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B117/full/v01/prompt.txt",
       "profile": "西利哈姆：小型长身短粗腿、宽长方头与有力长口吻、自然前折耳，白色刚毛、头耳少量棕斑，浓眉长须露眼；脚掌厚实，天然完整中长尾直举不截断。四足侧站，区别苏格兰立耳与黑毛。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B117-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-0280efdf-b01a-48a2-b699-64babd849c2b.png"
+      "source_path": "/workspace/generated_images/exec-0280efdf-b01a-48a2-b699-64babd849c2b.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B118",
@@ -1205,9 +1214,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B118/full/v01/prompt.txt",
       "profile": "爱尔兰梗：中型修长近方身、长窄头、细长有力口吻、小V形前折耳、深棕眼，红色粗硬毛、克制眉须和腿毛，长腿轻巧有肌肉。天然完整长尾微弯举起，四足稳站，不用万能梗黑鞍色。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B118-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-ee9e0cd4-617f-4776-b642-f0d7bf3c2e67.png"
+      "source_path": "/workspace/generated_images/exec-ee9e0cd4-617f-4776-b642-f0d7bf3c2e67.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     },
     {
       "id": "B119",
@@ -1216,9 +1226,10 @@
       "batch_id": "round3-b09-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B119/full/v01/prompt.txt",
       "profile": "万能梗：中大型梗类最大体格、长方长头、长有力口吻、小V形前折耳，黑鞍与棕头腿的刚毛、浓眉胡须，长颈正常长腿、近方形结实身。天然完整长尾高举，四足侧站，不裁耳断尾。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B119-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-d9408d48-8d8c-41b7-bffd-3994bdd5ae71.png"
+      "source_path": "/workspace/generated_images/exec-d9408d48-8d8c-41b7-bffd-3994bdd5ae71.png",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
     }
   ]
 }

@@ -1,0 +1,183 @@
+{
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee",
+  "checked_at": "2026-11-01T05:20:25.670493+00:00",
+  "success": true,
+  "method": "Independent temporary Git repository fetch, actual remote blob SHA256/PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/shih-tzu-full.png",
+      "sha256": "70c0690a8b2c62655f8f6163f95d95bbfbf41c04b2a5cb92fcfcd4ee83a9a213",
+      "bytes": 963895
+    },
+    {
+      "path": "artifacts/illustrations/B108/full/v01/raw.png",
+      "sha256": "1e6ba7a326700701b0e72369360094ef71cef12ff8cb4fb18668643c815eff6e",
+      "bytes": 2031207
+    },
+    {
+      "path": "artifacts/illustrations/B108/full/v01/prompt.txt",
+      "sha256": "906d8c636a7a09b2560c1ec21164f7b9f1851e530ffb48810dcb44ae3430445b",
+      "bytes": 1509
+    },
+    {
+      "path": "public/assets/dogs/full/lhasa-apso-full.png",
+      "sha256": "69ceee25567fbe210483801f31761b48ed5d45d21e2c7b23b818529d76cf14e8",
+      "bytes": 955751
+    },
+    {
+      "path": "artifacts/illustrations/B109/full/v01/raw.png",
+      "sha256": "3c327a390cee7b0f1d1366a2fbb84368465afcfd8ca0e0a299449525b5c88d8b",
+      "bytes": 2175110
+    },
+    {
+      "path": "artifacts/illustrations/B109/full/v01/prompt.txt",
+      "sha256": "e91a08b2a5844ce1c6057e6ef6aa3f47f1f0801bbb8b40926ef59e2ad035f4b0",
+      "bytes": 1523
+    },
+    {
+      "path": "public/assets/dogs/full/maltese-full.png",
+      "sha256": "d31a2df65ee3f906bae8505b37724cae15f93edd3a0c4a5589827d28b2997f0c",
+      "bytes": 854796
+    },
+    {
+      "path": "artifacts/illustrations/B110/full/v01/raw.png",
+      "sha256": "7d2f825fbcf1c95c3458f0089f774d0d4669b13b7f5a28ad573036d09d887c52",
+      "bytes": 1690933
+    },
+    {
+      "path": "artifacts/illustrations/B110/full/v01/prompt.txt",
+      "sha256": "dcabd61b5b06913450e6384e211f034e114a5b81ea852fa50b423119d13a4438",
+      "bytes": 1499
+    },
+    {
+      "path": "public/assets/dogs/full/havanese-full.png",
+      "sha256": "4a26f24ef7012213b1d1cb9dd328414934ce7f4749a6b679e7260a755e471d66",
+      "bytes": 1106867
+    },
+    {
+      "path": "artifacts/illustrations/B111/full/v01/raw.png",
+      "sha256": "50eecd9fa9c89baed13b09098014a390ddb4960153a006a2391bc304af3fb5b4",
+      "bytes": 2222381
+    },
+    {
+      "path": "artifacts/illustrations/B111/full/v01/prompt.txt",
+      "sha256": "3659172b2321187fb0233ea97cfa86dab1e1a8c5c7a33afcce8cf271e14eaf44",
+      "bytes": 1488
+    },
+    {
+      "path": "public/assets/dogs/full/coton-de-tulear-full.png",
+      "sha256": "35b4dbde006949cef468dd58e28d54bcc655758368ed5a66c73a1710b146b6c9",
+      "bytes": 739386
+    },
+    {
+      "path": "artifacts/illustrations/B112/full/v01/raw.png",
+      "sha256": "34b52392a344f2d9e21aca6dcbe67b49accc22a487089212aced3b413ea9cdde",
+      "bytes": 1602318
+    },
+    {
+      "path": "artifacts/illustrations/B112/full/v01/prompt.txt",
+      "sha256": "70524776b90fd2422534e404576e017ae9fb543c9b93e94a844c0bc8419469f6",
+      "bytes": 1528
+    },
+    {
+      "path": "public/assets/dogs/full/yorkshire-terrier-full.png",
+      "sha256": "93b1c66379237757566b9ddd9b007e4bd10ad1ccb17c23047c09373667db68ff",
+      "bytes": 964112
+    },
+    {
+      "path": "artifacts/illustrations/B113/full/v01/raw.png",
+      "sha256": "87f22830efce72854965f47ad8c73f0316e3be9f7055f36b80806d21d5320bae",
+      "bytes": 1811894
+    },
+    {
+      "path": "artifacts/illustrations/B113/full/v01/prompt.txt",
+      "sha256": "4e3c34030cad977632304a883c32e4964126082950b6c2171eafe43a7d8ada8e",
+      "bytes": 1509
+    },
+    {
+      "path": "public/assets/dogs/full/silky-terrier-full.png",
+      "sha256": "7057642fd94187faef32762f182801e37012624d5a3d6d76be47b2c72a66ce2c",
+      "bytes": 967253
+    },
+    {
+      "path": "artifacts/illustrations/B114/full/v01/raw.png",
+      "sha256": "8c7473d87c691ba729e84a21babc1115f9c9e830ba5891ab628dd1efd0c4b4c6",
+      "bytes": 1916246
+    },
+    {
+      "path": "artifacts/illustrations/B114/full/v01/prompt.txt",
+      "sha256": "d194da8a5cc9b753fad2ce87ed6cfe0404c8524bac66cdbcc452e29c3d01327f",
+      "bytes": 1487
+    },
+    {
+      "path": "public/assets/dogs/full/cairn-terrier-full.png",
+      "sha256": "8790651ccc67257381e82a24c5a25b8175700feb935993e8aa7ea844257d3143",
+      "bytes": 1117073
+    },
+    {
+      "path": "artifacts/illustrations/B115/full/v01/raw.png",
+      "sha256": "2c973059e37b78398b30b13ed9ad1fd904fabe143319a7707960ff2f0165b7df",
+      "bytes": 2393575
+    },
+    {
+      "path": "artifacts/illustrations/B115/full/v01/prompt.txt",
+      "sha256": "fc9ff501ced4d45f7bdf7e9aaa9ac797bb2d43acf91c5e5f4b4d57edbfba11c3",
+      "bytes": 1511
+    },
+    {
+      "path": "public/assets/dogs/full/sealyham-terrier-full.png",
+      "sha256": "5da0aa00b112757314da83b09fa912755d33baceeee2913dc2e7a5da52375aa5",
+      "bytes": 862144
+    },
+    {
+      "path": "artifacts/illustrations/B117/full/v01/raw.png",
+      "sha256": "1f1a8104869a429e9ed3b0e83660a3e47d2a2b8ba0661f3953b558a7e7a63dd1",
+      "bytes": 1808346
+    },
+    {
+      "path": "artifacts/illustrations/B117/full/v01/prompt.txt",
+      "sha256": "087aabdefdc1a5340eaefc39947452532923fbd4c03ac86b3168f078cd4f1ef8",
+      "bytes": 1505
+    },
+    {
+      "path": "public/assets/dogs/full/irish-terrier-full.png",
+      "sha256": "1b5a0662fbb97f192de30a515d6bc7a834955f41dd47031c146b25b03c7b4911",
+      "bytes": 766639
+    },
+    {
+      "path": "artifacts/illustrations/B118/full/v01/raw.png",
+      "sha256": "f26228710e3816015fbbe9c4e4425323bd55393f0aa6fd6a61ef735fad1218f9",
+      "bytes": 1540157
+    },
+    {
+      "path": "artifacts/illustrations/B118/full/v01/prompt.txt",
+      "sha256": "db56428a2674f9268c47b1d1e565127c811782e76436c21b39ad4364ca63e616",
+      "bytes": 1494
+    },
+    {
+      "path": "public/assets/dogs/full/airedale-terrier-full.png",
+      "sha256": "7a57a72772f1d8a3655fb44e623a2dc5d315ddb25e3c130eda0ff0e1fc39ea49",
+      "bytes": 950932
+    },
+    {
+      "path": "artifacts/illustrations/B119/full/v01/raw.png",
+      "sha256": "d17b051174b72da9bca2f842803a3c0fd10d59657df1660121aa1b4bd86f50f3",
+      "bytes": 1806256
+    },
+    {
+      "path": "artifacts/illustrations/B119/full/v01/prompt.txt",
+      "sha256": "841111615dd9c25c11f5cd1ac98f397cb6454c985c27b5bfc679a7caf661d7f1",
+      "bytes": 1500
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b09-dpl-ill-1.2-v01-paper.png",
+      "sha256": "6160bb835d3fcd45ff85c5077ef171e2ba7156cfa06c2a6c9869114d4d683c28"
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b09-dpl-ill-1.2-v01-ink.png",
+      "sha256": "a9983e7411b5a9db437fe6c680c414dc0246c099f1da260435b02f4f629a34ae"
+    }
+  ],
+  "main_unchanged": true
+}

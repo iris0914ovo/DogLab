@@ -1,0 +1,137 @@
+{
+  "scope": "Round3 full-body only",
+  "style_version": "DPL-ILL-1.2",
+  "completed": 102,
+  "technical_pass": 102,
+  "total_full_bodies": 120,
+  "original18_unchanged": true,
+  "total_tool_generations": 104,
+  "retries": [
+    {
+      "breed_id": "B055",
+      "attempts": 3,
+      "selected_version": "v03",
+      "rejected_versions": [
+        "v01",
+        "v02"
+      ],
+      "cause": "standing-pose similarity to Peruvian hairless",
+      "resolved_current_candidate": "natural sitting pose; AI inspected; pending user final approval"
+    }
+  ],
+  "unresolved_technical_failures": [],
+  "human_review": "All 102 round3 images still pending final user review",
+  "batches": [
+    {
+      "batch_id": "round3-b01-dpl-ill-1.2-v01",
+      "count": 12,
+      "commit": "3f70176e14f9eba231ae9bae495420efe71ee752",
+      "contacts": [
+        "public/assets/dogs/review/round3-b01-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b01-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b01-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b01-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected paper contact sheet: twelve distinct breed silhouettes, ear/muzzle/coat/tail differences; no obvious clipped ears/tails/paws. Akita/Shiba and retriever-family resemblance remains for final human comparison; not automatic approval."
+    },
+    {
+      "batch_id": "round3-b02-dpl-ill-1.2-v01",
+      "count": 12,
+      "commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e",
+      "contacts": [
+        "public/assets/dogs/review/round3-b02-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b02-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b02-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b02-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+    },
+    {
+      "batch_id": "round3-b03-dpl-ill-1.2-v01",
+      "count": 12,
+      "commit": "3752d43741f2f225e58ebbff23dfc50c36e55144",
+      "contacts": [
+        "public/assets/dogs/review/round3-b03-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b03-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b03-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b03-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+    },
+    {
+      "batch_id": "round3-b04-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "2cb692572b007206064a489a92bd6e6f4c5c29eb",
+      "contacts": [
+        "public/assets/dogs/review/round3-b04-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b04-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b04-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b04-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected paper contact sheet and revised Xolo independently: B055 v01/v02 rejected for excessive standing-pose similarity to Peruvian hairless; v03 natural sitting pose retains full ears, feet and tail and is current. Both prior candidates archived. Other breeds show visible coat/ear/skeleton differences; Asian spitz family resemblance and Thai dorsal ridge visibility remain final human review points. No human approval assigned."
+    },
+    {
+      "batch_id": "round3-b05-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "2280fe7364848052da524998a57bf06fe468afa9",
+      "contacts": [
+        "public/assets/dogs/review/round3-b05-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b05-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b05-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b05-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+    },
+    {
+      "batch_id": "round3-b06-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c",
+      "contacts": [
+        "public/assets/dogs/review/round3-b06-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b06-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b06-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b06-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+    },
+    {
+      "batch_id": "round3-b07-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "c1e044db27ce38ae2dca4311644d914814fd9589",
+      "contacts": [
+        "public/assets/dogs/review/round3-b07-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b07-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b07-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b07-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+    },
+    {
+      "batch_id": "round3-b08-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "0c6bf30678e7bfb7ea5ddb69e825ffc4291692ad",
+      "contacts": [
+        "public/assets/dogs/review/round3-b08-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b08-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b08-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b08-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+    },
+    {
+      "batch_id": "round3-b09-dpl-ill-1.2-v01",
+      "count": 11,
+      "commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee",
+      "contacts": [
+        "public/assets/dogs/review/round3-b09-dpl-ill-1.2-v01-paper.png",
+        "public/assets/dogs/review/round3-b09-dpl-ill-1.2-v01-ink.png"
+      ],
+      "report": "docs/asset-production/round3-b09-dpl-ill-1.2-v01-REPORT.md",
+      "verification": "docs/asset-production/verification/round3-b09-dpl-ill-1.2-v01.json",
+      "ai_review": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+    }
+  ],
+  "final_remote_validation": "docs/asset-production/verification/round3-final-120.json",
+  "portraits_created": 0,
+  "website_or_deployment": false
+}

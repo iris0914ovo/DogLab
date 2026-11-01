@@ -1,0 +1,781 @@
+{
+  "checked_at": "2026-11-01T05:22:12.301637+00:00",
+  "success": true,
+  "branch": "work",
+  "production_head": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee",
+  "main_unchanged": true,
+  "total_current_full_body_png": 120,
+  "round3_completed": 102,
+  "batches": [
+    {
+      "batch_id": "round3-b01-dpl-ill-1.2-v01",
+      "production_commit": "3f70176e14f9eba231ae9bae495420efe71ee752"
+    },
+    {
+      "batch_id": "round3-b02-dpl-ill-1.2-v01",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
+    },
+    {
+      "batch_id": "round3-b03-dpl-ill-1.2-v01",
+      "production_commit": "3752d43741f2f225e58ebbff23dfc50c36e55144"
+    },
+    {
+      "batch_id": "round3-b04-dpl-ill-1.2-v01",
+      "production_commit": "2cb692572b007206064a489a92bd6e6f4c5c29eb"
+    },
+    {
+      "batch_id": "round3-b05-dpl-ill-1.2-v01",
+      "production_commit": "2280fe7364848052da524998a57bf06fe468afa9"
+    },
+    {
+      "batch_id": "round3-b06-dpl-ill-1.2-v01",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
+    },
+    {
+      "batch_id": "round3-b07-dpl-ill-1.2-v01",
+      "production_commit": "c1e044db27ce38ae2dca4311644d914814fd9589"
+    },
+    {
+      "batch_id": "round3-b08-dpl-ill-1.2-v01",
+      "production_commit": "0c6bf30678e7bfb7ea5ddb69e825ffc4291692ad"
+    },
+    {
+      "batch_id": "round3-b09-dpl-ill-1.2-v01",
+      "production_commit": "1327d4728cccf80a5a4db91e8bec677f9f95c4ee"
+    }
+  ],
+  "generation_attempts": 104,
+  "retry_breeds": [
+    {
+      "breed_id": "B055",
+      "attempts": 3,
+      "version": "v03"
+    }
+  ],
+  "failed_current_outputs": [],
+  "preserved_prior_png_count": 28,
+  "portraits": 0,
+  "method": "Independent remote Git object repository; all 120 PNG remote blobs decoded and SHA256 checked, plus local core alpha/margins/provenance checks",
+  "files": [
+    {
+      "breed_id": "B055",
+      "path": "public/assets/dogs/full/xoloitzcuintli-full.png",
+      "sha256": "76f9ab7af7cc710245e22c7128f214533d0e2191e9c8a2a7f2603a85acd0e2f9",
+      "bytes": 437043
+    },
+    {
+      "breed_id": "B020",
+      "path": "public/assets/dogs/full/boxer-full.png",
+      "sha256": "7800a2aedb369737bb4dce2a654e1a21c0ccffc8fe9a2204d9484135ed5d2dcc",
+      "bytes": 716486
+    },
+    {
+      "breed_id": "B047",
+      "path": "public/assets/dogs/full/hokkaido-full.png",
+      "sha256": "28692b9223082fdb6dfc6ad0680991575a4425d0ce79bac2431c26ff704f716c",
+      "bytes": 807433
+    },
+    {
+      "breed_id": "B068",
+      "path": "public/assets/dogs/full/briard-full.png",
+      "sha256": "430250333106e0bcfbd118342b43c44ce9e8eb8a1a3c496ca9577d4d16b695d4",
+      "bytes": 972198
+    },
+    {
+      "breed_id": "B093",
+      "path": "public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png",
+      "sha256": "4ac48139c31c2c9b090021aafba045a2d110de8b907c9f93b885e90bb38fceb8",
+      "bytes": 803760
+    },
+    {
+      "breed_id": "B107",
+      "path": "public/assets/dogs/full/pekingese-full.png",
+      "sha256": "47b1526c06a591a2596afe33e7094dbf360a17789eb3eed68853ed3a93dc5e08",
+      "bytes": 890512
+    },
+    {
+      "breed_id": "B078",
+      "path": "public/assets/dogs/full/english-cocker-spaniel-full.png",
+      "sha256": "2857b6d9eab7b058c3e924517fe984033efa5b5630841edbbbea76609647a10c",
+      "bytes": 847064
+    },
+    {
+      "breed_id": "B056",
+      "path": "public/assets/dogs/full/portuguese-podengo-full.png",
+      "sha256": "f419df392f50e2f45c21f15e45f6675ccef2069a997ff103b122ebf37da4d97d",
+      "bytes": 679107
+    },
+    {
+      "breed_id": "B058",
+      "path": "public/assets/dogs/full/pharaoh-hound-full.png",
+      "sha256": "b0bd5c7bc3a349f091cc4b0ce2b492b44b3ee64ad8ae74cadb02e63fe6f40ed3",
+      "bytes": 515673
+    },
+    {
+      "breed_id": "B074",
+      "path": "public/assets/dogs/full/bergamasco-sheepdog-full.png",
+      "sha256": "0b27146bd2623f57a8a87249badddc99eae5024a8df8c605df086c2eb44ed158",
+      "bytes": 1058092
+    },
+    {
+      "breed_id": "B050",
+      "path": "public/assets/dogs/full/kai-ken-full.png",
+      "sha256": "b5f53dcbc4e1386d676c87c94b869de16133d6f3413f83d002a6d3b21f2ee287",
+      "bytes": 934448
+    },
+    {
+      "breed_id": "B067",
+      "path": "public/assets/dogs/full/bearded-collie-full.png",
+      "sha256": "6c20dc43c08d4c7b228fe6aa6e357870eca3e6046e98e22e8e8aac0c2f8968f8",
+      "bytes": 973241
+    },
+    {
+      "breed_id": "B076",
+      "path": "public/assets/dogs/full/cardigan-welsh-corgi-full.png",
+      "sha256": "4bbdaf6dcae25bca22e963289ad5965606314eeb3864d7fa5ff2b64ad6bc724f",
+      "bytes": 814413
+    },
+    {
+      "breed_id": "B028",
+      "path": "public/assets/dogs/full/dalmatian-full.png",
+      "sha256": "535185774256149d16d38c974f864999089b5415394a8822731ead5649e67d9e",
+      "bytes": 618787
+    },
+    {
+      "breed_id": "B029",
+      "path": "public/assets/dogs/full/papillon-full.png",
+      "sha256": "ad21a4c1395d762583419aafab94212c493274d779db71057e94704ca24ff977",
+      "bytes": 936016
+    },
+    {
+      "breed_id": "B106",
+      "path": "public/assets/dogs/full/pug-full.png",
+      "sha256": "235227c355c45e6d6a666c611f42e420cd89bd52aab6c20d81463db43e5d2aeb",
+      "bytes": 1019315
+    },
+    {
+      "breed_id": "B042",
+      "path": "public/assets/dogs/full/keeshond-full.png",
+      "sha256": "77ec7ade1949e1a8911ed8e0e1b89412a74ec4502b2a19c125f9a1705c316be8",
+      "bytes": 1147869
+    },
+    {
+      "breed_id": "B018",
+      "path": "public/assets/dogs/full/dobermann-full.png",
+      "sha256": "2e84a361797b2b2fffe64c993760707754bc40ce9c4d649e9def9458715303d8",
+      "bytes": 577746
+    },
+    {
+      "breed_id": "B086",
+      "path": "public/assets/dogs/full/american-water-spaniel-full.png",
+      "sha256": "625ed35843a1ad07b943bc640a2971279f7c7d517946b40ec9e5ae311ba2143e",
+      "bytes": 762823
+    },
+    {
+      "breed_id": "B062",
+      "path": "public/assets/dogs/full/belgian-groenendael-full.png",
+      "sha256": "6612d67effc2156513b11a74a4738fc827bce191d11a6ea04b05712a1c7a8402",
+      "bytes": 734368
+    },
+    {
+      "breed_id": "B006",
+      "path": "public/assets/dogs/full/labrador-retriever-full.png",
+      "sha256": "6e1f81d3ff9b996cb329ccb168475eca1897d50855d746e6df4aa99756e59c26",
+      "bytes": 760562
+    },
+    {
+      "breed_id": "B030",
+      "path": "public/assets/dogs/full/cavalier-king-charles-spaniel-full.png",
+      "sha256": "bac91d42c9579cd4ff4f5be5f367b9ba84cb1ac80184d8ed1ef026dd97fd6665",
+      "bytes": 763892
+    },
+    {
+      "breed_id": "B014",
+      "path": "public/assets/dogs/full/west-highland-white-terrier-full.png",
+      "sha256": "cb14f28b51e986a001998cb903976fca3aecfa4977c9c608d8d79ae5e0138de0",
+      "bytes": 961306
+    },
+    {
+      "breed_id": "B017",
+      "path": "public/assets/dogs/full/australian-shepherd-full.png",
+      "sha256": "b592f2b6b8279a2ede26770ad7c3024a4062c7133749d05d6d7e03eb49dd6bc1",
+      "bytes": 976076
+    },
+    {
+      "breed_id": "B080",
+      "path": "public/assets/dogs/full/english-springer-spaniel-full.png",
+      "sha256": "da2da055de1f951335a4b3c3bf27e179387e99cc727e055a5cb60f6f2714bd4f",
+      "bytes": 785360
+    },
+    {
+      "breed_id": "B002",
+      "path": "public/assets/dogs/full/siberian-husky-full.png",
+      "sha256": "e53d5831fdf5b62109589a924e7ee0357a4c8ef01fc4a39b3e46675c6c932486",
+      "bytes": 691458
+    },
+    {
+      "breed_id": "B092",
+      "path": "public/assets/dogs/full/curly-coated-retriever-full.png",
+      "sha256": "533d8ed12d333d5fc5016f1f2919a208ddfbd1ccfff246fbb80be80a7a993d08",
+      "bytes": 679515
+    },
+    {
+      "breed_id": "B043",
+      "path": "public/assets/dogs/full/pomeranian-full.png",
+      "sha256": "a7d705a0e5c7b5bb042731acfcdc18e25aa8f9ac183f0ac76f3e17efa9a72f29",
+      "bytes": 995106
+    },
+    {
+      "breed_id": "B120",
+      "path": "public/assets/dogs/full/basset-hound-full.png",
+      "sha256": "522b5ebcdfb6e2d4a6b71a65791a1b336208f335a375e7b208a9666893708b02",
+      "bytes": 675792
+    },
+    {
+      "breed_id": "B118",
+      "path": "public/assets/dogs/full/irish-terrier-full.png",
+      "sha256": "1b5a0662fbb97f192de30a515d6bc7a834955f41dd47031c146b25b03c7b4911",
+      "bytes": 766639
+    },
+    {
+      "breed_id": "B031",
+      "path": "public/assets/dogs/full/bichon-frise-full.png",
+      "sha256": "fe409fcc6358cf4fe7dd0af8b233b427491e7006850cddfc35659aa4e7cd56ca",
+      "bytes": 918476
+    },
+    {
+      "breed_id": "B033",
+      "path": "public/assets/dogs/full/alaskan-malamute-full.png",
+      "sha256": "dbf8f69453506bc2c6b7ab0f6d0effdd078f1fa70097c6c8c4044bdb76479c24",
+      "bytes": 938096
+    },
+    {
+      "breed_id": "B098",
+      "path": "public/assets/dogs/full/english-pointer-full.png",
+      "sha256": "53cd7889c1fb7d9500cba0f1c89e3bc09d669e1191728a44c552c446710490dc",
+      "bytes": 580866
+    },
+    {
+      "breed_id": "B034",
+      "path": "public/assets/dogs/full/american-eskimo-dog-full.png",
+      "sha256": "6a3af07feca99cec29d832a8390d8945260e14eeafa7457a0525a9c89ab62f10",
+      "bytes": 870217
+    },
+    {
+      "breed_id": "B013",
+      "path": "public/assets/dogs/full/jack-russell-terrier-full.png",
+      "sha256": "5ab9f51ef7481e2eba7361b830089481fd35bb2fcbbcad003bd6eed26e17b8a0",
+      "bytes": 817661
+    },
+    {
+      "breed_id": "B027",
+      "path": "public/assets/dogs/full/basenji-full.png",
+      "sha256": "cfcb5dda3d25e06e2c159003b261794d4fdd32ca11dee5f0a90de7ffb063e82f",
+      "bytes": 568695
+    },
+    {
+      "breed_id": "B091",
+      "path": "public/assets/dogs/full/flat-coated-retriever-full.png",
+      "sha256": "81601d74090462dd7548bd7b22757e4037e4994d9b7b4a5c9b85156a3c8228ef",
+      "bytes": 742209
+    },
+    {
+      "breed_id": "B035",
+      "path": "public/assets/dogs/full/finnish-lapphund-full.png",
+      "sha256": "62a873f390d8b02d61135901a69da6c299ab604a6421ad623cdaa7d5e52963ce",
+      "bytes": 1114039
+    },
+    {
+      "breed_id": "B075",
+      "path": "public/assets/dogs/full/beauceron-full.png",
+      "sha256": "91f1d946c5e428ee890c8d91e34fec4eeb4245fc6bdb787cbcb89d03d0f72bc8",
+      "bytes": 741908
+    },
+    {
+      "breed_id": "B003",
+      "path": "public/assets/dogs/full/golden-retriever-full.png",
+      "sha256": "b9d45b171e7b6c95326c7c1a43f6316b760284bc61de7b91a2b5c04dd0713cf4",
+      "bytes": 637974
+    },
+    {
+      "breed_id": "B063",
+      "path": "public/assets/dogs/full/belgian-laekenois-full.png",
+      "sha256": "f43a62d6b652dee8b6f65497eb66916f7517f1a9ca0e34871515a0048981270b",
+      "bytes": 815241
+    },
+    {
+      "breed_id": "B105",
+      "path": "public/assets/dogs/full/boston-terrier-full.png",
+      "sha256": "f6b267be66fe68238e473b1ff703a41e915ea6872868614b4908788a9671979b",
+      "bytes": 674810
+    },
+    {
+      "breed_id": "B009",
+      "path": "public/assets/dogs/full/samoyed-full.png",
+      "sha256": "dab8d521f029facb7a2bc59a9cb20adaeeca08a22073f9f258680941fb0f1a4e",
+      "bytes": 919201
+    },
+    {
+      "breed_id": "B079",
+      "path": "public/assets/dogs/full/american-cocker-spaniel-full.png",
+      "sha256": "47c035d75df172353c01e8a61265af6323d9dba56c52a75122b891c6529fd299",
+      "bytes": 796330
+    },
+    {
+      "breed_id": "B112",
+      "path": "public/assets/dogs/full/coton-de-tulear-full.png",
+      "sha256": "35b4dbde006949cef468dd58e28d54bcc655758368ed5a66c73a1710b146b6c9",
+      "bytes": 739386
+    },
+    {
+      "breed_id": "B116",
+      "path": "public/assets/dogs/full/scottish-terrier-full.png",
+      "sha256": "6e6d8f90feafb4fe17055ab4c5529fdb2488b0646bfcec269d4139c43af1908a",
+      "bytes": 866868
+    },
+    {
+      "breed_id": "B049",
+      "path": "public/assets/dogs/full/kishu-full.png",
+      "sha256": "7a7e1bc116275836bca76ea44c4ce9a61840c2304113e527db115cc76eddddc8",
+      "bytes": 730182
+    },
+    {
+      "breed_id": "B015",
+      "path": "public/assets/dogs/full/miniature-schnauzer-full.png",
+      "sha256": "3bb7f0ddc3888fa48c3fed48cb6571caaa745648a08cd91ce67260b1c5a12c84",
+      "bytes": 925563
+    },
+    {
+      "breed_id": "B032",
+      "path": "public/assets/dogs/full/chow-chow-full.png",
+      "sha256": "f288f60119ffe762d2ea2cdb5d91b3a945f0f38d0575d639e7c70fdeb6f52f66",
+      "bytes": 1157267
+    },
+    {
+      "breed_id": "B001",
+      "path": "public/assets/dogs/full/shiba-inu-full.png",
+      "sha256": "8096c5facfc34f933c2ca1cf3ad3585efeb3a312f4a08aafcc5436b1c4b80dfd",
+      "bytes": 677219
+    },
+    {
+      "breed_id": "B008",
+      "path": "public/assets/dogs/full/german-shepherd-dog-full.png",
+      "sha256": "1de05868a8626439815540e0dd038ac9377938c424374ed6c22e455491f7e273",
+      "bytes": 813287
+    },
+    {
+      "breed_id": "B110",
+      "path": "public/assets/dogs/full/maltese-full.png",
+      "sha256": "d31a2df65ee3f906bae8505b37724cae15f93edd3a0c4a5589827d28b2997f0c",
+      "bytes": 854796
+    },
+    {
+      "breed_id": "B019",
+      "path": "public/assets/dogs/full/rottweiler-full.png",
+      "sha256": "b7e54e574d2cfd90f5c9613ddd5a1b72f03ab3a3ec775cc71ec0e91b3f1d7812",
+      "bytes": 852292
+    },
+    {
+      "breed_id": "B119",
+      "path": "public/assets/dogs/full/airedale-terrier-full.png",
+      "sha256": "7a57a72772f1d8a3655fb44e623a2dc5d315ddb25e3c130eda0ff0e1fc39ea49",
+      "bytes": 950932
+    },
+    {
+      "breed_id": "B096",
+      "path": "public/assets/dogs/full/weimaraner-full.png",
+      "sha256": "f586d3e5b0ec39f85fdf14afb2258105828d7cd6b626714a82dd43aff6ac04cd",
+      "bytes": 668990
+    },
+    {
+      "breed_id": "B101",
+      "path": "public/assets/dogs/full/gordon-setter-full.png",
+      "sha256": "695ff7b7751c5d1c4f1af4011be1f5357c05374b37eba0e5260d72dee772c77a",
+      "bytes": 750282
+    },
+    {
+      "breed_id": "B060",
+      "path": "public/assets/dogs/full/belgian-malinois-full.png",
+      "sha256": "d692bff29e62cf4283182849356ec870e42c4a64d469edb6b4151fa2708e3f5c",
+      "bytes": 628156
+    },
+    {
+      "breed_id": "B099",
+      "path": "public/assets/dogs/full/english-setter-full.png",
+      "sha256": "d04a69024f6eb556c2fcfafb9c8089c3f0b375169dc43ac6924cca50f5398c4b",
+      "bytes": 790823
+    },
+    {
+      "breed_id": "B087",
+      "path": "public/assets/dogs/full/portuguese-water-dog-full.png",
+      "sha256": "b5756105c658b048adcf4933e2d5fd89425e98d822ae964613f48fde59ca41c1",
+      "bytes": 981657
+    },
+    {
+      "breed_id": "B071",
+      "path": "public/assets/dogs/full/mudi-full.png",
+      "sha256": "772490a90d224b27631ae61063c1f38c9cb0b413eb426dd9b93301b9dcbcf077",
+      "bytes": 769030
+    },
+    {
+      "breed_id": "B025",
+      "path": "public/assets/dogs/full/greyhound-full.png",
+      "sha256": "53977c74fa35236bc79812b4b77a863f1edb93506a7d402f621ecd02c9abcae3",
+      "bytes": 537193
+    },
+    {
+      "breed_id": "B053",
+      "path": "public/assets/dogs/full/thai-ridgeback-full.png",
+      "sha256": "5fb618cfc926379072e6ce317caed448c96a8f694163854bde30a88781445a9e",
+      "bytes": 644190
+    },
+    {
+      "breed_id": "B024",
+      "path": "public/assets/dogs/full/saint-bernard-full.png",
+      "sha256": "f5212f77fa582a44e8c48bca80dfe2a100383706c7476123cf1a74fddd3ead82",
+      "bytes": 949504
+    },
+    {
+      "breed_id": "B064",
+      "path": "public/assets/dogs/full/rough-collie-full.png",
+      "sha256": "cac94300f3cb435802765ab4ecf57bd56ba87e2a889c246dda7da80baf0c603c",
+      "bytes": 916961
+    },
+    {
+      "breed_id": "B065",
+      "path": "public/assets/dogs/full/smooth-collie-full.png",
+      "sha256": "f882625e32eb60aa3eaeb27a6c0be2779b7afdeab38c5b3b9466b4a9a29f4e1d",
+      "bytes": 659697
+    },
+    {
+      "breed_id": "B111",
+      "path": "public/assets/dogs/full/havanese-full.png",
+      "sha256": "4a26f24ef7012213b1d1cb9dd328414934ce7f4749a6b679e7260a755e471d66",
+      "bytes": 1106867
+    },
+    {
+      "breed_id": "B095",
+      "path": "public/assets/dogs/full/german-wirehaired-pointer-full.png",
+      "sha256": "ee5ae3914fff8a3327b9c4265aa7304f1f6ae7499c55adb5add958b5901bac2f",
+      "bytes": 814762
+    },
+    {
+      "breed_id": "B089",
+      "path": "public/assets/dogs/full/lagotto-romagnolo-full.png",
+      "sha256": "190f115bc86c5487378b1a18351e854ee443da3247558d9800a868f8f03981e7",
+      "bytes": 1059742
+    },
+    {
+      "breed_id": "B011",
+      "path": "public/assets/dogs/full/beagle-full.png",
+      "sha256": "896037baea37630c3e6815e9a0c91570f00c4248fe46f971b6fba8db85003898",
+      "bytes": 823401
+    },
+    {
+      "breed_id": "B115",
+      "path": "public/assets/dogs/full/cairn-terrier-full.png",
+      "sha256": "8790651ccc67257381e82a24c5a25b8175700feb935993e8aa7ea844257d3143",
+      "bytes": 1117073
+    },
+    {
+      "breed_id": "B044",
+      "path": "public/assets/dogs/full/german-spitz-mittel-full.png",
+      "sha256": "1260e35fee6647d8fc96b9d51a1061efbc4c2fb166620603bef52bcba7a7bdd3",
+      "bytes": 870312
+    },
+    {
+      "breed_id": "B036",
+      "path": "public/assets/dogs/full/finnish-spitz-full.png",
+      "sha256": "793a001e70a24c68667fdeafc12856246e5255104979368975f796994e9be989",
+      "bytes": 904600
+    },
+    {
+      "breed_id": "B117",
+      "path": "public/assets/dogs/full/sealyham-terrier-full.png",
+      "sha256": "5da0aa00b112757314da83b09fa912755d33baceeee2913dc2e7a5da52375aa5",
+      "bytes": 862144
+    },
+    {
+      "breed_id": "B088",
+      "path": "public/assets/dogs/full/spanish-water-dog-full.png",
+      "sha256": "a5d0d388907678b01258d272c1c1a93b3a92ad99570f1861f86581d2cfac303c",
+      "bytes": 996938
+    },
+    {
+      "breed_id": "B109",
+      "path": "public/assets/dogs/full/lhasa-apso-full.png",
+      "sha256": "69ceee25567fbe210483801f31761b48ed5d45d21e2c7b23b818529d76cf14e8",
+      "bytes": 955751
+    },
+    {
+      "breed_id": "B085",
+      "path": "public/assets/dogs/full/irish-water-spaniel-full.png",
+      "sha256": "63e9029c32b221233b82cc3c53ef40111765a6447f08382e39f766825ab118ee",
+      "bytes": 814827
+    },
+    {
+      "breed_id": "B066",
+      "path": "public/assets/dogs/full/old-english-sheepdog-full.png",
+      "sha256": "f5e9a583793ef1ea02d9da2e8150c89758b0e8184a646b411233fdbc4ef388e6",
+      "bytes": 975577
+    },
+    {
+      "breed_id": "B048",
+      "path": "public/assets/dogs/full/shikoku-full.png",
+      "sha256": "018e8edad58c7efa8aa18b9b359955f4917045651b06910872d7aab0b55e5a01",
+      "bytes": 871341
+    },
+    {
+      "breed_id": "B046",
+      "path": "public/assets/dogs/full/eurasier-full.png",
+      "sha256": "d45f533d45d33b9df65cb8863ccd8ce5a05f491bdeb8494e5fd5ccfb29cabd4e",
+      "bytes": 1032521
+    },
+    {
+      "breed_id": "B070",
+      "path": "public/assets/dogs/full/komondor-full.png",
+      "sha256": "d5d2731a83f1c1ae27b872122652d6503642a150a01b27d6060de5c8cea1f363",
+      "bytes": 905748
+    },
+    {
+      "breed_id": "B084",
+      "path": "public/assets/dogs/full/field-spaniel-full.png",
+      "sha256": "6ad2d468b8dbb5ef916dcfc5c8c4491499e99801333ae32476eb61b7c1606805",
+      "bytes": 691797
+    },
+    {
+      "breed_id": "B094",
+      "path": "public/assets/dogs/full/german-shorthaired-pointer-full.png",
+      "sha256": "0357106cd55a16d06ac82670bb2552b0f501206372457c7b625ccfff40bb27d7",
+      "bytes": 717350
+    },
+    {
+      "breed_id": "B069",
+      "path": "public/assets/dogs/full/puli-full.png",
+      "sha256": "194149f4962db22dc675a1294d5df7c0a9a21484b00f7966b2b9554b4dafd6d0",
+      "bytes": 1022807
+    },
+    {
+      "breed_id": "B012",
+      "path": "public/assets/dogs/full/dachshund-full.png",
+      "sha256": "7fe6a558e0e2fa4e6f6a9ccbd2b3abd3fb418ea460c1c214da1d207ef3a0d340",
+      "bytes": 603348
+    },
+    {
+      "breed_id": "B083",
+      "path": "public/assets/dogs/full/sussex-spaniel-full.png",
+      "sha256": "6f59410c8c2b5bdffe2e0cb23f0dc09911fbc62ca527e05c452ca4cf97042cd6",
+      "bytes": 659775
+    },
+    {
+      "breed_id": "B059",
+      "path": "public/assets/dogs/full/australian-cattle-dog-full.png",
+      "sha256": "f2ef8594f7d5430fb846b6a06b620bb7569e6e9b15cb5a07fa2721589d44ec3b",
+      "bytes": 868272
+    },
+    {
+      "breed_id": "B007",
+      "path": "public/assets/dogs/full/poodle-full.png",
+      "sha256": "a9a81f3da7b76776ac06fb141b847c4f933dde0c1f547759e0b7e037a5596790",
+      "bytes": 641394
+    },
+    {
+      "breed_id": "B108",
+      "path": "public/assets/dogs/full/shih-tzu-full.png",
+      "sha256": "70c0690a8b2c62655f8f6163f95d95bbfbf41c04b2a5cb92fcfcd4ee83a9a213",
+      "bytes": 963895
+    },
+    {
+      "breed_id": "B073",
+      "path": "public/assets/dogs/full/polish-lowland-sheepdog-full.png",
+      "sha256": "1348b293eff7c8697ece5c83787a5325aff9dd0aac8ef5601d621f43836891f3",
+      "bytes": 948347
+    },
+    {
+      "breed_id": "B022",
+      "path": "public/assets/dogs/full/bernese-mountain-dog-full.png",
+      "sha256": "ddfdfd697cf3c9a7292306e6743f7ad797aa7a3690bc83c662039e747b623b4b",
+      "bytes": 882102
+    },
+    {
+      "breed_id": "B061",
+      "path": "public/assets/dogs/full/belgian-tervuren-full.png",
+      "sha256": "d2e054827835a4a0d468573b7e41720b1e5877ab9daf98d8a4497224d49651e1",
+      "bytes": 851005
+    },
+    {
+      "breed_id": "B102",
+      "path": "public/assets/dogs/full/brittany-full.png",
+      "sha256": "257dd862b5665f0cb9ea5cf4b4d11debaa5ce52ed2d3ae65bdcc5dce56e95a00",
+      "bytes": 769382
+    },
+    {
+      "breed_id": "B100",
+      "path": "public/assets/dogs/full/irish-setter-full.png",
+      "sha256": "c80d8a3841f9413a530a294196fce8be93c3dd93aa0a14d1ffd71a33962bc593",
+      "bytes": 745779
+    },
+    {
+      "breed_id": "B077",
+      "path": "public/assets/dogs/full/white-swiss-shepherd-dog-full.png",
+      "sha256": "b69de0f2f9313a5a7f9b73186b400f4d5d67104e1e1c74eef474fcf4eed89697",
+      "bytes": 766127
+    },
+    {
+      "breed_id": "B016",
+      "path": "public/assets/dogs/full/shetland-sheepdog-full.png",
+      "sha256": "063b2d6f40201f09286b1cd053c9c2d1824e28b2ee2e619755221a2546f9193d",
+      "bytes": 932822
+    },
+    {
+      "breed_id": "B041",
+      "path": "public/assets/dogs/full/swedish-vallhund-full.png",
+      "sha256": "8a72c38df79c9599517ca4d82afdc73bb62784a3843ff5044e20ecfd3a798c5b",
+      "bytes": 1016551
+    },
+    {
+      "breed_id": "B010",
+      "path": "public/assets/dogs/full/akita-full.png",
+      "sha256": "d785ce714130ba0a69f410ed31e3d53e2f3e56076034fd019b2cea04fd4a65df",
+      "bytes": 945548
+    },
+    {
+      "breed_id": "B021",
+      "path": "public/assets/dogs/full/great-dane-full.png",
+      "sha256": "23b360e3cdad101fc0b5fa6b7e7867097e207981e9d05854d6be4df2dfd33b54",
+      "bytes": 594611
+    },
+    {
+      "breed_id": "B037",
+      "path": "public/assets/dogs/full/norwegian-elkhound-full.png",
+      "sha256": "34bb99a1282a10f9a46f02922c43ca0c406961bc233c1fe577d37879cd1eaa29",
+      "bytes": 943597
+    },
+    {
+      "breed_id": "B081",
+      "path": "public/assets/dogs/full/welsh-springer-spaniel-full.png",
+      "sha256": "11277c50a97494046449b8af15c406b5ef7132f7cef15962b09a4711b2d12602",
+      "bytes": 789877
+    },
+    {
+      "breed_id": "B090",
+      "path": "public/assets/dogs/full/chesapeake-bay-retriever-full.png",
+      "sha256": "4f2a59e007acdc97c0a188f59457eab478317741baeb7895ad635e9c56d7248f",
+      "bytes": 777113
+    },
+    {
+      "breed_id": "B103",
+      "path": "public/assets/dogs/full/bulldog-full.png",
+      "sha256": "6f20529735a0d36e166c808d7b295cdf98b3cc054b0cd301aefa3547711b8080",
+      "bytes": 998829
+    },
+    {
+      "breed_id": "B051",
+      "path": "public/assets/dogs/full/korea-jindo-dog-full.png",
+      "sha256": "052826923ab180a598eda4b90e152e8965ce9f30090240306e3a3862c7ecca2c",
+      "bytes": 810201
+    },
+    {
+      "breed_id": "B045",
+      "path": "public/assets/dogs/full/japanese-spitz-full.png",
+      "sha256": "bcb42646862b54f3cfae7b93e5545969791ee90fa48fb1894147d724c3ffcc9c",
+      "bytes": 872312
+    },
+    {
+      "breed_id": "B023",
+      "path": "public/assets/dogs/full/newfoundland-full.png",
+      "sha256": "c108dd1ff90cb1ecdb7676cd4b3147525ec0bb76b4af45aba889dbbbecaac2e2",
+      "bytes": 801708
+    },
+    {
+      "breed_id": "B082",
+      "path": "public/assets/dogs/full/clumber-spaniel-full.png",
+      "sha256": "9d60051db5b9c66fc7d88beac13ac499d191b1ed57e5244a7cc61ca37af5e5eb",
+      "bytes": 712107
+    },
+    {
+      "breed_id": "B097",
+      "path": "public/assets/dogs/full/vizsla-full.png",
+      "sha256": "8b80cc04b62ec59885f77c335494a6e3f9d261eaa32267e1f574994c5de70894",
+      "bytes": 608599
+    },
+    {
+      "breed_id": "B004",
+      "path": "public/assets/dogs/full/border-collie-full.png",
+      "sha256": "128a144bfa0e02c970bcfd122246de2e98c603a349ef2288677b3bcbe7536b0d",
+      "bytes": 640021
+    },
+    {
+      "breed_id": "B040",
+      "path": "public/assets/dogs/full/icelandic-sheepdog-full.png",
+      "sha256": "e9b88996c6a417902aa0774aed57b68879f14681a9f047e9400e62efd171e162",
+      "bytes": 946801
+    },
+    {
+      "breed_id": "B026",
+      "path": "public/assets/dogs/full/whippet-full.png",
+      "sha256": "ca0d56b662e0cd2bd9910e0626483b5252e2872e384ab286255f9ac1a0e9a3d9",
+      "bytes": 630505
+    },
+    {
+      "breed_id": "B114",
+      "path": "public/assets/dogs/full/silky-terrier-full.png",
+      "sha256": "7057642fd94187faef32762f182801e37012624d5a3d6d76be47b2c72a66ce2c",
+      "bytes": 967253
+    },
+    {
+      "breed_id": "B057",
+      "path": "public/assets/dogs/full/ibizan-hound-full.png",
+      "sha256": "fa2d6ca97cb1dd3cb0ab66a4461a90e203339ce084c0ca323029c2db9a4a45c7",
+      "bytes": 433473
+    },
+    {
+      "breed_id": "B072",
+      "path": "public/assets/dogs/full/pumi-full.png",
+      "sha256": "4fc32993d00533058c63863d05147dcb393353b10213668e13356618492e4321",
+      "bytes": 1049021
+    },
+    {
+      "breed_id": "B054",
+      "path": "public/assets/dogs/full/peruvian-hairless-dog-full.png",
+      "sha256": "1f0858ad863d6bb6e1ff5edc7357c3a155cdcbdb8b4808f00b2035b51a1e51a2",
+      "bytes": 508864
+    },
+    {
+      "breed_id": "B052",
+      "path": "public/assets/dogs/full/canaan-dog-full.png",
+      "sha256": "4374860bd4497fe876720748518a72bdde088a622bd860858cae8a7e1b3b2856",
+      "bytes": 775421
+    },
+    {
+      "breed_id": "B038",
+      "path": "public/assets/dogs/full/norwegian-lundehund-full.png",
+      "sha256": "5f51033c7a13e018b0cd8e51b7cf7c6f4b255a02e30d41e87f72414b4df95e83",
+      "bytes": 852307
+    },
+    {
+      "breed_id": "B113",
+      "path": "public/assets/dogs/full/yorkshire-terrier-full.png",
+      "sha256": "93b1c66379237757566b9ddd9b007e4bd10ad1ccb17c23047c09373667db68ff",
+      "bytes": 964112
+    },
+    {
+      "breed_id": "B039",
+      "path": "public/assets/dogs/full/norwegian-buhund-full.png",
+      "sha256": "632103a76a0a60bc0ef7358b1e78765a9fa0acd988405e11d0e669b7e0a96ef3",
+      "bytes": 845910
+    },
+    {
+      "breed_id": "B104",
+      "path": "public/assets/dogs/full/french-bulldog-full.png",
+      "sha256": "587f64c9d898f85b314ab33d9abd1223134b84798bf8bf66d3aa571bd752ea78",
+      "bytes": 693654
+    },
+    {
+      "breed_id": "B005",
+      "path": "public/assets/dogs/full/pembroke-welsh-corgi-full.png",
+      "sha256": "fe24a6f92a7591c9fff086e7c48970fa3ad0b1927c4ef1f36a4c3f42d3f42b29",
+      "bytes": 570529
+    }
+  ]
+}
