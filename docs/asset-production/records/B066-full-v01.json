@@ -1,0 +1,125 @@
+{
+  "breed_id": "B066",
+  "name": "古代英国牧羊犬",
+  "slug": "old-english-sheepdog",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B066-full-v01",
+  "prompt_path": "artifacts/illustrations/B066/full/v01/prompt.txt",
+  "prompt_sha256": "35d3df0b058c9b93dfa51abb04f6699c753c5ab500b58c025abd1eb41d7b8bb5",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-2aefa781-495d-47e0-b2b0-4c9711a07683.png",
+  "saved_at": "2026-11-01T04:43:52.697824+00:00",
+  "raw_path": "artifacts/illustrations/B066/full/v01/raw.png",
+  "raw_sha256": "b1fe94c2cb6efcf102943b8faa5293cc485f8f226dd418a4b3290031a655dc3f",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 752197,
+    "opaque_pixels": 15,
+    "partial_alpha_pixels": 820304,
+    "bbox": [
+      0,
+      19,
+      1239,
+      1214
+    ],
+    "core_translucent_pixels": 740538,
+    "core_pixels": 740538
+  },
+  "path": "public/assets/dogs/full/old-english-sheepdog-full.png",
+  "sha256": "f5e9a583793ef1ea02d9da2e8150c89758b0e8184a646b411233fdbc4ef388e6",
+  "pixels_sha256": "4dedc9e9aa9434032a56a551037ab129df1947fad1dd139c6b8730ae10b34d1a",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      64,
+      86,
+      1235,
+      1184
+    ],
+    "uniform_scale": 0.6994022203245089,
+    "resized_dimensions": [
+      819,
+      768
+    ],
+    "position": [
+      102,
+      153
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 740538,
+    "near_opaque_adjusted": 729571
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 656674,
+    "opaque_pixels": 363806,
+    "partial_alpha_pixels": 28096,
+    "bbox": [
+      102,
+      153,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 356710,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      153,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "古代英国牧羊：大型灰白厚双层长毛、宽颅中长口吻、小自然垂耳藏毛内，额毛蓬松但眼鼻可辨；结实厚躯干正常腿长，毛量大而四足真实连接。天然完整长毛尾低垂不剪短，四足稳站。"
+}

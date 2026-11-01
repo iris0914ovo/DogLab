@@ -1,0 +1,125 @@
+{
+  "breed_id": "B064",
+  "name": "粗毛柯利犬",
+  "slug": "rough-collie",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B064-full-v01",
+  "prompt_path": "artifacts/illustrations/B064/full/v01/prompt.txt",
+  "prompt_sha256": "dde775a625be349c73f997c77720683c70739a59cbde922a3864ee769581e317",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-f1a68d8a-828a-44c1-add0-09858eaf93bc.png",
+  "saved_at": "2026-11-01T04:42:52.096463+00:00",
+  "raw_path": "artifacts/illustrations/B064/full/v01/raw.png",
+  "raw_sha256": "751880907b03eab91a5465ef7c47c639559963185b2afc89001ac455ff752a31",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 822702,
+    "opaque_pixels": 28,
+    "partial_alpha_pixels": 749786,
+    "bbox": [
+      0,
+      19,
+      1248,
+      1254
+    ],
+    "core_translucent_pixels": 650890,
+    "core_pixels": 650890
+  },
+  "path": "public/assets/dogs/full/rough-collie-full.png",
+  "sha256": "cac94300f3cb435802765ab4ecf57bd56ba87e2a889c246dda7da80baf0c603c",
+  "pixels_sha256": "5d2a5facb21454626f434b3d316ff0363c8d8ec38a5ccb934ea0c74bc280266d",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      108,
+      58,
+      1221,
+      1188
+    ],
+    "uniform_scale": 0.7247787610619469,
+    "resized_dimensions": [
+      807,
+      819
+    ],
+    "position": [
+      108,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 650890,
+    "near_opaque_adjusted": 641739
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 672655,
+    "opaque_pixels": 344561,
+    "partial_alpha_pixels": 31360,
+    "bbox": [
+      108,
+      102,
+      915,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 336700,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      108,
+      102,
+      109,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "粗毛柯利：貂白中长双层毛、巨大颈胸毛领，头特别长窄平滑楔形、很长细口吻、小半立耳耳尖前折、杏仁眼；长腿轻巧躯干、长蓬尾低垂。四足优雅站立，区别边牧较宽颅与更圆脸。"
+}

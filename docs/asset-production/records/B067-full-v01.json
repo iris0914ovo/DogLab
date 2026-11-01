@@ -1,0 +1,125 @@
+{
+  "breed_id": "B067",
+  "name": "长须柯利犬",
+  "slug": "bearded-collie",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B067-full-v01",
+  "prompt_path": "artifacts/illustrations/B067/full/v01/prompt.txt",
+  "prompt_sha256": "297fe7a17b0ff9e0128a163bf8ea32be9d88805299d453379f7dd22a78d0dce4",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-01644246-d5d4-49df-8f4b-d9e6b64ad88e.png",
+  "saved_at": "2026-11-01T04:43:54.226989+00:00",
+  "raw_path": "artifacts/illustrations/B067/full/v01/raw.png",
+  "raw_sha256": "d8505ff4f72942412736117139546ba3b8b09c7af718741f6e62ac66d6fef4ad",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 804718,
+    "opaque_pixels": 141,
+    "partial_alpha_pixels": 767657,
+    "bbox": [
+      0,
+      0,
+      1243,
+      1230
+    ],
+    "core_translucent_pixels": 688102,
+    "core_pixels": 688103
+  },
+  "path": "public/assets/dogs/full/bearded-collie-full.png",
+  "sha256": "6c20dc43c08d4c7b228fe6aa6e357870eca3e6046e98e22e8e8aac0c2f8968f8",
+  "pixels_sha256": "31d60687d0dde4c9827fdcd6509402a03f7606c2d211ee2ebe90d14b9c0e58b5",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      109,
+      89,
+      1241,
+      1189
+    ],
+    "uniform_scale": 0.7234982332155477,
+    "resized_dimensions": [
+      819,
+      796
+    ],
+    "position": [
+      102,
+      125
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 688102,
+    "near_opaque_adjusted": 691118
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 656444,
+    "opaque_pixels": 365470,
+    "partial_alpha_pixels": 26662,
+    "bbox": [
+      102,
+      125,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 354827,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      125,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "长须柯利：中型轻巧略长身、长头中长口吻、自然垂耳，灰白长毛直落有轻波纹、明显胡须，额毛不完全遮眼。正常修长腿和低垂长毛尾，四足站立，区别古牧宽头重身与绳毛。"
+}

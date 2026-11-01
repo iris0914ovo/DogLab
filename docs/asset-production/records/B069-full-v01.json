@@ -1,0 +1,125 @@
+{
+  "breed_id": "B069",
+  "name": "波利犬",
+  "slug": "puli",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B069-full-v01",
+  "prompt_path": "artifacts/illustrations/B069/full/v01/prompt.txt",
+  "prompt_sha256": "a9c2043859f775487eda9a35a72235a36f5a6fbc724c5ce38b4ad28cc21d87fe",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-1ee7755a-4889-4414-88ce-6e0903be8ef4.png",
+  "saved_at": "2026-11-01T04:44:43.165044+00:00",
+  "raw_path": "artifacts/illustrations/B069/full/v01/raw.png",
+  "raw_sha256": "f7840bbffde1454cc16885298a7258fee5a4cb9d2e460204befa009a9e1635d0",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 770435,
+    "opaque_pixels": 489,
+    "partial_alpha_pixels": 801592,
+    "bbox": [
+      0,
+      9,
+      1250,
+      1254
+    ],
+    "core_translucent_pixels": 691781,
+    "core_pixels": 691784
+  },
+  "path": "public/assets/dogs/full/puli-full.png",
+  "sha256": "194149f4962db22dc675a1294d5df7c0a9a21484b00f7966b2b9554b4dafd6d0",
+  "pixels_sha256": "ef49a40fa63355f38f82d907d8a4dc1a2f58cc863991815165bcf5457678aaf7",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      77,
+      147,
+      1200,
+      1150
+    ],
+    "uniform_scale": 0.7292965271593945,
+    "resized_dimensions": [
+      819,
+      731
+    ],
+    "position": [
+      102,
+      190
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 691781,
+    "near_opaque_adjusted": 706349
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 629697,
+    "opaque_pixels": 382193,
+    "partial_alpha_pixels": 36686,
+    "bbox": [
+      102,
+      190,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 357872,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      190,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "波利：黑色自然绳状毛，中型紧凑近方身，头适中、口吻中等不扁、下垂耳藏毛，眼鼻可辨；绳束较细自然成束，腿与四足仍真实。浓绳尾松卷背，四足站立，与科蒙多巨型白色低垂尾明显区别。"
+}

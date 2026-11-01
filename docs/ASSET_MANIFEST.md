@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前65张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成47/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前76张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成58/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -72,18 +72,18 @@
 | B058 | 法老王猎犬 | Pharaoh Hound | pharaoh-hound | 否 | public/assets/dogs/full/pharaoh-hound-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pharaoh-hound-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B059 | 澳大利亚牧牛犬 | Australian Cattle Dog | australian-cattle-dog | 否 | public/assets/dogs/full/australian-cattle-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/australian-cattle-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B060 | 比利时马林诺斯犬 | Belgian Malinois | belgian-malinois | 否 | public/assets/dogs/full/belgian-malinois-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/belgian-malinois-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B061 | 比利时特伏丹犬 | Belgian Tervuren | belgian-tervuren | 否 | public/assets/dogs/full/belgian-tervuren-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B062 | 比利时格罗安达犬 | Belgian Groenendael | belgian-groenendael | 否 | public/assets/dogs/full/belgian-groenendael-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B063 | 比利时拉肯努阿犬 | Belgian Laekenois | belgian-laekenois | 否 | public/assets/dogs/full/belgian-laekenois-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B064 | 粗毛柯利犬 | Rough Collie | rough-collie | 否 | public/assets/dogs/full/rough-collie-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B065 | 短毛柯利犬 | Smooth Collie | smooth-collie | 否 | public/assets/dogs/full/smooth-collie-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B066 | 古代英国牧羊犬 | Old English Sheepdog | old-english-sheepdog | 否 | public/assets/dogs/full/old-english-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B067 | 长须柯利犬 | Bearded Collie | bearded-collie | 否 | public/assets/dogs/full/bearded-collie-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B068 | 布里牧羊犬 | Briard | briard | 否 | public/assets/dogs/full/briard-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B069 | 波利犬 | Puli | puli | 否 | public/assets/dogs/full/puli-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B061 | 比利时特伏丹犬 | Belgian Tervuren | belgian-tervuren | 否 | public/assets/dogs/full/belgian-tervuren-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/belgian-tervuren-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B062 | 比利时格罗安达犬 | Belgian Groenendael | belgian-groenendael | 否 | public/assets/dogs/full/belgian-groenendael-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/belgian-groenendael-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B063 | 比利时拉肯努阿犬 | Belgian Laekenois | belgian-laekenois | 否 | public/assets/dogs/full/belgian-laekenois-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/belgian-laekenois-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B064 | 粗毛柯利犬 | Rough Collie | rough-collie | 否 | public/assets/dogs/full/rough-collie-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/rough-collie-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B065 | 短毛柯利犬 | Smooth Collie | smooth-collie | 否 | public/assets/dogs/full/smooth-collie-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/smooth-collie-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B066 | 古代英国牧羊犬 | Old English Sheepdog | old-english-sheepdog | 否 | public/assets/dogs/full/old-english-sheepdog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/old-english-sheepdog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B067 | 长须柯利犬 | Bearded Collie | bearded-collie | 否 | public/assets/dogs/full/bearded-collie-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/bearded-collie-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B068 | 布里牧羊犬 | Briard | briard | 否 | public/assets/dogs/full/briard-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/briard-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B069 | 波利犬 | Puli | puli | 否 | public/assets/dogs/full/puli-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/puli-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B070 | 科蒙多犬 | Komondor | komondor | 否 | public/assets/dogs/full/komondor-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/komondor-full.png | 第二轮AI检查：白色自然独立绳状毛束遍及身体与尾，非普通长毛；足掌可见，毛下结构需人工最终复核。 待用户审核。 |
-| B071 | 穆迪犬 | Mudi | mudi | 否 | public/assets/dogs/full/mudi-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B072 | 普米犬 | Pumi | pumi | 否 | public/assets/dogs/full/pumi-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B071 | 穆迪犬 | Mudi | mudi | 否 | public/assets/dogs/full/mudi-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/mudi-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B072 | 普米犬 | Pumi | pumi | 否 | public/assets/dogs/full/pumi-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pumi-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B073 | 波兰低地牧羊犬 | Polish Lowland Sheepdog | polish-lowland-sheepdog | 否 | public/assets/dogs/full/polish-lowland-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B074 | 伯格马斯科牧羊犬 | Bergamasco Sheepdog | bergamasco-sheepdog | 否 | public/assets/dogs/full/bergamasco-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B075 | 博斯牧羊犬 | Beauceron | beauceron | 否 | public/assets/dogs/full/beauceron-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库47/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库58/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

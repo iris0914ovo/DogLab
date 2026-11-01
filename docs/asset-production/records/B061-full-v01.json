@@ -1,0 +1,125 @@
+{
+  "breed_id": "B061",
+  "name": "比利时特伏丹犬",
+  "slug": "belgian-tervuren",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B061-full-v01",
+  "prompt_path": "artifacts/illustrations/B061/full/v01/prompt.txt",
+  "prompt_sha256": "7432441fc19d54315e613e18bf752892dfac9620c0edddac595aba92214a7839",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-9be01dbc-e312-4d39-af1f-0c83ae73bacd.png",
+  "saved_at": "2026-11-01T04:40:21.494148+00:00",
+  "raw_path": "artifacts/illustrations/B061/full/v01/raw.png",
+  "raw_sha256": "74cc9494d6f825310c90f353f39d66427305cd8f2b4e180c33e43198bbeeb01a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 850618,
+    "opaque_pixels": 125,
+    "partial_alpha_pixels": 721773,
+    "bbox": [
+      0,
+      4,
+      1238,
+      1254
+    ],
+    "core_translucent_pixels": 612963,
+    "core_pixels": 612963
+  },
+  "path": "public/assets/dogs/full/belgian-tervuren-full.png",
+  "sha256": "d2e054827835a4a0d468573b7e41720b1e5877ab9daf98d8a4497224d49651e1",
+  "pixels_sha256": "17b46b90c006eb016932650539846b7fb63dd5dbfccd37ad2c063bf7b95ec327",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      129,
+      19,
+      1216,
+      1216
+    ],
+    "uniform_scale": 0.6842105263157895,
+    "resized_dimensions": [
+      744,
+      819
+    ],
+    "position": [
+      140,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 612963,
+    "near_opaque_adjusted": 607626
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 723982,
+    "opaque_pixels": 291075,
+    "partial_alpha_pixels": 33519,
+    "bbox": [
+      140,
+      102,
+      884,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 280241,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      140,
+      102,
+      140,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "特伏丹：红褐叠黑双层长毛、黑面罩、中大型方形轻盈骨架、长楔头中长口吻、大立耳棕眼；颈部鬃毛与腿后饰毛，正常长腿，低垂长毛尾。四足挺立，不画短毛马犬。"
+}

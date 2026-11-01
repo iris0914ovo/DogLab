@@ -1,0 +1,125 @@
+{
+  "breed_id": "B071",
+  "name": "穆迪犬",
+  "slug": "mudi",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B071-full-v01",
+  "prompt_path": "artifacts/illustrations/B071/full/v01/prompt.txt",
+  "prompt_sha256": "4cfc64e633107890fa25ce6263ba6ad764eefd58ddb3033f9a90a6ecc76dca43",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-c3839951-457b-48db-a67f-69b82529b3f6.png",
+  "saved_at": "2026-11-01T04:45:43.466575+00:00",
+  "raw_path": "artifacts/illustrations/B071/full/v01/raw.png",
+  "raw_sha256": "461141c68609df451498ab3d3b1038927380a409c19d9138f9999a3832bcf6d2",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 944931,
+    "opaque_pixels": 140,
+    "partial_alpha_pixels": 627445,
+    "bbox": [
+      0,
+      9,
+      1254,
+      1254
+    ],
+    "core_translucent_pixels": 515643,
+    "core_pixels": 515646
+  },
+  "path": "public/assets/dogs/full/mudi-full.png",
+  "sha256": "772490a90d224b27631ae61063c1f38c9cb0b413eb426dd9b93301b9dcbcf077",
+  "pixels_sha256": "f0395dce6a36bd14098499b59f2932db046b71488bbf471e171e26edbf00b4ba",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      200,
+      50,
+      1164,
+      1204
+    ],
+    "uniform_scale": 0.7097053726169844,
+    "resized_dimensions": [
+      684,
+      819
+    ],
+    "position": [
+      170,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 515643,
+    "near_opaque_adjusted": 518638
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 743539,
+    "opaque_pixels": 265848,
+    "partial_alpha_pixels": 39189,
+    "bbox": [
+      170,
+      102,
+      854,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 252273,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      170,
+      102,
+      170,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "穆迪：黑色中型轻巧骨架、窄楔头、细长口吻、明显尖立耳、棕眼；脸与前腿毛短，躯干波浪微卷毛但不是贵宾团块。天然完整中长尾镰弯，修长正常腿，四足微错步。"
+}

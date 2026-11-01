@@ -1,0 +1,125 @@
+{
+  "breed_id": "B063",
+  "name": "比利时拉肯努阿犬",
+  "slug": "belgian-laekenois",
+  "asset_kind": "full",
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B063-full-v01",
+  "prompt_path": "artifacts/illustrations/B063/full/v01/prompt.txt",
+  "prompt_sha256": "0d89da48da46fe0f9b6fc08af58c0f533bc8d72b617b3592bffafc7cb6741c8d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-cd9b318a-527e-4c58-a4e8-9f496ec04c09.png",
+  "saved_at": "2026-11-01T04:42:01.688011+00:00",
+  "raw_path": "artifacts/illustrations/B063/full/v01/raw.png",
+  "raw_sha256": "6e9f9712a99ab03c231c3aad62d85c30df79f87787f1c8c46e8a1ff3065256b5",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1009417,
+    "opaque_pixels": 136,
+    "partial_alpha_pixels": 562963,
+    "bbox": [
+      0,
+      3,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 443670,
+    "core_pixels": 443670
+  },
+  "path": "public/assets/dogs/full/belgian-laekenois-full.png",
+  "sha256": "f43a62d6b652dee8b6f65497eb66916f7517f1a9ca0e34871515a0048981270b",
+  "pixels_sha256": "b0cecf2e4d5aa72575295041fa223f74b84e1d7ab578debe2bdac4d12fb8bd20",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      230,
+      76,
+      1225,
+      1198
+    ],
+    "uniform_scale": 0.7299465240641712,
+    "resized_dimensions": [
+      726,
+      819
+    ],
+    "position": [
+      149,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 443670,
+    "near_opaque_adjusted": 436689
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 765566,
+    "opaque_pixels": 239932,
+    "partial_alpha_pixels": 43078,
+    "bbox": [
+      149,
+      102,
+      875,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 229946,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      149,
+      102,
+      149,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: long narrow Collie heads, heavier Old English Sheepdog, Bearded/Briard furnishings, black corded Puli, short-face-hair wavy Mudi and folded-tip Pumi remain distinguishable. No obvious ear/tail/paw clipping. Fine ear carriage and wolf-claw anatomy hidden under coats require final human close review; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "拉肯努阿：浅黄褐粗硬蓬乱毛、深口鼻，中大型近方形中等骨量、楔头、中长口吻、三角立耳、棕眼；短硬胡须毛与身体粗毛，不是丝长毛或紧卷毛。腿修长、天然中长尾低弯，站姿灵巧。"
+}
