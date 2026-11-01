@@ -1,0 +1,125 @@
+{
+  "breed_id": "B097",
+  "name": "维兹拉犬",
+  "slug": "vizsla",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B097-full-v01",
+  "prompt_path": "artifacts/illustrations/B097/full/v01/prompt.txt",
+  "prompt_sha256": "d44c6cac5960b5dd77cc7ff967fb8d50bb63bfce4bf9068f9307ccc8a1c1f466",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-135ecd64-bd03-4f56-9405-1eec044ded85.png",
+  "saved_at": "2026-11-01T05:06:39.099327+00:00",
+  "raw_path": "artifacts/illustrations/B097/full/v01/raw.png",
+  "raw_sha256": "10b96ac701ea03974f3c43c442e85aa03a3d53694d06b7e9ed04da8148581800",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1092035,
+    "opaque_pixels": 902,
+    "partial_alpha_pixels": 479579,
+    "bbox": [
+      0,
+      31,
+      1238,
+      1254
+    ],
+    "core_translucent_pixels": 412553,
+    "core_pixels": 412553
+  },
+  "path": "public/assets/dogs/full/vizsla-full.png",
+  "sha256": "8b80cc04b62ec59885f77c335494a6e3f9d261eaa32267e1f574994c5de70894",
+  "pixels_sha256": "a6235997dc03b7878c3fb3c8f1f71312d6c6ac8daf040f723b13179b3fbf3c77",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      131,
+      47,
+      1197,
+      1188
+    ],
+    "uniform_scale": 0.7177914110429447,
+    "resized_dimensions": [
+      765,
+      819
+    ],
+    "position": [
+      129,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 412553,
+    "near_opaque_adjusted": 430947
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 807079,
+    "opaque_pixels": 224817,
+    "partial_alpha_pixels": 16680,
+    "bbox": [
+      129,
+      102,
+      894,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 205150,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      129,
+      102,
+      130,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "维兹拉：中大型轻巧精瘦肌肉、长头适度长口吻、薄长贴颊垂耳、棕眼与自然棕鼻，统一金锈色短毛；长颈深胸收腰长腿，天然长尾微弯平伸。四足站立，与魏玛区别色彩和头身不只换色。"
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B098",
+  "name": "英国指示犬",
+  "slug": "english-pointer",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B098-full-v01",
+  "prompt_path": "artifacts/illustrations/B098/full/v01/prompt.txt",
+  "prompt_sha256": "7d16c58d503734ce0b779537e6832d0d09414102e23a5d3e5f7240a81bef1d67",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-27ac811a-9195-4a97-a0a9-b67c217c1e8d.png",
+  "saved_at": "2026-11-01T05:07:33.082238+00:00",
+  "raw_path": "artifacts/illustrations/B098/full/v01/raw.png",
+  "raw_sha256": "e6354301ee554fd6564f912223c077d75a3d62c766495193e102c8d8a7deed2a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1154855,
+    "opaque_pixels": 652,
+    "partial_alpha_pixels": 417009,
+    "bbox": [
+      0,
+      39,
+      1221,
+      1254
+    ],
+    "core_translucent_pixels": 357319,
+    "core_pixels": 357319
+  },
+  "path": "public/assets/dogs/full/english-pointer-full.png",
+  "sha256": "53cd7889c1fb7d9500cba0f1c89e3bc09d669e1191728a44c552c446710490dc",
+  "pixels_sha256": "fc80f8e51807ad1699c457f7aa3433c3fcb5033e749ae6d47dc3887071f09946",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      135,
+      114,
+      1220,
+      1155
+    ],
+    "uniform_scale": 0.7548387096774194,
+    "resized_dimensions": [
+      819,
+      786
+    ],
+    "position": [
+      102,
+      135
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 357319,
+    "near_opaque_adjusted": 373626
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 816338,
+    "opaque_pixels": 215436,
+    "partial_alpha_pixels": 16802,
+    "bbox": [
+      102,
+      135,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 197659,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      135,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "英国指示：中大型高挑干净骨架、长头、长方口吻与略凹鼻梁、薄贴颊垂耳；选择黑白大片短毛，深胸收腰长腿、细长鞭尾自然平伸。四足侧站一前足略提前但落地，轮廓轻盈不臃肿。"
+}

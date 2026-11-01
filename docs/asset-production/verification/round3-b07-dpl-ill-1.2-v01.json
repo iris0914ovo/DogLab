@@ -1,0 +1,183 @@
+{
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "production_commit": "c1e044db27ce38ae2dca4311644d914814fd9589",
+  "checked_at": "2026-11-01T05:04:38.618962+00:00",
+  "success": true,
+  "method": "Independent temporary Git repository fetch, actual remote blob SHA256/PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/irish-water-spaniel-full.png",
+      "sha256": "63e9029c32b221233b82cc3c53ef40111765a6447f08382e39f766825ab118ee",
+      "bytes": 814827
+    },
+    {
+      "path": "artifacts/illustrations/B085/full/v01/raw.png",
+      "sha256": "ada0de84515682081e92da8a8e73830cbc6b1115ca4c951fd0f1d99f7030ccad",
+      "bytes": 1675855
+    },
+    {
+      "path": "artifacts/illustrations/B085/full/v01/prompt.txt",
+      "sha256": "ef00d8c8fde82a5f8d8e7b174f7e5a0a10ab197c41c58b6f2153ce8e9bd0d562",
+      "bytes": 1535
+    },
+    {
+      "path": "public/assets/dogs/full/american-water-spaniel-full.png",
+      "sha256": "625ed35843a1ad07b943bc640a2971279f7c7d517946b40ec9e5ae311ba2143e",
+      "bytes": 762823
+    },
+    {
+      "path": "artifacts/illustrations/B086/full/v01/raw.png",
+      "sha256": "3827ad69710903f55c7834fb1214310c922fda6ee9a4bbdd7bd89630c3d604be",
+      "bytes": 1598148
+    },
+    {
+      "path": "artifacts/illustrations/B086/full/v01/prompt.txt",
+      "sha256": "ba1fcac032f3d42db38a00c5f3d2317ab120ef05d671379a9adb71431f8cc449",
+      "bytes": 1514
+    },
+    {
+      "path": "public/assets/dogs/full/portuguese-water-dog-full.png",
+      "sha256": "b5756105c658b048adcf4933e2d5fd89425e98d822ae964613f48fde59ca41c1",
+      "bytes": 981657
+    },
+    {
+      "path": "artifacts/illustrations/B087/full/v01/raw.png",
+      "sha256": "c7b7a23d269869d08216d9b207c0a529974c6bebd35a7f4d5d05357dbb4580f3",
+      "bytes": 1944747
+    },
+    {
+      "path": "artifacts/illustrations/B087/full/v01/prompt.txt",
+      "sha256": "a4140bb2649e03d85357a48c37b5375ca48e7c189bf5e35e3907075748eace1d",
+      "bytes": 1521
+    },
+    {
+      "path": "public/assets/dogs/full/spanish-water-dog-full.png",
+      "sha256": "a5d0d388907678b01258d272c1c1a93b3a92ad99570f1861f86581d2cfac303c",
+      "bytes": 996938
+    },
+    {
+      "path": "artifacts/illustrations/B088/full/v01/raw.png",
+      "sha256": "673971233bca82dc22607d9f6b693db48a25bb5a99ea3636ac1e1ba16567a3eb",
+      "bytes": 1797278
+    },
+    {
+      "path": "artifacts/illustrations/B088/full/v01/prompt.txt",
+      "sha256": "eb579d1badeb35b5468ef01b62557bb54c44cbdc493370fca1519f52ae810ff1",
+      "bytes": 1512
+    },
+    {
+      "path": "public/assets/dogs/full/lagotto-romagnolo-full.png",
+      "sha256": "190f115bc86c5487378b1a18351e854ee443da3247558d9800a868f8f03981e7",
+      "bytes": 1059742
+    },
+    {
+      "path": "artifacts/illustrations/B089/full/v01/raw.png",
+      "sha256": "b76009f316b19c73ea3b410f7666a57223923850994b6a6f75278993ff9e3c12",
+      "bytes": 2064903
+    },
+    {
+      "path": "artifacts/illustrations/B089/full/v01/prompt.txt",
+      "sha256": "3bd38512fb3c287a2fcf209780f32544d0f4caa350643a2407f9aae209f4c98d",
+      "bytes": 1509
+    },
+    {
+      "path": "public/assets/dogs/full/chesapeake-bay-retriever-full.png",
+      "sha256": "4f2a59e007acdc97c0a188f59457eab478317741baeb7895ad635e9c56d7248f",
+      "bytes": 777113
+    },
+    {
+      "path": "artifacts/illustrations/B090/full/v01/raw.png",
+      "sha256": "5d35f381d62a7912a58e4fa53c58d92b4f174587dfe22699586b8f9989d9c46a",
+      "bytes": 1442953
+    },
+    {
+      "path": "artifacts/illustrations/B090/full/v01/prompt.txt",
+      "sha256": "3bd38091ed736c2ef4d34e06cf1a688f1262885a968aef7bd14147129b9cbe6c",
+      "bytes": 1537
+    },
+    {
+      "path": "public/assets/dogs/full/flat-coated-retriever-full.png",
+      "sha256": "81601d74090462dd7548bd7b22757e4037e4994d9b7b4a5c9b85156a3c8228ef",
+      "bytes": 742209
+    },
+    {
+      "path": "artifacts/illustrations/B091/full/v01/raw.png",
+      "sha256": "9d747401ddd6a473e78e12d1dde6604938bac1798ec7e37de7951bd12094d5ee",
+      "bytes": 1503038
+    },
+    {
+      "path": "artifacts/illustrations/B091/full/v01/prompt.txt",
+      "sha256": "6b9ccb10e01da578a377305344ac893cc0c6495f9792f6f85512e04e844374ee",
+      "bytes": 1528
+    },
+    {
+      "path": "public/assets/dogs/full/curly-coated-retriever-full.png",
+      "sha256": "533d8ed12d333d5fc5016f1f2919a208ddfbd1ccfff246fbb80be80a7a993d08",
+      "bytes": 679515
+    },
+    {
+      "path": "artifacts/illustrations/B092/full/v01/raw.png",
+      "sha256": "a0b043ebbdfbfdfccbf6e2be57bbd1a4a46541c51cae2db3e9a243c92b9a52b6",
+      "bytes": 1288093
+    },
+    {
+      "path": "artifacts/illustrations/B092/full/v01/prompt.txt",
+      "sha256": "64c426243adb7623d2ff7731327e2ab2b94f953f421987c5e3c02deecd7fae03",
+      "bytes": 1505
+    },
+    {
+      "path": "public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png",
+      "sha256": "4ac48139c31c2c9b090021aafba045a2d110de8b907c9f93b885e90bb38fceb8",
+      "bytes": 803760
+    },
+    {
+      "path": "artifacts/illustrations/B093/full/v01/raw.png",
+      "sha256": "035872a6189d80b087fc6ba1a2b77dfc36ac692e12fc893ed0b6f28da2a6b21b",
+      "bytes": 1643041
+    },
+    {
+      "path": "artifacts/illustrations/B093/full/v01/prompt.txt",
+      "sha256": "aee732b585e3b56bee3affb4f4f0269fdbdaafb1397e7c799665eab3f28c6f3b",
+      "bytes": 1532
+    },
+    {
+      "path": "public/assets/dogs/full/german-shorthaired-pointer-full.png",
+      "sha256": "0357106cd55a16d06ac82670bb2552b0f501206372457c7b625ccfff40bb27d7",
+      "bytes": 717350
+    },
+    {
+      "path": "artifacts/illustrations/B094/full/v01/raw.png",
+      "sha256": "4674adc80b6124cef37f0247bd4e8688fecd4d8da8acb75ac188318b6c2e2045",
+      "bytes": 1470756
+    },
+    {
+      "path": "artifacts/illustrations/B094/full/v01/prompt.txt",
+      "sha256": "c8b5086684cd73492463a3c2eb46e7ab5f384d461a3574c3e483335b24563c1c",
+      "bytes": 1524
+    },
+    {
+      "path": "public/assets/dogs/full/german-wirehaired-pointer-full.png",
+      "sha256": "ee5ae3914fff8a3327b9c4265aa7304f1f6ae7499c55adb5add958b5901bac2f",
+      "bytes": 814762
+    },
+    {
+      "path": "artifacts/illustrations/B095/full/v01/raw.png",
+      "sha256": "9efd621ea97203407a389036c212e3a9947a4adc653c8c1825b8aab13ecc491d",
+      "bytes": 1709835
+    },
+    {
+      "path": "artifacts/illustrations/B095/full/v01/prompt.txt",
+      "sha256": "302478a98bb21c3127086d8e122ff859fde8da5a4e4ba2ac9989e12bdc379f84",
+      "bytes": 1523
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b07-dpl-ill-1.2-v01-paper.png",
+      "sha256": "b36994a0c67eec60e03c613d9e70b0e3f87b6bb4918839751d474d5fee8bff5e"
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b07-dpl-ill-1.2-v01-ink.png",
+      "sha256": "7a45674d698ca19e6e7cbe8e841bcb78e02c75668ccd7d7e035f0adb77d3ae01"
+    }
+  ],
+  "main_unchanged": true
+}

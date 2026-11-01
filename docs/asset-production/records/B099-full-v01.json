@@ -1,0 +1,125 @@
+{
+  "breed_id": "B099",
+  "name": "英国塞特犬",
+  "slug": "english-setter",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B099-full-v01",
+  "prompt_path": "artifacts/illustrations/B099/full/v01/prompt.txt",
+  "prompt_sha256": "110c1babac4ac08edc8e3c789f579bfb20592467f1a1ab0afa0ccaac8acdaccc",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-27808a74-3424-47d6-9e65-48c721eb6e53.png",
+  "saved_at": "2026-11-01T05:07:22.630668+00:00",
+  "raw_path": "artifacts/illustrations/B099/full/v01/raw.png",
+  "raw_sha256": "de6d581b994f3825fb27ffdc47b9cbd2599a7e6c431d2066ec6a9acab5d165e0",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 925716,
+    "opaque_pixels": 61,
+    "partial_alpha_pixels": 646739,
+    "bbox": [
+      0,
+      21,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 528550,
+    "core_pixels": 528550
+  },
+  "path": "public/assets/dogs/full/english-setter-full.png",
+  "sha256": "d04a69024f6eb556c2fcfafb9c8089c3f0b375169dc43ac6924cca50f5398c4b",
+  "pixels_sha256": "8463c7a2777f7f192063d3ce0958396e194b4a999095b342b1b007588b4ef48a",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      64,
+      113,
+      1228,
+      1163
+    ],
+    "uniform_scale": 0.7036082474226805,
+    "resized_dimensions": [
+      819,
+      739
+    ],
+    "position": [
+      102,
+      182
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 528550,
+    "near_opaque_adjusted": 510982
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 746037,
+    "opaque_pixels": 264014,
+    "partial_alpha_pixels": 38525,
+    "bbox": [
+      102,
+      182,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 254968,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      182,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "英国塞特：中大型优雅长身、长窄头长口吻、贴颊中长垂耳，白底细小橙色belton斑而非大块斑；丝质长毛与腿后饰毛，长颈正常长腿、长羽毛尾平伸。四足侧站，自然丝毛不过拖地。"
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B105",
+  "name": "波士顿梗",
+  "slug": "boston-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B105-full-v01",
+  "prompt_path": "artifacts/illustrations/B105/full/v01/prompt.txt",
+  "prompt_sha256": "44edf3b8b446dcdee708150cef97718dc1eee6977a87198cdbbbe37bf0d0b1fe",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-d28fe0ee-e987-463e-b358-8deec7d18fae.png",
+  "saved_at": "2026-11-01T05:10:51.343944+00:00",
+  "raw_path": "artifacts/illustrations/B105/full/v01/raw.png",
+  "raw_sha256": "8fa8848296174fdc4451aaa189bf02ca3080e7550e2c84cd2106d5deb5c04dec",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1026957,
+    "opaque_pixels": 193,
+    "partial_alpha_pixels": 545366,
+    "bbox": [
+      0,
+      23,
+      1218,
+      1254
+    ],
+    "core_translucent_pixels": 472835,
+    "core_pixels": 472835
+  },
+  "path": "public/assets/dogs/full/boston-terrier-full.png",
+  "sha256": "f6b267be66fe68238e473b1ff703a41e915ea6872868614b4908788a9671979b",
+  "pixels_sha256": "ee7c31367c2b9b6379c56cc3dec0dbbaa8453d05a805907a94b0394704cca538",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      223,
+      42,
+      1177,
+      1200
+    ],
+    "uniform_scale": 0.7072538860103627,
+    "resized_dimensions": [
+      675,
+      819
+    ],
+    "position": [
+      174,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 472835,
+    "near_opaque_adjusted": 482602
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 786603,
+    "opaque_pixels": 243855,
+    "partial_alpha_pixels": 18118,
+    "bbox": [
+      174,
+      102,
+      849,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 230507,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      174,
+      102,
+      175,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "波士顿梗：小型紧凑近方身、方头但保留可辨短口吻、小尖立耳、正常眼睛不突出；黑白燕尾服样自然毛色、白鼻胸足端，短贴毛、细中等腿。天然短尾自然保留，四足站立不夸张短鼻。"
+}

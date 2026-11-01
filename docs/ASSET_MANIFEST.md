@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前98张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成80/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前109张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成91/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -107,18 +107,18 @@
 | B093 | 新斯科舍诱鸭寻回犬 | Nova Scotia Duck Tolling Retriever | nova-scotia-duck-tolling-retriever | 否 | public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B094 | 德国短毛指示犬 | German Shorthaired Pointer | german-shorthaired-pointer | 否 | public/assets/dogs/full/german-shorthaired-pointer-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/german-shorthaired-pointer-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B095 | 德国刚毛指示犬 | German Wirehaired Pointer | german-wirehaired-pointer | 否 | public/assets/dogs/full/german-wirehaired-pointer-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/german-wirehaired-pointer-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B096 | 魏玛犬 | Weimaraner | weimaraner | 否 | public/assets/dogs/full/weimaraner-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B097 | 维兹拉犬 | Vizsla | vizsla | 否 | public/assets/dogs/full/vizsla-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B098 | 英国指示犬 | English Pointer | english-pointer | 否 | public/assets/dogs/full/english-pointer-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B099 | 英国塞特犬 | English Setter | english-setter | 否 | public/assets/dogs/full/english-setter-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B100 | 爱尔兰塞特犬 | Irish Setter | irish-setter | 否 | public/assets/dogs/full/irish-setter-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B101 | 戈登塞特犬 | Gordon Setter | gordon-setter | 否 | public/assets/dogs/full/gordon-setter-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B102 | 布列塔尼犬 | Brittany | brittany | 否 | public/assets/dogs/full/brittany-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B103 | 英国斗牛犬 | Bulldog | bulldog | 否 | public/assets/dogs/full/bulldog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B096 | 魏玛犬 | Weimaraner | weimaraner | 否 | public/assets/dogs/full/weimaraner-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/weimaraner-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B097 | 维兹拉犬 | Vizsla | vizsla | 否 | public/assets/dogs/full/vizsla-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/vizsla-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B098 | 英国指示犬 | English Pointer | english-pointer | 否 | public/assets/dogs/full/english-pointer-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/english-pointer-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B099 | 英国塞特犬 | English Setter | english-setter | 否 | public/assets/dogs/full/english-setter-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/english-setter-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B100 | 爱尔兰塞特犬 | Irish Setter | irish-setter | 否 | public/assets/dogs/full/irish-setter-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/irish-setter-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B101 | 戈登塞特犬 | Gordon Setter | gordon-setter | 否 | public/assets/dogs/full/gordon-setter-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/gordon-setter-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B102 | 布列塔尼犬 | Brittany | brittany | 否 | public/assets/dogs/full/brittany-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/brittany-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B103 | 英国斗牛犬 | Bulldog | bulldog | 否 | public/assets/dogs/full/bulldog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/bulldog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B104 | 法国斗牛犬 | French Bulldog | french-bulldog | 否 | public/assets/dogs/full/french-bulldog-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/french-bulldog-full.png | 第二轮AI检查：保留自然短口吻、可辨鼻部、蝙蝠耳与正常四肢支撑，未见极端压平或痛苦喘气；插画观察不能诊断实际呼吸道健康。 待用户审核。 |
-| B105 | 波士顿梗 | Boston Terrier | boston-terrier | 否 | public/assets/dogs/full/boston-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B106 | 巴哥犬 | Pug | pug | 否 | public/assets/dogs/full/pug-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B107 | 北京犬 | Pekingese | pekingese | 否 | public/assets/dogs/full/pekingese-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B105 | 波士顿梗 | Boston Terrier | boston-terrier | 否 | public/assets/dogs/full/boston-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/boston-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B106 | 巴哥犬 | Pug | pug | 否 | public/assets/dogs/full/pug-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pug-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B107 | 北京犬 | Pekingese | pekingese | 否 | public/assets/dogs/full/pekingese-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pekingese-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B108 | 西施犬 | Shih Tzu | shih-tzu | 否 | public/assets/dogs/full/shih-tzu-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B109 | 拉萨犬 | Lhasa Apso | lhasa-apso | 否 | public/assets/dogs/full/lhasa-apso-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B110 | 马尔济斯犬 | Maltese | maltese | 否 | public/assets/dogs/full/maltese-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库80/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库91/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

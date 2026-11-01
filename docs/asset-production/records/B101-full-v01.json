@@ -1,0 +1,125 @@
+{
+  "breed_id": "B101",
+  "name": "戈登塞特犬",
+  "slug": "gordon-setter",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B101-full-v01",
+  "prompt_path": "artifacts/illustrations/B101/full/v01/prompt.txt",
+  "prompt_sha256": "b54bc6db5ca4ea4070b51b5ef866dd45276274b1f3c88c09d3be78134c453aa9",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-20791e87-fa3e-4099-be83-1beb39f9bc3c.png",
+  "saved_at": "2026-11-01T05:08:32.711601+00:00",
+  "raw_path": "artifacts/illustrations/B101/full/v01/raw.png",
+  "raw_sha256": "e19ff8eee7c0e67f09b473552f86582c05194602597e11a6a21c49f978479e83",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 927299,
+    "opaque_pixels": 251,
+    "partial_alpha_pixels": 644966,
+    "bbox": [
+      0,
+      47,
+      1253,
+      1254
+    ],
+    "core_translucent_pixels": 540492,
+    "core_pixels": 540494
+  },
+  "path": "public/assets/dogs/full/gordon-setter-full.png",
+  "sha256": "695ff7b7751c5d1c4f1af4011be1f5357c05374b37eba0e5260d72dee772c77a",
+  "pixels_sha256": "2dc6dc29002a3c445f5a062344776cd2244e9f884d608b016917245e241b393b",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      58,
+      84,
+      1238,
+      1157
+    ],
+    "uniform_scale": 0.6940677966101695,
+    "resized_dimensions": [
+      819,
+      745
+    ],
+    "position": [
+      102,
+      176
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 540492,
+    "near_opaque_adjusted": 542886
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 747061,
+    "opaque_pixels": 266430,
+    "partial_alpha_pixels": 35085,
+    "bbox": [
+      102,
+      176,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 253467,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      176,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "戈登塞特：大型骨量较结实的塞特、长宽适度头、长口吻、长垂耳；黑色中长丝毛配棕眉颊下腿，深胸正常长腿比爱尔兰型更厚实，长羽毛尾平缓伸出。四足稳站，非罗威纳短毛粗头。"
+}

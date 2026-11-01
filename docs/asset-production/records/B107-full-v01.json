@@ -1,0 +1,125 @@
+{
+  "breed_id": "B107",
+  "name": "北京犬",
+  "slug": "pekingese",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B107-full-v01",
+  "prompt_path": "artifacts/illustrations/B107/full/v01/prompt.txt",
+  "prompt_sha256": "cad1f82d70b4914add3b3cbd56347988059d24ae93b5109c6fdd367a04cc5449",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-0351fd0f-469a-4afd-8436-d0b5781af716.png",
+  "saved_at": "2026-11-01T05:10:52.865057+00:00",
+  "raw_path": "artifacts/illustrations/B107/full/v01/raw.png",
+  "raw_sha256": "1be002ad3d3015fc86a816a51932cd0857ab9503039afd04e21a9c128d6c8bd2",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740771,
+    "opaque_pixels": 17,
+    "partial_alpha_pixels": 831728,
+    "bbox": [
+      0,
+      4,
+      1250,
+      1254
+    ],
+    "core_translucent_pixels": 728300,
+    "core_pixels": 728300
+  },
+  "path": "public/assets/dogs/full/pekingese-full.png",
+  "sha256": "47b1526c06a591a2596afe33e7094dbf360a17789eb3eed68853ed3a93dc5e08",
+  "pixels_sha256": "010d777c19de3da8da2b8ecdee82972bac80ed1f3f1777a21d3940a3eca06647",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      22,
+      192,
+      1242,
+      1107
+    ],
+    "uniform_scale": 0.671311475409836,
+    "resized_dimensions": [
+      819,
+      614
+    ],
+    "position": [
+      102,
+      307
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 728300,
+    "near_opaque_adjusted": 714831
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 682118,
+    "opaque_pixels": 329690,
+    "partial_alpha_pixels": 36768,
+    "bbox": [
+      102,
+      307,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 322250,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      307,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "北京犬：小型较低长身、宽头但不过分压平口吻、心形下垂耳藏于饰毛，黑鼻深眼不突出；选择红金白胸双层长毛颈鬃丰富、前腿短结实、脚掌露出。天然长饰毛尾轻覆背，四足站立，不以极端扁脸为卖点。"
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B100",
+  "name": "爱尔兰塞特犬",
+  "slug": "irish-setter",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B100-full-v01",
+  "prompt_path": "artifacts/illustrations/B100/full/v01/prompt.txt",
+  "prompt_sha256": "1908ba979a15d56bab62607a83f7e0f153b2b4986bcc2ace0b6956d326f4775f",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-842c9ab3-7379-45e2-8982-aef74980dba5.png",
+  "saved_at": "2026-11-01T05:08:11.844471+00:00",
+  "raw_path": "artifacts/illustrations/B100/full/v01/raw.png",
+  "raw_sha256": "38a15eb4038272e82ac2a404022e17c350a164113d096d1efbcb85c57a3e1c7e",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 964887,
+    "opaque_pixels": 173,
+    "partial_alpha_pixels": 607456,
+    "bbox": [
+      0,
+      31,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 493102,
+    "core_pixels": 493102
+  },
+  "path": "public/assets/dogs/full/irish-setter-full.png",
+  "sha256": "c80d8a3841f9413a530a294196fce8be93c3dd93aa0a14d1ffd71a33962bc593",
+  "pixels_sha256": "5554affeffce92245a59b14ab4377efe984bae612bbcf6f78f7e295e3b5e1cf7",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      90,
+      89,
+      1238,
+      1170
+    ],
+    "uniform_scale": 0.7134146341463414,
+    "resized_dimensions": [
+      819,
+      771
+    ],
+    "position": [
+      102,
+      150
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 493102,
+    "near_opaque_adjusted": 493374
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 748309,
+    "opaque_pixels": 257340,
+    "partial_alpha_pixels": 42927,
+    "bbox": [
+      102,
+      150,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 243669,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      150,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "爱尔兰塞特：大型修长轻盈、长窄头、长口吻、长贴颊垂耳、深棕眼，纯红栗丝质长毛；长颈深胸收腰长腿，胸腹腿后羽毛饰毛，天然长羽毛尾平伸。四足微错步，颅不圆，区别金毛宽头厚骨。"
+}

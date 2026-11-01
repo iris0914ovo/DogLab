@@ -1,0 +1,125 @@
+{
+  "breed_id": "B096",
+  "name": "魏玛犬",
+  "slug": "weimaraner",
+  "asset_kind": "full",
+  "batch_id": "round3-b08-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B096-full-v01",
+  "prompt_path": "artifacts/illustrations/B096/full/v01/prompt.txt",
+  "prompt_sha256": "5d81bd920e24d44a2f2f66495e05b02aa6a70cd9e06310cb9ee730a092423930",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-7d223a7c-1f99-4a46-9869-810584c73955.png",
+  "saved_at": "2026-11-01T05:06:37.640161+00:00",
+  "raw_path": "artifacts/illustrations/B096/full/v01/raw.png",
+  "raw_sha256": "6f1c6c4fea03ff15bafaae1e86433ed41aca566c3c05f3dd12fffe654b6580d9",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1053967,
+    "opaque_pixels": 860,
+    "partial_alpha_pixels": 517689,
+    "bbox": [
+      0,
+      3,
+      1242,
+      1254
+    ],
+    "core_translucent_pixels": 447347,
+    "core_pixels": 447347
+  },
+  "path": "public/assets/dogs/full/weimaraner-full.png",
+  "sha256": "f586d3e5b0ec39f85fdf14afb2258105828d7cd6b626714a82dd43aff6ac04cd",
+  "pixels_sha256": "e054b0c68408042e4a5926b55bb083de0e021a9ecb637836ff320d22ee31a1d8",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      173,
+      43,
+      1199,
+      1209
+    ],
+    "uniform_scale": 0.7024013722126929,
+    "resized_dimensions": [
+      721,
+      819
+    ],
+    "position": [
+      151,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 447347,
+    "near_opaque_adjusted": 466099
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 800184,
+    "opaque_pixels": 232623,
+    "partial_alpha_pixels": 15769,
+    "bbox": [
+      151,
+      102,
+      872,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 213300,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      151,
+      102,
+      152,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: pointer and setter coats/body proportions distinguishable; Bulldog/Boston/Pug/Pekingese retain separate ear, head and body profiles with visible noses and complete paws/tails. No obvious clipping. Short-muzzle proportions and skin folds remain final human welfare/anatomy review points; no clinical health inference or automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "魏玛选短毛：大型修长运动型、长头长有力口吻、长自然垂耳、自然浅琥珀眼，银灰均匀短毛与柔和阴影；长颈深胸收腰长腿，天然长尾微弯后伸不截断。四足稳站，不油亮3D，不画无毛皮肤。"
+}
