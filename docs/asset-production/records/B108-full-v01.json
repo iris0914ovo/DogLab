@@ -1,0 +1,125 @@
+{
+  "breed_id": "B108",
+  "name": "西施犬",
+  "slug": "shih-tzu",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B108-full-v01",
+  "prompt_path": "artifacts/illustrations/B108/full/v01/prompt.txt",
+  "prompt_sha256": "906d8c636a7a09b2560c1ec21164f7b9f1851e530ffb48810dcb44ae3430445b",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-2412173f-5a14-4bb7-940f-cfa2bd0a1257.png",
+  "saved_at": "2026-11-01T05:14:35.483912+00:00",
+  "raw_path": "artifacts/illustrations/B108/full/v01/raw.png",
+  "raw_sha256": "1e6ba7a326700701b0e72369360094ef71cef12ff8cb4fb18668643c815eff6e",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 742997,
+    "opaque_pixels": 18,
+    "partial_alpha_pixels": 829501,
+    "bbox": [
+      0,
+      21,
+      1242,
+      1254
+    ],
+    "core_translucent_pixels": 738278,
+    "core_pixels": 738278
+  },
+  "path": "public/assets/dogs/full/shih-tzu-full.png",
+  "sha256": "70c0690a8b2c62655f8f6163f95d95bbfbf41c04b2a5cb92fcfcd4ee83a9a213",
+  "pixels_sha256": "f2213048ca4f4c41d72e908f05e5c89fb39b4229c084a50384302e5d57e79e5b",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      77,
+      163,
+      1238,
+      1168
+    ],
+    "uniform_scale": 0.7054263565891473,
+    "resized_dimensions": [
+      819,
+      709
+    ],
+    "position": [
+      102,
+      212
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 738278,
+    "near_opaque_adjusted": 731308
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 646679,
+    "opaque_pixels": 370269,
+    "partial_alpha_pixels": 31628,
+    "bbox": [
+      102,
+      212,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 361566,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      212,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "西施：小型结实略长身、圆颅中短可辨口吻、下垂耳覆毛、眼睛不凸，金白长柔毛、面部向两侧分开露眼鼻；腿短但可辨脚掌、全身毛不拖地，长尾覆背。四足温和站立，不绑发饰衣服，不夸张短鼻。"
+}

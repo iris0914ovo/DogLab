@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前109张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成91/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前120张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成102/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -119,18 +119,18 @@
 | B105 | 波士顿梗 | Boston Terrier | boston-terrier | 否 | public/assets/dogs/full/boston-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/boston-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B106 | 巴哥犬 | Pug | pug | 否 | public/assets/dogs/full/pug-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pug-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B107 | 北京犬 | Pekingese | pekingese | 否 | public/assets/dogs/full/pekingese-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pekingese-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B108 | 西施犬 | Shih Tzu | shih-tzu | 否 | public/assets/dogs/full/shih-tzu-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B109 | 拉萨犬 | Lhasa Apso | lhasa-apso | 否 | public/assets/dogs/full/lhasa-apso-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B110 | 马尔济斯犬 | Maltese | maltese | 否 | public/assets/dogs/full/maltese-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B111 | 哈瓦那犬 | Havanese | havanese | 否 | public/assets/dogs/full/havanese-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B112 | 棉花面纱犬 | Coton de Tulear | coton-de-tulear | 否 | public/assets/dogs/full/coton-de-tulear-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B113 | 约克夏梗 | Yorkshire Terrier | yorkshire-terrier | 否 | public/assets/dogs/full/yorkshire-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B114 | 丝毛梗 | Silky Terrier | silky-terrier | 否 | public/assets/dogs/full/silky-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B115 | 凯恩梗 | Cairn Terrier | cairn-terrier | 否 | public/assets/dogs/full/cairn-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B108 | 西施犬 | Shih Tzu | shih-tzu | 否 | public/assets/dogs/full/shih-tzu-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/shih-tzu-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B109 | 拉萨犬 | Lhasa Apso | lhasa-apso | 否 | public/assets/dogs/full/lhasa-apso-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/lhasa-apso-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B110 | 马尔济斯犬 | Maltese | maltese | 否 | public/assets/dogs/full/maltese-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/maltese-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B111 | 哈瓦那犬 | Havanese | havanese | 否 | public/assets/dogs/full/havanese-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/havanese-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B112 | 棉花面纱犬 | Coton de Tulear | coton-de-tulear | 否 | public/assets/dogs/full/coton-de-tulear-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/coton-de-tulear-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B113 | 约克夏梗 | Yorkshire Terrier | yorkshire-terrier | 否 | public/assets/dogs/full/yorkshire-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/yorkshire-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B114 | 丝毛梗 | Silky Terrier | silky-terrier | 否 | public/assets/dogs/full/silky-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/silky-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B115 | 凯恩梗 | Cairn Terrier | cairn-terrier | 否 | public/assets/dogs/full/cairn-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/cairn-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B116 | 苏格兰梗 | Scottish Terrier | scottish-terrier | 否 | public/assets/dogs/full/scottish-terrier-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/scottish-terrier-full.png | 第二轮AI检查：小立耳、长头胡须、低身短腿与黑色刚毛可辨，区别于雪纳瑞折耳。 待用户审核。 |
-| B117 | 西利哈姆梗 | Sealyham Terrier | sealyham-terrier | 否 | public/assets/dogs/full/sealyham-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B118 | 爱尔兰梗 | Irish Terrier | irish-terrier | 否 | public/assets/dogs/full/irish-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B117 | 西利哈姆梗 | Sealyham Terrier | sealyham-terrier | 否 | public/assets/dogs/full/sealyham-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/sealyham-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B118 | 爱尔兰梗 | Irish Terrier | irish-terrier | 否 | public/assets/dogs/full/irish-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/irish-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/airedale-terrier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库91/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库102/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

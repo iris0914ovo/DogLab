@@ -1,0 +1,125 @@
+{
+  "breed_id": "B115",
+  "name": "凯恩梗",
+  "slug": "cairn-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B115-full-v01",
+  "prompt_path": "artifacts/illustrations/B115/full/v01/prompt.txt",
+  "prompt_sha256": "fc9ff501ced4d45f7bdf7e9aaa9ac797bb2d43acf91c5e5f4b4d57edbfba11c3",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-4392633d-bd1b-47d8-87cf-4b5b2101a620.png",
+  "saved_at": "2026-11-01T05:17:13.352553+00:00",
+  "raw_path": "artifacts/illustrations/B115/full/v01/raw.png",
+  "raw_sha256": "2c973059e37b78398b30b13ed9ad1fd904fabe143319a7707960ff2f0165b7df",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 756275,
+    "opaque_pixels": 66,
+    "partial_alpha_pixels": 816175,
+    "bbox": [
+      0,
+      19,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 703009,
+    "core_pixels": 703009
+  },
+  "path": "public/assets/dogs/full/cairn-terrier-full.png",
+  "sha256": "8790651ccc67257381e82a24c5a25b8175700feb935993e8aa7ea844257d3143",
+  "pixels_sha256": "835673c577ca132459c8f6bd318343387387a8ca603c188d5f5e2f09436c953a",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      105,
+      54,
+      1216,
+      1220
+    ],
+    "uniform_scale": 0.7024013722126929,
+    "resized_dimensions": [
+      780,
+      819
+    ],
+    "position": [
+      122,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 703009,
+    "near_opaque_adjusted": 690523
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 660136,
+    "opaque_pixels": 349106,
+    "partial_alpha_pixels": 39334,
+    "bbox": [
+      122,
+      102,
+      902,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 339649,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      122,
+      102,
+      122,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "凯恩梗：小型紧凑稍长身、粗硬双层毛，选择麦灰杂色，宽适度头、较短但不扁口吻、小尖立耳、棕眼，脸毛蓬乱自然胡须；腿短结实、天然中短粗尾直举。四足站立，不画纯白西高地换色模板。"
+}

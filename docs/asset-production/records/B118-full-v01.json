@@ -1,0 +1,125 @@
+{
+  "breed_id": "B118",
+  "name": "爱尔兰梗",
+  "slug": "irish-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B118-full-v01",
+  "prompt_path": "artifacts/illustrations/B118/full/v01/prompt.txt",
+  "prompt_sha256": "db56428a2674f9268c47b1d1e565127c811782e76436c21b39ad4364ca63e616",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-ee9e0cd4-617f-4776-b642-f0d7bf3c2e67.png",
+  "saved_at": "2026-11-01T05:17:57.979072+00:00",
+  "raw_path": "artifacts/illustrations/B118/full/v01/raw.png",
+  "raw_sha256": "f26228710e3816015fbbe9c4e4425323bd55393f0aa6fd6a61ef735fad1218f9",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1004443,
+    "opaque_pixels": 103,
+    "partial_alpha_pixels": 567970,
+    "bbox": [
+      0,
+      17,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 446722,
+    "core_pixels": 446722
+  },
+  "path": "public/assets/dogs/full/irish-terrier-full.png",
+  "sha256": "1b5a0662fbb97f192de30a515d6bc7a834955f41dd47031c146b25b03c7b4911",
+  "pixels_sha256": "eb40da69ac2f375a2ea9db261d8d5c5e826cd57e4eb5646d6cbc006b62862642",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      240,
+      55,
+      1172,
+      1182
+    ],
+    "uniform_scale": 0.7267080745341615,
+    "resized_dimensions": [
+      677,
+      819
+    ],
+    "position": [
+      173,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 446722,
+    "near_opaque_adjusted": 444751
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 769541,
+    "opaque_pixels": 240730,
+    "partial_alpha_pixels": 38305,
+    "bbox": [
+      173,
+      102,
+      850,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 229128,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      173,
+      102,
+      174,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "爱尔兰梗：中型修长近方身、长窄头、细长有力口吻、小V形前折耳、深棕眼，红色粗硬毛、克制眉须和腿毛，长腿轻巧有肌肉。天然完整长尾微弯举起，四足稳站，不用万能梗黑鞍色。"
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B112",
+  "name": "棉花面纱犬",
+  "slug": "coton-de-tulear",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B112-full-v01",
+  "prompt_path": "artifacts/illustrations/B112/full/v01/prompt.txt",
+  "prompt_sha256": "70524776b90fd2422534e404576e017ae9fb543c9b93e94a844c0bc8419469f6",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-fe6e7853-70fd-4f9c-b62d-3a8d5af8fe11.png",
+  "saved_at": "2026-11-01T05:16:41.583675+00:00",
+  "raw_path": "artifacts/illustrations/B112/full/v01/raw.png",
+  "raw_sha256": "34b52392a344f2d9e21aca6dcbe67b49accc22a487089212aced3b413ea9cdde",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 858987,
+    "opaque_pixels": 23,
+    "partial_alpha_pixels": 713506,
+    "bbox": [
+      0,
+      19,
+      1242,
+      1254
+    ],
+    "core_translucent_pixels": 637844,
+    "core_pixels": 637844
+  },
+  "path": "public/assets/dogs/full/coton-de-tulear-full.png",
+  "sha256": "35b4dbde006949cef468dd58e28d54bcc655758368ed5a66c73a1710b146b6c9",
+  "pixels_sha256": "c614cc58ffa3700aff8357f597961d3afecd517118de3071a8ed4598f8914b66",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      66,
+      163,
+      1236,
+      1130
+    ],
+    "uniform_scale": 0.7,
+    "resized_dimensions": [
+      819,
+      677
+    ],
+    "position": [
+      102,
+      244
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 637844,
+    "near_opaque_adjusted": 629092
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 708746,
+    "opaque_pixels": 314354,
+    "partial_alpha_pixels": 25476,
+    "bbox": [
+      102,
+      244,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 307540,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      244,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "棉花面纱：小型轻巧长身、短细腿、三角略圆颅、中等细口吻、下垂小耳、黑鼻深眼；白色棉絮般蓬松长毛、软散边缘不是丝滑直毛也不是卷毛球。天然毛尾低垂末端轻弯，四足侧站，脸部不极短鼻。"
+}

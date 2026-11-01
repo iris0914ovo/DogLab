@@ -1,0 +1,125 @@
+{
+  "breed_id": "B113",
+  "name": "约克夏梗",
+  "slug": "yorkshire-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B113-full-v01",
+  "prompt_path": "artifacts/illustrations/B113/full/v01/prompt.txt",
+  "prompt_sha256": "4e3c34030cad977632304a883c32e4964126082950b6c2171eafe43a7d8ada8e",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-9201545e-c941-45bf-834b-00d0cba35658.png",
+  "saved_at": "2026-11-01T05:16:34.956079+00:00",
+  "raw_path": "artifacts/illustrations/B113/full/v01/raw.png",
+  "raw_sha256": "87f22830efce72854965f47ad8c73f0316e3be9f7055f36b80806d21d5320bae",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 920016,
+    "opaque_pixels": 75,
+    "partial_alpha_pixels": 652425,
+    "bbox": [
+      0,
+      3,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 531067,
+    "core_pixels": 531067
+  },
+  "path": "public/assets/dogs/full/yorkshire-terrier-full.png",
+  "sha256": "93b1c66379237757566b9ddd9b007e4bd10ad1ccb17c23047c09373667db68ff",
+  "pixels_sha256": "19555c02aa01c28ce23f7bdeefdf081d56ba398c976454ffcc7c3af51bbb002d",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      186,
+      80,
+      1216,
+      1160
+    ],
+    "uniform_scale": 0.7583333333333333,
+    "resized_dimensions": [
+      781,
+      819
+    ],
+    "position": [
+      121,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 531067,
+    "near_opaque_adjusted": 520496
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 691869,
+    "opaque_pixels": 308938,
+    "partial_alpha_pixels": 47769,
+    "bbox": [
+      121,
+      102,
+      902,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 299392,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      121,
+      102,
+      122,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "约克夏：小型紧凑精细骨架、小平头、中等细口吻、小尖立耳、深眼；钢蓝背与金棕头腿的丝质长毛，中分面部露眼，腿细且脚掌可辨。天然完整长尾后伸不截断，四足挺立，不画玩偶圆头。"
+}

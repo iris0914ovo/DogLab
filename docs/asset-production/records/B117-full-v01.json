@@ -1,0 +1,125 @@
+{
+  "breed_id": "B117",
+  "name": "西利哈姆梗",
+  "slug": "sealyham-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B117-full-v01",
+  "prompt_path": "artifacts/illustrations/B117/full/v01/prompt.txt",
+  "prompt_sha256": "087aabdefdc1a5340eaefc39947452532923fbd4c03ac86b3168f078cd4f1ef8",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-0280efdf-b01a-48a2-b699-64babd849c2b.png",
+  "saved_at": "2026-11-01T05:18:53.213117+00:00",
+  "raw_path": "artifacts/illustrations/B117/full/v01/raw.png",
+  "raw_sha256": "1f1a8104869a429e9ed3b0e83660a3e47d2a2b8ba0661f3953b558a7e7a63dd1",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 834115,
+    "opaque_pixels": 25,
+    "partial_alpha_pixels": 738376,
+    "bbox": [
+      0,
+      9,
+      1241,
+      1254
+    ],
+    "core_translucent_pixels": 656340,
+    "core_pixels": 656340
+  },
+  "path": "public/assets/dogs/full/sealyham-terrier-full.png",
+  "sha256": "5da0aa00b112757314da83b09fa912755d33baceeee2913dc2e7a5da52375aa5",
+  "pixels_sha256": "c3c0569580c2c0183bb5860f5ab45971a964c8909187ecede79abede020cad7d",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      72,
+      163,
+      1235,
+      1131
+    ],
+    "uniform_scale": 0.704213241616509,
+    "resized_dimensions": [
+      819,
+      682
+    ],
+    "position": [
+      102,
+      239
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 656340,
+    "near_opaque_adjusted": 650232
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 695094,
+    "opaque_pixels": 328019,
+    "partial_alpha_pixels": 25463,
+    "bbox": [
+      102,
+      239,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 319740,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      239,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "西利哈姆：小型长身短粗腿、宽长方头与有力长口吻、自然前折耳，白色刚毛、头耳少量棕斑，浓眉长须露眼；脚掌厚实，天然完整中长尾直举不截断。四足侧站，区别苏格兰立耳与黑毛。"
+}

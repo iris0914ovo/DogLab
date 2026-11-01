@@ -1,0 +1,125 @@
+{
+  "breed_id": "B119",
+  "name": "万能梗",
+  "slug": "airedale-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B119-full-v01",
+  "prompt_path": "artifacts/illustrations/B119/full/v01/prompt.txt",
+  "prompt_sha256": "841111615dd9c25c11f5cd1ac98f397cb6454c985c27b5bfc679a7caf661d7f1",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-d9408d48-8d8c-41b7-bffd-3994bdd5ae71.png",
+  "saved_at": "2026-11-01T05:18:54.670820+00:00",
+  "raw_path": "artifacts/illustrations/B119/full/v01/raw.png",
+  "raw_sha256": "d17b051174b72da9bca2f842803a3c0fd10d59657df1660121aa1b4bd86f50f3",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 935448,
+    "opaque_pixels": 184,
+    "partial_alpha_pixels": 636884,
+    "bbox": [
+      0,
+      4,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 537185,
+    "core_pixels": 537185
+  },
+  "path": "public/assets/dogs/full/airedale-terrier-full.png",
+  "sha256": "7a57a72772f1d8a3655fb44e623a2dc5d315ddb25e3c130eda0ff0e1fc39ea49",
+  "pixels_sha256": "bc0a2ed09d779c8eff7db51f267134669a4a443eb3ae274c1cacd675f69f773c",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      181,
+      79,
+      1183,
+      1178
+    ],
+    "uniform_scale": 0.7452229299363057,
+    "resized_dimensions": [
+      747,
+      819
+    ],
+    "position": [
+      138,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 537185,
+    "near_opaque_adjusted": 532375
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 712834,
+    "opaque_pixels": 302265,
+    "partial_alpha_pixels": 33477,
+    "bbox": [
+      138,
+      102,
+      885,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 292420,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      138,
+      102,
+      139,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "万能梗：中大型梗类最大体格、长方长头、长有力口吻、小V形前折耳，黑鞍与棕头腿的刚毛、浓眉胡须，长颈正常长腿、近方形结实身。天然完整长尾高举，四足侧站，不裁耳断尾。"
+}

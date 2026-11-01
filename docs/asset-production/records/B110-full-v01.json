@@ -1,0 +1,125 @@
+{
+  "breed_id": "B110",
+  "name": "马尔济斯犬",
+  "slug": "maltese",
+  "asset_kind": "full",
+  "batch_id": "round3-b09-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B110-full-v01",
+  "prompt_path": "artifacts/illustrations/B110/full/v01/prompt.txt",
+  "prompt_sha256": "dcabd61b5b06913450e6384e211f034e114a5b81ea852fa50b423119d13a4438",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-d1a4a3d6-f9d1-419f-83b8-f5fd1d15e51d.png",
+  "saved_at": "2026-11-01T05:15:38.455300+00:00",
+  "raw_path": "artifacts/illustrations/B110/full/v01/raw.png",
+  "raw_sha256": "7d2f825fbcf1c95c3458f0089f774d0d4669b13b7f5a28ad573036d09d887c52",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 798098,
+    "opaque_pixels": 62,
+    "partial_alpha_pixels": 774356,
+    "bbox": [
+      33,
+      41,
+      1214,
+      1254
+    ],
+    "core_translucent_pixels": 688131,
+    "core_pixels": 688131
+  },
+  "path": "public/assets/dogs/full/maltese-full.png",
+  "sha256": "d31a2df65ee3f906bae8505b37724cae15f93edd3a0c4a5589827d28b2997f0c",
+  "pixels_sha256": "7ea4ee708cda3c65614604bb488ed00b5117ef72e17d0c4aa8347b0f450dc997",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      81,
+      142,
+      1201,
+      1168
+    ],
+    "uniform_scale": 0.73125,
+    "resized_dimensions": [
+      819,
+      750
+    ],
+    "position": [
+      102,
+      171
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 688131,
+    "near_opaque_adjusted": 685614
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 645959,
+    "opaque_pixels": 372268,
+    "partial_alpha_pixels": 30349,
+    "bbox": [
+      102,
+      171,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 361858,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      171,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Shih Tzu/Lhasa face lengths, silky versus cotton-like white coats, erect versus folded terrier ears, Cairn/Sealyham short legs and longer Irish/Airedale profiles visible; no obvious ear/tail/paw clipping. Yorkshire/Silky and white long-coated companion similarities flagged for final human comparison; no automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "马尔济斯：小型轻巧略长身、精巧头、中等可辨口吻、小下垂耳覆盖丝毛，黑鼻小棕眼；纯白丝质直长毛适度修剪不拖地、腿细正常短长，天然羽毛尾覆背。四足站立，不画比熊卷毛圆团。"
+}
