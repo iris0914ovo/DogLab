@@ -1,0 +1,124 @@
+{
+  "breed_id": "B044",
+  "name": "德国狐狸犬（中型）",
+  "slug": "german-spitz-mittel",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B044-full-v01",
+  "prompt_path": "artifacts/illustrations/B044/full/v01/prompt.txt",
+  "prompt_sha256": "da7bbf09d37bac461d8519cda99ab205c86e67587c32b9a01acabf427fdc43d2",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-41f30cf4-18ec-4260-8cfc-bbebd0392d2f.png",
+  "saved_at": "2026-11-01T04:22:52.605118+00:00",
+  "raw_path": "artifacts/illustrations/B044/full/v01/raw.png",
+  "raw_sha256": "8bde1f76de25f0f6f092f59aaa1dba0abefa68b5627439f56d86b80a1bfa92fd",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 716581,
+    "opaque_pixels": 109,
+    "partial_alpha_pixels": 855826,
+    "bbox": [
+      0,
+      0,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 751175,
+    "core_pixels": 751175
+  },
+  "path": "public/assets/dogs/full/german-spitz-mittel-full.png",
+  "sha256": "1260e35fee6647d8fc96b9d51a1061efbc4c2fb166620603bef52bcba7a7bdd3",
+  "pixels_sha256": "bc935f41781c7c8ea8f18f383f57a4d66d8c6ff47860a0de071fb0bdeb3bb82c",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      129,
+      54,
+      1174,
+      1208
+    ],
+    "uniform_scale": 0.7097053726169844,
+    "resized_dimensions": [
+      742,
+      819
+    ],
+    "position": [
+      141,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 751175,
+    "near_opaque_adjusted": 744248
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 634656,
+    "opaque_pixels": 382036,
+    "partial_alpha_pixels": 31884,
+    "bbox": [
+      141,
+      102,
+      883,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 372117,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      141,
+      102,
+      141,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "中型德国狐狸犬：白色双层长毛，紧凑中小型正常腿长、狐狸楔头、细中长口吻、直立三角耳、深眼；丰颈围但不过大，背上羽毛卷尾。四足站立，身体与耳口吻比例区别于博美微型造型。"
+}

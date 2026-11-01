@@ -1,0 +1,124 @@
+{
+  "breed_id": "B041",
+  "name": "瑞典瓦尔杭犬",
+  "slug": "swedish-vallhund",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B041-full-v01",
+  "prompt_path": "artifacts/illustrations/B041/full/v01/prompt.txt",
+  "prompt_sha256": "da1f4ecfb6eb02fb1dee40954a08038b5e7fd71a68c1390cf789c310a97ad60a",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-33353a0e-db09-47f2-a9e8-b5b440f9ac85.png",
+  "saved_at": "2026-11-01T04:21:50.715733+00:00",
+  "raw_path": "artifacts/illustrations/B041/full/v01/raw.png",
+  "raw_sha256": "a36103a1492f8416f8c12983b4a6692f7d1347ea379868054d4da8ac14b1a718",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 908124,
+    "opaque_pixels": 201,
+    "partial_alpha_pixels": 664191,
+    "bbox": [
+      0,
+      0,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 584724,
+    "core_pixels": 584724
+  },
+  "path": "public/assets/dogs/full/swedish-vallhund-full.png",
+  "sha256": "8a72c38df79c9599517ca4d82afdc73bb62784a3843ff5044e20ecfd3a798c5b",
+  "pixels_sha256": "a01df720117453bfc5e29c82048cdf09c684cd38b7eb4aa20cb050a7812c016c",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      144,
+      108,
+      1226,
+      1174
+    ],
+    "uniform_scale": 0.7569316081330869,
+    "resized_dimensions": [
+      819,
+      807
+    ],
+    "position": [
+      102,
+      114
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 584724,
+    "near_opaque_adjusted": 587556
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 681239,
+    "opaque_pixels": 340597,
+    "partial_alpha_pixels": 26740,
+    "bbox": [
+      102,
+      114,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 329802,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      114,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "瑞典瓦尔杭：小型长身短腿、结实胸与短腰、灰狼色双层短毛、细楔形头、长口吻、较大尖立耳；脸灰面罩不哈士奇白面。选择天然完整长尾轻卷，四足侧站突出腿身比，非灰柯基换色。"
+}

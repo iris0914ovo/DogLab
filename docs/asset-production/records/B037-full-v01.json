@@ -1,0 +1,124 @@
+{
+  "breed_id": "B037",
+  "name": "挪威猎麋犬",
+  "slug": "norwegian-elkhound",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B037-full-v01",
+  "prompt_path": "artifacts/illustrations/B037/full/v01/prompt.txt",
+  "prompt_sha256": "2e281722c0d206cae11cd36b69feace41acd481ecb95cdaf4b7952f651ffdd3e",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-455790c7-da57-46ae-8564-306dbba3ec6f.png",
+  "saved_at": "2026-11-01T04:19:51.462859+00:00",
+  "raw_path": "artifacts/illustrations/B037/full/v01/raw.png",
+  "raw_sha256": "199a1b3a0377afff3e183e49931243ba3d2743aa0af050e97450cd7b27b0cdbe",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 872860,
+    "opaque_pixels": 114,
+    "partial_alpha_pixels": 699542,
+    "bbox": [
+      0,
+      17,
+      1242,
+      1254
+    ],
+    "core_translucent_pixels": 625664,
+    "core_pixels": 625664
+  },
+  "path": "public/assets/dogs/full/norwegian-elkhound-full.png",
+  "sha256": "34bb99a1282a10f9a46f02922c43ca0c406961bc233c1fe577d37879cd1eaa29",
+  "pixels_sha256": "f4caee3e3237abb18de881c9212872893aa279eafc426db3dd75f53ab9f5082a",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      188,
+      66,
+      1149,
+      1191
+    ],
+    "uniform_scale": 0.728,
+    "resized_dimensions": [
+      700,
+      819
+    ],
+    "position": [
+      162,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 625664,
+    "near_opaque_adjusted": 626847
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 687904,
+    "opaque_pixels": 336503,
+    "partial_alpha_pixels": 24169,
+    "bbox": [
+      162,
+      102,
+      862,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 326163,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      162,
+      102,
+      162,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "挪威猎麋犬：结实中型方形躯干、宽楔头、厚中长口吻、小尖立耳、灰黑外毛与浅灰腹、黑口鼻与耳尖；浓双层毛、短腰厚腿。浓毛紧背卷尾，四足稳站，灰色不等于哈士奇模板。"
+}

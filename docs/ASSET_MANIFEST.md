@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前42张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成24/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前54张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成36/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -48,18 +48,18 @@
 | B034 | 美国爱斯基摩犬 | American Eskimo Dog | american-eskimo-dog | 否 | public/assets/dogs/full/american-eskimo-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/american-eskimo-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B035 | 芬兰拉普猎犬 | Finnish Lapphund | finnish-lapphund | 否 | public/assets/dogs/full/finnish-lapphund-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/finnish-lapphund-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B036 | 芬兰狐狸犬 | Finnish Spitz | finnish-spitz | 否 | public/assets/dogs/full/finnish-spitz-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/finnish-spitz-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B037 | 挪威猎麋犬 | Norwegian Elkhound | norwegian-elkhound | 否 | public/assets/dogs/full/norwegian-elkhound-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B038 | 挪威伦德猎犬 | Norwegian Lundehund | norwegian-lundehund | 否 | public/assets/dogs/full/norwegian-lundehund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B039 | 挪威布哈德犬 | Norwegian Buhund | norwegian-buhund | 否 | public/assets/dogs/full/norwegian-buhund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B040 | 冰岛牧羊犬 | Icelandic Sheepdog | icelandic-sheepdog | 否 | public/assets/dogs/full/icelandic-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B041 | 瑞典瓦尔杭犬 | Swedish Vallhund | swedish-vallhund | 否 | public/assets/dogs/full/swedish-vallhund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B042 | 荷兰毛狮犬 | Keeshond | keeshond | 否 | public/assets/dogs/full/keeshond-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B043 | 博美犬 | Pomeranian | pomeranian | 否 | public/assets/dogs/full/pomeranian-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B044 | 德国狐狸犬（中型） | German Spitz Mittel | german-spitz-mittel | 否 | public/assets/dogs/full/german-spitz-mittel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B045 | 日本狐狸犬 | Japanese Spitz | japanese-spitz | 否 | public/assets/dogs/full/japanese-spitz-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B046 | 欧亚犬 | Eurasier | eurasier | 否 | public/assets/dogs/full/eurasier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B047 | 北海道犬 | Hokkaido | hokkaido | 否 | public/assets/dogs/full/hokkaido-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B048 | 四国犬 | Shikoku | shikoku | 否 | public/assets/dogs/full/shikoku-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B037 | 挪威猎麋犬 | Norwegian Elkhound | norwegian-elkhound | 否 | public/assets/dogs/full/norwegian-elkhound-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/norwegian-elkhound-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B038 | 挪威伦德猎犬 | Norwegian Lundehund | norwegian-lundehund | 否 | public/assets/dogs/full/norwegian-lundehund-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/norwegian-lundehund-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B039 | 挪威布哈德犬 | Norwegian Buhund | norwegian-buhund | 否 | public/assets/dogs/full/norwegian-buhund-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/norwegian-buhund-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B040 | 冰岛牧羊犬 | Icelandic Sheepdog | icelandic-sheepdog | 否 | public/assets/dogs/full/icelandic-sheepdog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/icelandic-sheepdog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B041 | 瑞典瓦尔杭犬 | Swedish Vallhund | swedish-vallhund | 否 | public/assets/dogs/full/swedish-vallhund-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/swedish-vallhund-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B042 | 荷兰毛狮犬 | Keeshond | keeshond | 否 | public/assets/dogs/full/keeshond-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/keeshond-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B043 | 博美犬 | Pomeranian | pomeranian | 否 | public/assets/dogs/full/pomeranian-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pomeranian-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B044 | 德国狐狸犬（中型） | German Spitz Mittel | german-spitz-mittel | 否 | public/assets/dogs/full/german-spitz-mittel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/german-spitz-mittel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B045 | 日本狐狸犬 | Japanese Spitz | japanese-spitz | 否 | public/assets/dogs/full/japanese-spitz-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/japanese-spitz-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B046 | 欧亚犬 | Eurasier | eurasier | 否 | public/assets/dogs/full/eurasier-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/eurasier-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B047 | 北海道犬 | Hokkaido | hokkaido | 否 | public/assets/dogs/full/hokkaido-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/hokkaido-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B048 | 四国犬 | Shikoku | shikoku | 否 | public/assets/dogs/full/shikoku-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/shikoku-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B049 | 纪州犬 | Kishu | kishu | 否 | public/assets/dogs/full/kishu-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B050 | 甲斐犬 | Kai Ken | kai-ken | 否 | public/assets/dogs/full/kai-ken-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B051 | 韩国珍岛犬 | Korea Jindo Dog | korea-jindo-dog | 否 | public/assets/dogs/full/korea-jindo-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库24/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库36/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

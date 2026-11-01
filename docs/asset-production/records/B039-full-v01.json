@@ -1,0 +1,124 @@
+{
+  "breed_id": "B039",
+  "name": "挪威布哈德犬",
+  "slug": "norwegian-buhund",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B039-full-v01",
+  "prompt_path": "artifacts/illustrations/B039/full/v01/prompt.txt",
+  "prompt_sha256": "a4446a1f77f3e5ab84b81061f0586154d53563657648e282d6145e70f86d3f41",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-dd7991cb-a1e7-4fab-b06f-1e0d2699fee8.png",
+  "saved_at": "2026-11-01T04:20:52.292893+00:00",
+  "raw_path": "artifacts/illustrations/B039/full/v01/raw.png",
+  "raw_sha256": "051016e72263ebeb5001cf7164a6a13da299e370336cf2f405a2db5ccf290795",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 843623,
+    "opaque_pixels": 63,
+    "partial_alpha_pixels": 728830,
+    "bbox": [
+      0,
+      15,
+      1254,
+      1254
+    ],
+    "core_translucent_pixels": 634735,
+    "core_pixels": 634735
+  },
+  "path": "public/assets/dogs/full/norwegian-buhund-full.png",
+  "sha256": "632103a76a0a60bc0ef7358b1e78765a9fa0acd988405e11d0e669b7e0a96ef3",
+  "pixels_sha256": "bb467f3141f6330580089e1f766c4ac179cd0f224800c4506b54559cc055ed39",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      132,
+      43,
+      1146,
+      1202
+    ],
+    "uniform_scale": 0.7066436583261432,
+    "resized_dimensions": [
+      717,
+      819
+    ],
+    "position": [
+      153,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 634735,
+    "near_opaque_adjusted": 631213
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 699888,
+    "opaque_pixels": 320881,
+    "partial_alpha_pixels": 27807,
+    "bbox": [
+      153,
+      102,
+      870,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 311062,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      153,
+      102,
+      154,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "挪威布哈德犬：选择麦黄色双层毛，中型紧凑近方身、楔头适度长口吻、尖立耳、深棕眼黑鼻；毛量适中、正常腿长、背线平。天然浓毛卷尾高位，四足侧站，区别厚重猎麋犬。"
+}

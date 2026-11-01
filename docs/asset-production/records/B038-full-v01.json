@@ -1,0 +1,124 @@
+{
+  "breed_id": "B038",
+  "name": "挪威伦德猎犬",
+  "slug": "norwegian-lundehund",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B038-full-v01",
+  "prompt_path": "artifacts/illustrations/B038/full/v01/prompt.txt",
+  "prompt_sha256": "6ebdfa8e4e04ef6fa11a34cf886e304131a11bdb1f0c985f398ab042df88a6ec",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-918731e9-8256-4969-9446-4b012faf98b6.png",
+  "saved_at": "2026-11-01T04:19:52.945184+00:00",
+  "raw_path": "artifacts/illustrations/B038/full/v01/raw.png",
+  "raw_sha256": "f50fde1cecde06a35a888e1ae30a1d2e632eb797ca46c360c5fe628c65810fc1",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 918306,
+    "opaque_pixels": 143,
+    "partial_alpha_pixels": 654067,
+    "bbox": [
+      0,
+      0,
+      1226,
+      1218
+    ],
+    "core_translucent_pixels": 557051,
+    "core_pixels": 557051
+  },
+  "path": "public/assets/dogs/full/norwegian-lundehund-full.png",
+  "sha256": "5f51033c7a13e018b0cd8e51b7cf7c6f4b255a02e30d41e87f72414b4df95e83",
+  "pixels_sha256": "93864060af8e5af2673438b2d83ec3fef68debed403ba3f2f330794ddd0760e3",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      211,
+      52,
+      1159,
+      1181
+    ],
+    "uniform_scale": 0.7254207263064659,
+    "resized_dimensions": [
+      688,
+      819
+    ],
+    "position": [
+      168,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 557051,
+    "near_opaque_adjusted": 557067
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 717916,
+    "opaque_pixels": 298577,
+    "partial_alpha_pixels": 32083,
+    "bbox": [
+      168,
+      102,
+      856,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 286862,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      168,
+      102,
+      168,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "挪威伦德猎犬：小型灵巧、红棕白色双层毛、楔头、中等细口吻、三角立耳，颈部灵活自然；每只脚体现多趾轮廓但不画成额外腿，避免多肢体。中等长腿、自然卷尾，四足站立，真实骨架不病态扭曲。"
+}

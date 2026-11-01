@@ -1,0 +1,124 @@
+{
+  "breed_id": "B043",
+  "name": "博美犬",
+  "slug": "pomeranian",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B043-full-v01",
+  "prompt_path": "artifacts/illustrations/B043/full/v01/prompt.txt",
+  "prompt_sha256": "6de5aa92202087ce1211ca9b5cbf1ae76fe6db967370e6e35cf31cddb7acfe3f",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-314e3a25-466f-4fd8-bea7-4ccd495f794e.png",
+  "saved_at": "2026-11-01T04:22:51.029728+00:00",
+  "raw_path": "artifacts/illustrations/B043/full/v01/raw.png",
+  "raw_sha256": "c902d1bbc41411bdeb4a5829150d93f995fe10432d8e6ff396d1ff9f08e3b905",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 723223,
+    "opaque_pixels": 56,
+    "partial_alpha_pixels": 849237,
+    "bbox": [
+      0,
+      25,
+      1250,
+      1254
+    ],
+    "core_translucent_pixels": 740179,
+    "core_pixels": 740179
+  },
+  "path": "public/assets/dogs/full/pomeranian-full.png",
+  "sha256": "a7d705a0e5c7b5bb042731acfcdc18e25aa8f9ac183f0ac76f3e17efa9a72f29",
+  "pixels_sha256": "f917351c0b5c417b44d0f529c174426d930e717d0d3f10154f322b1d76c3387f",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      66,
+      160,
+      1218,
+      1168
+    ],
+    "uniform_scale": 0.7109375,
+    "resized_dimensions": [
+      819,
+      717
+    ],
+    "position": [
+      102,
+      204
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 740179,
+    "near_opaque_adjusted": 732699
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 631526,
+    "opaque_pixels": 377277,
+    "partial_alpha_pixels": 39773,
+    "bbox": [
+      102,
+      204,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 368060,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      204,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "博美：小型紧凑近方身、狐狸式小楔头、适度尖口吻、小三角立耳，不能极短鼻；橙色浓双层毛、颈围丰满、细短腿脚可辨，天然高位蓬尾覆背。四足侧站，头不占身体一半、不统一圆团。"
+}

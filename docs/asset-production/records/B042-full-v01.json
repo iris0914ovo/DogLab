@@ -1,0 +1,124 @@
+{
+  "breed_id": "B042",
+  "name": "荷兰毛狮犬",
+  "slug": "keeshond",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B042-full-v01",
+  "prompt_path": "artifacts/illustrations/B042/full/v01/prompt.txt",
+  "prompt_sha256": "285f5a4f4f75d0b403fce09bd26529e1696d469736302aa78bb33c67f09bf223",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-64841d95-cf7f-48e8-a61e-5954e0dde5f1.png",
+  "saved_at": "2026-11-01T04:21:52.225925+00:00",
+  "raw_path": "artifacts/illustrations/B042/full/v01/raw.png",
+  "raw_sha256": "624cd8ecc275e95dd4710117c070fbc386d3f3ebb17d263d464c62f0293b6bea",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 791859,
+    "opaque_pixels": 210,
+    "partial_alpha_pixels": 780447,
+    "bbox": [
+      0,
+      0,
+      1240,
+      1214
+    ],
+    "core_translucent_pixels": 703743,
+    "core_pixels": 703744
+  },
+  "path": "public/assets/dogs/full/keeshond-full.png",
+  "sha256": "77ec7ade1949e1a8911ed8e0e1b89412a74ec4502b2a19c125f9a1705c316be8",
+  "pixels_sha256": "bd54663408ee1bb0bbbe8ae570f2c5d28fcb238e968e2470294c1433d657feb1",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      136,
+      98,
+      1148,
+      1182
+    ],
+    "uniform_scale": 0.7555350553505535,
+    "resized_dimensions": [
+      765,
+      819
+    ],
+    "position": [
+      129,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 703743,
+    "near_opaque_adjusted": 704168
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 612454,
+    "opaque_pixels": 406301,
+    "partial_alpha_pixels": 29821,
+    "bbox": [
+      129,
+      102,
+      894,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 397158,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      129,
+      102,
+      130,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "荷兰毛狮：中型紧凑方形、灰黑浓双层长毛、颈部鬃毛、楔头中等口吻、较小立耳，小深棕眼周深色眼镜纹；正常腿长粗实、浓毛卷尾覆背。稳站面部温和，不画松狮宽短鼻。"
+}

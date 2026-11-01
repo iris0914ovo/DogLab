@@ -154,9 +154,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B021/full/v01/prompt.txt",
       "profile": "浅黄黑面罩大丹：巨型极高腿、窄长方头、较长方口吻、大自然下垂耳、长颈深胸收腰；短贴毛，四肢长直有真实关节、细长天然尾低垂。安静侧站，不能只画放大拉布拉多或短腿肌肉犬。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B021-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-bc0afe0f-9eef-4f0f-baba-04a2e5670f95.png"
+      "source_path": "/workspace/generated_images/exec-bc0afe0f-9eef-4f0f-baba-04a2e5670f95.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B022",
@@ -165,9 +166,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B022/full/v01/prompt.txt",
       "profile": "伯恩山：黑白棕三色大型厚实骨架、宽头中长口吻、中等垂耳，白额鼻纹白胸、棕眉颊腿；浓密中长双层毛、长蓬尾低垂，粗腿大掌。稳站温和，不能使用边牧轻巧骨架。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B022-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-448c6423-8c63-497b-b1d4-ad82ed3de06f.png"
+      "source_path": "/workspace/generated_images/exec-448c6423-8c63-497b-b1d4-ad82ed3de06f.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B024",
@@ -176,9 +178,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B024/full/v01/prompt.txt",
       "profile": "长毛圣伯纳：巨型粗骨、大宽头、短中等宽口吻但鼻梁可辨、自然垂耳，白底红褐大片、深色眼周；厚胸强壮短中长腿，颈胸毛丰厚不过球，天然低垂长尾。站姿沉静，不挂酒桶、不夸张眼睑外翻。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B024-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-b005103b-5bfb-4293-855b-ce461a869893.png"
+      "source_path": "/workspace/generated_images/exec-b005103b-5bfb-4293-855b-ce461a869893.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B026",
@@ -187,9 +190,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B026/full/v01/prompt.txt",
       "profile": "惠比特：中型纤细骨架，比灵缇小巧，长窄头、细长口吻、小玫瑰折耳、长颈深胸收腰、修长细腿；选择白底浅虎斑短贴毛，细长低垂弯尾。四足侧站，肌肉自然不病态，不画灰狗缩放模板。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B026-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-776a4030-1dbc-4d3b-a41d-f292bb2c18c2.png"
+      "source_path": "/workspace/generated_images/exec-776a4030-1dbc-4d3b-a41d-f292bb2c18c2.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B027",
@@ -198,9 +202,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B027/full/v01/prompt.txt",
       "profile": "红白巴仙吉：小中型方正轻巧身体、细长颈、精致楔头、中等细口吻、大立耳，额部轻微自然皱褶；短贴毛、白胸足端，天然高位紧卷尾侧露。四足警觉站立，区别柴犬的浓毛厚身。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B027-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-060eee22-fb1b-4b76-a7fd-71bd007c423a.png"
+      "source_path": "/workspace/generated_images/exec-060eee22-fb1b-4b76-a7fd-71bd007c423a.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B028",
@@ -209,9 +214,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B028/full/v01/prompt.txt",
       "profile": "大麦町：白底自然黑斑、均匀短毛，无花纹装饰；长腿中大型运动骨架、略长头、中长方口吻、自然垂耳，斑点耳；深胸自然收腰，细长尾自然向后略弯。四足站立微侧目，不能同一黑白牧羊犬模板换斑。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B028-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-cb234be1-fbb0-41e0-94fa-e0384f1f7a6d.png"
+      "source_path": "/workspace/generated_images/exec-cb234be1-fbb0-41e0-94fa-e0384f1f7a6d.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B030",
@@ -220,9 +226,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B030/full/v01/prompt.txt",
       "profile": "骑士查理王：小型柔和骨架、中等头颅、可辨中短口吻不极短压平、大棕眼不突出，低位长垂耳丝毛；选择红栗白斑，胸腿羽毛饰毛，天然长尾平缓后伸。四足温和站姿，不戴皇冠。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B030-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-776023fa-c34f-4c43-8170-e8bb9451efb9.png"
+      "source_path": "/workspace/generated_images/exec-776023fa-c34f-4c43-8170-e8bb9451efb9.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B031",
@@ -231,9 +238,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B031/full/v01/prompt.txt",
       "profile": "比熊：白色柔软卷毛、小型近方身、短腿但非柯基、适度圆头、明确不扁的中短口吻、毛覆盖垂耳、黑鼻小棕眼；颈胸与四肢卷毛轻盈不塑料球。天然卷毛尾覆背，四足微偏头，区别贵宾细长口吻。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B031-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-04c940ef-1a08-44fe-bedf-f4391c624c85.png"
+      "source_path": "/workspace/generated_images/exec-04c940ef-1a08-44fe-bedf-f4391c624c85.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B032",
@@ -242,9 +250,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B032/full/v01/prompt.txt",
       "profile": "红棕松狮：宽厚头、小厚三角立耳、宽中短口吻但鼻梁存在，深眼自然；结实中型近方身、较直后肢但可活动不过僵硬，粗双层毛颈围明显。厚尾背卷，四足稳站，嘴闭合不夸张蓝舌。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B032-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-033ee065-3752-4ce0-b751-562cf000f85e.png"
+      "source_path": "/workspace/generated_images/exec-033ee065-3752-4ce0-b751-562cf000f85e.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B034",
@@ -253,9 +262,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B034/full/v01/prompt.txt",
       "profile": "美国爱斯基摩选中型规格：纯白双层长毛、紧凑近方形、精致楔头、三角立耳、适中尖口吻、深眼黑鼻，颈围与后腿饰毛。蓬尾松覆背，四足优雅站立，不画萨摩耶巨大宽头。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B034-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-2f860737-6bca-457d-b5f1-5bfeebca756e.png"
+      "source_path": "/workspace/generated_images/exec-2f860737-6bca-457d-b5f1-5bfeebca756e.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B035",
@@ -264,9 +274,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B035/full/v01/prompt.txt",
       "profile": "芬兰拉普猎犬：黑棕带白胸的浓双层毛、中型结实骨架、宽楔头、中等口吻、三角半立耳，柔和棕眼；颈胸丰富但四肢清楚，毛量自然。蓬尾松卷背，侧站，区别长腿雪橇犬。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B035-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-e7b30168-b2ac-4390-b6c8-ec27a982b4f0.png"
+      "source_path": "/workspace/generated_images/exec-e7b30168-b2ac-4390-b6c8-ec27a982b4f0.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B036",
@@ -275,9 +286,10 @@
       "batch_id": "round3-b02-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B036/full/v01/prompt.txt",
       "profile": "芬兰狐狸犬：红金色双层毛，中型近方身、狐狸式窄楔头、细中长口吻、较小尖立耳、深杏仁眼；细腿不瘦弱，背上轻卷蓬尾。四足挺立，颈毛适量，不能用柴犬圆颊脸。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B036-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-4995c8e4-1f18-49ef-ac3d-8e7b9d4922bd.png"
+      "source_path": "/workspace/generated_images/exec-4995c8e4-1f18-49ef-ac3d-8e7b9d4922bd.png",
+      "production_commit": "eb7392f7f5a7afe52ade5a5fdb114d3b7515557e"
     },
     {
       "id": "B037",
@@ -286,7 +298,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B037/full/v01/prompt.txt",
       "profile": "挪威猎麋犬：结实中型方形躯干、宽楔头、厚中长口吻、小尖立耳、灰黑外毛与浅灰腹、黑口鼻与耳尖；浓双层毛、短腰厚腿。浓毛紧背卷尾，四足稳站，灰色不等于哈士奇模板。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B037-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-455790c7-da57-46ae-8564-306dbba3ec6f.png"
     },
     {
       "id": "B038",
@@ -295,7 +309,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B038/full/v01/prompt.txt",
       "profile": "挪威伦德猎犬：小型灵巧、红棕白色双层毛、楔头、中等细口吻、三角立耳，颈部灵活自然；每只脚体现多趾轮廓但不画成额外腿，避免多肢体。中等长腿、自然卷尾，四足站立，真实骨架不病态扭曲。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B038-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-918731e9-8256-4969-9446-4b012faf98b6.png"
     },
     {
       "id": "B039",
@@ -304,7 +320,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B039/full/v01/prompt.txt",
       "profile": "挪威布哈德犬：选择麦黄色双层毛，中型紧凑近方身、楔头适度长口吻、尖立耳、深棕眼黑鼻；毛量适中、正常腿长、背线平。天然浓毛卷尾高位，四足侧站，区别厚重猎麋犬。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B039-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-dd7991cb-a1e7-4fab-b06f-1e0d2699fee8.png"
     },
     {
       "id": "B040",
@@ -313,7 +331,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B040/full/v01/prompt.txt",
       "profile": "冰岛牧羊犬：红白双层中长毛、小中型结实略长身、精致楔头、中等口吻、三角立耳，白胸和足端；颈尾蓬毛适度。卷尾背上，正常腿长、后脚副趾自然，四足微错步，不画短腿柯基。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B040-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-274e79ea-be3f-4ed8-bd23-02d3e367e3b1.png"
     },
     {
       "id": "B041",
@@ -322,7 +342,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B041/full/v01/prompt.txt",
       "profile": "瑞典瓦尔杭：小型长身短腿、结实胸与短腰、灰狼色双层短毛、细楔形头、长口吻、较大尖立耳；脸灰面罩不哈士奇白面。选择天然完整长尾轻卷，四足侧站突出腿身比，非灰柯基换色。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B041-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-33353a0e-db09-47f2-a9e8-b5b440f9ac85.png"
     },
     {
       "id": "B042",
@@ -331,7 +353,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B042/full/v01/prompt.txt",
       "profile": "荷兰毛狮：中型紧凑方形、灰黑浓双层长毛、颈部鬃毛、楔头中等口吻、较小立耳，小深棕眼周深色眼镜纹；正常腿长粗实、浓毛卷尾覆背。稳站面部温和，不画松狮宽短鼻。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B042-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-64841d95-cf7f-48e8-a61e-5954e0dde5f1.png"
     },
     {
       "id": "B043",
@@ -340,7 +364,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B043/full/v01/prompt.txt",
       "profile": "博美：小型紧凑近方身、狐狸式小楔头、适度尖口吻、小三角立耳，不能极短鼻；橙色浓双层毛、颈围丰满、细短腿脚可辨，天然高位蓬尾覆背。四足侧站，头不占身体一半、不统一圆团。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B043-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-314e3a25-466f-4fd8-bea7-4ccd495f794e.png"
     },
     {
       "id": "B044",
@@ -349,7 +375,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B044/full/v01/prompt.txt",
       "profile": "中型德国狐狸犬：白色双层长毛，紧凑中小型正常腿长、狐狸楔头、细中长口吻、直立三角耳、深眼；丰颈围但不过大，背上羽毛卷尾。四足站立，身体与耳口吻比例区别于博美微型造型。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B044-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-41f30cf4-18ec-4260-8cfc-bbebd0392d2f.png"
     },
     {
       "id": "B045",
@@ -358,7 +386,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B045/full/v01/prompt.txt",
       "profile": "日本狐狸犬：白色整洁双层长毛、小型略长于高、窄楔头、细长口吻、尖立耳、黑鼻深眼；修长正常四肢，颈饰毛、尾毛丰富。卷尾覆背，轻盈站姿，非萨摩耶厚骨架。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B045-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-3db2be33-bf4a-494d-8223-2514ba7facbc.png"
     },
     {
       "id": "B046",
@@ -367,7 +397,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B046/full/v01/prompt.txt",
       "profile": "欧亚犬：选择狼灰暖棕双层中长毛、中型均衡结实骨架、宽楔头、适度长厚口吻、立耳棕眼；颈胸厚毛自然，不夸张鬃。蓬尾松卷背，四足侧站沉静，不能用松狮小短鼻。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B046-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-40c97cd6-a643-498a-8893-8d730586ba5e.png"
     },
     {
       "id": "B047",
@@ -376,7 +408,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B047/full/v01/prompt.txt",
       "profile": "北海道犬：白色双层毛、中型紧凑强壮骨架、楔形头、稍长有力口吻、小三角前倾立耳、深棕眼；正常腿长、肌肉自然，尾毛浓但不长飘。背卷尾，稳站，区别萨摩耶长鬃毛。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B047-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-35490887-b4eb-485e-9e3d-4f26fee0843c.png"
     },
     {
       "id": "B048",
@@ -385,7 +419,9 @@
       "batch_id": "round3-b03-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B048/full/v01/prompt.txt",
       "profile": "四国犬：自然胡麻色双层毛，中型敏捷骨架、长楔头、较细长口吻、前倾三角立耳、斜杏仁眼；腿修长、腹部收起，面颊暖白。自然高卷尾，四足前后错开，非柴犬放大模板。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B048-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-45a1859c-548b-4855-a8de-6d9cf529abae.png"
     },
     {
       "id": "B049",

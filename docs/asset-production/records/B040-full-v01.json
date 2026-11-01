@@ -1,0 +1,124 @@
+{
+  "breed_id": "B040",
+  "name": "冰岛牧羊犬",
+  "slug": "icelandic-sheepdog",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B040-full-v01",
+  "prompt_path": "artifacts/illustrations/B040/full/v01/prompt.txt",
+  "prompt_sha256": "daa72c443360d7534da0744cad73b1f591c92197d6f77ff055204f79fb32476f",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-274e79ea-be3f-4ed8-bd23-02d3e367e3b1.png",
+  "saved_at": "2026-11-01T04:20:46.647000+00:00",
+  "raw_path": "artifacts/illustrations/B040/full/v01/raw.png",
+  "raw_sha256": "e5c5b9e982e0f9dc3d628d6354a5851600f07e71445b4a2e7dafb3d50bb73969",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 831565,
+    "opaque_pixels": 123,
+    "partial_alpha_pixels": 740828,
+    "bbox": [
+      0,
+      0,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 641024,
+    "core_pixels": 641024
+  },
+  "path": "public/assets/dogs/full/icelandic-sheepdog-full.png",
+  "sha256": "e9b88996c6a417902aa0774aed57b68879f14681a9f047e9400e62efd171e162",
+  "pixels_sha256": "5b8b4b9f2ff1505c3d5708d3c5759957ebf1b584bb7d26ca8833a24fa11e14ca",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      148,
+      70,
+      1167,
+      1187
+    ],
+    "uniform_scale": 0.7332139659803044,
+    "resized_dimensions": [
+      747,
+      819
+    ],
+    "position": [
+      138,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 641024,
+    "near_opaque_adjusted": 635929
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 665299,
+    "opaque_pixels": 348522,
+    "partial_alpha_pixels": 34755,
+    "bbox": [
+      138,
+      102,
+      885,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 338722,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      138,
+      102,
+      139,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "冰岛牧羊犬：红白双层中长毛、小中型结实略长身、精致楔头、中等口吻、三角立耳，白胸和足端；颈尾蓬毛适度。卷尾背上，正常腿长、后脚副趾自然，四足微错步，不画短腿柯基。"
+}

@@ -1,0 +1,124 @@
+{
+  "breed_id": "B046",
+  "name": "欧亚犬",
+  "slug": "eurasier",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B046-full-v01",
+  "prompt_path": "artifacts/illustrations/B046/full/v01/prompt.txt",
+  "prompt_sha256": "eec8485faaeff39db30df77fa9958325be02de7aba30db10a581df46f49ed9c4",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-40c97cd6-a643-498a-8893-8d730586ba5e.png",
+  "saved_at": "2026-11-01T04:23:46.335758+00:00",
+  "raw_path": "artifacts/illustrations/B046/full/v01/raw.png",
+  "raw_sha256": "4aab34316120eb738b0de8156d13c8739a16ba9ee122dfb7c5aef9550ea59542",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 762595,
+    "opaque_pixels": 215,
+    "partial_alpha_pixels": 809706,
+    "bbox": [
+      0,
+      21,
+      1224,
+      1254
+    ],
+    "core_translucent_pixels": 723192,
+    "core_pixels": 723192
+  },
+  "path": "public/assets/dogs/full/eurasier-full.png",
+  "sha256": "d45f533d45d33b9df65cb8863ccd8ce5a05f491bdeb8494e5fd5ccfb29cabd4e",
+  "pixels_sha256": "0777fe7c04515a18a7f28cf44b8c6bf1a611580bf22dadcbe3af16183a2718a8",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      138,
+      64,
+      1157,
+      1209
+    ],
+    "uniform_scale": 0.7152838427947599,
+    "resized_dimensions": [
+      729,
+      819
+    ],
+    "position": [
+      147,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 723192,
+    "near_opaque_adjusted": 724404
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 643340,
+    "opaque_pixels": 375048,
+    "partial_alpha_pixels": 30188,
+    "bbox": [
+      147,
+      103,
+      876,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 363795,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      147,
+      103,
+      148,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "欧亚犬：选择狼灰暖棕双层中长毛、中型均衡结实骨架、宽楔头、适度长厚口吻、立耳棕眼；颈胸厚毛自然，不夸张鬃。蓬尾松卷背，四足侧站沉静，不能用松狮小短鼻。"
+}

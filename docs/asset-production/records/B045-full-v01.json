@@ -1,0 +1,124 @@
+{
+  "breed_id": "B045",
+  "name": "日本狐狸犬",
+  "slug": "japanese-spitz",
+  "asset_kind": "full",
+  "batch_id": "round3-b03-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B045-full-v01",
+  "prompt_path": "artifacts/illustrations/B045/full/v01/prompt.txt",
+  "prompt_sha256": "840a0ee486fc287efe2082c94dab2f9acc51a0e8e0d0c77849238ac8b1a46377",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-3db2be33-bf4a-494d-8223-2514ba7facbc.png",
+  "saved_at": "2026-11-01T04:24:27.826704+00:00",
+  "raw_path": "artifacts/illustrations/B045/full/v01/raw.png",
+  "raw_sha256": "eed19ebe45aeb9603eabac905640384c3e2a399ef9ca5b2045879d9bcc170b86",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 768912,
+    "opaque_pixels": 62,
+    "partial_alpha_pixels": 803542,
+    "bbox": [
+      0,
+      19,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 702781,
+    "core_pixels": 702781
+  },
+  "path": "public/assets/dogs/full/japanese-spitz-full.png",
+  "sha256": "bcb42646862b54f3cfae7b93e5545969791ee90fa48fb1894147d724c3ffcc9c",
+  "pixels_sha256": "e96d60761f07f7c3f3d74c2f3102fdd3567410bb61f2e7d626c8d876082c09dd",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      120,
+      70,
+      1197,
+      1191
+    ],
+    "uniform_scale": 0.7305976806422837,
+    "resized_dimensions": [
+      787,
+      819
+    ],
+    "position": [
+      118,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 702781,
+    "near_opaque_adjusted": 693504
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 635403,
+    "opaque_pixels": 378159,
+    "partial_alpha_pixels": 35014,
+    "bbox": [
+      118,
+      102,
+      905,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 369270,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      118,
+      102,
+      119,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: compact grey Elkhound, short-legged Vallhund, abundant Keeshond/Pomeranian coats and leaner Hokkaido/Shikoku remain visible. White spitz B034/B044/B045 have naturally similar appearance and are flagged for final human comparison rather than declared fully distinct; Lundehund toe anatomy requires close human review. No obvious ear/tail/paw clipping; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "日本狐狸犬：白色整洁双层长毛、小型略长于高、窄楔头、细长口吻、尖立耳、黑鼻深眼；修长正常四肢，颈饰毛、尾毛丰富。卷尾覆背，轻盈站姿，非萨摩耶厚骨架。"
+}
