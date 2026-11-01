@@ -1,0 +1,125 @@
+{
+  "breed_id": "B093",
+  "name": "新斯科舍诱鸭寻回犬",
+  "slug": "nova-scotia-duck-tolling-retriever",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B093-full-v01",
+  "prompt_path": "artifacts/illustrations/B093/full/v01/prompt.txt",
+  "prompt_sha256": "aee732b585e3b56bee3affb4f4f0269fdbdaafb1397e7c799665eab3f28c6f3b",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-1d236fb4-040b-473d-a819-6ab722eb6690.png",
+  "saved_at": "2026-11-01T05:02:10.455763+00:00",
+  "raw_path": "artifacts/illustrations/B093/full/v01/raw.png",
+  "raw_sha256": "035872a6189d80b087fc6ba1a2b77dfc36ac692e12fc893ed0b6f28da2a6b21b",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 925319,
+    "opaque_pixels": 44,
+    "partial_alpha_pixels": 647153,
+    "bbox": [
+      0,
+      15,
+      1248,
+      1254
+    ],
+    "core_translucent_pixels": 534488,
+    "core_pixels": 534488
+  },
+  "path": "public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png",
+  "sha256": "4ac48139c31c2c9b090021aafba045a2d110de8b907c9f93b885e90bb38fceb8",
+  "pixels_sha256": "24ac11966dab93f99d1fe11d385215b6bcdc1897ea162208beac222a8ed7b9ab",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      73,
+      114,
+      1211,
+      1134
+    ],
+    "uniform_scale": 0.7196836555360281,
+    "resized_dimensions": [
+      819,
+      734
+    ],
+    "position": [
+      102,
+      187
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 534488,
+    "near_opaque_adjusted": 524218
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 734074,
+    "opaque_pixels": 280198,
+    "partial_alpha_pixels": 34304,
+    "bbox": [
+      102,
+      187,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 270517,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      187,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "新斯科舍诱鸭寻回：中型轻巧紧凑、楔头中长口吻、三角自然垂耳、棕眼，红色双层中长毛与白胸足端尾尖；修长正常腿，长蓬尾平缓伸出。四足略向前站，不画小号金毛圆头。"
+}

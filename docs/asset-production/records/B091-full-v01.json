@@ -1,0 +1,125 @@
+{
+  "breed_id": "B091",
+  "name": "平毛寻回犬",
+  "slug": "flat-coated-retriever",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B091-full-v01",
+  "prompt_path": "artifacts/illustrations/B091/full/v01/prompt.txt",
+  "prompt_sha256": "6b9ccb10e01da578a377305344ac893cc0c6495f9792f6f85512e04e844374ee",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-4bb560a3-8641-48f9-99bc-98b21d62e270.png",
+  "saved_at": "2026-11-01T05:01:14.846796+00:00",
+  "raw_path": "artifacts/illustrations/B091/full/v01/raw.png",
+  "raw_sha256": "9d747401ddd6a473e78e12d1dde6604938bac1798ec7e37de7951bd12094d5ee",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 952325,
+    "opaque_pixels": 225,
+    "partial_alpha_pixels": 619966,
+    "bbox": [
+      0,
+      69,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 520037,
+    "core_pixels": 520038
+  },
+  "path": "public/assets/dogs/full/flat-coated-retriever-full.png",
+  "sha256": "81601d74090462dd7548bd7b22757e4037e4994d9b7b4a5c9b85156a3c8228ef",
+  "pixels_sha256": "204aefb178ed78bee604a9caac04261b26647da810d9443aea546806d9764f90",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      95,
+      77,
+      1223,
+      1177
+    ],
+    "uniform_scale": 0.726063829787234,
+    "resized_dimensions": [
+      819,
+      799
+    ],
+    "position": [
+      102,
+      122
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 520037,
+    "near_opaque_adjusted": 524410
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 731297,
+    "opaque_pixels": 281014,
+    "partial_alpha_pixels": 36265,
+    "bbox": [
+      102,
+      122,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 267710,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      122,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "平毛寻回：大型轻盈修长、长平头颅与长口吻、小贴颊垂耳、深眼；选择黑色平直有柔和光泽的中长毛，胸腿尾有饰毛，腿修长。长羽毛尾低于背线自然伸出，四足轻错步，不画厚重纽芬兰。"
+}

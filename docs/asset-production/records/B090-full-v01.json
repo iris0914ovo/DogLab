@@ -1,0 +1,125 @@
+{
+  "breed_id": "B090",
+  "name": "切萨皮克湾寻回犬",
+  "slug": "chesapeake-bay-retriever",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B090-full-v01",
+  "prompt_path": "artifacts/illustrations/B090/full/v01/prompt.txt",
+  "prompt_sha256": "3bd38091ed736c2ef4d34e06cf1a688f1262885a968aef7bd14147129b9cbe6c",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-9daf1483-cbea-4e8e-9335-6272a403b4b8.png",
+  "saved_at": "2026-11-01T05:00:22.974085+00:00",
+  "raw_path": "artifacts/illustrations/B090/full/v01/raw.png",
+  "raw_sha256": "5d35f381d62a7912a58e4fa53c58d92b4f174587dfe22699586b8f9989d9c46a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 989361,
+    "opaque_pixels": 278,
+    "partial_alpha_pixels": 582877,
+    "bbox": [
+      0,
+      9,
+      1238,
+      1254
+    ],
+    "core_translucent_pixels": 512665,
+    "core_pixels": 512665
+  },
+  "path": "public/assets/dogs/full/chesapeake-bay-retriever-full.png",
+  "sha256": "4f2a59e007acdc97c0a188f59457eab478317741baeb7895ad635e9c56d7248f",
+  "pixels_sha256": "f53dd444d39b07b302638f540b8be6714bb3b7f22953649037f92ac745983a01",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      140,
+      101,
+      1237,
+      1163
+    ],
+    "uniform_scale": 0.7465815861440291,
+    "resized_dimensions": [
+      819,
+      793
+    ],
+    "position": [
+      102,
+      128
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 512665,
+    "near_opaque_adjusted": 522312
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 734414,
+    "opaque_pixels": 293752,
+    "partial_alpha_pixels": 20410,
+    "bbox": [
+      102,
+      128,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 280197,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      128,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "切萨皮克寻回：大型强壮骨架、宽头中长口吻、小自然垂耳、琥珀棕眼；选择棕色双层短毛，肩背有明确轻波浪，面部腿短毛。宽胸强腿、粗根中长尾自然后伸，四足站立，非长毛金毛模板。"
+}

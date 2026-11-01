@@ -710,9 +710,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B073/full/v01/prompt.txt",
       "profile": "波兰低地牧羊：中型结实略长身、灰白浓长双层毛、宽颅中长口吻、自然垂耳，面部长毛胡须与额发但保留鼻眼。正常较短腿非柯基，天然完整长尾低垂，四足站立，无绳束或卷球。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B073-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-c74925e6-d9f1-4ade-b4ac-5e2abd85e99e.png"
+      "source_path": "/workspace/generated_images/exec-c74925e6-d9f1-4ade-b4ac-5e2abd85e99e.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B074",
@@ -721,9 +722,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B074/full/v01/prompt.txt",
       "profile": "伯格马斯科：中大型强壮骨架、宽头中长口吻、自然垂耳；灰色成熟被毛形成扁平宽毡片而不是科蒙多圆绳或普通丝长毛。毡片分层从躯干垂落、脸部毛软，眼鼻与脚掌可辨；长尾低垂，四足稳站。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B074-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-8ea52cd5-2325-4d61-afdc-dfed870db4d1.png"
+      "source_path": "/workspace/generated_images/exec-8ea52cd5-2325-4d61-afdc-dfed870db4d1.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B075",
@@ -732,9 +734,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B075/full/v01/prompt.txt",
       "profile": "博斯：大型黑棕双层短毛、长宽适度头、中长有力口吻、天然半折垂耳不裁；修长结实身体、深胸强腿、棕下腿标记与后肢双狼爪自然。长尾低垂末端J弯，四足挺立，区别杜宾窄头细尾。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B075-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-7b50ce92-540c-4da1-ac49-fd1c4a816c18.png"
+      "source_path": "/workspace/generated_images/exec-7b50ce92-540c-4da1-ac49-fd1c4a816c18.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B076",
@@ -743,9 +746,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B076/full/v01/prompt.txt",
       "profile": "卡迪根柯基：小型长身短腿但骨量厚，耳大且尖端较圆、头宽中长口吻；选择蓝陨石白胸毛色，自然长蓬尾明显低垂不卷。四足横站，胸宽前掌有支撑，不能复制彭布罗克图换色，耳头身骨量区别明确。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B076-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-45aca57a-c248-47cb-9909-144b97034265.png"
+      "source_path": "/workspace/generated_images/exec-45aca57a-c248-47cb-9909-144b97034265.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B077",
@@ -754,9 +758,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B077/full/v01/prompt.txt",
       "profile": "白色瑞士牧羊：大型白色中长双层毛、长楔头、适度长有力口吻、大尖立耳、棕眼黑鼻；正常背线、长腿和轻巧结实骨架。长蓬尾低垂，四足侧站，不用萨摩耶短宽脸背卷尾。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B077-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-a3673c3b-5ed1-4ed6-973b-00b6f83911bd.png"
+      "source_path": "/workspace/generated_images/exec-a3673c3b-5ed1-4ed6-973b-00b6f83911bd.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B079",
@@ -765,9 +770,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B079/full/v01/prompt.txt",
       "profile": "美国可卡：小中型紧凑身、比英国可卡更圆额但保留正常可辨口吻、低位长垂耳、深眼；选择黑色丝质长毛、胸腹腿后饰毛丰厚但脚掌可见。自然长尾后伸不截断，四足站立，不把面部压扁。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B079-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-620143fc-c439-4a5d-84b3-bb35c8354b1f.png"
+      "source_path": "/workspace/generated_images/exec-620143fc-c439-4a5d-84b3-bb35c8354b1f.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B080",
@@ -776,9 +782,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B080/full/v01/prompt.txt",
       "profile": "英国史宾格：中型运动骨架、稍长头、适度方长口吻、低位中长垂耳，肝白被毛带小点、中长胸腿饰毛；腿比可卡更长，胸深自然收腰。天然长尾后伸，四足侧站目光专注，不剪尾。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B080-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-62746595-57fb-42f1-b92f-66660d2150df.png"
+      "source_path": "/workspace/generated_images/exec-62746595-57fb-42f1-b92f-66660d2150df.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B081",
@@ -787,9 +794,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B081/full/v01/prompt.txt",
       "profile": "威尔士史宾格：中型结实略长身、自然红白中长被毛，适中头与中长方口吻、较小贴颊垂耳；腿长适中、胸腹饰毛柔和、长尾平缓后伸。四足温和稳站，区别英国史宾格更高挑与毛色。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B081-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-dfbdf815-f400-41ca-af81-729164b19538.png"
+      "source_path": "/workspace/generated_images/exec-dfbdf815-f400-41ca-af81-729164b19538.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B082",
@@ -798,9 +806,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B082/full/v01/prompt.txt",
       "profile": "克伦伯：中型低身而骨量很大、宽大头、宽长方口吻、重眉但不遮眼、小自然垂耳；白色浓中长毛配少量柠檬色耳斑，粗短腿大掌，长厚身。天然长尾低垂后伸，四足稳站，不画细骨腊肠。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B082-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-276557de-5aa0-4e8e-860b-49a009f1544f.png"
+      "source_path": "/workspace/generated_images/exec-276557de-5aa0-4e8e-860b-49a009f1544f.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B083",
@@ -809,9 +818,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B083/full/v01/prompt.txt",
       "profile": "苏塞克斯：中型低矮长身、粗壮短腿、宽头中长宽口吻、低位长垂耳，金肝色浓密中长毛、颈胸与腿饰毛。天然长尾水平后伸，四足侧站，温和眼神，不用金毛缩腿模板。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B083-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-0a98696a-277c-4a72-bc55-8b87e276b5ef.png"
+      "source_path": "/workspace/generated_images/exec-0a98696a-277c-4a72-bc55-8b87e276b5ef.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B084",
@@ -820,9 +830,10 @@
       "batch_id": "round3-b06-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B084/full/v01/prompt.txt",
       "profile": "田野猎犬：中型修长身、正常腿长、长头中长方口吻、低位长垂耳；选择肝色丝质中长毛，胸腹腿饰毛适度而非拖地。天然长尾后伸，四足轻错步，区别短腿苏塞克斯与圆头美可卡。",
-      "status": "qc_pass",
+      "status": "synced",
       "record_path": "docs/asset-production/records/B084-full-v01.json",
-      "source_path": "/workspace/generated_images/exec-beb9eeeb-552e-498e-b4ab-1007d980a4e5.png"
+      "source_path": "/workspace/generated_images/exec-beb9eeeb-552e-498e-b4ab-1007d980a4e5.png",
+      "production_commit": "db63d5e3030cf3bc2ba672c2165ee348a806cf6c"
     },
     {
       "id": "B085",
@@ -831,7 +842,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B085/full/v01/prompt.txt",
       "profile": "爱尔兰水猎：中大型深肝色浓密卷毛，长头长口吻、长垂耳覆卷毛、头顶自然卷毛冠，脸部短毛；躯干近方、长腿，尾根卷毛但细长尾主体短毛，形成明显鼠尾轮廓。四足站立，不画贵宾球形修剪。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B085-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-3af37d90-9259-4e55-9ad2-0175965c40d3.png"
     },
     {
       "id": "B086",
@@ -840,7 +853,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B086/full/v01/prompt.txt",
       "profile": "美国水猎：中型结实略长身、宽适度头、中长口吻、低位长垂耳，巧克力棕波浪卷毛、面部毛短、腿饰毛中等；正常腿长，天然渐细长尾微弯后伸。四足侧站，不套用长腿贵宾模板。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B086-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-0ad6a7cb-5250-42ca-afb3-181d6ef3544e.png"
     },
     {
       "id": "B087",
@@ -849,7 +864,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B087/full/v01/prompt.txt",
       "profile": "葡萄牙水犬：中型结实方形、宽适度头、中长宽口吻、贴颊自然垂耳；选择黑色白胸自然波浪长毛，均匀运动修剪不狮子式剃后躯。正常长腿、长蓬尾轻卷，四足微侧站，不画比熊圆团。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B087-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-31b3c0a8-8a63-4dea-9f7d-7b2615613cb2.png"
     },
     {
       "id": "B088",
@@ -858,7 +875,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B088/full/v01/prompt.txt",
       "profile": "西班牙水犬：中型均衡近方形、宽头中长口吻、三角垂耳，选择棕白浓密自然卷毛，身体卷簇可轻成短绳但不拖地长绳。腿结实正常长、天然完整长尾微弯，四足稳站，脸眼可辨。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B088-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-59a2a5f3-15f1-41d1-9f4a-a1341fa50d26.png"
     },
     {
       "id": "B089",
@@ -867,7 +886,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B089/full/v01/prompt.txt",
       "profile": "罗马涅水犬：中小型结实近方身、宽头较长口吻、小三角垂耳，棕白紧密羊毛卷毛、自然胡须不遮眼；腿适中结实，长尾镰弯后伸不截断。四足站立，区别贵宾长窄脸长腿与球状毛。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B089-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-968d2c60-264b-4269-a633-e9f9e23f0bd8.png"
     },
     {
       "id": "B090",
@@ -876,7 +897,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B090/full/v01/prompt.txt",
       "profile": "切萨皮克寻回：大型强壮骨架、宽头中长口吻、小自然垂耳、琥珀棕眼；选择棕色双层短毛，肩背有明确轻波浪，面部腿短毛。宽胸强腿、粗根中长尾自然后伸，四足站立，非长毛金毛模板。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B090-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-9daf1483-cbea-4e8e-9335-6272a403b4b8.png"
     },
     {
       "id": "B091",
@@ -885,7 +908,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B091/full/v01/prompt.txt",
       "profile": "平毛寻回：大型轻盈修长、长平头颅与长口吻、小贴颊垂耳、深眼；选择黑色平直有柔和光泽的中长毛，胸腿尾有饰毛，腿修长。长羽毛尾低于背线自然伸出，四足轻错步，不画厚重纽芬兰。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B091-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-4bb560a3-8641-48f9-99bc-98b21d62e270.png"
     },
     {
       "id": "B092",
@@ -894,7 +919,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B092/full/v01/prompt.txt",
       "profile": "卷毛寻回：大型高挑强壮、长楔头长口吻、小垂耳、脸部短毛，选择黑色紧贴小卷毛覆盖身躯而非贵宾蓬松卷团；长颈长腿，长直尾覆紧卷毛。四足侧站，不能统一贵宾身体。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B092-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-c0faa1de-ffb9-4191-b762-6439fd995a04.png"
     },
     {
       "id": "B093",
@@ -903,7 +930,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B093/full/v01/prompt.txt",
       "profile": "新斯科舍诱鸭寻回：中型轻巧紧凑、楔头中长口吻、三角自然垂耳、棕眼，红色双层中长毛与白胸足端尾尖；修长正常腿，长蓬尾平缓伸出。四足略向前站，不画小号金毛圆头。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B093-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-1d236fb4-040b-473d-a819-6ab722eb6690.png"
     },
     {
       "id": "B094",
@@ -912,7 +941,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B094/full/v01/prompt.txt",
       "profile": "德国短毛指示：中大型高挑运动骨架、长方头、长口吻、大低位贴颊垂耳、棕眼；肝色头和肝白密斑短毛，深胸收腰长腿。天然完整细长尾平伸不截断，四足优雅侧站，不能画大麦町圆黑斑。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B094-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-7212f588-ff71-4eeb-9f38-7b4ceff3423b.png"
     },
     {
       "id": "B095",
@@ -921,7 +952,9 @@
       "batch_id": "round3-b07-dpl-ill-1.2-v01",
       "prompt_path": "artifacts/illustrations/B095/full/v01/prompt.txt",
       "profile": "德国刚毛指示：中大型强壮略长身、长方头长口吻、自然垂耳、眉须突出，肝白刚毛斑点毛质粗硬，腿毛克制不拖裙；正常长腿、天然长尾水平后伸。四足专注站立，区别短毛指示犬光滑口吻。",
-      "status": "queued"
+      "status": "qc_pass",
+      "record_path": "docs/asset-production/records/B095-full-v01.json",
+      "source_path": "/workspace/generated_images/exec-f9f50a2d-1dfa-491f-b478-65e17f102af4.png"
     },
     {
       "id": "B096",

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B089",
+  "name": "罗马涅水犬",
+  "slug": "lagotto-romagnolo",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B089-full-v01",
+  "prompt_path": "artifacts/illustrations/B089/full/v01/prompt.txt",
+  "prompt_sha256": "3bd38512fb3c287a2fcf209780f32544d0f4caa350643a2407f9aae209f4c98d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-968d2c60-264b-4269-a633-e9f9e23f0bd8.png",
+  "saved_at": "2026-11-01T05:00:24.494397+00:00",
+  "raw_path": "artifacts/illustrations/B089/full/v01/raw.png",
+  "raw_sha256": "b76009f316b19c73ea3b410f7666a57223923850994b6a6f75278993ff9e3c12",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 806170,
+    "opaque_pixels": 71,
+    "partial_alpha_pixels": 766275,
+    "bbox": [
+      0,
+      19,
+      1218,
+      1254
+    ],
+    "core_translucent_pixels": 666558,
+    "core_pixels": 666559
+  },
+  "path": "public/assets/dogs/full/lagotto-romagnolo-full.png",
+  "sha256": "190f115bc86c5487378b1a18351e854ee443da3247558d9800a868f8f03981e7",
+  "pixels_sha256": "3734fec80062a6023ba4cc426a8ae719b923a049304f938343288d2d759571a4",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      101,
+      74,
+      1210,
+      1196
+    ],
+    "uniform_scale": 0.7299465240641712,
+    "resized_dimensions": [
+      810,
+      819
+    ],
+    "position": [
+      107,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 666558,
+    "near_opaque_adjusted": 659269
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 655372,
+    "opaque_pixels": 358809,
+    "partial_alpha_pixels": 34395,
+    "bbox": [
+      107,
+      102,
+      917,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 348635,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      107,
+      102,
+      107,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "罗马涅水犬：中小型结实近方身、宽头较长口吻、小三角垂耳，棕白紧密羊毛卷毛、自然胡须不遮眼；腿适中结实，长尾镰弯后伸不截断。四足站立，区别贵宾长窄脸长腿与球状毛。"
+}

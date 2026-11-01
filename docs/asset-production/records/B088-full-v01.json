@@ -1,0 +1,125 @@
+{
+  "breed_id": "B088",
+  "name": "西班牙水犬",
+  "slug": "spanish-water-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B088-full-v01",
+  "prompt_path": "artifacts/illustrations/B088/full/v01/prompt.txt",
+  "prompt_sha256": "eb579d1badeb35b5468ef01b62557bb54c44cbdc493370fca1519f52ae810ff1",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-59a2a5f3-15f1-41d1-9f4a-a1341fa50d26.png",
+  "saved_at": "2026-11-01T04:59:39.503724+00:00",
+  "raw_path": "artifacts/illustrations/B088/full/v01/raw.png",
+  "raw_sha256": "673971233bca82dc22607d9f6b693db48a25bb5a99ea3636ac1e1ba16567a3eb",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 872666,
+    "opaque_pixels": 56,
+    "partial_alpha_pixels": 699794,
+    "bbox": [
+      0,
+      5,
+      1238,
+      1222
+    ],
+    "core_translucent_pixels": 599860,
+    "core_pixels": 599860
+  },
+  "path": "public/assets/dogs/full/spanish-water-dog-full.png",
+  "sha256": "a5d0d388907678b01258d272c1c1a93b3a92ad99570f1861f86581d2cfac303c",
+  "pixels_sha256": "3bfdd8bf910c9b17afbaa9fa6416e9c5386c058911e77e5b2a0316e7681abb80",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      136,
+      106,
+      1188,
+      1191
+    ],
+    "uniform_scale": 0.7548387096774194,
+    "resized_dimensions": [
+      794,
+      819
+    ],
+    "position": [
+      115,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 599860,
+    "near_opaque_adjusted": 596153
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 664662,
+    "opaque_pixels": 346329,
+    "partial_alpha_pixels": 37585,
+    "bbox": [
+      115,
+      102,
+      909,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 335497,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      115,
+      102,
+      115,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "西班牙水犬：中型均衡近方形、宽头中长口吻、三角垂耳，选择棕白浓密自然卷毛，身体卷簇可轻成短绳但不拖地长绳。腿结实正常长、天然完整长尾微弯，四足稳站，脸眼可辨。"
+}

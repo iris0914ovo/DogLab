@@ -1,0 +1,125 @@
+{
+  "breed_id": "B087",
+  "name": "葡萄牙水犬",
+  "slug": "portuguese-water-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B087-full-v01",
+  "prompt_path": "artifacts/illustrations/B087/full/v01/prompt.txt",
+  "prompt_sha256": "a4140bb2649e03d85357a48c37b5375ca48e7c189bf5e35e3907075748eace1d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-31b3c0a8-8a63-4dea-9f7d-7b2615613cb2.png",
+  "saved_at": "2026-11-01T04:59:41.087554+00:00",
+  "raw_path": "artifacts/illustrations/B087/full/v01/raw.png",
+  "raw_sha256": "c7b7a23d269869d08216d9b207c0a529974c6bebd35a7f4d5d05357dbb4580f3",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 762268,
+    "opaque_pixels": 72,
+    "partial_alpha_pixels": 810176,
+    "bbox": [
+      0,
+      23,
+      1238,
+      1254
+    ],
+    "core_translucent_pixels": 690557,
+    "core_pixels": 690557
+  },
+  "path": "public/assets/dogs/full/portuguese-water-dog-full.png",
+  "sha256": "b5756105c658b048adcf4933e2d5fd89425e98d822ae964613f48fde59ca41c1",
+  "pixels_sha256": "4ed7ef813f9bd8e523dd1635ea30069514091c9248d1f31fa01e8909043f2514",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      88,
+      95,
+      1225,
+      1188
+    ],
+    "uniform_scale": 0.7203166226912929,
+    "resized_dimensions": [
+      819,
+      787
+    ],
+    "position": [
+      102,
+      134
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 690557,
+    "near_opaque_adjusted": 684300
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 638473,
+    "opaque_pixels": 363000,
+    "partial_alpha_pixels": 47103,
+    "bbox": [
+      102,
+      134,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 350102,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      134,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "葡萄牙水犬：中型结实方形、宽适度头、中长宽口吻、贴颊自然垂耳；选择黑色白胸自然波浪长毛，均匀运动修剪不狮子式剃后躯。正常长腿、长蓬尾轻卷，四足微侧站，不画比熊圆团。"
+}

@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前87张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成69/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前98张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成80/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -96,17 +96,17 @@
 | B082 | 克伦伯猎犬 | Clumber Spaniel | clumber-spaniel | 否 | public/assets/dogs/full/clumber-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/clumber-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B083 | 苏塞克斯猎犬 | Sussex Spaniel | sussex-spaniel | 否 | public/assets/dogs/full/sussex-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/sussex-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B084 | 田野猎犬 | Field Spaniel | field-spaniel | 否 | public/assets/dogs/full/field-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/field-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B085 | 爱尔兰水猎犬 | Irish Water Spaniel | irish-water-spaniel | 否 | public/assets/dogs/full/irish-water-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B086 | 美国水猎犬 | American Water Spaniel | american-water-spaniel | 否 | public/assets/dogs/full/american-water-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B087 | 葡萄牙水犬 | Portuguese Water Dog | portuguese-water-dog | 否 | public/assets/dogs/full/portuguese-water-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B088 | 西班牙水犬 | Spanish Water Dog | spanish-water-dog | 否 | public/assets/dogs/full/spanish-water-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B089 | 罗马涅水犬 | Lagotto Romagnolo | lagotto-romagnolo | 否 | public/assets/dogs/full/lagotto-romagnolo-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B090 | 切萨皮克湾寻回犬 | Chesapeake Bay Retriever | chesapeake-bay-retriever | 否 | public/assets/dogs/full/chesapeake-bay-retriever-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B091 | 平毛寻回犬 | Flat-Coated Retriever | flat-coated-retriever | 否 | public/assets/dogs/full/flat-coated-retriever-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B092 | 卷毛寻回犬 | Curly-Coated Retriever | curly-coated-retriever | 否 | public/assets/dogs/full/curly-coated-retriever-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B093 | 新斯科舍诱鸭寻回犬 | Nova Scotia Duck Tolling Retriever | nova-scotia-duck-tolling-retriever | 否 | public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B094 | 德国短毛指示犬 | German Shorthaired Pointer | german-shorthaired-pointer | 否 | public/assets/dogs/full/german-shorthaired-pointer-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B095 | 德国刚毛指示犬 | German Wirehaired Pointer | german-wirehaired-pointer | 否 | public/assets/dogs/full/german-wirehaired-pointer-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B085 | 爱尔兰水猎犬 | Irish Water Spaniel | irish-water-spaniel | 否 | public/assets/dogs/full/irish-water-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/irish-water-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B086 | 美国水猎犬 | American Water Spaniel | american-water-spaniel | 否 | public/assets/dogs/full/american-water-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/american-water-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B087 | 葡萄牙水犬 | Portuguese Water Dog | portuguese-water-dog | 否 | public/assets/dogs/full/portuguese-water-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/portuguese-water-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B088 | 西班牙水犬 | Spanish Water Dog | spanish-water-dog | 否 | public/assets/dogs/full/spanish-water-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/spanish-water-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B089 | 罗马涅水犬 | Lagotto Romagnolo | lagotto-romagnolo | 否 | public/assets/dogs/full/lagotto-romagnolo-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/lagotto-romagnolo-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B090 | 切萨皮克湾寻回犬 | Chesapeake Bay Retriever | chesapeake-bay-retriever | 否 | public/assets/dogs/full/chesapeake-bay-retriever-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/chesapeake-bay-retriever-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B091 | 平毛寻回犬 | Flat-Coated Retriever | flat-coated-retriever | 否 | public/assets/dogs/full/flat-coated-retriever-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/flat-coated-retriever-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B092 | 卷毛寻回犬 | Curly-Coated Retriever | curly-coated-retriever | 否 | public/assets/dogs/full/curly-coated-retriever-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/curly-coated-retriever-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B093 | 新斯科舍诱鸭寻回犬 | Nova Scotia Duck Tolling Retriever | nova-scotia-duck-tolling-retriever | 否 | public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B094 | 德国短毛指示犬 | German Shorthaired Pointer | german-shorthaired-pointer | 否 | public/assets/dogs/full/german-shorthaired-pointer-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/german-shorthaired-pointer-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B095 | 德国刚毛指示犬 | German Wirehaired Pointer | german-wirehaired-pointer | 否 | public/assets/dogs/full/german-wirehaired-pointer-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/german-wirehaired-pointer-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B096 | 魏玛犬 | Weimaraner | weimaraner | 否 | public/assets/dogs/full/weimaraner-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B097 | 维兹拉犬 | Vizsla | vizsla | 否 | public/assets/dogs/full/vizsla-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B098 | 英国指示犬 | English Pointer | english-pointer | 否 | public/assets/dogs/full/english-pointer-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库69/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库80/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

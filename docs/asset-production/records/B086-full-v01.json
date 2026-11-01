@@ -1,0 +1,125 @@
+{
+  "breed_id": "B086",
+  "name": "美国水猎犬",
+  "slug": "american-water-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B086-full-v01",
+  "prompt_path": "artifacts/illustrations/B086/full/v01/prompt.txt",
+  "prompt_sha256": "ba1fcac032f3d42db38a00c5f3d2317ab120ef05d671379a9adb71431f8cc449",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-0ad6a7cb-5250-42ca-afb3-181d6ef3544e.png",
+  "saved_at": "2026-11-01T04:58:41.132727+00:00",
+  "raw_path": "artifacts/illustrations/B086/full/v01/raw.png",
+  "raw_sha256": "3827ad69710903f55c7834fb1214310c922fda6ee9a4bbdd7bd89630c3d604be",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 934825,
+    "opaque_pixels": 103,
+    "partial_alpha_pixels": 637588,
+    "bbox": [
+      0,
+      0,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 547427,
+    "core_pixels": 547427
+  },
+  "path": "public/assets/dogs/full/american-water-spaniel-full.png",
+  "sha256": "625ed35843a1ad07b943bc640a2971279f7c7d517946b40ec9e5ae311ba2143e",
+  "pixels_sha256": "05545189e9fb4d5b7ba6804b69c29067167c002c968aa2b15dfe983b140b824c",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      44,
+      110,
+      1219,
+      1147
+    ],
+    "uniform_scale": 0.6970212765957446,
+    "resized_dimensions": [
+      819,
+      723
+    ],
+    "position": [
+      102,
+      198
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 547427,
+    "near_opaque_adjusted": 549618
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 748561,
+    "opaque_pixels": 271108,
+    "partial_alpha_pixels": 28907,
+    "bbox": [
+      102,
+      198,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 259633,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      198,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "美国水猎：中型结实略长身、宽适度头、中长口吻、低位长垂耳，巧克力棕波浪卷毛、面部毛短、腿饰毛中等；正常腿长，天然渐细长尾微弯后伸。四足侧站，不套用长腿贵宾模板。"
+}

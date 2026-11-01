@@ -1,0 +1,125 @@
+{
+  "breed_id": "B092",
+  "name": "卷毛寻回犬",
+  "slug": "curly-coated-retriever",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B092-full-v01",
+  "prompt_path": "artifacts/illustrations/B092/full/v01/prompt.txt",
+  "prompt_sha256": "64c426243adb7623d2ff7731327e2ab2b94f953f421987c5e3c02deecd7fae03",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-c0faa1de-ffb9-4191-b762-6439fd995a04.png",
+  "saved_at": "2026-11-01T05:01:16.361385+00:00",
+  "raw_path": "artifacts/illustrations/B092/full/v01/raw.png",
+  "raw_sha256": "a0b043ebbdfbfdfccbf6e2be57bbd1a4a46541c51cae2db3e9a243c92b9a52b6",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1040282,
+    "opaque_pixels": 385,
+    "partial_alpha_pixels": 531849,
+    "bbox": [
+      0,
+      46,
+      1224,
+      1254
+    ],
+    "core_translucent_pixels": 451884,
+    "core_pixels": 451884
+  },
+  "path": "public/assets/dogs/full/curly-coated-retriever-full.png",
+  "sha256": "533d8ed12d333d5fc5016f1f2919a208ddfbd1ccfff246fbb80be80a7a993d08",
+  "pixels_sha256": "5479d1f4cea35348c1fc3de23d4da3db05cd420efee3b44cf1de57a1acd2ac2e",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      117,
+      67,
+      1217,
+      1182
+    ],
+    "uniform_scale": 0.7345291479820628,
+    "resized_dimensions": [
+      808,
+      819
+    ],
+    "position": [
+      108,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 451884,
+    "near_opaque_adjusted": 462177
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 770538,
+    "opaque_pixels": 252449,
+    "partial_alpha_pixels": 25589,
+    "bbox": [
+      108,
+      102,
+      916,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 237401,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      108,
+      102,
+      108,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "卷毛寻回：大型高挑强壮、长楔头长口吻、小垂耳、脸部短毛，选择黑色紧贴小卷毛覆盖身躯而非贵宾蓬松卷团；长颈长腿，长直尾覆紧卷毛。四足侧站，不能统一贵宾身体。"
+}

@@ -1,0 +1,125 @@
+{
+  "breed_id": "B085",
+  "name": "爱尔兰水猎犬",
+  "slug": "irish-water-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b07-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B085-full-v01",
+  "prompt_path": "artifacts/illustrations/B085/full/v01/prompt.txt",
+  "prompt_sha256": "ef00d8c8fde82a5f8d8e7b174f7e5a0a10ab197c41c58b6f2153ce8e9bd0d562",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-3af37d90-9259-4e55-9ad2-0175965c40d3.png",
+  "saved_at": "2026-11-01T04:58:39.669632+00:00",
+  "raw_path": "artifacts/illustrations/B085/full/v01/raw.png",
+  "raw_sha256": "ada0de84515682081e92da8a8e73830cbc6b1115ca4c951fd0f1d99f7030ccad",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 895097,
+    "opaque_pixels": 382,
+    "partial_alpha_pixels": 677037,
+    "bbox": [
+      0,
+      21,
+      1227,
+      1254
+    ],
+    "core_translucent_pixels": 573148,
+    "core_pixels": 573148
+  },
+  "path": "public/assets/dogs/full/irish-water-spaniel-full.png",
+  "sha256": "63e9029c32b221233b82cc3c53ef40111765a6447f08382e39f766825ab118ee",
+  "pixels_sha256": "b412d2bb85858135415f8714a71d22004e586b2918f455b0251279c5612e7b6a",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      62,
+      51,
+      1227,
+      1193
+    ],
+    "uniform_scale": 0.7030042918454935,
+    "resized_dimensions": [
+      819,
+      803
+    ],
+    "position": [
+      102,
+      118
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 573148,
+    "near_opaque_adjusted": 577609
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 724015,
+    "opaque_pixels": 289589,
+    "partial_alpha_pixels": 34972,
+    "bbox": [
+      102,
+      118,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 276416,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      118,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Irish Water Spaniel short-haired tail, wavy American/Portuguese coats, flat versus tightly curled retriever coats and short versus wire-haired pointers visible; no obvious ear/tail/paw clipping. Spanish Water Dog/Lagotto similar curly family profiles flagged for final human head/body comparison; automatic QC is not breed certification or approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "爱尔兰水猎：中大型深肝色浓密卷毛，长头长口吻、长垂耳覆卷毛、头顶自然卷毛冠，脸部短毛；躯干近方、长腿，尾根卷毛但细长尾主体短毛，形成明显鼠尾轮廓。四足站立，不画贵宾球形修剪。"
+}
