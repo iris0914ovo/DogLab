@@ -70,6 +70,12 @@ def ingest(id,source):
  print(json.dumps(dict(id=id,path=r['path'],sha256=r['sha256'],qc=qc),ensure_ascii=False))
 def finalize():
  records=[json.loads((ROOT/f'docs/asset-production/records/{id}-full-v02.json').read_text()) for id in IDS]
+ existing_batch=ROOT/f'docs/asset-production/batches/{BATCH}.json'
+ if existing_batch.exists():
+  for r in records: assert sha(ROOT/r['path'])==r['sha256'], 'Existing output changed'
+  b=json.loads(existing_batch.read_text())
+  for path in b['contact_sheets']: assert (ROOT/path).is_file(), 'Existing preview missing'
+  print('Existing batch preserved; no regeneration or overwrite');return
  assert len({r['sha256'] for r in records})==6,'Duplicate binary'
  assert len({r['pixels_sha256'] for r in records})==6,'Duplicate pixels'
  font_path='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc'

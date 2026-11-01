@@ -1,0 +1,154 @@
+{
+  "breed_id": "B003",
+  "name": "金毛寻回犬",
+  "slug": "golden-retriever",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B003-full-v02",
+  "prompt_path": "artifacts/illustrations/B003/full/v02/prompt.txt",
+  "prompt_sha256": "ebba8e8d9b15869486346cb8f8957f451c3c8023bc7aaef147602a8197552fec",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-778252ae-bc79-4e3b-af74-374e814aa500.png",
+  "saved_at": "2026-11-01T02:14:06.931863+00:00",
+  "raw_path": "artifacts/illustrations/B003/full/v02/raw.png",
+  "raw_sha256": "c4edca2f20a265dfed1ba974fe0306bcceed3a687ed994760f0b4d4c8a5b3348",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 919062,
+    "opaque_pixels": 869,
+    "partial_alpha_pixels": 652585,
+    "bbox": [
+      0,
+      19,
+      1224,
+      1228
+    ],
+    "core_translucent_pixels": 613339,
+    "core_pixels": 613339
+  },
+  "path": "public/assets/dogs/full/golden-retriever-full.png",
+  "sha256": "b9d45b171e7b6c95326c7c1a43f6316b760284bc61de7b91a2b5c04dd0713cf4",
+  "pixels_sha256": "4c7fdd455941112346491883e2e5bb51bf2f2d0050377c49abb890e8ed660c04",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      49,
+      23,
+      1060,
+      1227
+    ],
+    "uniform_scale": 0.6802325581395349,
+    "resized_dimensions": [
+      688,
+      819
+    ],
+    "position": [
+      168,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 613339,
+    "near_opaque_adjusted": 624759
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 747652,
+    "opaque_pixels": 290985,
+    "partial_alpha_pixels": 9939,
+    "bbox": [
+      168,
+      102,
+      856,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 279241,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      168,
+      102,
+      168,
+      103
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          210,
+          147,
+          72
+        ],
+        "pixels": 103202
+      },
+      {
+        "rgb": [
+          227,
+          170,
+          95
+        ],
+        "pixels": 65332
+      },
+      {
+        "rgb": [
+          234,
+          184,
+          113
+        ],
+        "pixels": 46240
+      },
+      {
+        "rgb": [
+          132,
+          87,
+          42
+        ],
+        "pixels": 42568
+      },
+      {
+        "rgb": [
+          240,
+          198,
+          138
+        ],
+        "pixels": 37543
+      }
+    ],
+    "dark_pixel_fraction": 0.07736575275107245,
+    "source_alpha_touches_canvas": true,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "保留坐姿与垂耳；胸腹和尾部仍偏蓬松，平涂程度及毛量是否足够收敛待审核。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
+  "generation_attempts": 1
+}

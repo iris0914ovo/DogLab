@@ -98,10 +98,57 @@
       102,
       186,
       103
-    ]
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          203,
+          134,
+          71
+        ],
+        "pixels": 135491
+      },
+      {
+        "rgb": [
+          242,
+          222,
+          198
+        ],
+        "pixels": 65409
+      },
+      {
+        "rgb": [
+          244,
+          226,
+          202
+        ],
+        "pixels": 41028
+      },
+      {
+        "rgb": [
+          121,
+          75,
+          39
+        ],
+        "pixels": 41003
+      },
+      {
+        "rgb": [
+          224,
+          188,
+          149
+        ],
+        "pixels": 36437
+      }
+    ],
+    "dark_pixel_fraction": 0.09609917086245334,
+    "source_alpha_touches_canvas": true,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "轮廓为紧凑柴犬、立耳卷尾；眉部仍有明显白斑，是否足够弱化待用户审核。纹理与内部分色较规范预期丰富。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
   },
   "production_status": "GENERATED",
   "human_review_status": "PLANNED",
-  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
   "generation_attempts": 1
 }

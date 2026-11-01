@@ -1,0 +1,154 @@
+{
+  "breed_id": "B007",
+  "name": "贵宾犬",
+  "slug": "poodle",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B007-full-v02",
+  "prompt_path": "artifacts/illustrations/B007/full/v02/prompt.txt",
+  "prompt_sha256": "7ec9fe0f133f6c2942b140adc46fe5d9ba8d05181dbb81ef49dd0b2b376c1c53",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-80a7301d-f859-4f9d-b873-e4b624acddf5.png",
+  "saved_at": "2026-11-01T02:16:28.004613+00:00",
+  "raw_path": "artifacts/illustrations/B007/full/v02/raw.png",
+  "raw_sha256": "fcbd4176dc33afd47aa05b28548ca49133ae01910cca086fec5b05913d96cfeb",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 944181,
+    "opaque_pixels": 241,
+    "partial_alpha_pixels": 628094,
+    "bbox": [
+      0,
+      15,
+      1168,
+      1254
+    ],
+    "core_translucent_pixels": 551709,
+    "core_pixels": 551709
+  },
+  "path": "public/assets/dogs/full/poodle-full.png",
+  "sha256": "a9a81f3da7b76776ac06fb141b847c4f933dde0c1f547759e0b7e037a5596790",
+  "pixels_sha256": "e6ca0f152bacea25bcac6a9e6c257f9873e025e3c23ee85c5d86234358a75122",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      172,
+      20,
+      1107,
+      1219
+    ],
+    "uniform_scale": 0.683069224353628,
+    "resized_dimensions": [
+      639,
+      819
+    ],
+    "position": [
+      192,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 551709,
+    "near_opaque_adjusted": 556318
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 762740,
+    "opaque_pixels": 264307,
+    "partial_alpha_pixels": 21529,
+    "bbox": [
+      192,
+      102,
+      831,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 249734,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      192,
+      102,
+      193,
+      103
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          202,
+          145,
+          91
+        ],
+        "pixels": 87263
+      },
+      {
+        "rgb": [
+          221,
+          172,
+          120
+        ],
+        "pixels": 64326
+      },
+      {
+        "rgb": [
+          123,
+          80,
+          46
+        ],
+        "pixels": 46675
+      },
+      {
+        "rgb": [
+          231,
+          190,
+          143
+        ],
+        "pixels": 42718
+      },
+      {
+        "rgb": [
+          238,
+          204,
+          165
+        ],
+        "pixels": 33892
+      }
+    ],
+    "dark_pixel_fraction": 0.08174654569002525,
+    "source_alpha_touches_canvas": true,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "标准体型、长腿和细长口吻可辨；卷毛细节偏密，是否足够剪纸化需用户确认。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
+  "generation_attempts": 1
+}

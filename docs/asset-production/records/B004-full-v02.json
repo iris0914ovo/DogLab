@@ -1,0 +1,154 @@
+{
+  "breed_id": "B004",
+  "name": "边境牧羊犬",
+  "slug": "border-collie",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B004-full-v02",
+  "prompt_path": "artifacts/illustrations/B004/full/v02/prompt.txt",
+  "prompt_sha256": "123a93452b80b6f9aad82b5dc09accc10105ba95bc60ef3e7cfe8e80a7bae39c",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-416f3adf-6c36-478e-8702-895100d10657.png",
+  "saved_at": "2026-11-01T02:14:54.828064+00:00",
+  "raw_path": "artifacts/illustrations/B004/full/v02/raw.png",
+  "raw_sha256": "44dc27bf5a638a072c43188414c24499ab6d2e6e6a9a6cd1dbf6af666bf72578",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 959797,
+    "opaque_pixels": 971,
+    "partial_alpha_pixels": 611748,
+    "bbox": [
+      51,
+      23,
+      1161,
+      1207
+    ],
+    "core_translucent_pixels": 540475,
+    "core_pixels": 540475
+  },
+  "path": "public/assets/dogs/full/border-collie-full.png",
+  "sha256": "128a144bfa0e02c970bcfd122246de2e98c603a349ef2288677b3bcbe7536b0d",
+  "pixels_sha256": "035816621cdc8fc6d6f13610a9c878dbf464d2d82598379cd54b6ec63ebbf4b2",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      95,
+      50,
+      1161,
+      1206
+    ],
+    "uniform_scale": 0.7084775086505191,
+    "resized_dimensions": [
+      755,
+      819
+    ],
+    "position": [
+      134,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 540475,
+    "near_opaque_adjusted": 554106
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 744446,
+    "opaque_pixels": 281232,
+    "partial_alpha_pixels": 22898,
+    "bbox": [
+      134,
+      102,
+      889,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 264427,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      134,
+      102,
+      135,
+      103
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          56,
+          53,
+          50
+        ],
+        "pixels": 120336
+      },
+      {
+        "rgb": [
+          36,
+          34,
+          31
+        ],
+        "pixels": 64060
+      },
+      {
+        "rgb": [
+          243,
+          233,
+          219
+        ],
+        "pixels": 52876
+      },
+      {
+        "rgb": [
+          232,
+          219,
+          203
+        ],
+        "pixels": 44370
+      },
+      {
+        "rgb": [
+          118,
+          111,
+          102
+        ],
+        "pixels": 9768
+      }
+    ],
+    "dark_pixel_fraction": 0.6133420266977797,
+    "source_alpha_touches_canvas": false,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "可见修长四肢、半立耳及低垂尾；胸毛仍较浓，躯干轻盈度待进一步审核。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
+  "generation_attempts": 1
+}

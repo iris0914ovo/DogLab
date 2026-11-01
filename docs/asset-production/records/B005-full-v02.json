@@ -1,0 +1,154 @@
+{
+  "breed_id": "B005",
+  "name": "威尔士柯基犬（彭布罗克）",
+  "slug": "pembroke-welsh-corgi",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B005-full-v02",
+  "prompt_path": "artifacts/illustrations/B005/full/v02/prompt.txt",
+  "prompt_sha256": "6e6c65ff522039b7fe6d72fc1fb48d944a08f658d67c703d09258099e7ae5d27",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-9832396b-f5f3-48c9-966d-ae81698c5410.png",
+  "saved_at": "2026-11-01T02:15:54.105894+00:00",
+  "raw_path": "artifacts/illustrations/B005/full/v02/raw.png",
+  "raw_sha256": "b4d27e8ac6e108781dc28354cb11685d0b27f6446357561eec490a3ec52ae2a6",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 997635,
+    "opaque_pixels": 1208,
+    "partial_alpha_pixels": 573673,
+    "bbox": [
+      27,
+      25,
+      1241,
+      1254
+    ],
+    "core_translucent_pixels": 531812,
+    "core_pixels": 531812
+  },
+  "path": "public/assets/dogs/full/pembroke-welsh-corgi-full.png",
+  "sha256": "fe24a6f92a7591c9fff086e7c48970fa3ad0b1927c4ef1f36a4c3f42d3f42b29",
+  "pixels_sha256": "c69fbf4d44382256e5727390b60e22104fbc725cfe9c06ba67861e2ace0b3dfc",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      52,
+      107,
+      1241,
+      1067
+    ],
+    "uniform_scale": 0.6888141295206055,
+    "resized_dimensions": [
+      819,
+      661
+    ],
+    "position": [
+      102,
+      260
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 531812,
+    "near_opaque_adjusted": 544735
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 777995,
+    "opaque_pixels": 260279,
+    "partial_alpha_pixels": 10302,
+    "bbox": [
+      102,
+      260,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 247025,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      260,
+      103,
+      103
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          199,
+          119,
+          60
+        ],
+        "pixels": 111268
+      },
+      {
+        "rgb": [
+          248,
+          237,
+          221
+        ],
+        "pixels": 47107
+      },
+      {
+        "rgb": [
+          121,
+          70,
+          38
+        ],
+        "pixels": 37806
+      },
+      {
+        "rgb": [
+          216,
+          166,
+          121
+        ],
+        "pixels": 36319
+      },
+      {
+        "rgb": [
+          238,
+          222,
+          203
+        ],
+        "pixels": 31595
+      }
+    ],
+    "dark_pixel_fraction": 0.09731725326113709,
+    "source_alpha_touches_canvas": true,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "长身短腿、直立大耳与自然长尾清楚，尾量是否恰当待用户确认。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
+  "generation_attempts": 1
+}

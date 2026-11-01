@@ -1,0 +1,154 @@
+{
+  "breed_id": "B002",
+  "name": "西伯利亚哈士奇",
+  "slug": "siberian-husky",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B002-full-v02",
+  "prompt_path": "artifacts/illustrations/B002/full/v02/prompt.txt",
+  "prompt_sha256": "a56bf3ff59417aeff7759fe0b91efbcc61ee2787fc4a461b4935945cdbdde55b",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-a99797ec-2b03-408b-96c4-e9773389346c.png",
+  "saved_at": "2026-11-01T02:13:34.990822+00:00",
+  "raw_path": "artifacts/illustrations/B002/full/v02/raw.png",
+  "raw_sha256": "650eda9b789e9e5125015f0e3eb7c9e16935c36ab4343ea85764ac1c86620533",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 820415,
+    "opaque_pixels": 1004,
+    "partial_alpha_pixels": 751097,
+    "bbox": [
+      0,
+      0,
+      1235,
+      1238
+    ],
+    "core_translucent_pixels": 686701,
+    "core_pixels": 686701
+  },
+  "path": "public/assets/dogs/full/siberian-husky-full.png",
+  "sha256": "e53d5831fdf5b62109589a924e7ee0357a4c8ef01fc4a39b3e46675c6c932486",
+  "pixels_sha256": "b7182c797e50f549ce06a303efad504989e52b2d0281c0e9ea2fc14f70b74fc4",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      141,
+      5,
+      1183,
+      1237
+    ],
+    "uniform_scale": 0.6647727272727273,
+    "resized_dimensions": [
+      693,
+      819
+    ],
+    "position": [
+      165,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 686701,
+    "near_opaque_adjusted": 703928
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 718234,
+    "opaque_pixels": 314096,
+    "partial_alpha_pixels": 16246,
+    "bbox": [
+      165,
+      102,
+      858,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 295723,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      165,
+      102,
+      166,
+      103
+    ],
+    "dominant_color_clusters": [
+      {
+        "rgb": [
+          131,
+          135,
+          138
+        ],
+        "pixels": 87939
+      },
+      {
+        "rgb": [
+          222,
+          210,
+          196
+        ],
+        "pixels": 70617
+      },
+      {
+        "rgb": [
+          66,
+          66,
+          68
+        ],
+        "pixels": 63333
+      },
+      {
+        "rgb": [
+          241,
+          230,
+          215
+        ],
+        "pixels": 54735
+      },
+      {
+        "rgb": [
+          243,
+          232,
+          218
+        ],
+        "pixels": 44161
+      }
+    ],
+    "dark_pixel_fraction": 0.12268341724207803,
+    "source_alpha_touches_canvas": true,
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "可见抬爪姿态与自然松弯尾，未呈紧闭圆环；身体毛簇与纸感密度待用户与整批比较。",
+    "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
+  "generation_attempts": 1
+}

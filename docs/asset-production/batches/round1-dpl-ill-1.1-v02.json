@@ -1,0 +1,34 @@
+{
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "records": [
+    "docs/asset-production/records/B001-full-v02.json",
+    "docs/asset-production/records/B002-full-v02.json",
+    "docs/asset-production/records/B003-full-v02.json",
+    "docs/asset-production/records/B004-full-v02.json",
+    "docs/asset-production/records/B005-full-v02.json",
+    "docs/asset-production/records/B007-full-v02.json"
+  ],
+  "contact_sheets": [
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-ink.png",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-mist.png",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-alpha-checker.png",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-silhouette.png",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-small-size.png"
+  ],
+  "technical_pass_count": 6,
+  "exact_duplicates": false,
+  "human_review_status": "PLANNED",
+  "scope": "6 full-body candidates only; no portraits; stop before round2",
+  "near_duplicate_warnings": [],
+  "visual_status": "NEEDS_USER_REVIEW",
+  "visual_notes": {
+    "B001": "轮廓为紧凑柴犬、立耳卷尾；眉部仍有明显白斑，是否足够弱化待用户审核。纹理与内部分色较规范预期丰富。",
+    "B002": "可见抬爪姿态与自然松弯尾，未呈紧闭圆环；身体毛簇与纸感密度待用户与整批比较。",
+    "B003": "保留坐姿与垂耳；胸腹和尾部仍偏蓬松，平涂程度及毛量是否足够收敛待审核。",
+    "B004": "可见修长四肢、半立耳及低垂尾；胸毛仍较浓，躯干轻盈度待进一步审核。",
+    "B005": "长身短腿、直立大耳与自然长尾清楚，尾量是否恰当待用户确认。",
+    "B007": "标准体型、长腿和细长口吻可辨；卷毛细节偏密，是否足够剪纸化需用户确认。"
+  },
+  "first_image_verified_remote_commit": "5cab2a90cbb5b0ec9b640464f4ee69020c57ff93"
+}

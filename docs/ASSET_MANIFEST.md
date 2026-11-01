@@ -1,24 +1,24 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA.md 的 120 条记录，按 Breed ID 排序，名称、英文、slug 和正式犬格标记原样沿用。共计划 **120 张全身图＋32 张正式犬格肖像**，用户已提供 ChatGPT 对话样图的审核结论，但这些样图尚未上传本仓库；两种状态均为 PLANNED。表中路径只为仓库相对的 PNG 交付计划，当前不存在，不是实际文件路径或已完成链接；“实际文件”栏如实记录未上传。交付遵循 ILLUSTRATION_GUIDE V1.1，SVG 仅作为未来可选真实重绘，不再是默认正式交付。普通图鉴肖像用“—”表示不要求，不是遗漏。
+来源：BREED_DATA.md 的 120 条记录，按 Breed ID 排序，名称、英文、slug 和正式犬格标记原样沿用。共计划 **120 张全身图＋32 张正式犬格肖像**，用户已提供 ChatGPT 对话样图的审核结论，但旧样图未上传；本轮另由图像工具新生成 6 张全身候选并保存到仓库。32 种正式犬格的肖像仍未制作，按最低进度汇总的状态仍为 PLANNED；逐全身图状态 GENERATED，人工待审核。表中路径只为仓库相对的 PNG 交付计划，未制作条目并不存在；实际已生成的六张全身图仅以“实际文件”栏与逐图记录为证。交付遵循 ILLUSTRATION_GUIDE V1.1，SVG 仅作为未来可选真实重绘，不再是默认正式交付。普通图鉴肖像用“—”表示不要求，不是遗漏。
 
 ## 状态约定
 
 仅使用 PLANNED、GENERATED、REVIEWED、APPROVED。制作状态按该犬种所需全身/肖像的最低进度汇总；人工审核状态按两者最低人工审阅进度汇总。只完成全身、肖像未完成时仍汇总 PLANNED，并在后续版本证据记录中逐文件列明。仅有 Prompt 或用户转述外部对话样图、不含项目实际文件，不算项目资产 GENERATED；AI 自检不算人工审核；用户明确认可特定版本才可 APPROVED。
 
-生产阶段新增逐文件证据记录：版本、实际路径、哈希、模型/绘制工具、来源许可、制作人、审核人、日期、意见与批准范围。目前项目内无图像文件；六只在 ChatGPT 对话中已有审核样图，但未取得源文件、哈希及逐文件版本，不能把外部审核等同于已上传或人工批准，不捏造这些记录。品牌标志另见 BRAND_IDENTITY，不计入犬种资产数量。
+生产阶段新增逐文件证据记录：版本、实际路径、哈希、模型/绘制工具、来源许可、制作人、审核人、日期、意见与批准范围。旧对话样图仍无源文件；本轮六张新全身候选有实际文件、Prompt 与 SHA256，逐图记录位于 docs/asset-production/records/。新图尚未人工批准，不能把历史审核直接迁移到新版本。品牌标志另见 BRAND_IDENTITY，不计入犬种资产数量。
 
 ## 120 条索引
 
-| Breed ID | 中文名称 | 英文名称 | slug | 正式人格 | 全身 PNG 计划路径（未落库） | 肖像 PNG 计划路径（未落库） | 当前制作状态 | 人工审核状态 | 实际文件 | 审核意见 |
+| Breed ID | 中文名称 | 英文名称 | slug | 正式人格 | 全身 PNG 目标路径 | 肖像 PNG 目标路径 | 当前制作状态 | 人工审核状态 | 实际文件 | 审核意见 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| B001 | 柴犬 | Shiba Inu | shiba-inu | 是 | public/assets/dogs/full/shiba-inu-full.png | public/assets/dogs/portrait/shiba-inu-portrait.png | PLANNED | PLANNED | 未上传 | 保留造型，弱化过度拟人化的眉部白斑。 |
-| B002 | 西伯利亚哈士奇 | Siberian Husky | siberian-husky | 是 | public/assets/dogs/full/siberian-husky-full.png | public/assets/dogs/portrait/siberian-husky-portrait.png | PLANNED | PLANNED | 未上传 | 尾巴调整为自然松弯的镰刀状，不要紧密卷成圆环。 |
-| B003 | 金毛寻回犬 | Golden Retriever | golden-retriever | 是 | public/assets/dogs/full/golden-retriever-full.png | public/assets/dogs/portrait/golden-retriever-portrait.png | PLANNED | PLANNED | 未上传 | 保留坐姿，适当收敛身体与尾部的蓬松程度。 |
-| B004 | 边境牧羊犬 | Border Collie | border-collie | 是 | public/assets/dogs/full/border-collie-full.png | public/assets/dogs/portrait/border-collie-portrait.png | PLANNED | PLANNED | 未上传 | 减轻躯干厚重感，修长腿部，减少胸部毛量。 |
-| B005 | 威尔士柯基犬（彭布罗克） | Pembroke Welsh Corgi | pembroke-welsh-corgi | 是 | public/assets/dogs/full/pembroke-welsh-corgi-full.png | public/assets/dogs/portrait/pembroke-welsh-corgi-portrait.png | PLANNED | PLANNED | 未上传 | 保留长身短腿，适当减小过于夸张的尾部体积。 |
+| B001 | 柴犬 | Shiba Inu | shiba-inu | 是 | public/assets/dogs/full/shiba-inu-full.png | public/assets/dogs/portrait/shiba-inu-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/shiba-inu-full.png；肖像未制作 | 保留造型，弱化过度拟人化的眉部白斑。 |
+| B002 | 西伯利亚哈士奇 | Siberian Husky | siberian-husky | 是 | public/assets/dogs/full/siberian-husky-full.png | public/assets/dogs/portrait/siberian-husky-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/siberian-husky-full.png；肖像未制作 | 尾巴调整为自然松弯的镰刀状，不要紧密卷成圆环。 |
+| B003 | 金毛寻回犬 | Golden Retriever | golden-retriever | 是 | public/assets/dogs/full/golden-retriever-full.png | public/assets/dogs/portrait/golden-retriever-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/golden-retriever-full.png；肖像未制作 | 保留坐姿，适当收敛身体与尾部的蓬松程度。 |
+| B004 | 边境牧羊犬 | Border Collie | border-collie | 是 | public/assets/dogs/full/border-collie-full.png | public/assets/dogs/portrait/border-collie-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/border-collie-full.png；肖像未制作 | 减轻躯干厚重感，修长腿部，减少胸部毛量。 |
+| B005 | 威尔士柯基犬（彭布罗克） | Pembroke Welsh Corgi | pembroke-welsh-corgi | 是 | public/assets/dogs/full/pembroke-welsh-corgi-full.png | public/assets/dogs/portrait/pembroke-welsh-corgi-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pembroke-welsh-corgi-full.png；肖像未制作 | 保留长身短腿，适当减小过于夸张的尾部体积。 |
 | B006 | 拉布拉多寻回犬 | Labrador Retriever | labrador-retriever | 是 | public/assets/dogs/full/labrador-retriever-full.png | public/assets/dogs/portrait/labrador-retriever-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B007 | 贵宾犬 | Poodle | poodle | 是 | public/assets/dogs/full/poodle-full.png | public/assets/dogs/portrait/poodle-portrait.png | PLANNED | PLANNED | 未上传 | 保留标准体型，突出细长口吻和修长四肢，减少比熊式圆团感。 |
+| B007 | 贵宾犬 | Poodle | poodle | 是 | public/assets/dogs/full/poodle-full.png | public/assets/dogs/portrait/poodle-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/poodle-full.png；肖像未制作 | 保留标准体型，突出细长口吻和修长四肢，减少比熊式圆团感。 |
 | B008 | 德国牧羊犬 | German Shepherd Dog | german-shepherd-dog | 是 | public/assets/dogs/full/german-shepherd-dog-full.png | public/assets/dogs/portrait/german-shepherd-dog-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B009 | 萨摩耶犬 | Samoyed | samoyed | 是 | public/assets/dogs/full/samoyed-full.png | public/assets/dogs/portrait/samoyed-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B010 | 秋田犬 | Akita | akita | 是 | public/assets/dogs/full/akita-full.png | public/assets/dogs/portrait/akita-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 
-目录内仅有 `.gitkeep` 用于 Git 保留空目录，不是占位图片。项目目录内当前 0 张狗狗图像落库、0 张人工批准；外部对话样图共 6 张，其审核意见由用户转述，见 [ILLUSTRATION_REVIEW.md](ILLUSTRATION_REVIEW.md)。不能把未上传记成未曾在外部生成，也不能把方向通过记成正式资产批准。
+本轮 6 张新全身候选已落库（逐图 GENERATED），6 张合版预览已保存，0 张人工批准。原始图、Prompt、SHA256、Alpha 处理与质检见 [批次记录](asset-production/batches/round1-dpl-ill-1.1-v02.json)。全身基础技术质检通过，形态和风格仍待集中审核；肖像尚未制作，因此聚合状态仍为 PLANNED。旧对话样图未上传，不将历史意见视为新版本批准。其余 114 种未生成。
