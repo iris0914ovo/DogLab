@@ -1,0 +1,125 @@
+{
+  "breed_id": "B075",
+  "name": "博斯牧羊犬",
+  "slug": "beauceron",
+  "asset_kind": "full",
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B075-full-v01",
+  "prompt_path": "artifacts/illustrations/B075/full/v01/prompt.txt",
+  "prompt_sha256": "7795030346a4d406136a85cf1ff261d6b8f01c5a63492ac2a6e2760321f00d2a",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-7b50ce92-540c-4da1-ac49-fd1c4a816c18.png",
+  "saved_at": "2026-11-01T04:51:13.217490+00:00",
+  "raw_path": "artifacts/illustrations/B075/full/v01/raw.png",
+  "raw_sha256": "7e36e4d10562c0eeedd0af5089c0f221bbaa5aea413d3d5959161a74890d9421",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1023536,
+    "opaque_pixels": 339,
+    "partial_alpha_pixels": 548641,
+    "bbox": [
+      0,
+      17,
+      1226,
+      1254
+    ],
+    "core_translucent_pixels": 482074,
+    "core_pixels": 482074
+  },
+  "path": "public/assets/dogs/full/beauceron-full.png",
+  "sha256": "91f1d946c5e428ee890c8d91e34fec4eeb4245fc6bdb787cbcb89d03d0f72bc8",
+  "pixels_sha256": "1e27653e22ad9f9a25e87d6085895682ee9712b8fd725a629323afd83738aed8",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      155,
+      59,
+      1204,
+      1165
+    ],
+    "uniform_scale": 0.740506329113924,
+    "resized_dimensions": [
+      777,
+      819
+    ],
+    "position": [
+      123,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 482074,
+    "near_opaque_adjusted": 494456
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 753878,
+    "opaque_pixels": 273778,
+    "partial_alpha_pixels": 20920,
+    "bbox": [
+      123,
+      102,
+      900,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 258216,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      123,
+      102,
+      124,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "博斯：大型黑棕双层短毛、长宽适度头、中长有力口吻、天然半折垂耳不裁；修长结实身体、深胸强腿、棕下腿标记与后肢双狼爪自然。长尾低垂末端J弯，四足挺立，区别杜宾窄头细尾。"
+}

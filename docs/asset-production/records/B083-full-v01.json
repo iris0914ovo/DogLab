@@ -1,0 +1,125 @@
+{
+  "breed_id": "B083",
+  "name": "苏塞克斯猎犬",
+  "slug": "sussex-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B083-full-v01",
+  "prompt_path": "artifacts/illustrations/B083/full/v01/prompt.txt",
+  "prompt_sha256": "5e32dd89ce6611d87ef5de31af85db80d3010dccba75b497e839c75f075ca8ae",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-0a98696a-277c-4a72-bc55-8b87e276b5ef.png",
+  "saved_at": "2026-11-01T04:54:58.109905+00:00",
+  "raw_path": "artifacts/illustrations/B083/full/v01/raw.png",
+  "raw_sha256": "84c57828b2ffbe22fbac9bb8babe188e316d2e0942064d8a4f9a07677952c3e3",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 981548,
+    "opaque_pixels": 81,
+    "partial_alpha_pixels": 590887,
+    "bbox": [
+      0,
+      19,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 516366,
+    "core_pixels": 516366
+  },
+  "path": "public/assets/dogs/full/sussex-spaniel-full.png",
+  "sha256": "6f59410c8c2b5bdffe2e0cb23f0dc09911fbc62ca527e05c452ca4cf97042cd6",
+  "pixels_sha256": "ea2ac27c5b0284ace33f4b2a7133804e27a175340abe2206fa6968336fc51976",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      35,
+      216,
+      1233,
+      1058
+    ],
+    "uniform_scale": 0.6836393989983306,
+    "resized_dimensions": [
+      819,
+      576
+    ],
+    "position": [
+      102,
+      345
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 516366,
+    "near_opaque_adjusted": 517690
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 782811,
+    "opaque_pixels": 245533,
+    "partial_alpha_pixels": 20232,
+    "bbox": [
+      102,
+      345,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 236332,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      345,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "苏塞克斯：中型低矮长身、粗壮短腿、宽头中长宽口吻、低位长垂耳，金肝色浓密中长毛、颈胸与腿饰毛。天然长尾水平后伸，四足侧站，温和眼神，不用金毛缩腿模板。"
+}

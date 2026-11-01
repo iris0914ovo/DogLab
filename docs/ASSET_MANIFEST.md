@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前76张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成58/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前87张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成69/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -84,18 +84,18 @@
 | B070 | 科蒙多犬 | Komondor | komondor | 否 | public/assets/dogs/full/komondor-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/komondor-full.png | 第二轮AI检查：白色自然独立绳状毛束遍及身体与尾，非普通长毛；足掌可见，毛下结构需人工最终复核。 待用户审核。 |
 | B071 | 穆迪犬 | Mudi | mudi | 否 | public/assets/dogs/full/mudi-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/mudi-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B072 | 普米犬 | Pumi | pumi | 否 | public/assets/dogs/full/pumi-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/pumi-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B073 | 波兰低地牧羊犬 | Polish Lowland Sheepdog | polish-lowland-sheepdog | 否 | public/assets/dogs/full/polish-lowland-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B074 | 伯格马斯科牧羊犬 | Bergamasco Sheepdog | bergamasco-sheepdog | 否 | public/assets/dogs/full/bergamasco-sheepdog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B075 | 博斯牧羊犬 | Beauceron | beauceron | 否 | public/assets/dogs/full/beauceron-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B076 | 卡迪根威尔士柯基犬 | Cardigan Welsh Corgi | cardigan-welsh-corgi | 否 | public/assets/dogs/full/cardigan-welsh-corgi-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B077 | 白色瑞士牧羊犬 | White Swiss Shepherd Dog | white-swiss-shepherd-dog | 否 | public/assets/dogs/full/white-swiss-shepherd-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B073 | 波兰低地牧羊犬 | Polish Lowland Sheepdog | polish-lowland-sheepdog | 否 | public/assets/dogs/full/polish-lowland-sheepdog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/polish-lowland-sheepdog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B074 | 伯格马斯科牧羊犬 | Bergamasco Sheepdog | bergamasco-sheepdog | 否 | public/assets/dogs/full/bergamasco-sheepdog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/bergamasco-sheepdog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B075 | 博斯牧羊犬 | Beauceron | beauceron | 否 | public/assets/dogs/full/beauceron-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/beauceron-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B076 | 卡迪根威尔士柯基犬 | Cardigan Welsh Corgi | cardigan-welsh-corgi | 否 | public/assets/dogs/full/cardigan-welsh-corgi-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/cardigan-welsh-corgi-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B077 | 白色瑞士牧羊犬 | White Swiss Shepherd Dog | white-swiss-shepherd-dog | 否 | public/assets/dogs/full/white-swiss-shepherd-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/white-swiss-shepherd-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B078 | 英国可卡犬 | English Cocker Spaniel | english-cocker-spaniel | 否 | public/assets/dogs/full/english-cocker-spaniel-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/english-cocker-spaniel-full.png | 第二轮AI检查：低位长垂耳、丝质饰毛、自然长尾及独立头部比例可辨。 待用户审核。 |
-| B079 | 美国可卡犬 | American Cocker Spaniel | american-cocker-spaniel | 否 | public/assets/dogs/full/american-cocker-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B080 | 英国史宾格犬 | English Springer Spaniel | english-springer-spaniel | 否 | public/assets/dogs/full/english-springer-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B081 | 威尔士史宾格犬 | Welsh Springer Spaniel | welsh-springer-spaniel | 否 | public/assets/dogs/full/welsh-springer-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B082 | 克伦伯猎犬 | Clumber Spaniel | clumber-spaniel | 否 | public/assets/dogs/full/clumber-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B083 | 苏塞克斯猎犬 | Sussex Spaniel | sussex-spaniel | 否 | public/assets/dogs/full/sussex-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B084 | 田野猎犬 | Field Spaniel | field-spaniel | 否 | public/assets/dogs/full/field-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B079 | 美国可卡犬 | American Cocker Spaniel | american-cocker-spaniel | 否 | public/assets/dogs/full/american-cocker-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/american-cocker-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B080 | 英国史宾格犬 | English Springer Spaniel | english-springer-spaniel | 否 | public/assets/dogs/full/english-springer-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/english-springer-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B081 | 威尔士史宾格犬 | Welsh Springer Spaniel | welsh-springer-spaniel | 否 | public/assets/dogs/full/welsh-springer-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/welsh-springer-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B082 | 克伦伯猎犬 | Clumber Spaniel | clumber-spaniel | 否 | public/assets/dogs/full/clumber-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/clumber-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B083 | 苏塞克斯猎犬 | Sussex Spaniel | sussex-spaniel | 否 | public/assets/dogs/full/sussex-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/sussex-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B084 | 田野猎犬 | Field Spaniel | field-spaniel | 否 | public/assets/dogs/full/field-spaniel-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/field-spaniel-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B085 | 爱尔兰水猎犬 | Irish Water Spaniel | irish-water-spaniel | 否 | public/assets/dogs/full/irish-water-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B086 | 美国水猎犬 | American Water Spaniel | american-water-spaniel | 否 | public/assets/dogs/full/american-water-spaniel-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B087 | 葡萄牙水犬 | Portuguese Water Dog | portuguese-water-dog | 否 | public/assets/dogs/full/portuguese-water-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库58/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库69/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

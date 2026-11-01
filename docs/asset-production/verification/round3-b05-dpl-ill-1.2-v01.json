@@ -1,0 +1,183 @@
+{
+  "batch_id": "round3-b05-dpl-ill-1.2-v01",
+  "production_commit": "2280fe7364848052da524998a57bf06fe468afa9",
+  "checked_at": "2026-11-01T04:47:10.748937+00:00",
+  "success": true,
+  "method": "Independent temporary Git repository fetch, actual remote blob SHA256/PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/belgian-tervuren-full.png",
+      "sha256": "d2e054827835a4a0d468573b7e41720b1e5877ab9daf98d8a4497224d49651e1",
+      "bytes": 851005
+    },
+    {
+      "path": "artifacts/illustrations/B061/full/v01/raw.png",
+      "sha256": "74cc9494d6f825310c90f353f39d66427305cd8f2b4e180c33e43198bbeeb01a",
+      "bytes": 1932502
+    },
+    {
+      "path": "artifacts/illustrations/B061/full/v01/prompt.txt",
+      "sha256": "7432441fc19d54315e613e18bf752892dfac9620c0edddac595aba92214a7839",
+      "bytes": 1502
+    },
+    {
+      "path": "public/assets/dogs/full/belgian-groenendael-full.png",
+      "sha256": "6612d67effc2156513b11a74a4738fc827bce191d11a6ea04b05712a1c7a8402",
+      "bytes": 734368
+    },
+    {
+      "path": "artifacts/illustrations/B062/full/v01/raw.png",
+      "sha256": "ea471fd2b9c6f81828103bdac3ea34d8c191c0257f8c0e7c37d1544d13a3f838",
+      "bytes": 1546909
+    },
+    {
+      "path": "artifacts/illustrations/B062/full/v01/prompt.txt",
+      "sha256": "15851941fcc8dd1f7fd78fdd1ac981af53b48b29b94212424b43f87d67d69a02",
+      "bytes": 1499
+    },
+    {
+      "path": "public/assets/dogs/full/belgian-laekenois-full.png",
+      "sha256": "f43a62d6b652dee8b6f65497eb66916f7517f1a9ca0e34871515a0048981270b",
+      "bytes": 815241
+    },
+    {
+      "path": "artifacts/illustrations/B063/full/v01/raw.png",
+      "sha256": "6e9f9712a99ab03c231c3aad62d85c30df79f87787f1c8c46e8a1ff3065256b5",
+      "bytes": 1627466
+    },
+    {
+      "path": "artifacts/illustrations/B063/full/v01/prompt.txt",
+      "sha256": "0d89da48da46fe0f9b6fc08af58c0f533bc8d72b617b3592bffafc7cb6741c8d",
+      "bytes": 1518
+    },
+    {
+      "path": "public/assets/dogs/full/rough-collie-full.png",
+      "sha256": "cac94300f3cb435802765ab4ecf57bd56ba87e2a889c246dda7da80baf0c603c",
+      "bytes": 916961
+    },
+    {
+      "path": "artifacts/illustrations/B064/full/v01/raw.png",
+      "sha256": "751880907b03eab91a5465ef7c47c639559963185b2afc89001ac455ff752a31",
+      "bytes": 1833050
+    },
+    {
+      "path": "artifacts/illustrations/B064/full/v01/prompt.txt",
+      "sha256": "dde775a625be349c73f997c77720683c70739a59cbde922a3864ee769581e317",
+      "bytes": 1504
+    },
+    {
+      "path": "public/assets/dogs/full/smooth-collie-full.png",
+      "sha256": "f882625e32eb60aa3eaeb27a6c0be2779b7afdeab38c5b3b9466b4a9a29f4e1d",
+      "bytes": 659697
+    },
+    {
+      "path": "artifacts/illustrations/B065/full/v01/raw.png",
+      "sha256": "70c99f25cb35a1be3dd3f59eb3c7953f9c387d4a5aede1e4fb9d11aff25b5ccf",
+      "bytes": 1326515
+    },
+    {
+      "path": "artifacts/illustrations/B065/full/v01/prompt.txt",
+      "sha256": "5d0cf0ac26b49a94ce40338ee836e905cc0700834e732b0d39a5b1ac7ee2b050",
+      "bytes": 1502
+    },
+    {
+      "path": "public/assets/dogs/full/old-english-sheepdog-full.png",
+      "sha256": "f5e9a583793ef1ea02d9da2e8150c89758b0e8184a646b411233fdbc4ef388e6",
+      "bytes": 975577
+    },
+    {
+      "path": "artifacts/illustrations/B066/full/v01/raw.png",
+      "sha256": "b1fe94c2cb6efcf102943b8faa5293cc485f8f226dd418a4b3290031a655dc3f",
+      "bytes": 2070176
+    },
+    {
+      "path": "artifacts/illustrations/B066/full/v01/prompt.txt",
+      "sha256": "35d3df0b058c9b93dfa51abb04f6699c753c5ab500b58c025abd1eb41d7b8bb5",
+      "bytes": 1515
+    },
+    {
+      "path": "public/assets/dogs/full/bearded-collie-full.png",
+      "sha256": "6c20dc43c08d4c7b228fe6aa6e357870eca3e6046e98e22e8e8aac0c2f8968f8",
+      "bytes": 973241
+    },
+    {
+      "path": "artifacts/illustrations/B067/full/v01/raw.png",
+      "sha256": "d8505ff4f72942412736117139546ba3b8b09c7af718741f6e62ac66d6fef4ad",
+      "bytes": 2013720
+    },
+    {
+      "path": "artifacts/illustrations/B067/full/v01/prompt.txt",
+      "sha256": "297fe7a17b0ff9e0128a163bf8ea32be9d88805299d453379f7dd22a78d0dce4",
+      "bytes": 1485
+    },
+    {
+      "path": "public/assets/dogs/full/briard-full.png",
+      "sha256": "430250333106e0bcfbd118342b43c44ce9e8eb8a1a3c496ca9577d4d16b695d4",
+      "bytes": 972198
+    },
+    {
+      "path": "artifacts/illustrations/B068/full/v01/raw.png",
+      "sha256": "0514ead14d056b5229e37c29c6b6010e190f52bdd34f54c9654ff27ed608571d",
+      "bytes": 2062440
+    },
+    {
+      "path": "artifacts/illustrations/B068/full/v01/prompt.txt",
+      "sha256": "1665c8145c260de61224c21e9c76033013d12895a2c05bb86584165cf6bab511",
+      "bytes": 1498
+    },
+    {
+      "path": "public/assets/dogs/full/puli-full.png",
+      "sha256": "194149f4962db22dc675a1294d5df7c0a9a21484b00f7966b2b9554b4dafd6d0",
+      "bytes": 1022807
+    },
+    {
+      "path": "artifacts/illustrations/B069/full/v01/raw.png",
+      "sha256": "f7840bbffde1454cc16885298a7258fee5a4cb9d2e460204befa009a9e1635d0",
+      "bytes": 2042439
+    },
+    {
+      "path": "artifacts/illustrations/B069/full/v01/prompt.txt",
+      "sha256": "a9c2043859f775487eda9a35a72235a36f5a6fbc724c5ce38b4ad28cc21d87fe",
+      "bytes": 1505
+    },
+    {
+      "path": "public/assets/dogs/full/mudi-full.png",
+      "sha256": "772490a90d224b27631ae61063c1f38c9cb0b413eb426dd9b93301b9dcbcf077",
+      "bytes": 769030
+    },
+    {
+      "path": "artifacts/illustrations/B071/full/v01/raw.png",
+      "sha256": "461141c68609df451498ab3d3b1038927380a409c19d9138f9999a3832bcf6d2",
+      "bytes": 1583668
+    },
+    {
+      "path": "artifacts/illustrations/B071/full/v01/prompt.txt",
+      "sha256": "4cfc64e633107890fa25ce6263ba6ad764eefd58ddb3033f9a90a6ecc76dca43",
+      "bytes": 1478
+    },
+    {
+      "path": "public/assets/dogs/full/pumi-full.png",
+      "sha256": "4fc32993d00533058c63863d05147dcb393353b10213668e13356618492e4321",
+      "bytes": 1049021
+    },
+    {
+      "path": "artifacts/illustrations/B072/full/v01/raw.png",
+      "sha256": "ee1e90e9639933483d75119cdfbf91f9f8066c5f3d58ad553576c59377c94fd0",
+      "bytes": 2054830
+    },
+    {
+      "path": "artifacts/illustrations/B072/full/v01/prompt.txt",
+      "sha256": "4619910748dada64e151da493fcab5d8249b32a8114cf1fd806485297b094f66",
+      "bytes": 1472
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b05-dpl-ill-1.2-v01-paper.png",
+      "sha256": "4230ac6642d4d46c823fd6520b80f7c7daadc4f012a8d7c6b4a420540200ac6e"
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b05-dpl-ill-1.2-v01-ink.png",
+      "sha256": "32bcf66421c2b89da11d8cdf86038fb60418dfe90da49d1acdc02ff86938fa65"
+    }
+  ],
+  "main_unchanged": true
+}

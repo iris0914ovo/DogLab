@@ -1,0 +1,125 @@
+{
+  "breed_id": "B084",
+  "name": "田野猎犬",
+  "slug": "field-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B084-full-v01",
+  "prompt_path": "artifacts/illustrations/B084/full/v01/prompt.txt",
+  "prompt_sha256": "56b5c539767ca5bfa29ba26e2e06c4eaaef43f00a44027b8a9f90e2793f5224d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-beb9eeeb-552e-498e-b4ab-1007d980a4e5.png",
+  "saved_at": "2026-11-01T04:54:59.572869+00:00",
+  "raw_path": "artifacts/illustrations/B084/full/v01/raw.png",
+  "raw_sha256": "55707120ff4d72d3f288e9f0165010495a34205cc3a2be474504a622247dd040",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1003092,
+    "opaque_pixels": 116,
+    "partial_alpha_pixels": 569308,
+    "bbox": [
+      0,
+      21,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 481672,
+    "core_pixels": 481673
+  },
+  "path": "public/assets/dogs/full/field-spaniel-full.png",
+  "sha256": "6ad2d468b8dbb5ef916dcfc5c8c4491499e99801333ae32476eb61b7c1606805",
+  "pixels_sha256": "a215df11b19599ea7a8f8237c415ca99e9b92d27da27f9b1cb95c4389c49a9c9",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      81,
+      136,
+      1221,
+      1111
+    ],
+    "uniform_scale": 0.718421052631579,
+    "resized_dimensions": [
+      819,
+      700
+    ],
+    "position": [
+      102,
+      221
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 481672,
+    "near_opaque_adjusted": 486773
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 763666,
+    "opaque_pixels": 254983,
+    "partial_alpha_pixels": 29927,
+    "bbox": [
+      102,
+      221,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 242210,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      221,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "田野猎犬：中型修长身、正常腿长、长头中长方口吻、低位长垂耳；选择肝色丝质中长毛，胸腹腿饰毛适度而非拖地。天然长尾后伸，四足轻错步，区别短腿苏塞克斯与圆头美可卡。"
+}

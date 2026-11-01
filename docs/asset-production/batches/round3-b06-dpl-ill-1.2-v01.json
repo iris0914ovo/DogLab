@@ -1,0 +1,2602 @@
+{
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "breed_ids": [
+    "B073",
+    "B074",
+    "B075",
+    "B076",
+    "B077",
+    "B079",
+    "B080",
+    "B081",
+    "B082",
+    "B083",
+    "B084"
+  ],
+  "record_paths": [
+    "docs/asset-production/records/B073-full-v01.json",
+    "docs/asset-production/records/B074-full-v01.json",
+    "docs/asset-production/records/B075-full-v01.json",
+    "docs/asset-production/records/B076-full-v01.json",
+    "docs/asset-production/records/B077-full-v01.json",
+    "docs/asset-production/records/B079-full-v01.json",
+    "docs/asset-production/records/B080-full-v01.json",
+    "docs/asset-production/records/B081-full-v01.json",
+    "docs/asset-production/records/B082-full-v01.json",
+    "docs/asset-production/records/B083-full-v01.json",
+    "docs/asset-production/records/B084-full-v01.json"
+  ],
+  "contact_sheets": [
+    "public/assets/dogs/review/round3-b06-dpl-ill-1.2-v01-paper.png",
+    "public/assets/dogs/review/round3-b06-dpl-ill-1.2-v01-ink.png"
+  ],
+  "technical_pass_count": 11,
+  "failed_ids": [],
+  "exact_duplicates": false,
+  "near_silhouette_warnings": [
+    {
+      "ids": [
+        "B020",
+        "B074"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B020",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B020",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B047",
+        "B074"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B047",
+        "B075"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B047",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B074"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B080"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B075"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B079"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B073"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B068",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B074"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B080"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B079"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B058",
+        "B080"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B058",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B058",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B058",
+        "B081"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B058",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B050"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B067"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B028"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B018"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B062"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B030"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B014"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B017"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B080"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B043"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B120"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B031"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B033"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B013"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B035"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B075"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B063"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B079"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B116"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B049"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B015"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B032"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B008"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B053"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B024"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B064"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B065"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B011"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B036"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B066"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B046"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B070"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B069"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B059"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B073"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B022"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B061"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B077"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B016"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B041"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B010"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B037"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B081"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B023"
+      ],
+      "hamming": 0,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B040"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B026"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B054"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B038"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B074",
+        "B104"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B050",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B076"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B080"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B075"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B079"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B073"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B067",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B030"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B017"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B120"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B079"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B116"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B008"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B064"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B065"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B066"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B012"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B083"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B073"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B016"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B082"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B076",
+        "B005"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B028",
+        "B075"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B028",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B018",
+        "B080"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B018",
+        "B075"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B018",
+        "B077"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B018",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B018",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B075"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B079"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B077"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B081"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B062",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B006",
+        "B080"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B006",
+        "B075"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B006",
+        "B077"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B006",
+        "B081"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B030",
+        "B080"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B030",
+        "B079"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B030",
+        "B084"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B030",
+        "B073"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B030",
+        "B082"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B014",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B014",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B014",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B014",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B080"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B075"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B079"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B073"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B081"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B017",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B120"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B063"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B079"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B008"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B019"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B060"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B024"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B064"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B065"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B066"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B070"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B084"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B083"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B059"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B073"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B022"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B016"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B081"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B023"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B082"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B080",
+        "B005"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B043",
+        "B079"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B043",
+        "B073"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B079"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B083"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B033",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B013",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B013",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B027",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B035",
+        "B075"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B063"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B008"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B019"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B060"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B053"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B024"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B064"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B065"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B066"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B048"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B070"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B059"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B022"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B061"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B077"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B016"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B021"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B037"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B081"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B051"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B023"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B026"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B075",
+        "B054"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B063",
+        "B079"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B063",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B063",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B063",
+        "B081"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B063",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B116"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B008"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B060"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B024"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B064"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B066"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B070"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B084"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B012"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B083"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B059"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B073"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B022"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B061"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B016"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B041"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B023"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B082"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B079",
+        "B005"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B083"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B049",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B032",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B032",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B008",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B008",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B008",
+        "B077"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B008",
+        "B081"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B008",
+        "B082"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B019",
+        "B077"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B019",
+        "B081"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B060",
+        "B084"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B060",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B060",
+        "B081"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B053",
+        "B077"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B053",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B024",
+        "B073"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B024",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B024",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B024",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B064",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B064",
+        "B073"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B064",
+        "B077"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B064",
+        "B081"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B064",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B065",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B065",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B065",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B065",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B066",
+        "B084"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B066",
+        "B073"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B066",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B066",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B066",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B048",
+        "B077"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B084"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B073"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B077"
+      ],
+      "hamming": 1,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B081"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B082"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B012"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B083"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B059"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B073"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B022"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B061"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B016"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B023"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B082"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B084",
+        "B005"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B069",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B012",
+        "B083"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B012",
+        "B073"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B012",
+        "B077"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B012",
+        "B082"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B083",
+        "B073"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B083",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B083",
+        "B005"
+      ],
+      "hamming": 2,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B059",
+        "B073"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B059",
+        "B077"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B059",
+        "B081"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B059",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B022"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B061"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B077"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B016"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B023"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B082"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B073",
+        "B005"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B022",
+        "B077"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B022",
+        "B081"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B022",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B061",
+        "B077"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B061",
+        "B081"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B016"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B041"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B021"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B081"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B051"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B023"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B082"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B026"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B072"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B054"
+      ],
+      "hamming": 4,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B052"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B077",
+        "B104"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B016",
+        "B081"
+      ],
+      "hamming": 5,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B016",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B041",
+        "B081"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B081",
+        "B023"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B081",
+        "B082"
+      ],
+      "hamming": 7,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B023",
+        "B082"
+      ],
+      "hamming": 6,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    },
+    {
+      "ids": [
+        "B082",
+        "B005"
+      ],
+      "hamming": 3,
+      "note": "Silhouette warning; not proof of duplication; requires AI/user visual review"
+    }
+  ],
+  "human_review_status": "PLANNED",
+  "style_version": "DPL-ILL-1.2",
+  "scope": "Full-body only; no portraits or website",
+  "ai_contact_sheet_review": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+}

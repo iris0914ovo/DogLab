@@ -1,0 +1,125 @@
+{
+  "breed_id": "B080",
+  "name": "英国史宾格犬",
+  "slug": "english-springer-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B080-full-v01",
+  "prompt_path": "artifacts/illustrations/B080/full/v01/prompt.txt",
+  "prompt_sha256": "b209184f1745138ab0c580ec3e3af4f3548008024b26fc798697cf562f9eb760",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-62746595-57fb-42f1-b92f-66660d2150df.png",
+  "saved_at": "2026-11-01T04:53:07.477677+00:00",
+  "raw_path": "artifacts/illustrations/B080/full/v01/raw.png",
+  "raw_sha256": "1b34e438272105dfd6b3c41756548e971666d9406777dae3dfd904de1cc704bc",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 928335,
+    "opaque_pixels": 95,
+    "partial_alpha_pixels": 644086,
+    "bbox": [
+      0,
+      19,
+      1238,
+      1254
+    ],
+    "core_translucent_pixels": 552399,
+    "core_pixels": 552400
+  },
+  "path": "public/assets/dogs/full/english-springer-spaniel-full.png",
+  "sha256": "da2da055de1f951335a4b3c3bf27e179387e99cc727e055a5cb60f6f2714bd4f",
+  "pixels_sha256": "daceb4c96bb9846abbdd9a62f354951a168259d9eb0131faac98e6d9a7f97e79",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      69,
+      102,
+      1235,
+      1145
+    ],
+    "uniform_scale": 0.7024013722126929,
+    "resized_dimensions": [
+      819,
+      733
+    ],
+    "position": [
+      102,
+      188
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 552399,
+    "near_opaque_adjusted": 549396
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740161,
+    "opaque_pixels": 277052,
+    "partial_alpha_pixels": 31363,
+    "bbox": [
+      102,
+      188,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 266192,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      188,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "英国史宾格：中型运动骨架、稍长头、适度方长口吻、低位中长垂耳，肝白被毛带小点、中长胸腿饰毛；腿比可卡更长，胸深自然收腰。天然长尾后伸，四足侧站目光专注，不剪尾。"
+}

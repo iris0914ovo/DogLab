@@ -1,0 +1,125 @@
+{
+  "breed_id": "B077",
+  "name": "白色瑞士牧羊犬",
+  "slug": "white-swiss-shepherd-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b06-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B077-full-v01",
+  "prompt_path": "artifacts/illustrations/B077/full/v01/prompt.txt",
+  "prompt_sha256": "5f04f4f82967ca5792b543dff3170ebafa58ecc7d815873571cc1d206bf0e5c4",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-a3673c3b-5ed1-4ed6-973b-00b6f83911bd.png",
+  "saved_at": "2026-11-01T04:52:12.257658+00:00",
+  "raw_path": "artifacts/illustrations/B077/full/v01/raw.png",
+  "raw_sha256": "1cdb3d0c14a3f1c0089355a54717921a8fcf493cd32f090c44107573b7067ba6",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 912682,
+    "opaque_pixels": 146,
+    "partial_alpha_pixels": 659688,
+    "bbox": [
+      0,
+      22,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 581045,
+    "core_pixels": 581045
+  },
+  "path": "public/assets/dogs/full/white-swiss-shepherd-dog-full.png",
+  "sha256": "b69de0f2f9313a5a7f9b73186b400f4d5d67104e1e1c74eef474fcf4eed89697",
+  "pixels_sha256": "a37cbb3f135df1757a4d546e3e72b3488860f937543cd4d811512eec8f7b3874",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      105,
+      64,
+      1205,
+      1196
+    ],
+    "uniform_scale": 0.7234982332155477,
+    "resized_dimensions": [
+      796,
+      819
+    ],
+    "position": [
+      114,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 581045,
+    "near_opaque_adjusted": 581576
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 714634,
+    "opaque_pixels": 309023,
+    "partial_alpha_pixels": 24919,
+    "bbox": [
+      114,
+      102,
+      910,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 298308,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      114,
+      102,
+      114,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: Bergamasco flattened mats differ from cords and straight coats; Beauceron short coat, Cardigan broad ears/long tail, white shepherd and spaniel body/ear profiles are visible. No obvious missing ear/tail/paws. Closely related English/Welsh Springer and other spaniels retain natural family resemblance, flagged for final human comparison; long coat fine anatomy remains pending."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "is_current": true,
+  "breed_profile": "白色瑞士牧羊：大型白色中长双层毛、长楔头、适度长有力口吻、大尖立耳、棕眼黑鼻；正常背线、长腿和轻巧结实骨架。长蓬尾低垂，四足侧站，不用萨摩耶短宽脸背卷尾。"
+}
