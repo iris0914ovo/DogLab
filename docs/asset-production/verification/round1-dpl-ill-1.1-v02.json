@@ -1,0 +1,131 @@
+{
+  "checked_at": "2026-11-01T02:19:12.370244+00:00",
+  "repository": "https://github.com/iris0914ovo/DogLab.git",
+  "branch": "work",
+  "production_commit": "b4199c45d119bf19a165125ecdacc713468a5b74",
+  "main_commit": "e885330cda4018c7ac216eeb4351a947fbd65284",
+  "method": "Fresh temporary bare repository fetch; remote blob SHA256 compared against generation records and local files; actual PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/shiba-inu-full.png",
+      "sha256": "8096c5facfc34f933c2ca1cf3ad3585efeb3a312f4a08aafcc5436b1c4b80dfd",
+      "bytes": 677219
+    },
+    {
+      "path": "artifacts/illustrations/B001/full/v02/raw.png",
+      "sha256": "f51e0132d254f8355407b7308413ce16ef67e1dfdf47a0b7144890a4d88a871a",
+      "bytes": 1543883
+    },
+    {
+      "path": "artifacts/illustrations/B001/full/v02/prompt.txt",
+      "sha256": "8c77cb0a30489b588daff935869bec9f5f1d92b0997c36192809c2b0cb6ede0d",
+      "bytes": 1918
+    },
+    {
+      "path": "public/assets/dogs/full/siberian-husky-full.png",
+      "sha256": "e53d5831fdf5b62109589a924e7ee0357a4c8ef01fc4a39b3e46675c6c932486",
+      "bytes": 691458
+    },
+    {
+      "path": "artifacts/illustrations/B002/full/v02/raw.png",
+      "sha256": "650eda9b789e9e5125015f0e3eb7c9e16935c36ab4343ea85764ac1c86620533",
+      "bytes": 1552311
+    },
+    {
+      "path": "artifacts/illustrations/B002/full/v02/prompt.txt",
+      "sha256": "a56bf3ff59417aeff7759fe0b91efbcc61ee2787fc4a461b4935945cdbdde55b",
+      "bytes": 1950
+    },
+    {
+      "path": "public/assets/dogs/full/golden-retriever-full.png",
+      "sha256": "b9d45b171e7b6c95326c7c1a43f6316b760284bc61de7b91a2b5c04dd0713cf4",
+      "bytes": 637974
+    },
+    {
+      "path": "artifacts/illustrations/B003/full/v02/raw.png",
+      "sha256": "c4edca2f20a265dfed1ba974fe0306bcceed3a687ed994760f0b4d4c8a5b3348",
+      "bytes": 1385491
+    },
+    {
+      "path": "artifacts/illustrations/B003/full/v02/prompt.txt",
+      "sha256": "ebba8e8d9b15869486346cb8f8957f451c3c8023bc7aaef147602a8197552fec",
+      "bytes": 1976
+    },
+    {
+      "path": "public/assets/dogs/full/border-collie-full.png",
+      "sha256": "128a144bfa0e02c970bcfd122246de2e98c603a349ef2288677b3bcbe7536b0d",
+      "bytes": 640021
+    },
+    {
+      "path": "artifacts/illustrations/B004/full/v02/raw.png",
+      "sha256": "44dc27bf5a638a072c43188414c24499ab6d2e6e6a9a6cd1dbf6af666bf72578",
+      "bytes": 1286711
+    },
+    {
+      "path": "artifacts/illustrations/B004/full/v02/prompt.txt",
+      "sha256": "123a93452b80b6f9aad82b5dc09accc10105ba95bc60ef3e7cfe8e80a7bae39c",
+      "bytes": 1935
+    },
+    {
+      "path": "public/assets/dogs/full/pembroke-welsh-corgi-full.png",
+      "sha256": "fe24a6f92a7591c9fff086e7c48970fa3ad0b1927c4ef1f36a4c3f42d3f42b29",
+      "bytes": 570529
+    },
+    {
+      "path": "artifacts/illustrations/B005/full/v02/raw.png",
+      "sha256": "b4d27e8ac6e108781dc28354cb11685d0b27f6446357561eec490a3ec52ae2a6",
+      "bytes": 1218957
+    },
+    {
+      "path": "artifacts/illustrations/B005/full/v02/prompt.txt",
+      "sha256": "6e6c65ff522039b7fe6d72fc1fb48d944a08f658d67c703d09258099e7ae5d27",
+      "bytes": 1967
+    },
+    {
+      "path": "public/assets/dogs/full/poodle-full.png",
+      "sha256": "a9a81f3da7b76776ac06fb141b847c4f933dde0c1f547759e0b7e037a5596790",
+      "bytes": 641394
+    },
+    {
+      "path": "artifacts/illustrations/B007/full/v02/raw.png",
+      "sha256": "fcbd4176dc33afd47aa05b28548ca49133ae01910cca086fec5b05913d96cfeb",
+      "bytes": 1319252
+    },
+    {
+      "path": "artifacts/illustrations/B007/full/v02/prompt.txt",
+      "sha256": "7ec9fe0f133f6c2942b140adc46fe5d9ba8d05181dbb81ef49dd0b2b376c1c53",
+      "bytes": 2072
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "bytes": 877344
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-ink.png",
+      "sha256": "036186fb625d29e91bd529ad628beda2bb3a8c44221fb5fe398225bde19d836f",
+      "bytes": 828302
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-mist.png",
+      "sha256": "2e541966eea7c6fbb9303c6ae1b95a075bcc4f07a91c9a7cde3147dd1f8aa816",
+      "bytes": 876262
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-alpha-checker.png",
+      "sha256": "2fb6fc4a96c14cbf352b48730b930a00942e5ad4d8a4e382f01b953bc02b745b",
+      "bytes": 886396
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-silhouette.png",
+      "sha256": "8c3a1b1e630788367a2dfeffc1202afce28ad1804985a1480b6c562598396f30",
+      "bytes": 188475
+    },
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-small-size.png",
+      "sha256": "fca495bab8659e3cf9e49fbe886bfdc9d3b9f0e9b9b89ed41a5afe0301dff32e",
+      "bytes": 178342
+    }
+  ],
+  "success": true
+}

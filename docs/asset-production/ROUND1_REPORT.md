@@ -27,6 +27,6 @@
 
 六张独立 PNG 位于 public/assets/dogs/full，使用原有 slug，不覆盖旧资产。六张合版均含同一组六犬：paper、ink、mist 三底；alpha-checker 透明背景诊断；silhouette 黑色轮廓诊断；small-size 128/64/48px 可读性诊断。后两种为真实图片的派生检视，不是替代犬只插画。合版含文字，原始犬图不含文字。
 
-首图上传链路已在提交 5cab2a90cbb5b0ec9b640464f4ee69020c57ff93 独立验证：远程 work 哈希匹配，并从新的临时 Git 对象库下载该提交后读取 B001 PNG blob，SHA256 与本地一致。最终六图亦需按同一方式逐一验证，验证证据留在 docs/asset-production/verification/。
+首图上传链路已在提交 5cab2a90cbb5b0ec9b640464f4ee69020c57ff93 独立验证：远程 work 哈希匹配，并从新的临时 Git 对象库下载该提交后读取 B001 PNG blob，SHA256 与本地一致。整批已按同一方式完成独立远程验证：生产提交 b4199c45d119bf19a165125ecdacc713468a5b74 的六张正式 PNG、六原图、六 Prompt、六合版共24个远程文件全部 SHA256 一致，正式 PNG 可解码为1024 RGBA。验证证据见 [远程验证记录](verification/round1-dpl-ill-1.1-v02.json)。
 
 本批到六犬集中审核停止，不生成第二轮12种，不生成其余114种，不制作肖像，不开发网站。生产脚本 tools/illustration_batch.py 处理真实工具产物，不自行调用 API，也不声称可在 shell 调用会话图像工具。
