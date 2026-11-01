@@ -1,0 +1,124 @@
+{
+  "breed_id": "B021",
+  "name": "大丹犬",
+  "slug": "great-dane",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B021-full-v01",
+  "prompt_path": "artifacts/illustrations/B021/full/v01/prompt.txt",
+  "prompt_sha256": "13eae4d01ce6c0797a100d70aa49fb9090194bbd422c1ba59883b833220b21a9",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-bc0afe0f-9eef-4f0f-baba-04a2e5670f95.png",
+  "saved_at": "2026-11-01T04:11:02.295845+00:00",
+  "raw_path": "artifacts/illustrations/B021/full/v01/raw.png",
+  "raw_sha256": "66ce4f1410dcd64f0f294d755658d1110ddb1c8eb04313259ca7969f8a8c4b8a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1066322,
+    "opaque_pixels": 1096,
+    "partial_alpha_pixels": 505098,
+    "bbox": [
+      0,
+      17,
+      1244,
+      1254
+    ],
+    "core_translucent_pixels": 434811,
+    "core_pixels": 434811
+  },
+  "path": "public/assets/dogs/full/great-dane-full.png",
+  "sha256": "23b360e3cdad101fc0b5fa6b7e7867097e207981e9d05854d6be4df2dfd33b54",
+  "pixels_sha256": "2f1b3b42eb90259db4a8d0e54b01de85573dd22a5ab91fe283c7cbc3e3811334",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      153,
+      33,
+      1182,
+      1222
+    ],
+    "uniform_scale": 0.6888141295206055,
+    "resized_dimensions": [
+      709,
+      819
+    ],
+    "position": [
+      157,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 434811,
+    "near_opaque_adjusted": 454165
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 815464,
+    "opaque_pixels": 218264,
+    "partial_alpha_pixels": 14848,
+    "bbox": [
+      157,
+      102,
+      866,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 198690,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      157,
+      102,
+      158,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "浅黄黑面罩大丹：巨型极高腿、窄长方头、较长方口吻、大自然下垂耳、长颈深胸收腰；短贴毛，四肢长直有真实关节、细长天然尾低垂。安静侧站，不能只画放大拉布拉多或短腿肌肉犬。"
+}

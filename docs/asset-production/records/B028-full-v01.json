@@ -1,0 +1,124 @@
+{
+  "breed_id": "B028",
+  "name": "大麦町犬",
+  "slug": "dalmatian",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B028-full-v01",
+  "prompt_path": "artifacts/illustrations/B028/full/v01/prompt.txt",
+  "prompt_sha256": "b1e03f868940d67d586fe9e46828731db1221e3a2806f9d05a2c855fb8590996",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-cb234be1-fbb0-41e0-94fa-e0384f1f7a6d.png",
+  "saved_at": "2026-11-01T04:13:23.733508+00:00",
+  "raw_path": "artifacts/illustrations/B028/full/v01/raw.png",
+  "raw_sha256": "9a1b3224af970234db8f57b8fbfbc099cf560e899ad269bf7e13d5c09cf4095e",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1082540,
+    "opaque_pixels": 997,
+    "partial_alpha_pixels": 488979,
+    "bbox": [
+      0,
+      0,
+      1238,
+      1220
+    ],
+    "core_translucent_pixels": 424353,
+    "core_pixels": 424353
+  },
+  "path": "public/assets/dogs/full/dalmatian-full.png",
+  "sha256": "535185774256149d16d38c974f864999089b5415394a8822731ead5649e67d9e",
+  "pixels_sha256": "b04764eeb64211cf2656ec99fce2d967a075785101d29d0388888d2f0194d683",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      166,
+      59,
+      1187,
+      1190
+    ],
+    "uniform_scale": 0.7241379310344828,
+    "resized_dimensions": [
+      739,
+      819
+    ],
+    "position": [
+      142,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 424353,
+    "near_opaque_adjusted": 442094
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 797009,
+    "opaque_pixels": 234481,
+    "partial_alpha_pixels": 17086,
+    "bbox": [
+      142,
+      102,
+      881,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 215313,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      142,
+      102,
+      143,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "大麦町：白底自然黑斑、均匀短毛，无花纹装饰；长腿中大型运动骨架、略长头、中长方口吻、自然垂耳，斑点耳；深胸自然收腰，细长尾自然向后略弯。四足站立微侧目，不能同一黑白牧羊犬模板换斑。"
+}

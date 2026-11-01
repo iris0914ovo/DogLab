@@ -1,0 +1,124 @@
+{
+  "breed_id": "B030",
+  "name": "骑士查理王小猎犬",
+  "slug": "cavalier-king-charles-spaniel",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B030-full-v01",
+  "prompt_path": "artifacts/illustrations/B030/full/v01/prompt.txt",
+  "prompt_sha256": "f7e57f95aef5db8fed0a73cc0e2a14f1a4add564fa9903ca2a892f2ce5937aba",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-776023fa-c34f-4c43-8170-e8bb9451efb9.png",
+  "saved_at": "2026-11-01T04:13:25.208978+00:00",
+  "raw_path": "artifacts/illustrations/B030/full/v01/raw.png",
+  "raw_sha256": "0fcb5c842ba47d235faadd5398feb7643412cc97fed3681d1b03e7ed7cf69bda",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 891040,
+    "opaque_pixels": 33,
+    "partial_alpha_pixels": 681443,
+    "bbox": [
+      0,
+      37,
+      1244,
+      1254
+    ],
+    "core_translucent_pixels": 575505,
+    "core_pixels": 575505
+  },
+  "path": "public/assets/dogs/full/cavalier-king-charles-spaniel-full.png",
+  "sha256": "bac91d42c9579cd4ff4f5be5f367b9ba84cb1ac80184d8ed1ef026dd97fd6665",
+  "pixels_sha256": "1d635cf5568194ea9dbd613ec57353efdc78d33def8eb126a39e0143f1e4062d",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      50,
+      129,
+      1242,
+      1138
+    ],
+    "uniform_scale": 0.6870805369127517,
+    "resized_dimensions": [
+      819,
+      693
+    ],
+    "position": [
+      102,
+      228
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 575505,
+    "near_opaque_adjusted": 572071
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740037,
+    "opaque_pixels": 275146,
+    "partial_alpha_pixels": 33393,
+    "bbox": [
+      102,
+      228,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 265397,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      228,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "骑士查理王：小型柔和骨架、中等头颅、可辨中短口吻不极短压平、大棕眼不突出，低位长垂耳丝毛；选择红栗白斑，胸腿羽毛饰毛，天然长尾平缓后伸。四足温和站姿，不戴皇冠。"
+}

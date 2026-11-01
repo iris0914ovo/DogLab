@@ -1,0 +1,124 @@
+{
+  "breed_id": "B035",
+  "name": "芬兰拉普猎犬",
+  "slug": "finnish-lapphund",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B035-full-v01",
+  "prompt_path": "artifacts/illustrations/B035/full/v01/prompt.txt",
+  "prompt_sha256": "ad608fa004075a2d1600f77d40b952f36da4e2fe0f3b9f1afb94f18f5248bc72",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-e7b30168-b2ac-4390-b6c8-ec27a982b4f0.png",
+  "saved_at": "2026-11-01T04:15:14.644962+00:00",
+  "raw_path": "artifacts/illustrations/B035/full/v01/raw.png",
+  "raw_sha256": "949d841428ae90c1752bfc3e1d06429da1663c8cb46c4ee7072e25fc7ce77a7a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 702503,
+    "opaque_pixels": 96,
+    "partial_alpha_pixels": 869917,
+    "bbox": [
+      0,
+      23,
+      1252,
+      1254
+    ],
+    "core_translucent_pixels": 765333,
+    "core_pixels": 765333
+  },
+  "path": "public/assets/dogs/full/finnish-lapphund-full.png",
+  "sha256": "62a873f390d8b02d61135901a69da6c299ab604a6421ad623cdaa7d5e52963ce",
+  "pixels_sha256": "2a57a997eea664fa56163fe39ac4402ef859b4c463cd6b955e784404cf605ca4",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      91,
+      65,
+      1198,
+      1202
+    ],
+    "uniform_scale": 0.7203166226912929,
+    "resized_dimensions": [
+      797,
+      819
+    ],
+    "position": [
+      113,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 765333,
+    "near_opaque_adjusted": 759718
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 608225,
+    "opaque_pixels": 400721,
+    "partial_alpha_pixels": 39630,
+    "bbox": [
+      113,
+      102,
+      910,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 390528,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      113,
+      102,
+      114,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "芬兰拉普猎犬：黑棕带白胸的浓双层毛、中型结实骨架、宽楔头、中等口吻、三角半立耳，柔和棕眼；颈胸丰富但四肢清楚，毛量自然。蓬尾松卷背，侧站，区别长腿雪橇犬。"
+}

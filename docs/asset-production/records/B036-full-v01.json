@@ -1,0 +1,124 @@
+{
+  "breed_id": "B036",
+  "name": "芬兰狐狸犬",
+  "slug": "finnish-spitz",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B036-full-v01",
+  "prompt_path": "artifacts/illustrations/B036/full/v01/prompt.txt",
+  "prompt_sha256": "9c3de4a7c7c8bc7915f6e623f87e8cbee1d741c7717b2068cd67d79d2f64c830",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-4995c8e4-1f18-49ef-ac3d-8e7b9d4922bd.png",
+  "saved_at": "2026-11-01T04:16:14.249818+00:00",
+  "raw_path": "artifacts/illustrations/B036/full/v01/raw.png",
+  "raw_sha256": "9b15717dc3691909b071e4484d814e8ea555ea4fe7aa2d649f67ec9d2b619746",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 843902,
+    "opaque_pixels": 120,
+    "partial_alpha_pixels": 728494,
+    "bbox": [
+      0,
+      9,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 615378,
+    "core_pixels": 615378
+  },
+  "path": "public/assets/dogs/full/finnish-spitz-full.png",
+  "sha256": "793a001e70a24c68667fdeafc12856246e5255104979368975f796994e9be989",
+  "pixels_sha256": "5b96314df557ae0fb8664548864801bd06c74a86d4d265524303514abe624d7e",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      165,
+      45,
+      1165,
+      1198
+    ],
+    "uniform_scale": 0.7103209019947961,
+    "resized_dimensions": [
+      710,
+      819
+    ],
+    "position": [
+      157,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 615378,
+    "near_opaque_adjusted": 612304
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 699425,
+    "opaque_pixels": 314630,
+    "partial_alpha_pixels": 34521,
+    "bbox": [
+      157,
+      102,
+      867,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 303813,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      157,
+      102,
+      157,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "芬兰狐狸犬：红金色双层毛，中型近方身、狐狸式窄楔头、细中长口吻、较小尖立耳、深杏仁眼；细腿不瘦弱，背上轻卷蓬尾。四足挺立，颈毛适量，不能用柴犬圆颊脸。"
+}

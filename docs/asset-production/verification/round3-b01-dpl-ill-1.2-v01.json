@@ -1,0 +1,198 @@
+{
+  "batch_id": "round3-b01-dpl-ill-1.2-v01",
+  "production_commit": "3f70176e14f9eba231ae9bae495420efe71ee752",
+  "checked_at": "2026-11-01T04:08:55.258073+00:00",
+  "success": true,
+  "method": "Independent temporary Git repository fetch, actual remote blob SHA256/PNG decode",
+  "files": [
+    {
+      "path": "public/assets/dogs/full/labrador-retriever-full.png",
+      "sha256": "6e1f81d3ff9b996cb329ccb168475eca1897d50855d746e6df4aa99756e59c26",
+      "bytes": 760562
+    },
+    {
+      "path": "artifacts/illustrations/B006/full/v01/raw.png",
+      "sha256": "7465109199a8c3e83a2e12feb280ebbaeed9e436f1e37950ad6d2288d6dcbf25",
+      "bytes": 1519935
+    },
+    {
+      "path": "artifacts/illustrations/B006/full/v01/prompt.txt",
+      "sha256": "87f02e0e343167586a9de8dd9dc448261aac1f52499e8c203248b758b9e4138c",
+      "bytes": 1528
+    },
+    {
+      "path": "public/assets/dogs/full/german-shepherd-dog-full.png",
+      "sha256": "1de05868a8626439815540e0dd038ac9377938c424374ed6c22e455491f7e273",
+      "bytes": 813287
+    },
+    {
+      "path": "artifacts/illustrations/B008/full/v01/raw.png",
+      "sha256": "a6b055aca46da085e4ab1356ffe6e6255bb988bfb063969b6b57e9e5c65624b4",
+      "bytes": 1693254
+    },
+    {
+      "path": "artifacts/illustrations/B008/full/v01/prompt.txt",
+      "sha256": "fb4615dd46a0317e0a44a090e077b81ecf34c332de680e29547e6995298591ff",
+      "bytes": 1499
+    },
+    {
+      "path": "public/assets/dogs/full/samoyed-full.png",
+      "sha256": "dab8d521f029facb7a2bc59a9cb20adaeeca08a22073f9f258680941fb0f1a4e",
+      "bytes": 919201
+    },
+    {
+      "path": "artifacts/illustrations/B009/full/v01/raw.png",
+      "sha256": "dd45f6a2f5a87ac80d9a8f85a8903c4eecde1686c2e3b4f535cf6ebbf39b066b",
+      "bytes": 1851539
+    },
+    {
+      "path": "artifacts/illustrations/B009/full/v01/prompt.txt",
+      "sha256": "fd126760611a7fae735fc113b0d00a49e5de9c152e30162248c02d084ceb3a88",
+      "bytes": 1484
+    },
+    {
+      "path": "public/assets/dogs/full/akita-full.png",
+      "sha256": "d785ce714130ba0a69f410ed31e3d53e2f3e56076034fd019b2cea04fd4a65df",
+      "bytes": 945548
+    },
+    {
+      "path": "artifacts/illustrations/B010/full/v01/raw.png",
+      "sha256": "84fdfc11cb2c2faf694d793bc3c1e7c22eade4a2ba6ff91cd93e0c1b0a1d7ea3",
+      "bytes": 1860221
+    },
+    {
+      "path": "artifacts/illustrations/B010/full/v01/prompt.txt",
+      "sha256": "1a478122d9a7b6f8bdc5b83932bb0450bc3e3f5677ac412bfd69b3696f8cfdfd",
+      "bytes": 1500
+    },
+    {
+      "path": "public/assets/dogs/full/beagle-full.png",
+      "sha256": "896037baea37630c3e6815e9a0c91570f00c4248fe46f971b6fba8db85003898",
+      "bytes": 823401
+    },
+    {
+      "path": "artifacts/illustrations/B011/full/v01/raw.png",
+      "sha256": "85b03016f8988aa00b4f4843a88458f5d2c8a2ac9ed855e736115fa6cd7aca29",
+      "bytes": 1583505
+    },
+    {
+      "path": "artifacts/illustrations/B011/full/v01/prompt.txt",
+      "sha256": "299996aef71a57e49bd3d76154177d05081555003036dc4296433b0d5e35f6ac",
+      "bytes": 1474
+    },
+    {
+      "path": "public/assets/dogs/full/jack-russell-terrier-full.png",
+      "sha256": "5ab9f51ef7481e2eba7361b830089481fd35bb2fcbbcad003bd6eed26e17b8a0",
+      "bytes": 817661
+    },
+    {
+      "path": "artifacts/illustrations/B013/full/v01/raw.png",
+      "sha256": "903f8f3bf8d25d38afaac467074b1a26ff2a6c78b2cf204ad9bb2f4c3cf9d0cd",
+      "bytes": 1580302
+    },
+    {
+      "path": "artifacts/illustrations/B013/full/v01/prompt.txt",
+      "sha256": "b7a68d4faf6a611874dba552837fa38f4f65e754540941be756ed1a3b93a7aa2",
+      "bytes": 1519
+    },
+    {
+      "path": "public/assets/dogs/full/west-highland-white-terrier-full.png",
+      "sha256": "cb14f28b51e986a001998cb903976fca3aecfa4977c9c608d8d79ae5e0138de0",
+      "bytes": 961306
+    },
+    {
+      "path": "artifacts/illustrations/B014/full/v01/raw.png",
+      "sha256": "b8189b7dba55c992098e2a643dca47ba36dfc9e8bcae2cef8494b95faa2ea167",
+      "bytes": 1850658
+    },
+    {
+      "path": "artifacts/illustrations/B014/full/v01/prompt.txt",
+      "sha256": "a9b41e9da47987cf4fdb02ac8e369178945ed7ae3fba7d512312e90de1f12636",
+      "bytes": 1507
+    },
+    {
+      "path": "public/assets/dogs/full/shetland-sheepdog-full.png",
+      "sha256": "063b2d6f40201f09286b1cd053c9c2d1824e28b2ee2e619755221a2546f9193d",
+      "bytes": 932822
+    },
+    {
+      "path": "artifacts/illustrations/B016/full/v01/raw.png",
+      "sha256": "4175e1421c646b96f5a7ac2b57ff38c5b55faf5d7755bc0b73f8b5b44889a686",
+      "bytes": 1814596
+    },
+    {
+      "path": "artifacts/illustrations/B016/full/v01/prompt.txt",
+      "sha256": "aeb32e3c644294cb55d643cf896bcdf2b8ffb778e359262f6e4622216d049b76",
+      "bytes": 1500
+    },
+    {
+      "path": "public/assets/dogs/full/australian-shepherd-full.png",
+      "sha256": "b592f2b6b8279a2ede26770ad7c3024a4062c7133749d05d6d7e03eb49dd6bc1",
+      "bytes": 976076
+    },
+    {
+      "path": "artifacts/illustrations/B017/full/v01/raw.png",
+      "sha256": "9bc756c92b066b531b2ac9a594ea6d09017f82e14529b6ad4b70a77b4a929df6",
+      "bytes": 1815420
+    },
+    {
+      "path": "artifacts/illustrations/B017/full/v01/prompt.txt",
+      "sha256": "e62fd67d9224fb5dc8af8bc2b2e20db8945f411f691890c5a816a528c72dbdbd",
+      "bytes": 1553
+    },
+    {
+      "path": "public/assets/dogs/full/dobermann-full.png",
+      "sha256": "2e84a361797b2b2fffe64c993760707754bc40ce9c4d649e9def9458715303d8",
+      "bytes": 577746
+    },
+    {
+      "path": "artifacts/illustrations/B018/full/v01/raw.png",
+      "sha256": "9df68b54b8c670d3f8673e9de4ac767c908bd84a61c4158cde21de67e1f043a2",
+      "bytes": 1225700
+    },
+    {
+      "path": "artifacts/illustrations/B018/full/v01/prompt.txt",
+      "sha256": "dce4c470e197658054d464d1c21a0b07c8abc6bb56bdea8612de54b301b685c8",
+      "bytes": 1469
+    },
+    {
+      "path": "public/assets/dogs/full/rottweiler-full.png",
+      "sha256": "b7e54e574d2cfd90f5c9613ddd5a1b72f03ab3a3ec775cc71ec0e91b3f1d7812",
+      "bytes": 852292
+    },
+    {
+      "path": "artifacts/illustrations/B019/full/v01/raw.png",
+      "sha256": "0099f56f1adfff91ec1cc09a4974f21494bd1b6426258f9bf7b7c8a90b22b907",
+      "bytes": 1669240
+    },
+    {
+      "path": "artifacts/illustrations/B019/full/v01/prompt.txt",
+      "sha256": "56fe236ff5e3a5987e6bcd2fb380427e791fa7f82b1c45831b0ab3b5491dac03",
+      "bytes": 1496
+    },
+    {
+      "path": "public/assets/dogs/full/boxer-full.png",
+      "sha256": "7800a2aedb369737bb4dce2a654e1a21c0ccffc8fe9a2204d9484135ed5d2dcc",
+      "bytes": 716486
+    },
+    {
+      "path": "artifacts/illustrations/B020/full/v01/raw.png",
+      "sha256": "8f13926d2529cffbf3d70f72984f23574d1e86adf726b35de330c7b50a413bab",
+      "bytes": 1387906
+    },
+    {
+      "path": "artifacts/illustrations/B020/full/v01/prompt.txt",
+      "sha256": "4a0c0bdaa26f82ea425e6b35d3e169d8c7371257246c663eb5e2bce5105b80d0",
+      "bytes": 1503
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b01-dpl-ill-1.2-v01-paper.png",
+      "sha256": "c3e8c706a74dec2975a961552c94091ac51d2c3f13369a76fb51cfc5fdb50d79"
+    },
+    {
+      "path": "public/assets/dogs/review/round3-b01-dpl-ill-1.2-v01-ink.png",
+      "sha256": "af7aa8cf7b61d3f243a7eea865267134337809019bfdca3185a4fed2472692a6"
+    }
+  ],
+  "main_unchanged": true
+}

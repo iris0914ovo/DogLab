@@ -1,0 +1,124 @@
+{
+  "breed_id": "B034",
+  "name": "美国爱斯基摩犬",
+  "slug": "american-eskimo-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B034-full-v01",
+  "prompt_path": "artifacts/illustrations/B034/full/v01/prompt.txt",
+  "prompt_sha256": "052cf597153788e87ab105aa0ccfbdeaec53ecaba69a04e5ff62498787723f2b",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-2f860737-6bca-457d-b5f1-5bfeebca756e.png",
+  "saved_at": "2026-11-01T04:15:21.089504+00:00",
+  "raw_path": "artifacts/illustrations/B034/full/v01/raw.png",
+  "raw_sha256": "6fa1c8fe0b629b22d8a809e5d289f5d664fbed15e51c33b9969a85d61c30e651",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740370,
+    "opaque_pixels": 88,
+    "partial_alpha_pixels": 832058,
+    "bbox": [
+      0,
+      4,
+      1218,
+      1254
+    ],
+    "core_translucent_pixels": 727496,
+    "core_pixels": 727496
+  },
+  "path": "public/assets/dogs/full/american-eskimo-dog-full.png",
+  "sha256": "6a3af07feca99cec29d832a8390d8945260e14eeafa7457a0525a9c89ab62f10",
+  "pixels_sha256": "1bc662e71285111ddfdd2d82ce2b265881062d17c49f75c00686a53699031e76",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      119,
+      65,
+      1163,
+      1204
+    ],
+    "uniform_scale": 0.7190517998244074,
+    "resized_dimensions": [
+      751,
+      819
+    ],
+    "position": [
+      136,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 727496,
+    "near_opaque_adjusted": 717812
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 635305,
+    "opaque_pixels": 379514,
+    "partial_alpha_pixels": 33757,
+    "bbox": [
+      136,
+      102,
+      887,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 369940,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      136,
+      102,
+      137,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "美国爱斯基摩选中型规格：纯白双层长毛、紧凑近方形、精致楔头、三角立耳、适中尖口吻、深眼黑鼻，颈围与后腿饰毛。蓬尾松覆背，四足优雅站立，不画萨摩耶巨大宽头。"
+}

@@ -1,0 +1,124 @@
+{
+  "breed_id": "B026",
+  "name": "惠比特犬",
+  "slug": "whippet",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B026-full-v01",
+  "prompt_path": "artifacts/illustrations/B026/full/v01/prompt.txt",
+  "prompt_sha256": "daf8266f0fd7359b28ffa329f488bac5c167b63984e5a44260bdf1654eb4dcd8",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-776a4030-1dbc-4d3b-a41d-f292bb2c18c2.png",
+  "saved_at": "2026-11-01T04:11:56.727935+00:00",
+  "raw_path": "artifacts/illustrations/B026/full/v01/raw.png",
+  "raw_sha256": "0c2aa5352cf379784b2b6a5ded3b00f19405bbd4ed473bf1aa4543c7097f95da",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1081732,
+    "opaque_pixels": 743,
+    "partial_alpha_pixels": 490041,
+    "bbox": [
+      0,
+      17,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 413988,
+    "core_pixels": 413988
+  },
+  "path": "public/assets/dogs/full/whippet-full.png",
+  "sha256": "ca0d56b662e0cd2bd9910e0626483b5252e2872e384ab286255f9ac1a0e9a3d9",
+  "pixels_sha256": "6a372b3be01e8ab52cbc16673d6ebb21c6eb2d25c3348522a2c6f54d1c08c120",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      151,
+      53,
+      1225,
+      1195
+    ],
+    "uniform_scale": 0.7171628721541156,
+    "resized_dimensions": [
+      770,
+      819
+    ],
+    "position": [
+      127,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 413988,
+    "near_opaque_adjusted": 431903
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 805569,
+    "opaque_pixels": 225005,
+    "partial_alpha_pixels": 18002,
+    "bbox": [
+      127,
+      102,
+      897,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 205368,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      127,
+      102,
+      127,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "惠比特：中型纤细骨架，比灵缇小巧，长窄头、细长口吻、小玫瑰折耳、长颈深胸收腰、修长细腿；选择白底浅虎斑短贴毛，细长低垂弯尾。四足侧站，肌肉自然不病态，不画灰狗缩放模板。"
+}

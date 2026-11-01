@@ -1,6 +1,6 @@
 # ASSET MANIFEST｜犬种素材完整资产索引 V1.1
 
-来源：BREED_DATA的120条唯一记录。当前30张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成12/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
+来源：BREED_DATA的120条唯一记录。当前42张全身PNG实际落库；前两轮18张已获用户审核通过，第三轮已生成24/102张，仍待最终人工复核。32张肖像均未制作。正式人格按所需资产最低进度聚合，肖像缺席时为PLANNED；已生成全身文件在实际文件栏和逐图记录明确列出，不重复生产。
 
 ## 状态约定
 
@@ -32,22 +32,22 @@
 | B018 | 杜宾犬 | Dobermann | dobermann | 是 | public/assets/dogs/full/dobermann-full.png | public/assets/dogs/portrait/dobermann-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/dobermann-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B019 | 罗威纳犬 | Rottweiler | rottweiler | 是 | public/assets/dogs/full/rottweiler-full.png | public/assets/dogs/portrait/rottweiler-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/rottweiler-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B020 | 拳师犬 | Boxer | boxer | 是 | public/assets/dogs/full/boxer-full.png | public/assets/dogs/portrait/boxer-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/boxer-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
-| B021 | 大丹犬 | Great Dane | great-dane | 是 | public/assets/dogs/full/great-dane-full.png | public/assets/dogs/portrait/great-dane-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B022 | 伯恩山犬 | Bernese Mountain Dog | bernese-mountain-dog | 是 | public/assets/dogs/full/bernese-mountain-dog-full.png | public/assets/dogs/portrait/bernese-mountain-dog-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B021 | 大丹犬 | Great Dane | great-dane | 是 | public/assets/dogs/full/great-dane-full.png | public/assets/dogs/portrait/great-dane-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/great-dane-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B022 | 伯恩山犬 | Bernese Mountain Dog | bernese-mountain-dog | 是 | public/assets/dogs/full/bernese-mountain-dog-full.png | public/assets/dogs/portrait/bernese-mountain-dog-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/bernese-mountain-dog-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B023 | 纽芬兰犬 | Newfoundland | newfoundland | 是 | public/assets/dogs/full/newfoundland-full.png | public/assets/dogs/portrait/newfoundland-portrait.png | PLANNED | PLANNED | 全身 APPROVED：public/assets/dogs/full/newfoundland-full.png；肖像未制作 | 第二轮AI检查：宽头深胸、大脚掌、粗壮四肢与厚实深色双层毛可辨；深底细节需用户复核。 待用户审核。 |
-| B024 | 圣伯纳犬 | Saint Bernard | saint-bernard | 是 | public/assets/dogs/full/saint-bernard-full.png | public/assets/dogs/portrait/saint-bernard-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B024 | 圣伯纳犬 | Saint Bernard | saint-bernard | 是 | public/assets/dogs/full/saint-bernard-full.png | public/assets/dogs/portrait/saint-bernard-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/saint-bernard-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B025 | 灵缇 | Greyhound | greyhound | 是 | public/assets/dogs/full/greyhound-full.png | public/assets/dogs/portrait/greyhound-portrait.png | PLANNED | PLANNED | 全身 APPROVED：public/assets/dogs/full/greyhound-full.png；肖像未制作 | 第二轮AI检查：窄长头、玫瑰折耳、深胸收腰和修长四肢清楚，与厚实犬种轮廓不同。 待用户审核。 |
-| B026 | 惠比特犬 | Whippet | whippet | 是 | public/assets/dogs/full/whippet-full.png | public/assets/dogs/portrait/whippet-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B027 | 巴仙吉犬 | Basenji | basenji | 是 | public/assets/dogs/full/basenji-full.png | public/assets/dogs/portrait/basenji-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B028 | 大麦町犬 | Dalmatian | dalmatian | 是 | public/assets/dogs/full/dalmatian-full.png | public/assets/dogs/portrait/dalmatian-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B026 | 惠比特犬 | Whippet | whippet | 是 | public/assets/dogs/full/whippet-full.png | public/assets/dogs/portrait/whippet-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/whippet-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B027 | 巴仙吉犬 | Basenji | basenji | 是 | public/assets/dogs/full/basenji-full.png | public/assets/dogs/portrait/basenji-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/basenji-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B028 | 大麦町犬 | Dalmatian | dalmatian | 是 | public/assets/dogs/full/dalmatian-full.png | public/assets/dogs/portrait/dalmatian-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/dalmatian-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B029 | 蝴蝶犬 | Papillon | papillon | 是 | public/assets/dogs/full/papillon-full.png | public/assets/dogs/portrait/papillon-portrait.png | PLANNED | PLANNED | 全身 APPROVED：public/assets/dogs/full/papillon-full.png；肖像未制作 | 第二轮AI检查：蝶翼耳、耳缘丝质饰毛、轻巧骨架和流苏尾可辨；细耳毛没有被硬切。 待用户审核。 |
-| B030 | 骑士查理王小猎犬 | Cavalier King Charles Spaniel | cavalier-king-charles-spaniel | 是 | public/assets/dogs/full/cavalier-king-charles-spaniel-full.png | public/assets/dogs/portrait/cavalier-king-charles-spaniel-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B031 | 比熊犬 | Bichon Frise | bichon-frise | 是 | public/assets/dogs/full/bichon-frise-full.png | public/assets/dogs/portrait/bichon-frise-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B032 | 松狮犬 | Chow Chow | chow-chow | 是 | public/assets/dogs/full/chow-chow-full.png | public/assets/dogs/portrait/chow-chow-portrait.png | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B030 | 骑士查理王小猎犬 | Cavalier King Charles Spaniel | cavalier-king-charles-spaniel | 是 | public/assets/dogs/full/cavalier-king-charles-spaniel-full.png | public/assets/dogs/portrait/cavalier-king-charles-spaniel-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/cavalier-king-charles-spaniel-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B031 | 比熊犬 | Bichon Frise | bichon-frise | 是 | public/assets/dogs/full/bichon-frise-full.png | public/assets/dogs/portrait/bichon-frise-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/bichon-frise-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B032 | 松狮犬 | Chow Chow | chow-chow | 是 | public/assets/dogs/full/chow-chow-full.png | public/assets/dogs/portrait/chow-chow-portrait.png | PLANNED | PLANNED | 全身 GENERATED：public/assets/dogs/full/chow-chow-full.png；肖像未制作 | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B033 | 阿拉斯加雪橇犬 | Alaskan Malamute | alaskan-malamute | 否 | public/assets/dogs/full/alaskan-malamute-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/alaskan-malamute-full.png | 第二轮AI检查：头胸比哈士奇更宽厚、脚掌骨量更大；同色系仍有雪橇犬外观相似，差异充分性留给用户集中审核。 待用户审核。 |
-| B034 | 美国爱斯基摩犬 | American Eskimo Dog | american-eskimo-dog | 否 | public/assets/dogs/full/american-eskimo-dog-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B035 | 芬兰拉普猎犬 | Finnish Lapphund | finnish-lapphund | 否 | public/assets/dogs/full/finnish-lapphund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
-| B036 | 芬兰狐狸犬 | Finnish Spitz | finnish-spitz | 否 | public/assets/dogs/full/finnish-spitz-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
+| B034 | 美国爱斯基摩犬 | American Eskimo Dog | american-eskimo-dog | 否 | public/assets/dogs/full/american-eskimo-dog-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/american-eskimo-dog-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B035 | 芬兰拉普猎犬 | Finnish Lapphund | finnish-lapphund | 否 | public/assets/dogs/full/finnish-lapphund-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/finnish-lapphund-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
+| B036 | 芬兰狐狸犬 | Finnish Spitz | finnish-spitz | 否 | public/assets/dogs/full/finnish-spitz-full.png | — | GENERATED | PLANNED | 全身 GENERATED：public/assets/dogs/full/finnish-spitz-full.png | 第三轮基础技术QC通过；犬种形态、相似性与画风待AI批次检视及最终人工复核。 |
 | B037 | 挪威猎麋犬 | Norwegian Elkhound | norwegian-elkhound | 否 | public/assets/dogs/full/norwegian-elkhound-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B038 | 挪威伦德猎犬 | Norwegian Lundehund | norwegian-lundehund | 否 | public/assets/dogs/full/norwegian-lundehund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B039 | 挪威布哈德犬 | Norwegian Buhund | norwegian-buhund | 否 | public/assets/dogs/full/norwegian-buhund-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
@@ -133,4 +133,4 @@
 | B119 | 万能梗 | Airedale Terrier | airedale-terrier | 否 | public/assets/dogs/full/airedale-terrier-full.png | — | PLANNED | PLANNED | 未上传 | 尚无逐犬审核意见。 |
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
-第三轮进度：已落库12/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+第三轮进度：已落库24/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。

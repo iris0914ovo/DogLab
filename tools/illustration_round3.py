@@ -83,6 +83,11 @@ def update_manifest(allr):
  marker='\n第三轮进度：'
  if marker in s:s=s[:s.index(marker)]
  s+=f'\n第三轮进度：已落库{len(allr)-18}/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。\n';p.write_text(s)
+def review(batch,note):
+ p=ROOT/f'docs/asset-production/batches/{batch}.json';b=json.loads(p.read_text());b['ai_contact_sheet_review']=note;p.write_text(json.dumps(b,ensure_ascii=False,indent=2)+'\n')
+ for path in b['record_paths']:
+  p=ROOT/path;r=json.loads(p.read_text());r['qc']['visual_status']='AI_REVIEWED_USER_PENDING';r['qc']['visual_notes']=note;p.write_text(json.dumps(r,ensure_ascii=False,indent=2)+'\n')
+ p=ROOT/f'docs/asset-production/{batch}-REPORT.md';s=p.read_text();s+='\nAI合版检视（不等于人工批准）：'+note+'\n';p.write_text(s)
 def sync(batch):
  assert subprocess.check_output(['git','branch','--show-current'],cwd=ROOT,text=True).strip()=='work'
  origin=subprocess.check_output(['git','remote','get-url','origin'],cwd=ROOT,text=True).strip();assert origin=='https://github.com/iris0914ovo/DogLab.git'
@@ -119,4 +124,5 @@ if __name__=='__main__':
  if mode=='ingest':ingest(sys.argv[2],sys.argv[3])
  elif mode=='finalize':finalize(sys.argv[2])
  elif mode=='sync':sync(sys.argv[2])
+ elif mode=='review':review(sys.argv[2],sys.argv[3])
  else:raise SystemExit('Unknown mode')

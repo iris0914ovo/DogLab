@@ -1,0 +1,124 @@
+{
+  "breed_id": "B024",
+  "name": "圣伯纳犬",
+  "slug": "saint-bernard",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B024-full-v01",
+  "prompt_path": "artifacts/illustrations/B024/full/v01/prompt.txt",
+  "prompt_sha256": "5b0a08e8b28330946bc56735dbddaef639472af085739437a91c00aac1177195",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-b005103b-5bfb-4293-855b-ce461a869893.png",
+  "saved_at": "2026-11-01T04:12:38.690809+00:00",
+  "raw_path": "artifacts/illustrations/B024/full/v01/raw.png",
+  "raw_sha256": "6fad04f4f17db53a6f4d316b3532e80deda2e3cd4e6b8d511cca14b86f14aecb",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 766343,
+    "opaque_pixels": 232,
+    "partial_alpha_pixels": 805941,
+    "bbox": [
+      0,
+      0,
+      1254,
+      1236
+    ],
+    "core_translucent_pixels": 725452,
+    "core_pixels": 725455
+  },
+  "path": "public/assets/dogs/full/saint-bernard-full.png",
+  "sha256": "f5212f77fa582a44e8c48bca80dfe2a100383706c7476123cf1a74fddd3ead82",
+  "pixels_sha256": "49c57d01b7f9342631062e6480aa79c63a2f08c80c0ddf845f623306e1cf70f4",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      90,
+      78,
+      1244,
+      1199
+    ],
+    "uniform_scale": 0.7097053726169844,
+    "resized_dimensions": [
+      819,
+      796
+    ],
+    "position": [
+      102,
+      125
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 725452,
+    "near_opaque_adjusted": 727328
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 653681,
+    "opaque_pixels": 370390,
+    "partial_alpha_pixels": 24505,
+    "bbox": [
+      102,
+      125,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 359756,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      125,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "长毛圣伯纳：巨型粗骨、大宽头、短中等宽口吻但鼻梁可辨、自然垂耳，白底红褐大片、深色眼周；厚胸强壮短中长腿，颈胸毛丰厚不过球，天然低垂长尾。站姿沉静，不挂酒桶、不夸张眼睑外翻。"
+}

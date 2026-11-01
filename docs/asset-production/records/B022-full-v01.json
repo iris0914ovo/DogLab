@@ -1,0 +1,124 @@
+{
+  "breed_id": "B022",
+  "name": "伯恩山犬",
+  "slug": "bernese-mountain-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B022-full-v01",
+  "prompt_path": "artifacts/illustrations/B022/full/v01/prompt.txt",
+  "prompt_sha256": "49f52dc3865f70ec20bf249488e4192c9e1a8b04c7b2e4088ea47626f4c17f9c",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-448c6423-8c63-497b-b1d4-ad82ed3de06f.png",
+  "saved_at": "2026-11-01T04:11:00.883566+00:00",
+  "raw_path": "artifacts/illustrations/B022/full/v01/raw.png",
+  "raw_sha256": "27ae1886448033798e9a8f17833b4c7ae7eb9ec6d475b8be52b6dc36881fb535",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 890989,
+    "opaque_pixels": 112,
+    "partial_alpha_pixels": 681415,
+    "bbox": [
+      0,
+      7,
+      1224,
+      1254
+    ],
+    "core_translucent_pixels": 612305,
+    "core_pixels": 612306
+  },
+  "path": "public/assets/dogs/full/bernese-mountain-dog-full.png",
+  "sha256": "ddfdfd697cf3c9a7292306e6743f7ad797aa7a3690bc83c662039e747b623b4b",
+  "pixels_sha256": "124876534963c5341024a59bea759919bc7ccfdfc67ffa3fe37cb7bdf5d7110e",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      124,
+      127,
+      1218,
+      1132
+    ],
+    "uniform_scale": 0.7486288848263254,
+    "resized_dimensions": [
+      819,
+      752
+    ],
+    "position": [
+      102,
+      169
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 612305,
+    "near_opaque_adjusted": 614157
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 675872,
+    "opaque_pixels": 348042,
+    "partial_alpha_pixels": 24662,
+    "bbox": [
+      102,
+      169,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 337961,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      169,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "伯恩山：黑白棕三色大型厚实骨架、宽头中长口吻、中等垂耳，白额鼻纹白胸、棕眉颊腿；浓密中长双层毛、长蓬尾低垂，粗腿大掌。稳站温和，不能使用边牧轻巧骨架。"
+}

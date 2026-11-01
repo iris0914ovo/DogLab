@@ -1,0 +1,124 @@
+{
+  "breed_id": "B027",
+  "name": "巴仙吉犬",
+  "slug": "basenji",
+  "asset_kind": "full",
+  "batch_id": "round3-b02-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B027-full-v01",
+  "prompt_path": "artifacts/illustrations/B027/full/v01/prompt.txt",
+  "prompt_sha256": "6af6c099fe31a7f6639eb6dcefcda9c3ba7c087db11e972687904093bde8991b",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-060eee22-fb1b-4b76-a7fd-71bd007c423a.png",
+  "saved_at": "2026-11-01T04:12:40.113748+00:00",
+  "raw_path": "artifacts/illustrations/B027/full/v01/raw.png",
+  "raw_sha256": "35da72e7bd6b265aa6ed5f4d5b9378d26f0932b52e5ff5c47b9eff0505c0e89a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1111471,
+    "opaque_pixels": 607,
+    "partial_alpha_pixels": 460438,
+    "bbox": [
+      0,
+      31,
+      1236,
+      1236
+    ],
+    "core_translucent_pixels": 392730,
+    "core_pixels": 392730
+  },
+  "path": "public/assets/dogs/full/basenji-full.png",
+  "sha256": "cfcb5dda3d25e06e2c159003b261794d4fdd32ca11dee5f0a90de7ffb063e82f",
+  "pixels_sha256": "43bd91e4d513a6cb11d310c1fe836e568541ebe4c42326dcb075fa4d8d4c6c30",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      272,
+      40,
+      1148,
+      1188
+    ],
+    "uniform_scale": 0.7134146341463414,
+    "resized_dimensions": [
+      625,
+      819
+    ],
+    "position": [
+      199,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 392730,
+    "near_opaque_adjusted": 406295
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 822510,
+    "opaque_pixels": 209205,
+    "partial_alpha_pixels": 16861,
+    "bbox": [
+      199,
+      102,
+      824,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 193639,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      199,
+      102,
+      200,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected actual paper contact sheet: giant Great Dane/Bernese/Saint Bernard, slim Whippet, curled Bichon and spitz profiles remain distinct; no obvious clipped ear tips, paws or tails. Eskimo/Samoyed family resemblance retained as a final human comparison point; no human approval assigned."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "红白巴仙吉：小中型方正轻巧身体、细长颈、精致楔头、中等细口吻、大立耳，额部轻微自然皱褶；短贴毛、白胸足端，天然高位紧卷尾侧露。四足警觉站立，区别柴犬的浓毛厚身。"
+}
