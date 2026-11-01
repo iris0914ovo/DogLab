@@ -107,7 +107,7 @@
     "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
   },
   "production_status": "GENERATED",
-  "human_review_status": "PLANNED",
+  "human_review_status": "APPROVED",
   "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
   "generation_attempts": 1,
   "reference_images": [
@@ -122,5 +122,7 @@
     "referenced_image_paths": [
       "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
     ]
-  }
+  },
+  "user_approved_scope": "Existing full-body PNG reviewed and approved by user before round3; portraits not included",
+  "user_review_date": "2026-11-01"
 }

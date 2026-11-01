@@ -1,0 +1,124 @@
+{
+  "breed_id": "B013",
+  "name": "杰克罗素梗",
+  "slug": "jack-russell-terrier",
+  "asset_kind": "full",
+  "batch_id": "round3-b01-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B013-full-v01",
+  "prompt_path": "artifacts/illustrations/B013/full/v01/prompt.txt",
+  "prompt_sha256": "b7a68d4faf6a611874dba552837fa38f4f65e754540941be756ed1a3b93a7aa2",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-66cc600d-eba6-4f17-aa79-95898ac77e69.png",
+  "saved_at": "2026-11-01T04:02:23.678015+00:00",
+  "raw_path": "artifacts/illustrations/B013/full/v01/raw.png",
+  "raw_sha256": "903f8f3bf8d25d38afaac467074b1a26ff2a6c78b2cf204ad9bb2f4c3cf9d0cd",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 933726,
+    "opaque_pixels": 206,
+    "partial_alpha_pixels": 638584,
+    "bbox": [
+      9,
+      25,
+      1240,
+      1254
+    ],
+    "core_translucent_pixels": 548511,
+    "core_pixels": 548511
+  },
+  "path": "public/assets/dogs/full/jack-russell-terrier-full.png",
+  "sha256": "5ab9f51ef7481e2eba7361b830089481fd35bb2fcbbcad003bd6eed26e17b8a0",
+  "pixels_sha256": "cd1d4d0f686288d64c9ce554ef3ac7db38f1f5d71e5800cd5fb7e3a44bb6d070",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      130,
+      72,
+      1207,
+      1189
+    ],
+    "uniform_scale": 0.7332139659803044,
+    "resized_dimensions": [
+      790,
+      819
+    ],
+    "position": [
+      117,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 548511,
+    "near_opaque_adjusted": 556954
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 721052,
+    "opaque_pixels": 302557,
+    "partial_alpha_pixels": 24967,
+    "bbox": [
+      117,
+      102,
+      907,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 288408,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      117,
+      102,
+      117,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet: twelve distinct breed silhouettes, ear/muzzle/coat/tail differences; no obvious clipped ears/tails/paws. Akita/Shiba and retriever-family resemblance remains for final human comparison; not automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "白底棕斑杰克罗素梗：紧凑精瘦小型，略长身、正常短腿，楔头中长口吻，小V形前折耳；平毛选择，四肢肌肉清晰，天然完整长尾举起。站姿前掌略错开，不画柯基短腿或幼犬圆脸。"
+}

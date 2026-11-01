@@ -1,0 +1,124 @@
+{
+  "breed_id": "B011",
+  "name": "比格犬",
+  "slug": "beagle",
+  "asset_kind": "full",
+  "batch_id": "round3-b01-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B011-full-v01",
+  "prompt_path": "artifacts/illustrations/B011/full/v01/prompt.txt",
+  "prompt_sha256": "299996aef71a57e49bd3d76154177d05081555003036dc4296433b0d5e35f6ac",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-c60458d2-7165-4e72-9827-a1b5da4ee95c.png",
+  "saved_at": "2026-11-01T04:01:26.813844+00:00",
+  "raw_path": "artifacts/illustrations/B011/full/v01/raw.png",
+  "raw_sha256": "85b03016f8988aa00b4f4843a88458f5d2c8a2ac9ed855e736115fa6cd7aca29",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 930824,
+    "opaque_pixels": 237,
+    "partial_alpha_pixels": 641455,
+    "bbox": [
+      25,
+      15,
+      1218,
+      1240
+    ],
+    "core_translucent_pixels": 572348,
+    "core_pixels": 572348
+  },
+  "path": "public/assets/dogs/full/beagle-full.png",
+  "sha256": "896037baea37630c3e6815e9a0c91570f00c4248fe46f971b6fba8db85003898",
+  "pixels_sha256": "6d688ab3c87142bd09f8d8ab97cb43773e92a978965dcca248d25ca770e627cc",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      87,
+      128,
+      1204,
+      1163
+    ],
+    "uniform_scale": 0.7332139659803044,
+    "resized_dimensions": [
+      819,
+      759
+    ],
+    "position": [
+      102,
+      162
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 572348,
+    "near_opaque_adjusted": 583190
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 713232,
+    "opaque_pixels": 316160,
+    "partial_alpha_pixels": 19184,
+    "bbox": [
+      102,
+      162,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 301764,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      162,
+      103,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": false,
+    "visual_notes": "AI inspected paper contact sheet: twelve distinct breed silhouettes, ear/muzzle/coat/tail differences; no obvious clipped ears/tails/paws. Akita/Shiba and retriever-family resemblance remains for final human comparison; not automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "三色比格：圆润但不婴儿化头、较方中长口吻、低位中长圆端垂耳，结实中小型正常腿长；短贴毛黑鞍棕头白腿胸、自然中长直尾举起白尾尖。四足站立，鼻子略向前探索。"
+}

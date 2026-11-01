@@ -1,0 +1,124 @@
+{
+  "breed_id": "B018",
+  "name": "杜宾犬",
+  "slug": "dobermann",
+  "asset_kind": "full",
+  "batch_id": "round3-b01-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B018-full-v01",
+  "prompt_path": "artifacts/illustrations/B018/full/v01/prompt.txt",
+  "prompt_sha256": "dce4c470e197658054d464d1c21a0b07c8abc6bb56bdea8612de54b301b685c8",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-b686f260-bfe7-4dc4-8eef-0433b1c5b1fa.png",
+  "saved_at": "2026-11-01T04:05:23.717695+00:00",
+  "raw_path": "artifacts/illustrations/B018/full/v01/raw.png",
+  "raw_sha256": "9df68b54b8c670d3f8673e9de4ac767c908bd84a61c4158cde21de67e1f043a2",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1078112,
+    "opaque_pixels": 770,
+    "partial_alpha_pixels": 493634,
+    "bbox": [
+      0,
+      31,
+      1230,
+      1236
+    ],
+    "core_translucent_pixels": 427569,
+    "core_pixels": 427569
+  },
+  "path": "public/assets/dogs/full/dobermann-full.png",
+  "sha256": "2e84a361797b2b2fffe64c993760707754bc40ce9c4d649e9def9458715303d8",
+  "pixels_sha256": "22c1af052b38ebf46e59b4cf34db5df4bfde8dadcfd7031124ce96948ea377d8",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      132,
+      35,
+      1188,
+      1208
+    ],
+    "uniform_scale": 0.6982097186700768,
+    "resized_dimensions": [
+      737,
+      819
+    ],
+    "position": [
+      143,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 427569,
+    "near_opaque_adjusted": 444813
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 812214,
+    "opaque_pixels": 219720,
+    "partial_alpha_pixels": 16642,
+    "bbox": [
+      143,
+      102,
+      880,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 200634,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      143,
+      102,
+      144,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet: twelve distinct breed silhouettes, ear/muzzle/coat/tail differences; no obvious clipped ears/tails/paws. Akita/Shiba and retriever-family resemblance remains for final human comparison; not automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "黑棕杜宾：长窄楔头、中长有力口吻、自然V形垂耳不裁耳，优雅深胸收腰、长颈长腿；贴身短毛有棕眉颊胸腿标记，天然细长尾低举成弧不截断。四足挺立但不攻击。"
+}

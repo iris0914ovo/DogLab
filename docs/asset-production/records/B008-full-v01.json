@@ -1,0 +1,124 @@
+{
+  "breed_id": "B008",
+  "name": "德国牧羊犬",
+  "slug": "german-shepherd-dog",
+  "asset_kind": "full",
+  "batch_id": "round3-b01-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B008-full-v01",
+  "prompt_path": "artifacts/illustrations/B008/full/v01/prompt.txt",
+  "prompt_sha256": "fb4615dd46a0317e0a44a090e077b81ecf34c332de680e29547e6995298591ff",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-9f981602-4a25-495a-8231-77bf6aadfa3b.png",
+  "saved_at": "2026-11-01T03:59:00.879837+00:00",
+  "raw_path": "artifacts/illustrations/B008/full/v01/raw.png",
+  "raw_sha256": "a6b055aca46da085e4ab1356ffe6e6255bb988bfb063969b6b57e9e5c65624b4",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 929905,
+    "opaque_pixels": 203,
+    "partial_alpha_pixels": 642408,
+    "bbox": [
+      0,
+      9,
+      1244,
+      1254
+    ],
+    "core_translucent_pixels": 552901,
+    "core_pixels": 552901
+  },
+  "path": "public/assets/dogs/full/german-shepherd-dog-full.png",
+  "sha256": "1de05868a8626439815540e0dd038ac9377938c424374ed6c22e455491f7e273",
+  "pixels_sha256": "c53b807add583ac4ae72f587b86133722a38ba309c0d3a0794ef0cdac5406852",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      146,
+      52,
+      1227,
+      1207
+    ],
+    "uniform_scale": 0.7090909090909091,
+    "resized_dimensions": [
+      767,
+      819
+    ],
+    "position": [
+      128,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 552901,
+    "near_opaque_adjusted": 557425
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740176,
+    "opaque_pixels": 284017,
+    "partial_alpha_pixels": 24383,
+    "bbox": [
+      128,
+      102,
+      895,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 272028,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      128,
+      102,
+      129,
+      103
+    ],
+    "visual_status": "AI_REVIEWED_USER_PENDING",
+    "source_alpha_touches_canvas": true,
+    "visual_notes": "AI inspected paper contact sheet: twelve distinct breed silhouettes, ear/muzzle/coat/tail differences; no obvious clipped ears/tails/paws. Akita/Shiba and retriever-family resemblance remains for final human comparison; not automatic approval."
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+      "sha256": "a33b0ceacef1a5a71f0c09ac280367110e3229fd7e594ace11ede1761329f0d8",
+      "scope": "User-approved round2 style; not copied anatomy"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png"
+    ]
+  },
+  "breed_profile": "黑棕德国牧羊犬：长楔形头、中长有力口吻、大三角立耳、黑色鞍部与棕腿，正常强壮四肢、自然背线，不夸张塌腰；双层中短毛，低垂长蓬尾。侧站警觉温和，不画攻击露牙。"
+}
