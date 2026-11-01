@@ -1,0 +1,337 @@
+{
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "breed_ids": [
+    "B012",
+    "B015",
+    "B023",
+    "B025",
+    "B029",
+    "B033",
+    "B054",
+    "B070",
+    "B078",
+    "B104",
+    "B116",
+    "B120"
+  ],
+  "record_paths": [
+    "docs/asset-production/records/B012-full-v01.json",
+    "docs/asset-production/records/B015-full-v01.json",
+    "docs/asset-production/records/B023-full-v01.json",
+    "docs/asset-production/records/B025-full-v01.json",
+    "docs/asset-production/records/B029-full-v01.json",
+    "docs/asset-production/records/B033-full-v01.json",
+    "docs/asset-production/records/B054-full-v01.json",
+    "docs/asset-production/records/B070-full-v01.json",
+    "docs/asset-production/records/B078-full-v01.json",
+    "docs/asset-production/records/B104-full-v01.json",
+    "docs/asset-production/records/B116-full-v01.json",
+    "docs/asset-production/records/B120-full-v01.json"
+  ],
+  "contact_sheets": [
+    "public/assets/dogs/review/round2-dpl-ill-1.2-v01-paper.png",
+    "public/assets/dogs/review/round2-dpl-ill-1.2-v01-ink.png",
+    "public/assets/dogs/review/round2-dpl-ill-1.2-v01-mist.png"
+  ],
+  "grid": [
+    4,
+    3
+  ],
+  "technical_pass_count": 12,
+  "failed_ids": [],
+  "generation_attempts_per_image": 1,
+  "exact_duplicate_count": 0,
+  "near_silhouette_warnings": [
+    {
+      "ids": [
+        "B078",
+        "B120"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B116"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B001"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B070"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B023"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B054"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B078",
+        "B104"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B002",
+        "B033"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B116"
+      ],
+      "silhouette_hamming": 3,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B070"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B012"
+      ],
+      "silhouette_hamming": 3,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B023"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B120",
+        "B005"
+      ],
+      "silhouette_hamming": 4,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B033",
+        "B070"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B033",
+        "B023"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B070"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B012"
+      ],
+      "silhouette_hamming": 4,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B023"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B116",
+        "B005"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B015",
+        "B001"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B015",
+        "B070"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B015",
+        "B023"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B015",
+        "B104"
+      ],
+      "silhouette_hamming": 4,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B001",
+        "B104"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B025",
+        "B004"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B012"
+      ],
+      "silhouette_hamming": 6,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B023"
+      ],
+      "silhouette_hamming": 2,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B054"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B104"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B070",
+        "B005"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B012",
+        "B005"
+      ],
+      "silhouette_hamming": 3,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B023",
+        "B054"
+      ],
+      "silhouette_hamming": 7,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B023",
+        "B104"
+      ],
+      "silhouette_hamming": 5,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    },
+    {
+      "ids": [
+        "B054",
+        "B104"
+      ],
+      "silhouette_hamming": 4,
+      "note": "Near-silhouette signal only; AI contact-sheet review found distinct breed morphology, pending human review"
+    }
+  ],
+  "human_review_status": "PLANNED",
+  "scope": "12 full bodies only; no portraits; stop before round3 102",
+  "reference_style_user_approved": true,
+  "preserved_previous_png_sha256": {
+    "public/assets/brand/brand-review.png": "a93c3dd4d4ed6ae7d925ef24cdfce3d3aa1f7e619d2c4967f2119e87207cba0c",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-silhouette.png": "8c3a1b1e630788367a2dfeffc1202afce28ad1804985a1480b6c562598396f30",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-small-size.png": "fca495bab8659e3cf9e49fbe886bfdc9d3b9f0e9b9b89ed41a5afe0301dff32e",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-mist.png": "2e541966eea7c6fbb9303c6ae1b95a075bcc4f07a91c9a7cde3147dd1f8aa816",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-alpha-checker.png": "2fb6fc4a96c14cbf352b48730b930a00942e5ad4d8a4e382f01b953bc02b745b",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+    "public/assets/dogs/review/round1-dpl-ill-1.1-v02-ink.png": "036186fb625d29e91bd529ad628beda2bb3a8c44221fb5fe398225bde19d836f",
+    "public/assets/dogs/full/shiba-inu-full.png": "8096c5facfc34f933c2ca1cf3ad3585efeb3a312f4a08aafcc5436b1c4b80dfd",
+    "public/assets/dogs/full/pembroke-welsh-corgi-full.png": "fe24a6f92a7591c9fff086e7c48970fa3ad0b1927c4ef1f36a4c3f42d3f42b29",
+    "public/assets/dogs/full/siberian-husky-full.png": "e53d5831fdf5b62109589a924e7ee0357a4c8ef01fc4a39b3e46675c6c932486",
+    "public/assets/dogs/full/golden-retriever-full.png": "b9d45b171e7b6c95326c7c1a43f6316b760284bc61de7b91a2b5c04dd0713cf4",
+    "public/assets/dogs/full/poodle-full.png": "a9a81f3da7b76776ac06fb141b847c4f933dde0c1f547759e0b7e037a5596790",
+    "public/assets/dogs/full/border-collie-full.png": "128a144bfa0e02c970bcfd122246de2e98c603a349ef2288677b3bcbe7536b0d"
+  }
+}

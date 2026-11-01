@@ -1,0 +1,126 @@
+{
+  "breed_id": "B015",
+  "name": "迷你雪纳瑞",
+  "slug": "miniature-schnauzer",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B015-full-v01",
+  "prompt_path": "artifacts/illustrations/B015/full/v01/prompt.txt",
+  "prompt_sha256": "13da0821690add7a857c52b84585dbd0b40dc6484686396592ddcad5a4e5f745",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-c8dc687e-650a-4804-8bf8-a22dc7fa3f62.png",
+  "saved_at": "2026-11-01T02:51:35.102979+00:00",
+  "raw_path": "artifacts/illustrations/B015/full/v01/raw.png",
+  "raw_sha256": "e36aa024a104aa2c8bcc721603b34991b2296f62e897a737e1a8ef9479e309b2",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 882508,
+    "opaque_pixels": 238,
+    "partial_alpha_pixels": 689770,
+    "bbox": [
+      0,
+      20,
+      1246,
+      1254
+    ],
+    "core_translucent_pixels": 606225,
+    "core_pixels": 606225
+  },
+  "path": "public/assets/dogs/full/miniature-schnauzer-full.png",
+  "sha256": "3bb7f0ddc3888fa48c3fed48cb6571caaa745648a08cd91ce67260b1c5a12c84",
+  "pixels_sha256": "9572520d342b8c84ee7cb43137c4a126931a1139b40e5a1f4309d6eb61bd4528",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      180,
+      69,
+      1162,
+      1197
+    ],
+    "uniform_scale": 0.726063829787234,
+    "resized_dimensions": [
+      713,
+      819
+    ],
+    "position": [
+      155,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 606225,
+    "near_opaque_adjusted": 610266
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 693101,
+    "opaque_pixels": 326279,
+    "partial_alpha_pixels": 29196,
+    "bbox": [
+      155,
+      102,
+      868,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 312956,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      155,
+      102,
+      156,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "椒盐刚毛、胡须眉毛、自然折耳与近方形躯干可辨；尾部自然完整。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.199845385277633,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}

@@ -10,6 +10,8 @@ from datetime import datetime,timezone
 ROOT=Path(__file__).resolve().parents[1]
 IDS=['B001','B002','B003','B004','B005','B007']
 BATCH='round1-dpl-ill-1.1-v02'
+VERSION='v02'
+STYLE='DPL-ILL-1.1'
 def sha(path):return hashlib.sha256(Path(path).read_bytes()).hexdigest()
 def write_new(path,data):
  path.parent.mkdir(parents=True,exist_ok=True)
@@ -28,12 +30,12 @@ def metrics(im):
 def ingest(id,source):
  assert id in IDS
  row=catalog()[id];slug=row[3]
- base=ROOT/f'artifacts/illustrations/{id}/full/v02';base.mkdir(parents=True,exist_ok=True)
+ base=ROOT/f'artifacts/illustrations/{id}/full/{VERSION}';base.mkdir(parents=True,exist_ok=True)
  raw=base/'raw.png';source=Path(source).resolve()
  if raw.exists():assert sha(raw)==sha(source),'Raw exists with different content'
  else:shutil.copyfile(source,raw)
  dst=ROOT/f'public/assets/dogs/full/{slug}-full.png'
- record=ROOT/f'docs/asset-production/records/{id}-full-v02.json'
+ record=ROOT/f'docs/asset-production/records/{id}-full-{VERSION}.json'
  if record.exists():
   r=json.loads(record.read_text());assert dst.exists() and sha(dst)==r['sha256'];print(id,'already recorded; skipped');return
  assert not dst.exists(),'Never overwrite existing final file'
@@ -65,11 +67,11 @@ def ingest(id,source):
  checks=dict(decodes=True,png=True,size=qc['size']==[1024,1024],rgba=qc['mode']=='RGBA',real_transparency=qc['transparent_pixels']>0 and qc['opaque_pixels']>0,safe_margin=min(margins)>=102,subject_size=abs(max(bbox[2]-bbox[0],bbox[3]-bbox[1])-819)<=2,opaque_core=qc['core_translucent_pixels']==0,antialias_present=qc['partial_alpha_pixels']>0)
  qc.update(checks=checks,technical_pass=all(checks.values()),margins=margins)
  prompt=base/'prompt.txt'
- r=dict(breed_id=id,name=row[1],slug=slug,asset_kind='full',batch_id=BATCH,style_version='DPL-ILL-1.1',prompt_version=f'{id}-full-v02',prompt_path=str(prompt.relative_to(ROOT)),prompt_sha256=sha(prompt),tool='image_gen__imagegen',model=None,request_id=None,tool_source_path=str(source),saved_at=datetime.now(timezone.utc).isoformat(),raw_path=str(raw.relative_to(ROOT)),raw_sha256=sha(raw),raw_qc=raw_qc,path=str(dst.relative_to(ROOT)),sha256=sha(dst),pixels_sha256=hashlib.sha256(canvas.tobytes()).hexdigest(),processing=dict(raw_dimensions=list(im.size),crop_bbox=box,uniform_scale=scale,resized_dimensions=size,position=[x,y],alpha_normalization='remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias',core_adjusted=core_adjusted,near_opaque_adjusted=near_opaque),qc=qc,production_status='GENERATED',human_review_status='PLANNED',visual_review='AI inspection only; breed morphology/style/texture require user batch review; no approval',generation_attempts=1)
+ r=dict(breed_id=id,name=row[1],slug=slug,asset_kind='full',batch_id=BATCH,style_version=STYLE,prompt_version=f'{id}-full-{VERSION}',prompt_path=str(prompt.relative_to(ROOT)),prompt_sha256=sha(prompt),tool='image_gen__imagegen',model=None,request_id=None,tool_source_path=str(source),saved_at=datetime.now(timezone.utc).isoformat(),raw_path=str(raw.relative_to(ROOT)),raw_sha256=sha(raw),raw_qc=raw_qc,path=str(dst.relative_to(ROOT)),sha256=sha(dst),pixels_sha256=hashlib.sha256(canvas.tobytes()).hexdigest(),processing=dict(raw_dimensions=list(im.size),crop_bbox=box,uniform_scale=scale,resized_dimensions=size,position=[x,y],alpha_normalization='remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias',core_adjusted=core_adjusted,near_opaque_adjusted=near_opaque),qc=qc,production_status='GENERATED',human_review_status='PLANNED',visual_review='AI inspection only; breed morphology/style/texture require user batch review; no approval',generation_attempts=1)
  write_new(record,r)
  print(json.dumps(dict(id=id,path=r['path'],sha256=r['sha256'],qc=qc),ensure_ascii=False))
 def finalize():
- records=[json.loads((ROOT/f'docs/asset-production/records/{id}-full-v02.json').read_text()) for id in IDS]
+ records=[json.loads((ROOT/f'docs/asset-production/records/{id}-full-{VERSION}.json').read_text()) for id in IDS]
  existing_batch=ROOT/f'docs/asset-production/batches/{BATCH}.json'
  if existing_batch.exists():
   for r in records: assert sha(ROOT/r['path'])==r['sha256'], 'Existing output changed'

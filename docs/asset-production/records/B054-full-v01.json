@@ -1,0 +1,126 @@
+{
+  "breed_id": "B054",
+  "name": "秘鲁无毛犬",
+  "slug": "peruvian-hairless-dog",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B054-full-v01",
+  "prompt_path": "artifacts/illustrations/B054/full/v01/prompt.txt",
+  "prompt_sha256": "46dc522a8c66b2daa348b0390090604b8dfe925a03a48ff6174f9f704323f935",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-a50d8ea5-5172-4343-9b1f-a66ae166e9bb.png",
+  "saved_at": "2026-11-01T02:56:40.647553+00:00",
+  "raw_path": "artifacts/illustrations/B054/full/v01/raw.png",
+  "raw_sha256": "946b24f7dbd375aaa02f032c0c46ca739434a99f0c75981af019d9fca561d9f5",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1125238,
+    "opaque_pixels": 1603,
+    "partial_alpha_pixels": 445675,
+    "bbox": [
+      0,
+      3,
+      1236,
+      1254
+    ],
+    "core_translucent_pixels": 384581,
+    "core_pixels": 384581
+  },
+  "path": "public/assets/dogs/full/peruvian-hairless-dog-full.png",
+  "sha256": "1f0858ad863d6bb6e1ff5edc7357c3a155cdcbdb8b4808f00b2035b51a1e51a2",
+  "pixels_sha256": "68b5887ce9e311a3609aa93fc2def183bc0a49622e35f9a6e0fda33635da179e",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      181,
+      34,
+      1195,
+      1207
+    ],
+    "uniform_scale": 0.6982097186700768,
+    "resized_dimensions": [
+      708,
+      819
+    ],
+    "position": [
+      158,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 384581,
+    "near_opaque_adjusted": 403817
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 834460,
+    "opaque_pixels": 199553,
+    "partial_alpha_pixels": 14563,
+    "bbox": [
+      158,
+      102,
+      866,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 180156,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      158,
+      102,
+      158,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "可见裸露皮肤色面、颈胸自然褶皱、大立耳和细长裸尾，不是短毛犬简单去色。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.10459813376478007,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}

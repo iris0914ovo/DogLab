@@ -1,0 +1,126 @@
+{
+  "breed_id": "B120",
+  "name": "巴吉度猎犬",
+  "slug": "basset-hound",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B120-full-v01",
+  "prompt_path": "artifacts/illustrations/B120/full/v01/prompt.txt",
+  "prompt_sha256": "105cf1679b378d2d52489ea7fc9da04614814a5361f20cbadddfcd0feb3ba29d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-caf6d5b5-2cf8-43c2-8d22-0a7db32fff99.png",
+  "saved_at": "2026-11-01T03:01:20.515756+00:00",
+  "raw_path": "artifacts/illustrations/B120/full/v01/raw.png",
+  "raw_sha256": "085f5c8b07fd1e6f612ba367cf7d3f79f4accdb3fe060a617e1db57ba0db9eb2",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 931088,
+    "opaque_pixels": 268,
+    "partial_alpha_pixels": 641160,
+    "bbox": [
+      0,
+      37,
+      1254,
+      1254
+    ],
+    "core_translucent_pixels": 580892,
+    "core_pixels": 580892
+  },
+  "path": "public/assets/dogs/full/basset-hound-full.png",
+  "sha256": "522b5ebcdfb6e2d4a6b71a65791a1b336208f335a375e7b208a9666893708b02",
+  "pixels_sha256": "8e4aab7bfeed01484513dbdef0fda28c75db111d69acc04d0af1bdf28aa68605",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      44,
+      187,
+      1245,
+      1105
+    ],
+    "uniform_scale": 0.6819317235636969,
+    "resized_dimensions": [
+      819,
+      626
+    ],
+    "position": [
+      102,
+      295
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 580892,
+    "near_opaque_adjusted": 590801
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 757317,
+    "opaque_pixels": 276836,
+    "partial_alpha_pixels": 14423,
+    "bbox": [
+      102,
+      295,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 264291,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      295,
+      103,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.22329462323030272,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}

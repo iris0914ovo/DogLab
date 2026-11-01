@@ -1,0 +1,126 @@
+{
+  "breed_id": "B012",
+  "name": "腊肠犬",
+  "slug": "dachshund",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B012-full-v01",
+  "prompt_path": "artifacts/illustrations/B012/full/v01/prompt.txt",
+  "prompt_sha256": "ed6f770c9ab5d42c723b79e5932f5786b1ebcb04af71887ea0d136a4f7a1a6ae",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-c0bf343e-2131-443c-9aa5-871e6af70bcd.png",
+  "saved_at": "2026-11-01T02:50:31.881895+00:00",
+  "raw_path": "artifacts/illustrations/B012/full/v01/raw.png",
+  "raw_sha256": "1c54dd32a94239b093e631e8c1ed1749621aebef7ae59d7961866dfe89530f98",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1046697,
+    "opaque_pixels": 170,
+    "partial_alpha_pixels": 525649,
+    "bbox": [
+      0,
+      18,
+      1248,
+      1254
+    ],
+    "core_translucent_pixels": 447848,
+    "core_pixels": 447848
+  },
+  "path": "public/assets/dogs/full/dachshund-full.png",
+  "sha256": "7fe6a558e0e2fa4e6f6a9ccbd2b3abd3fb418ea460c1c214da1d207ef3a0d340",
+  "pixels_sha256": "4e77ed21283ecef8fbc5737567c366b21e1b292219cb4aebe6c8260a975d0ed5",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      52,
+      193,
+      1218,
+      1074
+    ],
+    "uniform_scale": 0.7024013722126929,
+    "resized_dimensions": [
+      819,
+      619
+    ],
+    "position": [
+      102,
+      302
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 447848,
+    "near_opaque_adjusted": 457219
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 806594,
+    "opaque_pixels": 227576,
+    "partial_alpha_pixels": 14406,
+    "bbox": [
+      102,
+      302,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 215614,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      302,
+      103,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "长身短腿、柔软长垂耳、长口吻和细长尾可辨；保留自然脊背，未见明显裁切。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.11981104272467508,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}

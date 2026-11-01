@@ -148,7 +148,10 @@
     "color_and_outline_status": "Measured clusters/dark pixels only; no automated breed or style guarantee"
   },
   "production_status": "GENERATED",
-  "human_review_status": "PLANNED",
+  "human_review_status": "REVIEWED",
   "visual_review": "AI visual inspection of six-dog paper/ink contact sheets only; not human approval",
-  "generation_attempts": 1
+  "generation_attempts": 1,
+  "style_reference_approved": true,
+  "user_review_scope": "User approved first-round overall visual style and authorized round2; portraits not included",
+  "user_review_date": "2026-11-01"
 }

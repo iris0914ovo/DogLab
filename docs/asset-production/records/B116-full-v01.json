@@ -1,0 +1,126 @@
+{
+  "breed_id": "B116",
+  "name": "苏格兰梗",
+  "slug": "scottish-terrier",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B116-full-v01",
+  "prompt_path": "artifacts/illustrations/B116/full/v01/prompt.txt",
+  "prompt_sha256": "1d71793014c2fdc89b04a7b779382945e17579d8e1d2046b74e4d128aa068f40",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-cad9d26b-9c63-484e-886f-b5cccf0d5f55.png",
+  "saved_at": "2026-11-01T03:00:31.490434+00:00",
+  "raw_path": "artifacts/illustrations/B116/full/v01/raw.png",
+  "raw_sha256": "7459879cb423aea7ea4161505ae5e254d87c0a9133921cb3712e5cdf881b9902",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 844648,
+    "opaque_pixels": 192,
+    "partial_alpha_pixels": 727676,
+    "bbox": [
+      0,
+      9,
+      1234,
+      1254
+    ],
+    "core_translucent_pixels": 633525,
+    "core_pixels": 633527
+  },
+  "path": "public/assets/dogs/full/scottish-terrier-full.png",
+  "sha256": "6e6d8f90feafb4fe17055ab4c5529fdb2488b0646bfcec269d4139c43af1908a",
+  "pixels_sha256": "6fea3d70cc5353cb4ba036a5737fda6d213f4ef274714db98e66600d08ad1473",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      70,
+      78,
+      1220,
+      1180
+    ],
+    "uniform_scale": 0.7121739130434782,
+    "resized_dimensions": [
+      819,
+      785
+    ],
+    "position": [
+      102,
+      136
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 633525,
+    "near_opaque_adjusted": 636081
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 688490,
+    "opaque_pixels": 326761,
+    "partial_alpha_pixels": 33325,
+    "bbox": [
+      102,
+      136,
+      921,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 315007,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      102,
+      136,
+      103,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "小立耳、长头胡须、低身短腿与黑色刚毛可辨，区别于雪纳瑞折耳。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.8287222291844568,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "breed_id": "B033",
+  "name": "阿拉斯加雪橇犬",
+  "slug": "alaskan-malamute",
+  "asset_kind": "full",
+  "batch_id": "round2-dpl-ill-1.2-v01",
+  "style_version": "DPL-ILL-1.2",
+  "prompt_version": "B033-full-v01",
+  "prompt_path": "artifacts/illustrations/B033/full/v01/prompt.txt",
+  "prompt_sha256": "3bb17000dea87934e0fb70710b92bac4a91ef714da217b72779d7fdc0fcb7112",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-4abba56b-7526-4714-9b26-e0b0b7ab8257.png",
+  "saved_at": "2026-11-01T02:55:39.178955+00:00",
+  "raw_path": "artifacts/illustrations/B033/full/v01/raw.png",
+  "raw_sha256": "9122eadd2031417a94f3f84234dbff4de39e746c60e81a05aadc4c33abefcb0e",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 717860,
+    "opaque_pixels": 363,
+    "partial_alpha_pixels": 854293,
+    "bbox": [
+      0,
+      8,
+      1226,
+      1254
+    ],
+    "core_translucent_pixels": 782574,
+    "core_pixels": 782574
+  },
+  "path": "public/assets/dogs/full/alaskan-malamute-full.png",
+  "sha256": "dbf8f69453506bc2c6b7ab0f6d0effdd078f1fa70097c6c8c4044bdb76479c24",
+  "pixels_sha256": "65d47c031b6dbda662d942fbb76c21c078013d8fb21c5e03bd8850ec31c6253c",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      108,
+      63,
+      1204,
+      1208
+    ],
+    "uniform_scale": 0.7152838427947599,
+    "resized_dimensions": [
+      784,
+      819
+    ],
+    "position": [
+      120,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 782574,
+    "near_opaque_adjusted": 787788
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 617937,
+    "opaque_pixels": 407094,
+    "partial_alpha_pixels": 23545,
+    "bbox": [
+      120,
+      102,
+      904,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 393945,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      120,
+      102,
+      120,
+      103
+    ],
+    "visual_status": "NEEDS_USER_REVIEW",
+    "visual_notes": "头胸比哈士奇更宽厚、脚掌骨量更大；同色系仍有雪橇犬外观相似，差异充分性留给用户集中审核。",
+    "source_alpha_touches_canvas": true,
+    "dark_pixel_fraction": 0.14121901442910167,
+    "color_validation": "AI inspection: warm natural coat/skin colors; numeric pixel palette is not a breed classifier",
+    "integrity_validation": "AI inspected full 4x3 contact sheet: no obvious missing ear/tail/paws; anatomy still needs human review"
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1,
+  "reference_images": [
+    {
+      "path": "public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png",
+      "sha256": "44a0dbd2c3ede20121c1ed30fd92c0d06b3d88d591c3a6f1c957ef7e57b04135",
+      "scope": "User-approved round1 overall style only; no body templates"
+    }
+  ],
+  "tool_parameters": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/DogLab/public/assets/dogs/review/round1-dpl-ill-1.1-v02-paper.png"
+    ]
+  }
+}
