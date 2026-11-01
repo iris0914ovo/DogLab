@@ -1,0 +1,107 @@
+{
+  "breed_id": "B001",
+  "name": "柴犬",
+  "slug": "shiba-inu",
+  "asset_kind": "full",
+  "batch_id": "round1-dpl-ill-1.1-v02",
+  "style_version": "DPL-ILL-1.1",
+  "prompt_version": "B001-full-v02",
+  "prompt_path": "artifacts/illustrations/B001/full/v02/prompt.txt",
+  "prompt_sha256": "8c77cb0a30489b588daff935869bec9f5f1d92b0997c36192809c2b0cb6ede0d",
+  "tool": "image_gen__imagegen",
+  "model": null,
+  "request_id": null,
+  "tool_source_path": "/workspace/generated_images/exec-94a2cbae-d1f2-470f-8818-e9b8f3412ff9.png",
+  "saved_at": "2026-11-01T02:12:12.926151+00:00",
+  "raw_path": "artifacts/illustrations/B001/full/v02/raw.png",
+  "raw_sha256": "f51e0132d254f8355407b7308413ce16ef67e1dfdf47a0b7144890a4d88a871a",
+  "raw_qc": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 822025,
+    "opaque_pixels": 1361,
+    "partial_alpha_pixels": 749130,
+    "bbox": [
+      0,
+      0,
+      1240,
+      1238
+    ],
+    "core_translucent_pixels": 693568,
+    "core_pixels": 693568
+  },
+  "path": "public/assets/dogs/full/shiba-inu-full.png",
+  "sha256": "8096c5facfc34f933c2ca1cf3ad3585efeb3a312f4a08aafcc5436b1c4b80dfd",
+  "pixels_sha256": "2fe6bcd4a2d1be16eef373efb6fa99d50944b97be3bcfc8454bc2c389ca76f85",
+  "processing": {
+    "raw_dimensions": [
+      1254,
+      1254
+    ],
+    "crop_bbox": [
+      164,
+      0,
+      1147,
+      1235
+    ],
+    "uniform_scale": 0.6631578947368421,
+    "resized_dimensions": [
+      652,
+      819
+    ],
+    "position": [
+      186,
+      102
+    ],
+    "alpha_normalization": "remove alpha<=2 residue; set eroded interior and near-opaque alpha>=250 to255; preserve edge antialias",
+    "core_adjusted": 693568,
+    "near_opaque_adjusted": 709799
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 720982,
+    "opaque_pixels": 314540,
+    "partial_alpha_pixels": 13054,
+    "bbox": [
+      186,
+      102,
+      838,
+      921
+    ],
+    "core_translucent_pixels": 0,
+    "core_pixels": 298048,
+    "checks": {
+      "decodes": true,
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "subject_size": true,
+      "opaque_core": true,
+      "antialias_present": true
+    },
+    "technical_pass": true,
+    "margins": [
+      186,
+      102,
+      186,
+      103
+    ]
+  },
+  "production_status": "GENERATED",
+  "human_review_status": "PLANNED",
+  "visual_review": "AI inspection only; breed morphology/style/texture require user batch review; no approval",
+  "generation_attempts": 1
+}
