@@ -1,0 +1,44 @@
+[
+  {
+    "id": "B001",
+    "slug": "shiba-inu",
+    "name": "柴犬",
+    "tool_source": "/workspace/generated_images/exec-2c78acee-d72f-41df-9080-a6158bed7a0b.png",
+    "reference": "User supplied screenshot, broad visual traits only"
+  },
+  {
+    "id": "B002",
+    "slug": "siberian-husky",
+    "name": "西伯利亚哈士奇",
+    "tool_source": "/workspace/generated_images/exec-e33bb65e-3286-4814-88cf-b92eec0126a9.png",
+    "reference": "Original B001 doodle-v01 output for shared line language only"
+  },
+  {
+    "id": "B003",
+    "slug": "golden-retriever",
+    "name": "金毛寻回犬",
+    "tool_source": "/workspace/generated_images/exec-6b256563-6bc4-470f-9a9b-1cab8a2308c6.png",
+    "reference": "Original B001 doodle-v01 output for shared line language only"
+  },
+  {
+    "id": "B004",
+    "slug": "border-collie",
+    "name": "边境牧羊犬",
+    "tool_source": "/workspace/generated_images/exec-f452c1b9-32ee-43fa-a114-9439797e9cfa.png",
+    "reference": "Original B001 doodle-v01 output for shared line language only"
+  },
+  {
+    "id": "B005",
+    "slug": "pembroke-welsh-corgi",
+    "name": "彭布罗克威尔士柯基犬",
+    "tool_source": "/workspace/generated_images/exec-4100ef3a-f805-4004-9b75-7444f80c0bb8.png",
+    "reference": "Original B001 doodle-v01 output for shared line language only"
+  },
+  {
+    "id": "B007",
+    "slug": "poodle",
+    "name": "贵宾犬",
+    "tool_source": "/workspace/generated_images/exec-d8cdd23e-6ed5-4aff-b998-081eab08253c.png",
+    "reference": "Original B001 doodle-v01 output for shared line language only"
+  }
+]

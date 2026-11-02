@@ -1,0 +1,75 @@
+{
+  "id": "B005",
+  "slug": "pembroke-welsh-corgi",
+  "name": "彭布罗克威尔士柯基犬",
+  "tool_source": "/workspace/generated_images/exec-4100ef3a-f805-4004-9b75-7444f80c0bb8.png",
+  "reference": "Original B001 doodle-v01 output for shared line language only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B005/raw.png",
+  "raw_sha256": "372759bf33a45818acf255addca7611b0f4021ac4ff12be6a34e7670830cb6b8",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B005/prompt.txt",
+  "prompt_sha256": "b7785d320794dd2baf4fe205057e2cc8905bc4314b9acb3ca79def091eb5c70f",
+  "path": "pembroke-welsh-corgi-full.png",
+  "sha256": "5fc10823803c68051009344193f061b39f8e0b1b6a6722e5e569889e6d9a2096",
+  "pixels_sha256": "b110a600663888eaffb1280b8d466e6ddc39c2a5f850bec42d23c8d1316a0458",
+  "processing": {
+    "crop": [
+      35,
+      177,
+      1243,
+      1077
+    ],
+    "uniform_scale": 0.6754966887417219,
+    "size": [
+      816,
+      608
+    ],
+    "position": [
+      104,
+      208
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 791498,
+    "opaque_pixels": 241397,
+    "partial_alpha_pixels": 15681,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      104,
+      208,
+      920,
+      816
+    ],
+    "margins": [
+      104,
+      208,
+      104,
+      208
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "batch": "Naive Dog Doodle V01",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "scope": "Six full-body breed tests only; stop for user review",
+  "records": [
+    {
+      "id": "B001",
+      "slug": "shiba-inu",
+      "name": "柴犬",
+      "tool_source": "/workspace/generated_images/exec-2c78acee-d72f-41df-9080-a6158bed7a0b.png",
+      "reference": "User supplied screenshot, broad visual traits only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B001/raw.png",
+      "raw_sha256": "583547208993ed52e48c6655b6a0585893da118dbd82c75d2c462856bb6a7777",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B001/prompt.txt",
+      "prompt_sha256": "f6b4cbde905407a17ff3d93013ccccee77cf50b88470a998026e02923cb19e63",
+      "path": "shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019",
+      "pixels_sha256": "f7284cc84dd7852b95993e39a890f3c65233f0a11f4af187533a383cafb98d14",
+      "processing": {
+        "crop": [
+          107,
+          100,
+          1140,
+          1156
+        ],
+        "uniform_scale": 0.7727272727272727,
+        "size": [
+          798,
+          816
+        ],
+        "position": [
+          113,
+          104
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 610135,
+        "opaque_pixels": 409364,
+        "partial_alpha_pixels": 29077,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          113,
+          104,
+          910,
+          920
+        ],
+        "margins": [
+          113,
+          104,
+          114,
+          104
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B002",
+      "slug": "siberian-husky",
+      "name": "西伯利亚哈士奇",
+      "tool_source": "/workspace/generated_images/exec-e33bb65e-3286-4814-88cf-b92eec0126a9.png",
+      "reference": "Original B001 doodle-v01 output for shared line language only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B002/raw.png",
+      "raw_sha256": "a29c3c1180f51e3eb3073fe06b9b56cccbdfda2c9fb99ed5ea0c2767880dd90a",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B002/prompt.txt",
+      "prompt_sha256": "cc659d3e4ca225d333e427ad9f06bc5105ebd6a08f29f87910da9f563cb01b64",
+      "path": "siberian-husky-full.png",
+      "sha256": "bc1dec0f9ad152941ce1381bcb28ca0c5728326c0447da0616873c31f1ae27be",
+      "pixels_sha256": "e860ad5e9c7e7f1a3041d92b8a22c2e3bbf5e240bb7e86ebfab3bdac326d973e",
+      "processing": {
+        "crop": [
+          139,
+          83,
+          1211,
+          1190
+        ],
+        "uniform_scale": 0.7371273712737128,
+        "size": [
+          790,
+          816
+        ],
+        "position": [
+          117,
+          104
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 687902,
+        "opaque_pixels": 343766,
+        "partial_alpha_pixels": 16908,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          118,
+          104,
+          907,
+          920
+        ],
+        "margins": [
+          118,
+          104,
+          117,
+          104
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B003",
+      "slug": "golden-retriever",
+      "name": "金毛寻回犬",
+      "tool_source": "/workspace/generated_images/exec-6b256563-6bc4-470f-9a9b-1cab8a2308c6.png",
+      "reference": "Original B001 doodle-v01 output for shared line language only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B003/raw.png",
+      "raw_sha256": "5d41240a746c4900b34ad6a3e9515d50e93536133a66303ee62eb0b862aec4c6",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B003/prompt.txt",
+      "prompt_sha256": "0d2d20c2b6f2ab22c22078bd1e01f396d7d5c51679f6e3ba2782decd9e7ee1c9",
+      "path": "golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4",
+      "pixels_sha256": "0583881d518816d0b8d953565cdddbd651cc028869935717affbf1a5e0206dbd",
+      "processing": {
+        "crop": [
+          74,
+          109,
+          1181,
+          1158
+        ],
+        "uniform_scale": 0.7371273712737128,
+        "size": [
+          816,
+          773
+        ],
+        "position": [
+          104,
+          125
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 691885,
+        "opaque_pixels": 340118,
+        "partial_alpha_pixels": 16573,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          105,
+          126,
+          920,
+          898
+        ],
+        "margins": [
+          105,
+          126,
+          104,
+          126
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B004",
+      "slug": "border-collie",
+      "name": "边境牧羊犬",
+      "tool_source": "/workspace/generated_images/exec-f452c1b9-32ee-43fa-a114-9439797e9cfa.png",
+      "reference": "Original B001 doodle-v01 output for shared line language only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B004/raw.png",
+      "raw_sha256": "0f7ee445eb435d790c3c17985bd98078fd02858ed9a160bcf7fe45eae5765396",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B004/prompt.txt",
+      "prompt_sha256": "6d8e31187f2b0bf3327d38ead181b121112eb106f460db1cc2b9db392b5bf720",
+      "path": "border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149",
+      "pixels_sha256": "7904c2dd0d614cec87fa67e4c44c56431bf79d96a36a897071a7d567dc081468",
+      "processing": {
+        "crop": [
+          100,
+          137,
+          1211,
+          1160
+        ],
+        "uniform_scale": 0.7344734473447345,
+        "size": [
+          816,
+          751
+        ],
+        "position": [
+          104,
+          136
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 753266,
+        "opaque_pixels": 275495,
+        "partial_alpha_pixels": 19815,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          104,
+          137,
+          920,
+          887
+        ],
+        "margins": [
+          104,
+          137,
+          104,
+          137
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B005",
+      "slug": "pembroke-welsh-corgi",
+      "name": "彭布罗克威尔士柯基犬",
+      "tool_source": "/workspace/generated_images/exec-4100ef3a-f805-4004-9b75-7444f80c0bb8.png",
+      "reference": "Original B001 doodle-v01 output for shared line language only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B005/raw.png",
+      "raw_sha256": "372759bf33a45818acf255addca7611b0f4021ac4ff12be6a34e7670830cb6b8",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B005/prompt.txt",
+      "prompt_sha256": "b7785d320794dd2baf4fe205057e2cc8905bc4314b9acb3ca79def091eb5c70f",
+      "path": "pembroke-welsh-corgi-full.png",
+      "sha256": "5fc10823803c68051009344193f061b39f8e0b1b6a6722e5e569889e6d9a2096",
+      "pixels_sha256": "b110a600663888eaffb1280b8d466e6ddc39c2a5f850bec42d23c8d1316a0458",
+      "processing": {
+        "crop": [
+          35,
+          177,
+          1243,
+          1077
+        ],
+        "uniform_scale": 0.6754966887417219,
+        "size": [
+          816,
+          608
+        ],
+        "position": [
+          104,
+          208
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 791498,
+        "opaque_pixels": 241397,
+        "partial_alpha_pixels": 15681,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          104,
+          208,
+          920,
+          816
+        ],
+        "margins": [
+          104,
+          208,
+          104,
+          208
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B007",
+      "slug": "poodle",
+      "name": "贵宾犬",
+      "tool_source": "/workspace/generated_images/exec-d8cdd23e-6ed5-4aff-b998-081eab08253c.png",
+      "reference": "Original B001 doodle-v01 output for shared line language only",
+      "production_status": "STYLE_TEST",
+      "human_review_status": "PENDING_REVIEW",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "raw_path": "B007/raw.png",
+      "raw_sha256": "91bd242af9d47a5f29c7e647742a35e6456a7da716b15ebfca2f27085ea6018b",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "B007/prompt.txt",
+      "prompt_sha256": "16d8a6120d9f1a31501e0ffd96e61b1d2b797fbcd375af01d150628a8521e503",
+      "path": "poodle-full.png",
+      "sha256": "89f2d4f0234e7826dba31860a037eaa062ec5cf2c804b4aabb63038f41496282",
+      "pixels_sha256": "56e1829f736f4215c55cd9e900dfd851ce6a1d17ca1303e7798a00e48867b7b6",
+      "processing": {
+        "crop": [
+          127,
+          117,
+          1171,
+          1170
+        ],
+        "uniform_scale": 0.7749287749287749,
+        "size": [
+          809,
+          816
+        ],
+        "position": [
+          107,
+          104
+        ],
+        "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 696428,
+        "opaque_pixels": 325872,
+        "partial_alpha_pixels": 26276,
+        "translucent_core_pixels": 0,
+        "bbox": [
+          107,
+          104,
+          916,
+          920
+        ],
+        "margins": [
+          107,
+          104,
+          108,
+          104
+        ],
+        "checks": {
+          "png": true,
+          "size": true,
+          "rgba": true,
+          "transparent_background": true,
+          "opaque_core": true,
+          "antialias": true,
+          "safe_margin": true
+        },
+        "technical_pass": true
+      }
+    }
+  ],
+  "previews": [
+    "contact-paper.png",
+    "contact-ink.png",
+    "contact-lineup.png"
+  ]
+}

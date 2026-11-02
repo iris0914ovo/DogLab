@@ -1,0 +1,75 @@
+{
+  "id": "B001",
+  "slug": "shiba-inu",
+  "name": "柴犬",
+  "tool_source": "/workspace/generated_images/exec-2c78acee-d72f-41df-9080-a6158bed7a0b.png",
+  "reference": "User supplied screenshot, broad visual traits only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B001/raw.png",
+  "raw_sha256": "583547208993ed52e48c6655b6a0585893da118dbd82c75d2c462856bb6a7777",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B001/prompt.txt",
+  "prompt_sha256": "f6b4cbde905407a17ff3d93013ccccee77cf50b88470a998026e02923cb19e63",
+  "path": "shiba-inu-full.png",
+  "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019",
+  "pixels_sha256": "f7284cc84dd7852b95993e39a890f3c65233f0a11f4af187533a383cafb98d14",
+  "processing": {
+    "crop": [
+      107,
+      100,
+      1140,
+      1156
+    ],
+    "uniform_scale": 0.7727272727272727,
+    "size": [
+      798,
+      816
+    ],
+    "position": [
+      113,
+      104
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 610135,
+    "opaque_pixels": 409364,
+    "partial_alpha_pixels": 29077,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      113,
+      104,
+      910,
+      920
+    ],
+    "margins": [
+      113,
+      104,
+      114,
+      104
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}

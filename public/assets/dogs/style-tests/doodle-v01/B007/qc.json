@@ -1,0 +1,75 @@
+{
+  "id": "B007",
+  "slug": "poodle",
+  "name": "贵宾犬",
+  "tool_source": "/workspace/generated_images/exec-d8cdd23e-6ed5-4aff-b998-081eab08253c.png",
+  "reference": "Original B001 doodle-v01 output for shared line language only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B007/raw.png",
+  "raw_sha256": "91bd242af9d47a5f29c7e647742a35e6456a7da716b15ebfca2f27085ea6018b",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B007/prompt.txt",
+  "prompt_sha256": "16d8a6120d9f1a31501e0ffd96e61b1d2b797fbcd375af01d150628a8521e503",
+  "path": "poodle-full.png",
+  "sha256": "89f2d4f0234e7826dba31860a037eaa062ec5cf2c804b4aabb63038f41496282",
+  "pixels_sha256": "56e1829f736f4215c55cd9e900dfd851ce6a1d17ca1303e7798a00e48867b7b6",
+  "processing": {
+    "crop": [
+      127,
+      117,
+      1171,
+      1170
+    ],
+    "uniform_scale": 0.7749287749287749,
+    "size": [
+      809,
+      816
+    ],
+    "position": [
+      107,
+      104
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 696428,
+    "opaque_pixels": 325872,
+    "partial_alpha_pixels": 26276,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      107,
+      104,
+      916,
+      920
+    ],
+    "margins": [
+      107,
+      104,
+      108,
+      104
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}

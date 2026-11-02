@@ -1,0 +1,75 @@
+{
+  "id": "B003",
+  "slug": "golden-retriever",
+  "name": "金毛寻回犬",
+  "tool_source": "/workspace/generated_images/exec-6b256563-6bc4-470f-9a9b-1cab8a2308c6.png",
+  "reference": "Original B001 doodle-v01 output for shared line language only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B003/raw.png",
+  "raw_sha256": "5d41240a746c4900b34ad6a3e9515d50e93536133a66303ee62eb0b862aec4c6",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B003/prompt.txt",
+  "prompt_sha256": "0d2d20c2b6f2ab22c22078bd1e01f396d7d5c51679f6e3ba2782decd9e7ee1c9",
+  "path": "golden-retriever-full.png",
+  "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4",
+  "pixels_sha256": "0583881d518816d0b8d953565cdddbd651cc028869935717affbf1a5e0206dbd",
+  "processing": {
+    "crop": [
+      74,
+      109,
+      1181,
+      1158
+    ],
+    "uniform_scale": 0.7371273712737128,
+    "size": [
+      816,
+      773
+    ],
+    "position": [
+      104,
+      125
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 691885,
+    "opaque_pixels": 340118,
+    "partial_alpha_pixels": 16573,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      105,
+      126,
+      920,
+      898
+    ],
+    "margins": [
+      105,
+      126,
+      104,
+      126
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}

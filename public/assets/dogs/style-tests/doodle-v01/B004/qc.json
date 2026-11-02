@@ -1,0 +1,75 @@
+{
+  "id": "B004",
+  "slug": "border-collie",
+  "name": "边境牧羊犬",
+  "tool_source": "/workspace/generated_images/exec-f452c1b9-32ee-43fa-a114-9439797e9cfa.png",
+  "reference": "Original B001 doodle-v01 output for shared line language only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B004/raw.png",
+  "raw_sha256": "0f7ee445eb435d790c3c17985bd98078fd02858ed9a160bcf7fe45eae5765396",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B004/prompt.txt",
+  "prompt_sha256": "6d8e31187f2b0bf3327d38ead181b121112eb106f460db1cc2b9db392b5bf720",
+  "path": "border-collie-full.png",
+  "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149",
+  "pixels_sha256": "7904c2dd0d614cec87fa67e4c44c56431bf79d96a36a897071a7d567dc081468",
+  "processing": {
+    "crop": [
+      100,
+      137,
+      1211,
+      1160
+    ],
+    "uniform_scale": 0.7344734473447345,
+    "size": [
+      816,
+      751
+    ],
+    "position": [
+      104,
+      136
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 753266,
+    "opaque_pixels": 275495,
+    "partial_alpha_pixels": 19815,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      104,
+      137,
+      920,
+      887
+    ],
+    "margins": [
+      104,
+      137,
+      104,
+      137
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}

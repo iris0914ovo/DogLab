@@ -1,0 +1,75 @@
+{
+  "id": "B002",
+  "slug": "siberian-husky",
+  "name": "西伯利亚哈士奇",
+  "tool_source": "/workspace/generated_images/exec-e33bb65e-3286-4814-88cf-b92eec0126a9.png",
+  "reference": "Original B001 doodle-v01 output for shared line language only",
+  "production_status": "STYLE_TEST",
+  "human_review_status": "PENDING_REVIEW",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "raw_path": "B002/raw.png",
+  "raw_sha256": "a29c3c1180f51e3eb3073fe06b9b56cccbdfda2c9fb99ed5ea0c2767880dd90a",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "B002/prompt.txt",
+  "prompt_sha256": "cc659d3e4ca225d333e427ad9f06bc5105ebd6a08f29f87910da9f563cb01b64",
+  "path": "siberian-husky-full.png",
+  "sha256": "bc1dec0f9ad152941ce1381bcb28ca0c5728326c0447da0616873c31f1ae27be",
+  "pixels_sha256": "e860ad5e9c7e7f1a3041d92b8a22c2e3bbf5e240bb7e86ebfab3bdac326d973e",
+  "processing": {
+    "crop": [
+      139,
+      83,
+      1211,
+      1190
+    ],
+    "uniform_scale": 0.7371273712737128,
+    "size": [
+      790,
+      816
+    ],
+    "position": [
+      117,
+      104
+    ],
+    "alpha": "remove <=2 residues; eroded core and >=250 to255; remaining edge alpha preserved; originals retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 687902,
+    "opaque_pixels": 343766,
+    "partial_alpha_pixels": 16908,
+    "translucent_core_pixels": 0,
+    "bbox": [
+      118,
+      104,
+      907,
+      920
+    ],
+    "margins": [
+      118,
+      104,
+      117,
+      104
+    ],
+    "checks": {
+      "png": true,
+      "size": true,
+      "rgba": true,
+      "transparent_background": true,
+      "opaque_core": true,
+      "antialias": true,
+      "safe_margin": true
+    },
+    "technical_pass": true
+  }
+}
