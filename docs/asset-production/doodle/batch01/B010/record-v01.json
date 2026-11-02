@@ -1,0 +1,94 @@
+{
+  "id": "B010",
+  "name": "秋田犬",
+  "english": "Akita",
+  "slug": "akita",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED_REJECTED_CANDIDATE",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:22.809889+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-1bd078ce-cfa7-4925-b75e-0633db38e49d.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Akita: much heavier broad bear-like head and thicker shorter triangular upright ears than Shiba, deep broad muzzle, thick neck, substantial broad chest and sturdy strong legs. Japanese red/cream character, red upper body and opaque cream lower face/chest. Thick heavy curled tail resting over back, small dark dot eyes spaced differently, quiet firm expression. Four-foot planted stance facing left, head slightly turned toward viewer. NOT little fox-like Shiba template: visibly big head width, heavier shoulders, blocky paws.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B010/raw.png",
+  "raw_sha256": "9d0fa0b86831155475b6a5017397a9aaf8b55e955d40598f74d222f2c2722d81",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B010/prompt-v01.txt",
+  "prompt_sha256": "96e07a456ea8c5489d679bba1afc6984b435b5cd5d3f82399551b83507a4363f",
+  "path": "artifacts/illustrations/doodle-v01/batch01/B010/candidate-v01.png",
+  "sha256": "b5ada2673be8dd04118569c7de4b83ce0ce50d4b5789299a580f63f96ce9732b",
+  "pixels_sha256": "2940320b921ceb0ed8d5c37089513804386a9becae6959cf565dd4542d6e980a",
+  "processing": {
+    "bbox": [
+      114,
+      119,
+      1155,
+      1159
+    ],
+    "scale": 0.7838616714697406,
+    "resized_dimensions": [
+      816,
+      815
+    ],
+    "position": [
+      104,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      104,
+      104,
+      920,
+      919
+    ],
+    "margins": [
+      104,
+      104,
+      104,
+      105
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 621210,
+    "opaque_pixels": 409178,
+    "partial_alpha_pixels": 18188,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  },
+  "rejection_reason": "AI side-by-side review: too similar to approved Shiba fox-like silhouette; replaced with wider-headed seated v02; all source files retained."
+}

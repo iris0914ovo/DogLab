@@ -134,3 +134,35 @@
 | B120 | 巴吉度猎犬 | Basset Hound | basset-hound | 否 | public/assets/dogs/full/basset-hound-full.png | — | GENERATED | APPROVED | 全身 APPROVED：public/assets/dogs/full/basset-hound-full.png | 第二轮AI检查：极长低垂耳、低矮厚实躯干、短粗腿、大掌与三色短毛可辨，非细腿腊肠模板。 待用户审核。 |
 
 第三轮进度：已落库102/102，DPL-ILL-1.2；每批合版、报告和独立验证记录见 docs/asset-production/。第三轮不自动标人工批准；既有18张PNG受哈希保护，不生产肖像、网站或部署。
+
+
+## DPL-DOODLE-1.0 新版全身插画（2026-11-02）
+
+本节为新版生产状态；上方DPL-ILL-1.2记录与图片全部保留。已批准六张Doodle V01风格测试图经SHA256验证后原样纳入，正式路径采用稳定犬种ID。正式规范见 [DPL_DOODLE_1.0.md](DPL_DOODLE_1.0.md)。
+
+新版完整120条双版本清单：[manifest.json](asset-production/doodle/manifest.json)。当前18/120已生成并通过技术QC，其中六张基准人工APPROVED，首批新增12张PENDING_REVIEW；其余102张PLANNED。肖像未制作，网站未改。历史style-tests中的PENDING记录作为当时状态保留，本节与新清单记录本次用户明确批准。
+
+| ID | 犬种 | 新版路径 | 制作 | 技术QC | 人工审核 |
+|---|---|---|---|---|---|
+| B001 | 柴犬 | public/assets/dogs/doodle-v01/B001-full.png | GENERATED | PASS | APPROVED |
+| B002 | 西伯利亚哈士奇 | public/assets/dogs/doodle-v01/B002-full.png | GENERATED | PASS | APPROVED |
+| B003 | 金毛寻回犬 | public/assets/dogs/doodle-v01/B003-full.png | GENERATED | PASS | APPROVED |
+| B004 | 边境牧羊犬 | public/assets/dogs/doodle-v01/B004-full.png | GENERATED | PASS | APPROVED |
+| B005 | 威尔士柯基犬（彭布罗克） | public/assets/dogs/doodle-v01/B005-full.png | GENERATED | PASS | APPROVED |
+| B006 | 拉布拉多寻回犬 | public/assets/dogs/doodle-v01/B006-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B007 | 贵宾犬 | public/assets/dogs/doodle-v01/B007-full.png | GENERATED | PASS | APPROVED |
+| B008 | 德国牧羊犬 | public/assets/dogs/doodle-v01/B008-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B009 | 萨摩耶犬 | public/assets/dogs/doodle-v01/B009-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B010 | 秋田犬 | public/assets/dogs/doodle-v01/B010-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B011 | 比格犬 | public/assets/dogs/doodle-v01/B011-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B012 | 腊肠犬 | public/assets/dogs/doodle-v01/B012-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B013 | 杰克罗素梗 | public/assets/dogs/doodle-v01/B013-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B014 | 西高地白梗 | public/assets/dogs/doodle-v01/B014-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B015 | 迷你雪纳瑞 | public/assets/dogs/doodle-v01/B015-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B016 | 喜乐蒂牧羊犬 | public/assets/dogs/doodle-v01/B016-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B017 | 澳大利亚牧羊犬 | public/assets/dogs/doodle-v01/B017-full.png | GENERATED | PASS | PENDING_REVIEW |
+| B018 | 杜宾犬 | public/assets/dogs/doodle-v01/B018-full.png | GENERATED | PASS | PENDING_REVIEW |
+
+未生成的102条ID与预定路径见完整JSON；每条均同时记录原版DPL-ILL-1.2路径与SHA256，未覆盖任何旧图。
+
+首批报告：[batch01/REPORT.md](asset-production/doodle/batch01/REPORT.md)。后续计划：[schedule.json](asset-production/doodle/schedule.json)，九批12张及最后6张；首批完成后暂停待审。

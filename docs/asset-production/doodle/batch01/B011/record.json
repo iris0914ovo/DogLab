@@ -1,0 +1,93 @@
+{
+  "id": "B011",
+  "name": "比格犬",
+  "english": "Beagle",
+  "slug": "beagle",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:23.642203+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-76d6caa4-98d4-4c52-8d9e-7d788bbafb31.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Beagle: long smooth floppy ears with rounded tips, moderately broad head with medium projecting muzzle, compact moderately long body and sturdy short-to-medium legs, white-tipped tail held high and nearly straight with gentle curve (not curled). Natural tricolor black saddle, tan head and patches, opaque white chest paws muzzle and tail tip. Stand three-quarter facing right nose slightly raised as if sniffing; one forepaw a little forward. Goofy small dot eyes and few mouth strokes. No long fur or corgi proportions.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B011/raw.png",
+  "raw_sha256": "94f91429debafd0195787d9595081cb59f71236e9a1b17bf5d6d8d8ca2db29a9",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B011/prompt.txt",
+  "prompt_sha256": "a17a98e9deea522f4279e6547fe866cbc2af6ad10c6d5b84d6c56d648d3c308d",
+  "path": "public/assets/dogs/doodle-v01/B011-full.png",
+  "sha256": "a9cc05cdbf3054e03928720d2e2521443d93cae450fb1c91e66c93c385472423",
+  "pixels_sha256": "ae8fc45ecf99fe230715aeee4955f5b42d391ab26527e86c5d3b24ef9c6e4d7f",
+  "processing": {
+    "bbox": [
+      168,
+      177,
+      1155,
+      1135
+    ],
+    "scale": 0.8267477203647416,
+    "resized_dimensions": [
+      816,
+      792
+    ],
+    "position": [
+      104,
+      116
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      104,
+      116,
+      920,
+      908
+    ],
+    "margins": [
+      104,
+      116,
+      104,
+      116
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 637929,
+    "opaque_pixels": 391165,
+    "partial_alpha_pixels": 19482,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

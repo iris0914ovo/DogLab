@@ -1,0 +1,93 @@
+{
+  "id": "B018",
+  "name": "杜宾犬",
+  "english": "Dobermann",
+  "slug": "dobermann",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:56:44.408674+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-1bede8fc-9a6b-4cfb-a6f0-6dc3888cb390.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Dobermann: LONG NARROW wedge-shaped head and noticeably long slim muzzle, NATURAL SOFT DROPPED ears folded by cheeks (absolutely no cropped erect ears), very lean deep-chested short-coated torso with tucked waist, FOUR LONG SLIM straight legs, natural FULL LENGTH thin tapering tail curving gently behind. Black coat with flat rust tan muzzle, chest accents and lower legs. Sideways standing facing right chin slightly lifted, little uneven dot eyes and tiny relaxed mouth. No aggression, no collar, no cropped ears or docked tail. Do NOT use blocky Rottweiler/Labrador body.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B018/raw.png",
+  "raw_sha256": "400d245a48adefaf3fdafbddc07c7efed4edd13a0e94287b76ec34b33cb0af7e",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B018/prompt.txt",
+  "prompt_sha256": "0fadeb98eb9e70f9fee90f3f6a694b826bf0872f35bd8a2aa69d30ab01a63aef",
+  "path": "public/assets/dogs/doodle-v01/B018-full.png",
+  "sha256": "571db4bf9bdbadad90535b164b06fd5d10f0b06c2cdbfb6b2f6ae29c6a08043c",
+  "pixels_sha256": "bbaf0a991c44ee3ed38cd542cd76f68a034c805056246298ec92cb97b74571a1",
+  "processing": {
+    "bbox": [
+      99,
+      141,
+      1164,
+      1124
+    ],
+    "scale": 0.7661971830985915,
+    "resized_dimensions": [
+      816,
+      753
+    ],
+    "position": [
+      104,
+      135
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      104,
+      135,
+      920,
+      888
+    ],
+    "margins": [
+      104,
+      135,
+      104,
+      136
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 811011,
+    "opaque_pixels": 220682,
+    "partial_alpha_pixels": 16883,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

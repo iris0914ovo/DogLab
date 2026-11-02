@@ -1,0 +1,94 @@
+{
+  "id": "B017",
+  "name": "澳大利亚牧羊犬",
+  "english": "Australian Shepherd",
+  "slug": "australian-shepherd",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:57:28.073906+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-fd5255d3-3d54-4f34-ab38-dca5f687bbc0.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "generation_version": "v01",
+  "design": "Australian Shepherd: broadish head with medium muzzle, BOTH natural triangular ears FOLDED to sides (not tall upright ears); compact but muscular medium body, substantial four medium-length legs, moderate fluffy ruff. Choose red-tricolor: chocolate-brown main coat, rust tan cheek/leg accents and opaque white blaze/chest/paws (3 coat colors only). Natural FULL LONG LOW bushy tail clearly visible, not docked. Four-foot slightly sideways stance facing left, head looking right over shoulder, friendly inquisitive dot eyes. Distinguish from slender narrow-headed black-white Border Collie and sable Sheltie, no intricate merle speckles.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B017/raw.png",
+  "raw_sha256": "3d36fab9d33ecb3ceed0cffae0a77ba0bb4290522a81f8a4fc9c4155383b7b92",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B017/prompt.txt",
+  "prompt_sha256": "af64b73ff5bd2f102b3037280a6569f0779ebc247aab5b7004ceb9ae2bccdfc8",
+  "path": "public/assets/dogs/doodle-v01/B017-full.png",
+  "sha256": "f1055cb758326d6b2d51221a45fa7891238fce8fbfc52fd6ede245c1571a884d",
+  "pixels_sha256": "e1c2cfcba8d81021820f84619b9114c769e87ed5ed531bb97c04def74e8b3f1e",
+  "processing": {
+    "bbox": [
+      139,
+      161,
+      1203,
+      1135
+    ],
+    "scale": 0.7669172932330827,
+    "resized_dimensions": [
+      816,
+      747
+    ],
+    "position": [
+      104,
+      138
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      106,
+      138,
+      920,
+      885
+    ],
+    "margins": [
+      106,
+      138,
+      104,
+      139
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 708494,
+    "opaque_pixels": 323514,
+    "partial_alpha_pixels": 16568,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

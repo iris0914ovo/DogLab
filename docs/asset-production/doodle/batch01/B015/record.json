@@ -1,0 +1,93 @@
+{
+  "id": "B015",
+  "name": "迷你雪纳瑞",
+  "english": "Miniature Schnauzer",
+  "slug": "miniature-schnauzer",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:56:42.764404+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-195cfae9-7e27-4633-8942-6cc383bad413.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Miniature Schnauzer: rectangular head and blunt rectangular projecting muzzle, prominent chunky simplified moustache/beard and two eyebrow masses (flat gray blocks, no detailed hairs). Small V-shaped naturally FOLDED ears, square compact torso, sturdy medium-short legs. Salt-and-pepper dark gray body with pale gray beard/eyebrows and lower legs in simple 3 flat tones. Natural LONG upward saber tail, NOT docked, not curled over back. Four-foot three-quarter standing toward right, serious but goofy dot eyes (visible below small eyebrow blocks), no accessories.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B015/raw.png",
+  "raw_sha256": "f49e549541f09844c49a3afdb5c7b29659ce3ddc440edb858c87ae53f5783061",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B015/prompt.txt",
+  "prompt_sha256": "2a1619f3a473fbf8fa06455fc149f10841d1306f7d108d25697d268366310ded",
+  "path": "public/assets/dogs/doodle-v01/B015-full.png",
+  "sha256": "1c5fb0a7fa04a643d1305d3452d0be0f76c341b425cb0430d4b8ede5ad2b656e",
+  "pixels_sha256": "0b6cf4459d0f619177927d84c8d00e43fc96d4cd986403eb611bf59c94065677",
+  "processing": {
+    "bbox": [
+      177,
+      156,
+      1131,
+      1138
+    ],
+    "scale": 0.8309572301425662,
+    "resized_dimensions": [
+      793,
+      816
+    ],
+    "position": [
+      115,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      115,
+      104,
+      908,
+      920
+    ],
+    "margins": [
+      115,
+      104,
+      116,
+      104
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 658730,
+    "opaque_pixels": 369671,
+    "partial_alpha_pixels": 20175,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

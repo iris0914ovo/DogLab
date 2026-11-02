@@ -1,0 +1,93 @@
+{
+  "id": "B014",
+  "name": "西高地白梗",
+  "english": "West Highland White Terrier",
+  "slug": "west-highland-white-terrier",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:25.177255+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-9a9ee398-4709-44c1-9812-edaa7f13df2d.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "West Highland White Terrier: entirely opaque white coat with only small cream accents, SMALL sharp triangular upright ears, rounded broad head framed by rough coat, SHORT blunt muzzle, dark nose. Compact square sturdy short-legged body, short-ish but natural straight upright CARROT-shaped tail, not curled. Stand four-foot three-quarter facing left with slightly tilted head, calm small uneven black dot eyes. Suggest coarse coat through a few blocky outline bumps ONLY. Distinct from cloud fluffy curled-tail Samoyed and bearded schnauzer.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B014/raw.png",
+  "raw_sha256": "bf05afe202c6c79d083e36d21764d328685e2049b4c5cee95621a0c8d371495a",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B014/prompt.txt",
+  "prompt_sha256": "0133c690bba10ee027eb7f9fd547dd571c1fad7ea8b5c1e2cd43c3c30c5ef9f0",
+  "path": "public/assets/dogs/doodle-v01/B014-full.png",
+  "sha256": "0e243d41c858241da9e20b6722feb963a2be318bc65c4fec358cee6bbbc1873f",
+  "pixels_sha256": "25e46b6ecbcb5b40f2c51ff4971d948af5716b699e7733f3052d9cb0e63ab850",
+  "processing": {
+    "bbox": [
+      164,
+      142,
+      1090,
+      1121
+    ],
+    "scale": 0.8335035750766088,
+    "resized_dimensions": [
+      772,
+      816
+    ],
+    "position": [
+      126,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      126,
+      104,
+      898,
+      920
+    ],
+    "margins": [
+      126,
+      104,
+      126,
+      104
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 654273,
+    "opaque_pixels": 376888,
+    "partial_alpha_pixels": 17415,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

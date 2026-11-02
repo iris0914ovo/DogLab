@@ -1,0 +1,93 @@
+{
+  "id": "B013",
+  "name": "杰克罗素梗",
+  "english": "Jack Russell Terrier",
+  "slug": "jack-russell-terrier",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:56:41.951533+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-df1e2d2c-9684-4e2a-ad7b-9e1037e13b91.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Jack Russell Terrier, smooth coat: predominantly opaque white body with tan patch over one eye and one ear, narrow athletic compact body and medium-short but athletic legs, wedge-shaped head and medium sharp muzzle; small V-shaped ears with clearly FOLDED forward tips, not erect fox ears. Naturally long slim upright-curving tail, not docked. Slight play bow, chest mildly lowered but four feet readable, hindquarters raised, sideways facing right with goofy alert expression. No short corgi body or fluffy coat.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B013/raw.png",
+  "raw_sha256": "5f54afdf8988d45a4c12b3182b82fe3d0388e89afdf22de9c120174c7273b9ad",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B013/prompt.txt",
+  "prompt_sha256": "4d972b5bc0d375675d6a42a24632d8b6b95b764a792084d2887c899d5be5abf5",
+  "path": "public/assets/dogs/doodle-v01/B013-full.png",
+  "sha256": "6898f63085ccbfa919cc39b5a1a3e7bc0e2fbd6a397796ba28999043da832989",
+  "pixels_sha256": "1d0f7e91b46c6cd0bfa57d4fdc3b154f745bd94059edfa3aab852693585584e8",
+  "processing": {
+    "bbox": [
+      117,
+      136,
+      1171,
+      1131
+    ],
+    "scale": 0.7741935483870968,
+    "resized_dimensions": [
+      816,
+      770
+    ],
+    "position": [
+      104,
+      127
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      104,
+      127,
+      920,
+      897
+    ],
+    "margins": [
+      104,
+      127,
+      104,
+      127
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 740058,
+    "opaque_pixels": 287709,
+    "partial_alpha_pixels": 20809,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

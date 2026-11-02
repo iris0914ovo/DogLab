@@ -1,0 +1,2581 @@
+{
+  "style": "DPL-DOODLE-1.0",
+  "counts": {
+    "total": 120,
+    "generated": 18,
+    "technical_pass": 18,
+    "human_approved": 6,
+    "pending_review_generated": 12,
+    "planned": 102
+  },
+  "records": [
+    {
+      "id": "B001",
+      "name": "柴犬",
+      "english": "Shiba Inu",
+      "slug": "shiba-inu",
+      "size": "小型",
+      "coat": "双层短毛",
+      "fact": "立耳、卷尾，轮廓紧凑。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/shiba-inu-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "8096c5facfc34f933c2ca1cf3ad3585efeb3a312f4a08aafcc5436b1c4b80dfd"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B001-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B001/qc.json"
+      }
+    },
+    {
+      "id": "B002",
+      "name": "西伯利亚哈士奇",
+      "english": "Siberian Husky",
+      "slug": "siberian-husky",
+      "size": "中型",
+      "coat": "浓密双层毛",
+      "fact": "雪橇犬类型，直立耳与蓬松尾明显。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/siberian-husky-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "e53d5831fdf5b62109589a924e7ee0357a4c8ef01fc4a39b3e46675c6c932486"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B002-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "bc1dec0f9ad152941ce1381bcb28ca0c5728326c0447da0616873c31f1ae27be",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/siberian-husky-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B002/qc.json"
+      }
+    },
+    {
+      "id": "B003",
+      "name": "金毛寻回犬",
+      "english": "Golden Retriever",
+      "slug": "golden-retriever",
+      "size": "大型",
+      "coat": "中长双层毛",
+      "fact": "金色被毛，四肢及尾部常有饰毛。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/golden-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b9d45b171e7b6c95326c7c1a43f6316b760284bc61de7b91a2b5c04dd0713cf4"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B003-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B003/qc.json"
+      }
+    },
+    {
+      "id": "B004",
+      "name": "边境牧羊犬",
+      "english": "Border Collie",
+      "slug": "border-collie",
+      "size": "中型",
+      "coat": "短毛或中长毛",
+      "fact": "牧羊工作犬类型，毛色不局限于黑白。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/border-collie-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "128a144bfa0e02c970bcfd122246de2e98c603a349ef2288677b3bcbe7536b0d"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B004-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B004/qc.json"
+      }
+    },
+    {
+      "id": "B005",
+      "name": "威尔士柯基犬（彭布罗克）",
+      "english": "Pembroke Welsh Corgi",
+      "slug": "pembroke-welsh-corgi",
+      "size": "小型",
+      "coat": "双层中短毛",
+      "fact": "身体较长、四肢短，耳朵直立。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/pembroke-welsh-corgi-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "fe24a6f92a7591c9fff086e7c48970fa3ad0b1927c4ef1f36a4c3f42d3f42b29"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B005-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "5fc10823803c68051009344193f061b39f8e0b1b6a6722e5e569889e6d9a2096",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/pembroke-welsh-corgi-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B005/qc.json"
+      }
+    },
+    {
+      "id": "B006",
+      "name": "拉布拉多寻回犬",
+      "english": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "size": "大型",
+      "coat": "浓密双层短毛",
+      "fact": "尾根粗，尾部覆盖短密毛。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/labrador-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6e1f81d3ff9b996cb329ccb168475eca1897d50855d746e6df4aa99756e59c26"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B006-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "d3634a24aedd5a756bd76b1bd8f6147cb91248d5792e3b61b0a2ea997b17974a",
+        "record": "docs/asset-production/doodle/batch01/B006/record.json"
+      }
+    },
+    {
+      "id": "B007",
+      "name": "贵宾犬",
+      "english": "Poodle",
+      "slug": "poodle",
+      "size": "多体型",
+      "coat": "浓密卷毛",
+      "fact": "有不同体型规格，卷毛需持续梳理修剪。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/poodle-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "a9a81f3da7b76776ac06fb141b847c4f933dde0c1f547759e0b7e037a5596790"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B007-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "APPROVED",
+        "approval": "Explicit user approval 2026-11-02 Asia/Shanghai of six Doodle V01 tests and series language",
+        "sha256": "89f2d4f0234e7826dba31860a037eaa062ec5cf2c804b4aabb63038f41496282",
+        "source_test": "public/assets/dogs/style-tests/doodle-v01/poodle-full.png",
+        "source_record": "public/assets/dogs/style-tests/doodle-v01/B007/qc.json"
+      }
+    },
+    {
+      "id": "B008",
+      "name": "德国牧羊犬",
+      "english": "German Shepherd Dog",
+      "slug": "german-shepherd-dog",
+      "size": "大型",
+      "coat": "双层毛",
+      "fact": "立耳，具有短毛及长毛类型。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/german-shepherd-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "1de05868a8626439815540e0dd038ac9377938c424374ed6c22e455491f7e273"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B008-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "c210c213e676211c38d4dbcaa69612b73706e704d5c780b78d2247826cb28f09",
+        "record": "docs/asset-production/doodle/batch01/B008/record.json"
+      }
+    },
+    {
+      "id": "B009",
+      "name": "萨摩耶犬",
+      "english": "Samoyed",
+      "slug": "samoyed",
+      "size": "中大型",
+      "coat": "浓密双层长毛",
+      "fact": "浅色被毛，尾部毛量丰富。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/samoyed-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "dab8d521f029facb7a2bc59a9cb20adaeeca08a22073f9f258680941fb0f1a4e"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B009-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "0ba4fcf5382a45397f4077b7064df64c22d639728a7c75134c891731d39bb021",
+        "record": "docs/asset-production/doodle/batch01/B009/record.json"
+      }
+    },
+    {
+      "id": "B010",
+      "name": "秋田犬",
+      "english": "Akita",
+      "slug": "akita",
+      "size": "大型",
+      "coat": "双层短毛",
+      "fact": "头部宽、立耳，尾巴卷于背部。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/akita-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d785ce714130ba0a69f410ed31e3d53e2f3e56076034fd019b2cea04fd4a65df"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B010-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "6edc8eea050ecc87e22662ed2be284abe1064b11f7fc02c2814b67332c82b4dc",
+        "record": "docs/asset-production/doodle/batch01/B010/record.json"
+      }
+    },
+    {
+      "id": "B011",
+      "name": "比格犬",
+      "english": "Beagle",
+      "slug": "beagle",
+      "size": "中小型",
+      "coat": "短毛",
+      "fact": "垂耳，常见三色及双色被毛。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/beagle-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "896037baea37630c3e6815e9a0c91570f00c4248fe46f971b6fba8db85003898"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B011-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "a9cc05cdbf3054e03928720d2e2521443d93cae450fb1c91e66c93c385472423",
+        "record": "docs/asset-production/doodle/batch01/B011/record.json"
+      }
+    },
+    {
+      "id": "B012",
+      "name": "腊肠犬",
+      "english": "Dachshund",
+      "slug": "dachshund",
+      "size": "小型",
+      "coat": "短毛、长毛或刚毛",
+      "fact": "身长腿短，有不同尺寸与被毛类型。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/dachshund-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "7fe6a558e0e2fa4e6f6a9ccbd2b3abd3fb418ea460c1c214da1d207ef3a0d340"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B012-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "5680a915163cfe8b7a650abbf361ba192b465928146db3f7893dbd68267d8bcb",
+        "record": "docs/asset-production/doodle/batch01/B012/record.json"
+      }
+    },
+    {
+      "id": "B013",
+      "name": "杰克罗素梗",
+      "english": "Jack Russell Terrier",
+      "slug": "jack-russell-terrier",
+      "size": "小型",
+      "coat": "平毛、粗毛或破毛",
+      "fact": "白色为主，可带其他色斑。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/jack-russell-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "5ab9f51ef7481e2eba7361b830089481fd35bb2fcbbcad003bd6eed26e17b8a0"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B013-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "6898f63085ccbfa919cc39b5a1a3e7bc0e2fbd6a397796ba28999043da832989",
+        "record": "docs/asset-production/doodle/batch01/B013/record.json"
+      }
+    },
+    {
+      "id": "B014",
+      "name": "西高地白梗",
+      "english": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "size": "小型",
+      "coat": "粗硬外毛",
+      "fact": "白色被毛，耳朵小而直立。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/west-highland-white-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "cb14f28b51e986a001998cb903976fca3aecfa4977c9c608d8d79ae5e0138de0"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B014-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "0e243d41c858241da9e20b6722feb963a2be318bc65c4fec358cee6bbbc1873f",
+        "record": "docs/asset-production/doodle/batch01/B014/record.json"
+      }
+    },
+    {
+      "id": "B015",
+      "name": "迷你雪纳瑞",
+      "english": "Miniature Schnauzer",
+      "slug": "miniature-schnauzer",
+      "size": "小型",
+      "coat": "刚毛",
+      "fact": "眉毛与胡须突出，需规律美容。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/miniature-schnauzer-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "3bb7f0ddc3888fa48c3fed48cb6571caaa745648a08cd91ce67260b1c5a12c84"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B015-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "1c5fb0a7fa04a643d1305d3452d0be0f76c341b425cb0430d4b8ede5ad2b656e",
+        "record": "docs/asset-production/doodle/batch01/B015/record.json"
+      }
+    },
+    {
+      "id": "B016",
+      "name": "喜乐蒂牧羊犬",
+      "english": "Shetland Sheepdog",
+      "slug": "shetland-sheepdog",
+      "size": "小型",
+      "coat": "双层长毛",
+      "fact": "颈部饰毛丰富，口吻细长。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/shetland-sheepdog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "063b2d6f40201f09286b1cd053c9c2d1824e28b2ee2e619755221a2546f9193d"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B016-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "70a358e772498652aafbe263395038bdb14cfc197470bbca35815ae9ba2a5e01",
+        "record": "docs/asset-production/doodle/batch01/B016/record.json"
+      }
+    },
+    {
+      "id": "B017",
+      "name": "澳大利亚牧羊犬",
+      "english": "Australian Shepherd",
+      "slug": "australian-shepherd",
+      "size": "中型",
+      "coat": "双层中长毛",
+      "fact": "牧羊工作犬类型，常有多样毛色。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/australian-shepherd-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b592f2b6b8279a2ede26770ad7c3024a4062c7133749d05d6d7e03eb49dd6bc1"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B017-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "f1055cb758326d6b2d51221a45fa7891238fce8fbfc52fd6ede245c1571a884d",
+        "record": "docs/asset-production/doodle/batch01/B017/record.json"
+      }
+    },
+    {
+      "id": "B018",
+      "name": "杜宾犬",
+      "english": "Dobermann",
+      "slug": "dobermann",
+      "size": "大型",
+      "coat": "贴身短毛",
+      "fact": "轮廓修长，天然耳朵下垂。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/dobermann-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "2e84a361797b2b2fffe64c993760707754bc40ce9c4d649e9def9458715303d8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B018-full.png",
+        "production_status": "GENERATED",
+        "technical_pass": true,
+        "human_review_status": "PENDING_REVIEW",
+        "sha256": "571db4bf9bdbadad90535b164b06fd5d10f0b06c2cdbfb6b2f6ae29c6a08043c",
+        "record": "docs/asset-production/doodle/batch01/B018/record.json"
+      }
+    },
+    {
+      "id": "B019",
+      "name": "罗威纳犬",
+      "english": "Rottweiler",
+      "slug": "rottweiler",
+      "size": "大型",
+      "coat": "双层短毛",
+      "fact": "黑色被毛配有清晰棕色斑点。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/rottweiler-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b7e54e574d2cfd90f5c9613ddd5a1b72f03ab3a3ec775cc71ec0e91b3f1d7812"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B019-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B020",
+      "name": "拳师犬",
+      "english": "Boxer",
+      "slug": "boxer",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "头部较方、口吻短，天然尾巴较长。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/boxer-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "7800a2aedb369737bb4dce2a654e1a21c0ccffc8fe9a2204d9484135ed5d2dcc"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B020-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B021",
+      "name": "大丹犬",
+      "english": "Great Dane",
+      "slug": "great-dane",
+      "size": "巨型",
+      "coat": "短毛",
+      "fact": "体高突出，天然耳朵下垂。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/great-dane-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "23b360e3cdad101fc0b5fa6b7e7867097e207981e9d05854d6be4df2dfd33b54"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B021-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B022",
+      "name": "伯恩山犬",
+      "english": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "size": "大型",
+      "coat": "浓密中长毛",
+      "fact": "黑白棕三色，体格厚实。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/bernese-mountain-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "ddfdfd697cf3c9a7292306e6743f7ad797aa7a3690bc83c662039e747b623b4b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B022-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B023",
+      "name": "纽芬兰犬",
+      "english": "Newfoundland",
+      "slug": "newfoundland",
+      "size": "巨型",
+      "coat": "浓密双层毛",
+      "fact": "骨量大，被毛需要规律梳理。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/newfoundland-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "c108dd1ff90cb1ecdb7676cd4b3147525ec0bb76b4af45aba889dbbbecaac2e2"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B023-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B024",
+      "name": "圣伯纳犬",
+      "english": "Saint Bernard",
+      "slug": "saint-bernard",
+      "size": "巨型",
+      "coat": "短毛或长毛",
+      "fact": "体格大，常见白底配红褐色斑块。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/saint-bernard-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f5212f77fa582a44e8c48bca80dfe2a100383706c7476123cf1a74fddd3ead82"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B024-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B025",
+      "name": "灵缇",
+      "english": "Greyhound",
+      "slug": "greyhound",
+      "size": "大型",
+      "coat": "短毛",
+      "fact": "胸深、腰收、四肢修长。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/greyhound-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "53977c74fa35236bc79812b4b77a863f1edb93506a7d402f621ecd02c9abcae3"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B025-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B026",
+      "name": "惠比特犬",
+      "english": "Whippet",
+      "slug": "whippet",
+      "size": "中型",
+      "coat": "短毛",
+      "fact": "视觉猎犬类型，身形纤细、胸腔深。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/whippet-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "ca0d56b662e0cd2bd9910e0626483b5252e2872e384ab286255f9ac1a0e9a3d9"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B026-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B027",
+      "name": "巴仙吉犬",
+      "english": "Basenji",
+      "slug": "basenji",
+      "size": "中小型",
+      "coat": "短毛",
+      "fact": "立耳卷尾，可发出独特的喉音。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/basenji-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "cfcb5dda3d25e06e2c159003b261794d4fdd32ca11dee5f0a90de7ffb063e82f"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B027-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B028",
+      "name": "大麦町犬",
+      "english": "Dalmatian",
+      "slug": "dalmatian",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "白底斑点，斑点分布因个体不同。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/dalmatian-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "535185774256149d16d38c974f864999089b5415394a8822731ead5649e67d9e"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B028-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B029",
+      "name": "蝴蝶犬",
+      "english": "Papillon",
+      "slug": "papillon",
+      "size": "小型",
+      "coat": "丝质长毛",
+      "fact": "耳部饰毛展开，外形具有辨识度。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/papillon-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "ad21a4c1395d762583419aafab94212c493274d779db71057e94704ca24ff977"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B029-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B030",
+      "name": "骑士查理王小猎犬",
+      "english": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "size": "小型",
+      "coat": "丝质中长毛",
+      "fact": "垂耳，耳部与四肢常有饰毛。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/cavalier-king-charles-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "bac91d42c9579cd4ff4f5be5f367b9ba84cb1ac80184d8ed1ef026dd97fd6665"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B030-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B031",
+      "name": "比熊犬",
+      "english": "Bichon Frise",
+      "slug": "bichon-frise",
+      "size": "小型",
+      "coat": "卷曲双层毛",
+      "fact": "白色被毛，需定期梳理与修剪。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/bichon-frise-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "fe409fcc6358cf4fe7dd0af8b233b427491e7006850cddfc35659aa4e7cd56ca"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B031-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B032",
+      "name": "松狮犬",
+      "english": "Chow Chow",
+      "slug": "chow-chow",
+      "size": "中型",
+      "coat": "粗毛或短毛",
+      "fact": "头部宽，舌部通常呈蓝黑色。",
+      "formal": "是",
+      "original": {
+        "path": "public/assets/dogs/full/chow-chow-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f288f60119ffe762d2ea2cdb5d91b3a945f0f38d0575d639e7c70fdeb6f52f66"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B032-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B033",
+      "name": "阿拉斯加雪橇犬",
+      "english": "Alaskan Malamute",
+      "slug": "alaskan-malamute",
+      "size": "大型",
+      "coat": "浓密双层毛",
+      "fact": "雪橇犬类型，体格厚实。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/alaskan-malamute-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "dbf8f69453506bc2c6b7ab0f6d0effdd078f1fa70097c6c8c4044bdb76479c24"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B033-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B034",
+      "name": "美国爱斯基摩犬",
+      "english": "American Eskimo Dog",
+      "slug": "american-eskimo-dog",
+      "size": "多体型",
+      "coat": "双层长毛",
+      "fact": "白色或奶油白色，颈部饰毛明显。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/american-eskimo-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6a3af07feca99cec29d832a8390d8945260e14eeafa7457a0525a9c89ab62f10"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B034-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B035",
+      "name": "芬兰拉普猎犬",
+      "english": "Finnish Lapphund",
+      "slug": "finnish-lapphund",
+      "size": "中型",
+      "coat": "浓密双层毛",
+      "fact": "立耳或半立耳，尾毛丰富。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/finnish-lapphund-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "62a873f390d8b02d61135901a69da6c299ab604a6421ad623cdaa7d5e52963ce"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B035-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B036",
+      "name": "芬兰狐狸犬",
+      "english": "Finnish Spitz",
+      "slug": "finnish-spitz",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "红金色被毛，面部轮廓近狐狸。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/finnish-spitz-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "793a001e70a24c68667fdeafc12856246e5255104979368975f796994e9be989"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B036-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B037",
+      "name": "挪威猎麋犬",
+      "english": "Norwegian Elkhound",
+      "slug": "norwegian-elkhound",
+      "size": "中型",
+      "coat": "灰色双层毛",
+      "fact": "立耳，背部卷尾。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/norwegian-elkhound-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "34bb99a1282a10f9a46f02922c43ca0c406961bc233c1fe577d37879cd1eaa29"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B037-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B038",
+      "name": "挪威伦德猎犬",
+      "english": "Norwegian Lundehund",
+      "slug": "norwegian-lundehund",
+      "size": "小型",
+      "coat": "双层毛",
+      "fact": "足趾数量及关节活动具有特殊结构。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/norwegian-lundehund-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "5f51033c7a13e018b0cd8e51b7cf7c6f4b255a02e30d41e87f72414b4df95e83"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B038-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B039",
+      "name": "挪威布哈德犬",
+      "english": "Norwegian Buhund",
+      "slug": "norwegian-buhund",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "立耳、卷尾的尖嘴犬类型。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/norwegian-buhund-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "632103a76a0a60bc0ef7358b1e78765a9fa0acd988405e11d0e669b7e0a96ef3"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B039-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B040",
+      "name": "冰岛牧羊犬",
+      "english": "Icelandic Sheepdog",
+      "slug": "icelandic-sheepdog",
+      "size": "中小型",
+      "coat": "双层毛",
+      "fact": "有长短毛类型，尾巴卷曲。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/icelandic-sheepdog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "e9b88996c6a417902aa0774aed57b68879f14681a9f047e9400e62efd171e162"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B040-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B041",
+      "name": "瑞典瓦尔杭犬",
+      "english": "Swedish Vallhund",
+      "slug": "swedish-vallhund",
+      "size": "小型",
+      "coat": "双层中短毛",
+      "fact": "四肢较短，身体较长。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/swedish-vallhund-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "8a72c38df79c9599517ca4d82afdc73bb62784a3843ff5044e20ecfd3a798c5b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B041-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B042",
+      "name": "荷兰毛狮犬",
+      "english": "Keeshond",
+      "slug": "keeshond",
+      "size": "中型",
+      "coat": "浓密双层长毛",
+      "fact": "灰黑色毛，眼周常有深色纹路。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/keeshond-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "77ec7ade1949e1a8911ed8e0e1b89412a74ec4502b2a19c125f9a1705c316be8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B042-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B043",
+      "name": "博美犬",
+      "english": "Pomeranian",
+      "slug": "pomeranian",
+      "size": "小型",
+      "coat": "双层长毛",
+      "fact": "紧凑体型，颈胸部毛量丰富。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/pomeranian-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "a7d705a0e5c7b5bb042731acfcdc18e25aa8f9ac183f0ac76f3e17efa9a72f29"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B043-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B044",
+      "name": "德国狐狸犬（中型）",
+      "english": "German Spitz Mittel",
+      "slug": "german-spitz-mittel",
+      "size": "中小型",
+      "coat": "双层长毛",
+      "fact": "德国狐狸犬的中型规格，立耳卷尾。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/german-spitz-mittel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "1260e35fee6647d8fc96b9d51a1061efbc4c2fb166620603bef52bcba7a7bdd3"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B044-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B045",
+      "name": "日本狐狸犬",
+      "english": "Japanese Spitz",
+      "slug": "japanese-spitz",
+      "size": "小型",
+      "coat": "白色双层长毛",
+      "fact": "深色眼鼻与白毛形成对比。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/japanese-spitz-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "bcb42646862b54f3cfae7b93e5545969791ee90fa48fb1894147d724c3ffcc9c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B045-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B046",
+      "name": "欧亚犬",
+      "english": "Eurasier",
+      "slug": "eurasier",
+      "size": "中型",
+      "coat": "双层中长毛",
+      "fact": "卷尾，被毛可有多种颜色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/eurasier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d45f533d45d33b9df65cb8863ccd8ce5a05f491bdeb8494e5fd5ccfb29cabd4e"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B046-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B047",
+      "name": "北海道犬",
+      "english": "Hokkaido",
+      "slug": "hokkaido",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "三角立耳，尾巴卷曲或呈镰状。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/hokkaido-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "28692b9223082fdb6dfc6ad0680991575a4425d0ce79bac2431c26ff704f716c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B047-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B048",
+      "name": "四国犬",
+      "english": "Shikoku",
+      "slug": "shikoku",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "常见胡麻色，立耳卷尾。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/shikoku-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "018e8edad58c7efa8aa18b9b359955f4917045651b06910872d7aab0b55e5a01"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B048-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B049",
+      "name": "纪州犬",
+      "english": "Kishu",
+      "slug": "kishu",
+      "size": "中型",
+      "coat": "双层短毛",
+      "fact": "常见白毛，也有其他颜色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/kishu-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "7a7e1bc116275836bca76ea44c4ce9a61840c2304113e527db115cc76eddddc8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B049-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B050",
+      "name": "甲斐犬",
+      "english": "Kai Ken",
+      "slug": "kai-ken",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "虎斑毛色具有辨识度。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/kai-ken-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b5f53dcbc4e1386d676c87c94b869de16133d6f3413f83d002a6d3b21f2ee287"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B050-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B051",
+      "name": "韩国珍岛犬",
+      "english": "Korea Jindo Dog",
+      "slug": "korea-jindo-dog",
+      "size": "中型",
+      "coat": "双层毛",
+      "fact": "三角立耳，尾巴上举。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/korea-jindo-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "052826923ab180a598eda4b90e152e8965ce9f30090240306e3a3862c7ecca2c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B051-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B052",
+      "name": "迦南犬",
+      "english": "Canaan Dog",
+      "slug": "canaan-dog",
+      "size": "中型",
+      "coat": "双层短毛",
+      "fact": "方正体态，耳朵直立。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/canaan-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4374860bd4497fe876720748518a72bdde088a622bd860858cae8a7e1b3b2856"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B052-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B053",
+      "name": "泰国脊背犬",
+      "english": "Thai Ridgeback",
+      "slug": "thai-ridgeback",
+      "size": "中型",
+      "coat": "短毛",
+      "fact": "背部有逆向生长的毛脊。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/thai-ridgeback-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "5fb618cfc926379072e6ce317caed448c96a8f694163854bde30a88781445a9e"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B053-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B054",
+      "name": "秘鲁无毛犬",
+      "english": "Peruvian Hairless Dog",
+      "slug": "peruvian-hairless-dog",
+      "size": "多体型",
+      "coat": "无毛或有毛",
+      "fact": "有不同体型与有毛变体。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/peruvian-hairless-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "1f0858ad863d6bb6e1ff5edc7357c3a155cdcbdb8b4808f00b2035b51a1e51a2"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B054-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B055",
+      "name": "墨西哥无毛犬",
+      "english": "Xoloitzcuintli",
+      "slug": "xoloitzcuintli",
+      "size": "多体型",
+      "coat": "无毛或短毛",
+      "fact": "无毛型仍需皮肤与防晒护理。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/xoloitzcuintli-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "76f9ab7af7cc710245e22c7128f214533d0e2191e9c8a2a7f2603a85acd0e2f9"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B055-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B056",
+      "name": "葡萄牙波登可犬",
+      "english": "Portuguese Podengo",
+      "slug": "portuguese-podengo",
+      "size": "多体型",
+      "coat": "平毛或刚毛",
+      "fact": "有不同尺寸，耳朵直立。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/portuguese-podengo-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f419df392f50e2f45c21f15e45f6675ccef2069a997ff103b122ebf37da4d97d"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B056-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B057",
+      "name": "伊比赞猎犬",
+      "english": "Ibizan Hound",
+      "slug": "ibizan-hound",
+      "size": "大型",
+      "coat": "平毛或刚毛",
+      "fact": "耳大直立，身形修长。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/ibizan-hound-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "fa2d6ca97cb1dd3cb0ab66a4461a90e203339ce084c0ca323029c2db9a4a45c7"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B057-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B058",
+      "name": "法老王猎犬",
+      "english": "Pharaoh Hound",
+      "slug": "pharaoh-hound",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "棕红色被毛，大型立耳。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/pharaoh-hound-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b0bd5c7bc3a349f091cc4b0ce2b492b44b3ee64ad8ae74cadb02e63fe6f40ed3"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B058-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B059",
+      "name": "澳大利亚牧牛犬",
+      "english": "Australian Cattle Dog",
+      "slug": "australian-cattle-dog",
+      "size": "中型",
+      "coat": "双层短毛",
+      "fact": "常见蓝色或红色斑点毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/australian-cattle-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f2ef8594f7d5430fb846b6a06b620bb7569e6e9b15cb5a07fa2721589d44ec3b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B059-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B060",
+      "name": "比利时马林诺斯犬",
+      "english": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "size": "中大型",
+      "coat": "双层短毛",
+      "fact": "黑色面罩常见，体态利落。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/belgian-malinois-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d692bff29e62cf4283182849356ec870e42c4a64d469edb6b4151fa2708e3f5c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B060-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B061",
+      "name": "比利时特伏丹犬",
+      "english": "Belgian Tervuren",
+      "slug": "belgian-tervuren",
+      "size": "中大型",
+      "coat": "双层长毛",
+      "fact": "长毛、黑色面罩，颈部饰毛明显。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/belgian-tervuren-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d2e054827835a4a0d468573b7e41720b1e5877ab9daf98d8a4497224d49651e1"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B061-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B062",
+      "name": "比利时格罗安达犬",
+      "english": "Belgian Groenendael",
+      "slug": "belgian-groenendael",
+      "size": "中大型",
+      "coat": "双层长毛",
+      "fact": "通常呈黑色，耳朵直立。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/belgian-groenendael-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6612d67effc2156513b11a74a4738fc827bce191d11a6ea04b05712a1c7a8402"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B062-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B063",
+      "name": "比利时拉肯努阿犬",
+      "english": "Belgian Laekenois",
+      "slug": "belgian-laekenois",
+      "size": "中大型",
+      "coat": "粗硬毛",
+      "fact": "粗糙毛质是其明显特征。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/belgian-laekenois-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f43a62d6b652dee8b6f65497eb66916f7517f1a9ca0e34871515a0048981270b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B063-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B064",
+      "name": "粗毛柯利犬",
+      "english": "Rough Collie",
+      "slug": "rough-collie",
+      "size": "中大型",
+      "coat": "双层长毛",
+      "fact": "口吻修长，颈胸饰毛丰富。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/rough-collie-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "cac94300f3cb435802765ab4ecf57bd56ba87e2a889c246dda7da80baf0c603c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B064-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B065",
+      "name": "短毛柯利犬",
+      "english": "Smooth Collie",
+      "slug": "smooth-collie",
+      "size": "中大型",
+      "coat": "双层短毛",
+      "fact": "与粗毛型相比，被毛较短贴身。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/smooth-collie-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f882625e32eb60aa3eaeb27a6c0be2779b7afdeab38c5b3b9466b4a9a29f4e1d"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B065-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B066",
+      "name": "古代英国牧羊犬",
+      "english": "Old English Sheepdog",
+      "slug": "old-english-sheepdog",
+      "size": "大型",
+      "coat": "浓密长毛",
+      "fact": "灰白被毛，常覆盖眼部。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/old-english-sheepdog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f5e9a583793ef1ea02d9da2e8150c89758b0e8184a646b411233fdbc4ef388e6"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B066-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B067",
+      "name": "长须柯利犬",
+      "english": "Bearded Collie",
+      "slug": "bearded-collie",
+      "size": "中型",
+      "coat": "双层长毛",
+      "fact": "面部形成明显胡须。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/bearded-collie-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6c20dc43c08d4c7b228fe6aa6e357870eca3e6046e98e22e8e8aac0c2f8968f8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B067-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B068",
+      "name": "布里牧羊犬",
+      "english": "Briard",
+      "slug": "briard",
+      "size": "大型",
+      "coat": "长毛",
+      "fact": "额部毛长，后肢有双狼爪特征。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/briard-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "430250333106e0bcfbd118342b43c44ce9e8eb8a1a3c496ca9577d4d16b695d4"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B068-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B069",
+      "name": "波利犬",
+      "english": "Puli",
+      "slug": "puli",
+      "size": "中型",
+      "coat": "可成绳状长毛",
+      "fact": "成绳被毛需要专门护理。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/puli-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "194149f4962db22dc675a1294d5df7c0a9a21484b00f7966b2b9554b4dafd6d0"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B069-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B070",
+      "name": "科蒙多犬",
+      "english": "Komondor",
+      "slug": "komondor",
+      "size": "大型",
+      "coat": "白色绳状毛",
+      "fact": "成熟被毛形成长绳状结构。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/komondor-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d5d2731a83f1c1ae27b872122652d6503642a150a01b27d6060de5c8cea1f363"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B070-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B071",
+      "name": "穆迪犬",
+      "english": "Mudi",
+      "slug": "mudi",
+      "size": "中型",
+      "coat": "波浪或卷毛",
+      "fact": "面部毛短，身体毛呈波浪或卷曲。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/mudi-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "772490a90d224b27631ae61063c1f38c9cb0b413eb426dd9b93301b9dcbcf077"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B071-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B072",
+      "name": "普米犬",
+      "english": "Pumi",
+      "slug": "pumi",
+      "size": "中型",
+      "coat": "卷曲毛",
+      "fact": "耳朵上部向前折，外形独特。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/pumi-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4fc32993d00533058c63863d05147dcb393353b10213668e13356618492e4321"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B072-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B073",
+      "name": "波兰低地牧羊犬",
+      "english": "Polish Lowland Sheepdog",
+      "slug": "polish-lowland-sheepdog",
+      "size": "中型",
+      "coat": "双层长毛",
+      "fact": "身体结实，面部长毛浓密。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/polish-lowland-sheepdog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "1348b293eff7c8697ece5c83787a5325aff9dd0aac8ef5601d621f43836891f3"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B073-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B074",
+      "name": "伯格马斯科牧羊犬",
+      "english": "Bergamasco Sheepdog",
+      "slug": "bergamasco-sheepdog",
+      "size": "中大型",
+      "coat": "毡片状长毛",
+      "fact": "成熟毛层形成扁平毡片。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/bergamasco-sheepdog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "0b27146bd2623f57a8a87249badddc99eae5024a8df8c605df086c2eb44ed158"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B074-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B075",
+      "name": "博斯牧羊犬",
+      "english": "Beauceron",
+      "slug": "beauceron",
+      "size": "大型",
+      "coat": "双层短毛",
+      "fact": "后肢常有双狼爪，常见黑棕色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/beauceron-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "91f1d946c5e428ee890c8d91e34fec4eeb4245fc6bdb787cbcb89d03d0f72bc8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B075-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B076",
+      "name": "卡迪根威尔士柯基犬",
+      "english": "Cardigan Welsh Corgi",
+      "slug": "cardigan-welsh-corgi",
+      "size": "小型",
+      "coat": "双层中短毛",
+      "fact": "四肢短，尾巴长，耳朵较大。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/cardigan-welsh-corgi-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4bbdaf6dcae25bca22e963289ad5965606314eeb3864d7fa5ff2b64ad6bc724f"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B076-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B077",
+      "name": "白色瑞士牧羊犬",
+      "english": "White Swiss Shepherd Dog",
+      "slug": "white-swiss-shepherd-dog",
+      "size": "大型",
+      "coat": "白色双层毛",
+      "fact": "有中长毛与长毛类型。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/white-swiss-shepherd-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b69de0f2f9313a5a7f9b73186b400f4d5d67104e1e1c74eef474fcf4eed89697"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B077-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B078",
+      "name": "英国可卡犬",
+      "english": "English Cocker Spaniel",
+      "slug": "english-cocker-spaniel",
+      "size": "中型",
+      "coat": "丝质中长毛",
+      "fact": "长垂耳，四肢有饰毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/english-cocker-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "2857b6d9eab7b058c3e924517fe984033efa5b5630841edbbbea76609647a10c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B078-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B079",
+      "name": "美国可卡犬",
+      "english": "American Cocker Spaniel",
+      "slug": "american-cocker-spaniel",
+      "size": "中小型",
+      "coat": "丝质长毛",
+      "fact": "头部较圆，被毛需要持续护理。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/american-cocker-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "47c035d75df172353c01e8a61265af6323d9dba56c52a75122b891c6529fd299"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B079-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B080",
+      "name": "英国史宾格犬",
+      "english": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "size": "中型",
+      "coat": "中长毛",
+      "fact": "垂耳，胸腹及四肢带饰毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/english-springer-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "da2da055de1f951335a4b3c3bf27e179387e99cc727e055a5cb60f6f2714bd4f"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B080-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B081",
+      "name": "威尔士史宾格犬",
+      "english": "Welsh Springer Spaniel",
+      "slug": "welsh-springer-spaniel",
+      "size": "中型",
+      "coat": "中长毛",
+      "fact": "典型被毛为红白色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/welsh-springer-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "11277c50a97494046449b8af15c406b5ef7132f7cef15962b09a4711b2d12602"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B081-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B082",
+      "name": "克伦伯猎犬",
+      "english": "Clumber Spaniel",
+      "slug": "clumber-spaniel",
+      "size": "中型",
+      "coat": "浓密中长毛",
+      "fact": "身躯较低，骨量大，白色为主。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/clumber-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "9d60051db5b9c66fc7d88beac13ac499d191b1ed57e5244a7cc61ca37af5e5eb"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B082-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B083",
+      "name": "苏塞克斯猎犬",
+      "english": "Sussex Spaniel",
+      "slug": "sussex-spaniel",
+      "size": "中型",
+      "coat": "浓密中长毛",
+      "fact": "金肝色被毛，身长腿短。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/sussex-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6f59410c8c2b5bdffe2e0cb23f0dc09911fbc62ca527e05c452ca4cf97042cd6"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B083-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B084",
+      "name": "田野猎犬",
+      "english": "Field Spaniel",
+      "slug": "field-spaniel",
+      "size": "中型",
+      "coat": "丝质中长毛",
+      "fact": "垂耳，体态较修长。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/field-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6ad2d468b8dbb5ef916dcfc5c8c4491499e99801333ae32476eb61b7c1606805"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B084-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B085",
+      "name": "爱尔兰水猎犬",
+      "english": "Irish Water Spaniel",
+      "slug": "irish-water-spaniel",
+      "size": "中大型",
+      "coat": "浓密卷毛",
+      "fact": "头顶卷毛与短毛尾形成对比。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/irish-water-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "63e9029c32b221233b82cc3c53ef40111765a6447f08382e39f766825ab118ee"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B085-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B086",
+      "name": "美国水猎犬",
+      "english": "American Water Spaniel",
+      "slug": "american-water-spaniel",
+      "size": "中型",
+      "coat": "波浪或卷毛",
+      "fact": "常见肝色、棕色或巧克力色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/american-water-spaniel-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "625ed35843a1ad07b943bc640a2971279f7c7d517946b40ec9e5ae311ba2143e"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B086-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B087",
+      "name": "葡萄牙水犬",
+      "english": "Portuguese Water Dog",
+      "slug": "portuguese-water-dog",
+      "size": "中型",
+      "coat": "卷毛或波浪毛",
+      "fact": "无论造型如何均需定期梳理。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/portuguese-water-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "b5756105c658b048adcf4933e2d5fd89425e98d822ae964613f48fde59ca41c1"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B087-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B088",
+      "name": "西班牙水犬",
+      "english": "Spanish Water Dog",
+      "slug": "spanish-water-dog",
+      "size": "中型",
+      "coat": "卷毛",
+      "fact": "被毛可形成绳状，护理方式需专业指导。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/spanish-water-dog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "a5d0d388907678b01258d272c1c1a93b3a92ad99570f1861f86581d2cfac303c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B088-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B089",
+      "name": "罗马涅水犬",
+      "english": "Lagotto Romagnolo",
+      "slug": "lagotto-romagnolo",
+      "size": "中小型",
+      "coat": "紧密卷毛",
+      "fact": "卷毛浓密，面部有明显毛饰。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/lagotto-romagnolo-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "190f115bc86c5487378b1a18351e854ee443da3247558d9800a868f8f03981e7"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B089-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B090",
+      "name": "切萨皮克湾寻回犬",
+      "english": "Chesapeake Bay Retriever",
+      "slug": "chesapeake-bay-retriever",
+      "size": "大型",
+      "coat": "双层短毛",
+      "fact": "肩背毛可略呈波浪，毛质较粗。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/chesapeake-bay-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4f2a59e007acdc97c0a188f59457eab478317741baeb7895ad635e9c56d7248f"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B090-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B091",
+      "name": "平毛寻回犬",
+      "english": "Flat-Coated Retriever",
+      "slug": "flat-coated-retriever",
+      "size": "大型",
+      "coat": "平直中长毛",
+      "fact": "常见黑色或肝色，被毛带光泽。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/flat-coated-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "81601d74090462dd7548bd7b22757e4037e4994d9b7b4a5c9b85156a3c8228ef"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B091-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B092",
+      "name": "卷毛寻回犬",
+      "english": "Curly-Coated Retriever",
+      "slug": "curly-coated-retriever",
+      "size": "大型",
+      "coat": "紧密卷毛",
+      "fact": "身体覆紧贴小卷，面部毛较短。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/curly-coated-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "533d8ed12d333d5fc5016f1f2919a208ddfbd1ccfff246fbb80be80a7a993d08"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B092-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B093",
+      "name": "新斯科舍诱鸭寻回犬",
+      "english": "Nova Scotia Duck Tolling Retriever",
+      "slug": "nova-scotia-duck-tolling-retriever",
+      "size": "中型",
+      "coat": "双层中长毛",
+      "fact": "红色系被毛，常见白色标记。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/nova-scotia-duck-tolling-retriever-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4ac48139c31c2c9b090021aafba045a2d110de8b907c9f93b885e90bb38fceb8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B093-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B094",
+      "name": "德国短毛指示犬",
+      "english": "German Shorthaired Pointer",
+      "slug": "german-shorthaired-pointer",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "常见肝色及肝白色斑点。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/german-shorthaired-pointer-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "0357106cd55a16d06ac82670bb2552b0f501206372457c7b625ccfff40bb27d7"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B094-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B095",
+      "name": "德国刚毛指示犬",
+      "english": "German Wirehaired Pointer",
+      "slug": "german-wirehaired-pointer",
+      "size": "中大型",
+      "coat": "刚毛",
+      "fact": "眉部与口吻有粗硬毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/german-wirehaired-pointer-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "ee5ae3914fff8a3327b9c4265aa7304f1f6ae7499c55adb5add958b5901bac2f"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B095-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B096",
+      "name": "魏玛犬",
+      "english": "Weimaraner",
+      "slug": "weimaraner",
+      "size": "大型",
+      "coat": "短毛或长毛",
+      "fact": "银灰色系被毛具有辨识度。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/weimaraner-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f586d3e5b0ec39f85fdf14afb2258105828d7cd6b626714a82dd43aff6ac04cd"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B096-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B097",
+      "name": "维兹拉犬",
+      "english": "Vizsla",
+      "slug": "vizsla",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "金锈色被毛，耳朵下垂。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/vizsla-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "8b80cc04b62ec59885f77c335494a6e3f9d261eaa32267e1f574994c5de70894"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B097-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B098",
+      "name": "英国指示犬",
+      "english": "English Pointer",
+      "slug": "english-pointer",
+      "size": "中大型",
+      "coat": "短毛",
+      "fact": "四肢修长，鼻梁与头部轮廓清晰。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/english-pointer-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "53cd7889c1fb7d9500cba0f1c89e3bc09d669e1191728a44c552c446710490dc"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B098-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B099",
+      "name": "英国塞特犬",
+      "english": "English Setter",
+      "slug": "english-setter",
+      "size": "中大型",
+      "coat": "丝质长毛",
+      "fact": "白底细斑点，四肢带饰毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/english-setter-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d04a69024f6eb556c2fcfafb9c8089c3f0b375169dc43ac6924cca50f5398c4b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B099-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B100",
+      "name": "爱尔兰塞特犬",
+      "english": "Irish Setter",
+      "slug": "irish-setter",
+      "size": "大型",
+      "coat": "丝质长毛",
+      "fact": "红栗色被毛，体态修长。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/irish-setter-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "c80d8a3841f9413a530a294196fce8be93c3dd93aa0a14d1ffd71a33962bc593"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B100-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B101",
+      "name": "戈登塞特犬",
+      "english": "Gordon Setter",
+      "slug": "gordon-setter",
+      "size": "大型",
+      "coat": "中长毛",
+      "fact": "黑棕色被毛，骨架较结实。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/gordon-setter-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "695ff7b7751c5d1c4f1af4011be1f5357c05374b37eba0e5260d72dee772c77a"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B101-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B102",
+      "name": "布列塔尼犬",
+      "english": "Brittany",
+      "slug": "brittany",
+      "size": "中型",
+      "coat": "平毛或波浪毛",
+      "fact": "体型紧凑，常见橙白或肝白色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/brittany-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "257dd862b5665f0cb9ea5cf4b4d11debaa5ce52ed2d3ae65bdcc5dce56e95a00"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B102-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B103",
+      "name": "英国斗牛犬",
+      "english": "Bulldog",
+      "slug": "bulldog",
+      "size": "中型",
+      "coat": "短毛",
+      "fact": "头部宽、口吻短，需关注呼吸与散热。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/bulldog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6f20529735a0d36e166c808d7b295cdf98b3cc054b0cd301aefa3547711b8080"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B103-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B104",
+      "name": "法国斗牛犬",
+      "english": "French Bulldog",
+      "slug": "french-bulldog",
+      "size": "小型",
+      "coat": "短毛",
+      "fact": "蝙蝠状立耳、短口吻，需注意热应激。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/french-bulldog-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "587f64c9d898f85b314ab33d9abd1223134b84798bf8bf66d3aa571bd752ea78"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B104-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B105",
+      "name": "波士顿梗",
+      "english": "Boston Terrier",
+      "slug": "boston-terrier",
+      "size": "小型",
+      "coat": "短毛",
+      "fact": "常见深色配白色标记，口吻短。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/boston-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "f6b267be66fe68238e473b1ff703a41e915ea6872868614b4908788a9671979b"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B105-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B106",
+      "name": "巴哥犬",
+      "english": "Pug",
+      "slug": "pug",
+      "size": "小型",
+      "coat": "短毛",
+      "fact": "卷尾、短口吻，需关注呼吸与体重。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/pug-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "235227c355c45e6d6a666c611f42e420cd89bd52aab6c20d81463db43e5d2aeb"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B106-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B107",
+      "name": "北京犬",
+      "english": "Pekingese",
+      "slug": "pekingese",
+      "size": "小型",
+      "coat": "双层长毛",
+      "fact": "面部较平，颈胸部毛量丰富。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/pekingese-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "47b1526c06a591a2596afe33e7094dbf360a17789eb3eed68853ed3a93dc5e08"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B107-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B108",
+      "name": "西施犬",
+      "english": "Shih Tzu",
+      "slug": "shih-tzu",
+      "size": "小型",
+      "coat": "长毛",
+      "fact": "面部毛浓，需注意眼周清洁。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/shih-tzu-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "70c0690a8b2c62655f8f6163f95d95bbfbf41c04b2a5cb92fcfcd4ee83a9a213"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B108-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B109",
+      "name": "拉萨犬",
+      "english": "Lhasa Apso",
+      "slug": "lhasa-apso",
+      "size": "小型",
+      "coat": "浓密长毛",
+      "fact": "长毛垂落，日常梳理要求较高。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/lhasa-apso-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "69ceee25567fbe210483801f31761b48ed5d45d21e2c7b23b818529d76cf14e8"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B109-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B110",
+      "name": "马尔济斯犬",
+      "english": "Maltese",
+      "slug": "maltese",
+      "size": "小型",
+      "coat": "丝质长毛",
+      "fact": "白色被毛，需定期梳理。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/maltese-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "d31a2df65ee3f906bae8505b37724cae15f93edd3a0c4a5589827d28b2997f0c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B110-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B111",
+      "name": "哈瓦那犬",
+      "english": "Havanese",
+      "slug": "havanese",
+      "size": "小型",
+      "coat": "柔软长毛",
+      "fact": "可有多种毛色，尾巴覆于背上。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/havanese-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "4a26f24ef7012213b1d1cb9dd328414934ce7f4749a6b679e7260a755e471d66"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B111-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B112",
+      "name": "棉花面纱犬",
+      "english": "Coton de Tulear",
+      "slug": "coton-de-tulear",
+      "size": "小型",
+      "coat": "棉絮状长毛",
+      "fact": "白色为主，毛质柔软蓬松。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/coton-de-tulear-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "35b4dbde006949cef468dd58e28d54bcc655758368ed5a66c73a1710b146b6c9"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B112-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B113",
+      "name": "约克夏梗",
+      "english": "Yorkshire Terrier",
+      "slug": "yorkshire-terrier",
+      "size": "小型",
+      "coat": "丝质长毛",
+      "fact": "成年常见钢蓝与棕色毛。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/yorkshire-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "93b1c66379237757566b9ddd9b007e4bd10ad1ccb17c23047c09373667db68ff"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B113-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B114",
+      "name": "丝毛梗",
+      "english": "Silky Terrier",
+      "slug": "silky-terrier",
+      "size": "小型",
+      "coat": "丝质长毛",
+      "fact": "身躯较长，耳朵直立。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/silky-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "7057642fd94187faef32762f182801e37012624d5a3d6d76be47b2c72a66ce2c"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B114-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B115",
+      "name": "凯恩梗",
+      "english": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "size": "小型",
+      "coat": "粗硬双层毛",
+      "fact": "体型紧凑，面部毛蓬松。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/cairn-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "8790651ccc67257381e82a24c5a25b8175700feb935993e8aa7ea844257d3143"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B115-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B116",
+      "name": "苏格兰梗",
+      "english": "Scottish Terrier",
+      "slug": "scottish-terrier",
+      "size": "小型",
+      "coat": "刚毛",
+      "fact": "身长腿短，胡须与眉毛明显。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/scottish-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "6e6d8f90feafb4fe17055ab4c5529fdb2488b0646bfcec269d4139c43af1908a"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B116-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B117",
+      "name": "西利哈姆梗",
+      "english": "Sealyham Terrier",
+      "slug": "sealyham-terrier",
+      "size": "小型",
+      "coat": "刚毛",
+      "fact": "白色为主，头部可有色斑。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/sealyham-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "5da0aa00b112757314da83b09fa912755d33baceeee2913dc2e7a5da52375aa5"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B117-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B118",
+      "name": "爱尔兰梗",
+      "english": "Irish Terrier",
+      "slug": "irish-terrier",
+      "size": "中型",
+      "coat": "刚毛",
+      "fact": "红色系被毛，身形较修长。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/irish-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "1b5a0662fbb97f192de30a515d6bc7a834955f41dd47031c146b25b03c7b4911"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B118-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B119",
+      "name": "万能梗",
+      "english": "Airedale Terrier",
+      "slug": "airedale-terrier",
+      "size": "中大型",
+      "coat": "刚毛",
+      "fact": "梗类中体型较大，常见黑棕色。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/airedale-terrier-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "7a57a72772f1d8a3655fb44e623a2dc5d315ddb25e3c130eda0ff0e1fc39ea49"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B119-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    },
+    {
+      "id": "B120",
+      "name": "巴吉度猎犬",
+      "english": "Basset Hound",
+      "slug": "basset-hound",
+      "size": "中型",
+      "coat": "短毛",
+      "fact": "耳朵长而下垂，身躯较低、骨量较大。",
+      "formal": "否",
+      "original": {
+        "path": "public/assets/dogs/full/basset-hound-full.png",
+        "style": "DPL-ILL-1.2",
+        "sha256": "522b5ebcdfb6e2d4a6b71a65791a1b336208f335a375e7b208a9666893708b02"
+      },
+      "doodle": {
+        "path": "public/assets/dogs/doodle-v01/B120-full.png",
+        "production_status": "PLANNED",
+        "technical_pass": null,
+        "human_review_status": "PENDING_REVIEW"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "B001",
+    "name": "柴犬",
+    "english": "Shiba Inu",
+    "slug": "shiba-inu",
+    "size": "小型",
+    "coat": "双层短毛",
+    "fact": "立耳、卷尾，轮廓紧凑。",
+    "formal": "是"
+  },
+  {
+    "id": "B002",
+    "name": "西伯利亚哈士奇",
+    "english": "Siberian Husky",
+    "slug": "siberian-husky",
+    "size": "中型",
+    "coat": "浓密双层毛",
+    "fact": "雪橇犬类型，直立耳与蓬松尾明显。",
+    "formal": "是"
+  },
+  {
+    "id": "B003",
+    "name": "金毛寻回犬",
+    "english": "Golden Retriever",
+    "slug": "golden-retriever",
+    "size": "大型",
+    "coat": "中长双层毛",
+    "fact": "金色被毛，四肢及尾部常有饰毛。",
+    "formal": "是"
+  },
+  {
+    "id": "B004",
+    "name": "边境牧羊犬",
+    "english": "Border Collie",
+    "slug": "border-collie",
+    "size": "中型",
+    "coat": "短毛或中长毛",
+    "fact": "牧羊工作犬类型，毛色不局限于黑白。",
+    "formal": "是"
+  },
+  {
+    "id": "B005",
+    "name": "威尔士柯基犬（彭布罗克）",
+    "english": "Pembroke Welsh Corgi",
+    "slug": "pembroke-welsh-corgi",
+    "size": "小型",
+    "coat": "双层中短毛",
+    "fact": "身体较长、四肢短，耳朵直立。",
+    "formal": "是"
+  },
+  {
+    "id": "B006",
+    "name": "拉布拉多寻回犬",
+    "english": "Labrador Retriever",
+    "slug": "labrador-retriever",
+    "size": "大型",
+    "coat": "浓密双层短毛",
+    "fact": "尾根粗，尾部覆盖短密毛。",
+    "formal": "是"
+  },
+  {
+    "id": "B007",
+    "name": "贵宾犬",
+    "english": "Poodle",
+    "slug": "poodle",
+    "size": "多体型",
+    "coat": "浓密卷毛",
+    "fact": "有不同体型规格，卷毛需持续梳理修剪。",
+    "formal": "是"
+  },
+  {
+    "id": "B008",
+    "name": "德国牧羊犬",
+    "english": "German Shepherd Dog",
+    "slug": "german-shepherd-dog",
+    "size": "大型",
+    "coat": "双层毛",
+    "fact": "立耳，具有短毛及长毛类型。",
+    "formal": "是"
+  },
+  {
+    "id": "B009",
+    "name": "萨摩耶犬",
+    "english": "Samoyed",
+    "slug": "samoyed",
+    "size": "中大型",
+    "coat": "浓密双层长毛",
+    "fact": "浅色被毛，尾部毛量丰富。",
+    "formal": "是"
+  },
+  {
+    "id": "B010",
+    "name": "秋田犬",
+    "english": "Akita",
+    "slug": "akita",
+    "size": "大型",
+    "coat": "双层短毛",
+    "fact": "头部宽、立耳，尾巴卷于背部。",
+    "formal": "是"
+  },
+  {
+    "id": "B011",
+    "name": "比格犬",
+    "english": "Beagle",
+    "slug": "beagle",
+    "size": "中小型",
+    "coat": "短毛",
+    "fact": "垂耳，常见三色及双色被毛。",
+    "formal": "是"
+  },
+  {
+    "id": "B012",
+    "name": "腊肠犬",
+    "english": "Dachshund",
+    "slug": "dachshund",
+    "size": "小型",
+    "coat": "短毛、长毛或刚毛",
+    "fact": "身长腿短，有不同尺寸与被毛类型。",
+    "formal": "是"
+  },
+  {
+    "id": "B013",
+    "name": "杰克罗素梗",
+    "english": "Jack Russell Terrier",
+    "slug": "jack-russell-terrier",
+    "size": "小型",
+    "coat": "平毛、粗毛或破毛",
+    "fact": "白色为主，可带其他色斑。",
+    "formal": "是"
+  },
+  {
+    "id": "B014",
+    "name": "西高地白梗",
+    "english": "West Highland White Terrier",
+    "slug": "west-highland-white-terrier",
+    "size": "小型",
+    "coat": "粗硬外毛",
+    "fact": "白色被毛，耳朵小而直立。",
+    "formal": "是"
+  },
+  {
+    "id": "B015",
+    "name": "迷你雪纳瑞",
+    "english": "Miniature Schnauzer",
+    "slug": "miniature-schnauzer",
+    "size": "小型",
+    "coat": "刚毛",
+    "fact": "眉毛与胡须突出，需规律美容。",
+    "formal": "是"
+  },
+  {
+    "id": "B016",
+    "name": "喜乐蒂牧羊犬",
+    "english": "Shetland Sheepdog",
+    "slug": "shetland-sheepdog",
+    "size": "小型",
+    "coat": "双层长毛",
+    "fact": "颈部饰毛丰富，口吻细长。",
+    "formal": "是"
+  },
+  {
+    "id": "B017",
+    "name": "澳大利亚牧羊犬",
+    "english": "Australian Shepherd",
+    "slug": "australian-shepherd",
+    "size": "中型",
+    "coat": "双层中长毛",
+    "fact": "牧羊工作犬类型，常有多样毛色。",
+    "formal": "是"
+  },
+  {
+    "id": "B018",
+    "name": "杜宾犬",
+    "english": "Dobermann",
+    "slug": "dobermann",
+    "size": "大型",
+    "coat": "贴身短毛",
+    "fact": "轮廓修长，天然耳朵下垂。",
+    "formal": "是"
+  },
+  {
+    "id": "B019",
+    "name": "罗威纳犬",
+    "english": "Rottweiler",
+    "slug": "rottweiler",
+    "size": "大型",
+    "coat": "双层短毛",
+    "fact": "黑色被毛配有清晰棕色斑点。",
+    "formal": "是"
+  },
+  {
+    "id": "B020",
+    "name": "拳师犬",
+    "english": "Boxer",
+    "slug": "boxer",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "头部较方、口吻短，天然尾巴较长。",
+    "formal": "是"
+  },
+  {
+    "id": "B021",
+    "name": "大丹犬",
+    "english": "Great Dane",
+    "slug": "great-dane",
+    "size": "巨型",
+    "coat": "短毛",
+    "fact": "体高突出，天然耳朵下垂。",
+    "formal": "是"
+  },
+  {
+    "id": "B022",
+    "name": "伯恩山犬",
+    "english": "Bernese Mountain Dog",
+    "slug": "bernese-mountain-dog",
+    "size": "大型",
+    "coat": "浓密中长毛",
+    "fact": "黑白棕三色，体格厚实。",
+    "formal": "是"
+  },
+  {
+    "id": "B023",
+    "name": "纽芬兰犬",
+    "english": "Newfoundland",
+    "slug": "newfoundland",
+    "size": "巨型",
+    "coat": "浓密双层毛",
+    "fact": "骨量大，被毛需要规律梳理。",
+    "formal": "是"
+  },
+  {
+    "id": "B024",
+    "name": "圣伯纳犬",
+    "english": "Saint Bernard",
+    "slug": "saint-bernard",
+    "size": "巨型",
+    "coat": "短毛或长毛",
+    "fact": "体格大，常见白底配红褐色斑块。",
+    "formal": "是"
+  },
+  {
+    "id": "B025",
+    "name": "灵缇",
+    "english": "Greyhound",
+    "slug": "greyhound",
+    "size": "大型",
+    "coat": "短毛",
+    "fact": "胸深、腰收、四肢修长。",
+    "formal": "是"
+  },
+  {
+    "id": "B026",
+    "name": "惠比特犬",
+    "english": "Whippet",
+    "slug": "whippet",
+    "size": "中型",
+    "coat": "短毛",
+    "fact": "视觉猎犬类型，身形纤细、胸腔深。",
+    "formal": "是"
+  },
+  {
+    "id": "B027",
+    "name": "巴仙吉犬",
+    "english": "Basenji",
+    "slug": "basenji",
+    "size": "中小型",
+    "coat": "短毛",
+    "fact": "立耳卷尾，可发出独特的喉音。",
+    "formal": "是"
+  },
+  {
+    "id": "B028",
+    "name": "大麦町犬",
+    "english": "Dalmatian",
+    "slug": "dalmatian",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "白底斑点，斑点分布因个体不同。",
+    "formal": "是"
+  },
+  {
+    "id": "B029",
+    "name": "蝴蝶犬",
+    "english": "Papillon",
+    "slug": "papillon",
+    "size": "小型",
+    "coat": "丝质长毛",
+    "fact": "耳部饰毛展开，外形具有辨识度。",
+    "formal": "是"
+  },
+  {
+    "id": "B030",
+    "name": "骑士查理王小猎犬",
+    "english": "Cavalier King Charles Spaniel",
+    "slug": "cavalier-king-charles-spaniel",
+    "size": "小型",
+    "coat": "丝质中长毛",
+    "fact": "垂耳，耳部与四肢常有饰毛。",
+    "formal": "是"
+  },
+  {
+    "id": "B031",
+    "name": "比熊犬",
+    "english": "Bichon Frise",
+    "slug": "bichon-frise",
+    "size": "小型",
+    "coat": "卷曲双层毛",
+    "fact": "白色被毛，需定期梳理与修剪。",
+    "formal": "是"
+  },
+  {
+    "id": "B032",
+    "name": "松狮犬",
+    "english": "Chow Chow",
+    "slug": "chow-chow",
+    "size": "中型",
+    "coat": "粗毛或短毛",
+    "fact": "头部宽，舌部通常呈蓝黑色。",
+    "formal": "是"
+  },
+  {
+    "id": "B033",
+    "name": "阿拉斯加雪橇犬",
+    "english": "Alaskan Malamute",
+    "slug": "alaskan-malamute",
+    "size": "大型",
+    "coat": "浓密双层毛",
+    "fact": "雪橇犬类型，体格厚实。",
+    "formal": "否"
+  },
+  {
+    "id": "B034",
+    "name": "美国爱斯基摩犬",
+    "english": "American Eskimo Dog",
+    "slug": "american-eskimo-dog",
+    "size": "多体型",
+    "coat": "双层长毛",
+    "fact": "白色或奶油白色，颈部饰毛明显。",
+    "formal": "否"
+  },
+  {
+    "id": "B035",
+    "name": "芬兰拉普猎犬",
+    "english": "Finnish Lapphund",
+    "slug": "finnish-lapphund",
+    "size": "中型",
+    "coat": "浓密双层毛",
+    "fact": "立耳或半立耳，尾毛丰富。",
+    "formal": "否"
+  },
+  {
+    "id": "B036",
+    "name": "芬兰狐狸犬",
+    "english": "Finnish Spitz",
+    "slug": "finnish-spitz",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "红金色被毛，面部轮廓近狐狸。",
+    "formal": "否"
+  },
+  {
+    "id": "B037",
+    "name": "挪威猎麋犬",
+    "english": "Norwegian Elkhound",
+    "slug": "norwegian-elkhound",
+    "size": "中型",
+    "coat": "灰色双层毛",
+    "fact": "立耳，背部卷尾。",
+    "formal": "否"
+  },
+  {
+    "id": "B038",
+    "name": "挪威伦德猎犬",
+    "english": "Norwegian Lundehund",
+    "slug": "norwegian-lundehund",
+    "size": "小型",
+    "coat": "双层毛",
+    "fact": "足趾数量及关节活动具有特殊结构。",
+    "formal": "否"
+  },
+  {
+    "id": "B039",
+    "name": "挪威布哈德犬",
+    "english": "Norwegian Buhund",
+    "slug": "norwegian-buhund",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "立耳、卷尾的尖嘴犬类型。",
+    "formal": "否"
+  },
+  {
+    "id": "B040",
+    "name": "冰岛牧羊犬",
+    "english": "Icelandic Sheepdog",
+    "slug": "icelandic-sheepdog",
+    "size": "中小型",
+    "coat": "双层毛",
+    "fact": "有长短毛类型，尾巴卷曲。",
+    "formal": "否"
+  },
+  {
+    "id": "B041",
+    "name": "瑞典瓦尔杭犬",
+    "english": "Swedish Vallhund",
+    "slug": "swedish-vallhund",
+    "size": "小型",
+    "coat": "双层中短毛",
+    "fact": "四肢较短，身体较长。",
+    "formal": "否"
+  },
+  {
+    "id": "B042",
+    "name": "荷兰毛狮犬",
+    "english": "Keeshond",
+    "slug": "keeshond",
+    "size": "中型",
+    "coat": "浓密双层长毛",
+    "fact": "灰黑色毛，眼周常有深色纹路。",
+    "formal": "否"
+  },
+  {
+    "id": "B043",
+    "name": "博美犬",
+    "english": "Pomeranian",
+    "slug": "pomeranian",
+    "size": "小型",
+    "coat": "双层长毛",
+    "fact": "紧凑体型，颈胸部毛量丰富。",
+    "formal": "否"
+  },
+  {
+    "id": "B044",
+    "name": "德国狐狸犬（中型）",
+    "english": "German Spitz Mittel",
+    "slug": "german-spitz-mittel",
+    "size": "中小型",
+    "coat": "双层长毛",
+    "fact": "德国狐狸犬的中型规格，立耳卷尾。",
+    "formal": "否"
+  },
+  {
+    "id": "B045",
+    "name": "日本狐狸犬",
+    "english": "Japanese Spitz",
+    "slug": "japanese-spitz",
+    "size": "小型",
+    "coat": "白色双层长毛",
+    "fact": "深色眼鼻与白毛形成对比。",
+    "formal": "否"
+  },
+  {
+    "id": "B046",
+    "name": "欧亚犬",
+    "english": "Eurasier",
+    "slug": "eurasier",
+    "size": "中型",
+    "coat": "双层中长毛",
+    "fact": "卷尾，被毛可有多种颜色。",
+    "formal": "否"
+  },
+  {
+    "id": "B047",
+    "name": "北海道犬",
+    "english": "Hokkaido",
+    "slug": "hokkaido",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "三角立耳，尾巴卷曲或呈镰状。",
+    "formal": "否"
+  },
+  {
+    "id": "B048",
+    "name": "四国犬",
+    "english": "Shikoku",
+    "slug": "shikoku",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "常见胡麻色，立耳卷尾。",
+    "formal": "否"
+  },
+  {
+    "id": "B049",
+    "name": "纪州犬",
+    "english": "Kishu",
+    "slug": "kishu",
+    "size": "中型",
+    "coat": "双层短毛",
+    "fact": "常见白毛，也有其他颜色。",
+    "formal": "否"
+  },
+  {
+    "id": "B050",
+    "name": "甲斐犬",
+    "english": "Kai Ken",
+    "slug": "kai-ken",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "虎斑毛色具有辨识度。",
+    "formal": "否"
+  },
+  {
+    "id": "B051",
+    "name": "韩国珍岛犬",
+    "english": "Korea Jindo Dog",
+    "slug": "korea-jindo-dog",
+    "size": "中型",
+    "coat": "双层毛",
+    "fact": "三角立耳，尾巴上举。",
+    "formal": "否"
+  },
+  {
+    "id": "B052",
+    "name": "迦南犬",
+    "english": "Canaan Dog",
+    "slug": "canaan-dog",
+    "size": "中型",
+    "coat": "双层短毛",
+    "fact": "方正体态，耳朵直立。",
+    "formal": "否"
+  },
+  {
+    "id": "B053",
+    "name": "泰国脊背犬",
+    "english": "Thai Ridgeback",
+    "slug": "thai-ridgeback",
+    "size": "中型",
+    "coat": "短毛",
+    "fact": "背部有逆向生长的毛脊。",
+    "formal": "否"
+  },
+  {
+    "id": "B054",
+    "name": "秘鲁无毛犬",
+    "english": "Peruvian Hairless Dog",
+    "slug": "peruvian-hairless-dog",
+    "size": "多体型",
+    "coat": "无毛或有毛",
+    "fact": "有不同体型与有毛变体。",
+    "formal": "否"
+  },
+  {
+    "id": "B055",
+    "name": "墨西哥无毛犬",
+    "english": "Xoloitzcuintli",
+    "slug": "xoloitzcuintli",
+    "size": "多体型",
+    "coat": "无毛或短毛",
+    "fact": "无毛型仍需皮肤与防晒护理。",
+    "formal": "否"
+  },
+  {
+    "id": "B056",
+    "name": "葡萄牙波登可犬",
+    "english": "Portuguese Podengo",
+    "slug": "portuguese-podengo",
+    "size": "多体型",
+    "coat": "平毛或刚毛",
+    "fact": "有不同尺寸，耳朵直立。",
+    "formal": "否"
+  },
+  {
+    "id": "B057",
+    "name": "伊比赞猎犬",
+    "english": "Ibizan Hound",
+    "slug": "ibizan-hound",
+    "size": "大型",
+    "coat": "平毛或刚毛",
+    "fact": "耳大直立，身形修长。",
+    "formal": "否"
+  },
+  {
+    "id": "B058",
+    "name": "法老王猎犬",
+    "english": "Pharaoh Hound",
+    "slug": "pharaoh-hound",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "棕红色被毛，大型立耳。",
+    "formal": "否"
+  },
+  {
+    "id": "B059",
+    "name": "澳大利亚牧牛犬",
+    "english": "Australian Cattle Dog",
+    "slug": "australian-cattle-dog",
+    "size": "中型",
+    "coat": "双层短毛",
+    "fact": "常见蓝色或红色斑点毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B060",
+    "name": "比利时马林诺斯犬",
+    "english": "Belgian Malinois",
+    "slug": "belgian-malinois",
+    "size": "中大型",
+    "coat": "双层短毛",
+    "fact": "黑色面罩常见，体态利落。",
+    "formal": "否"
+  },
+  {
+    "id": "B061",
+    "name": "比利时特伏丹犬",
+    "english": "Belgian Tervuren",
+    "slug": "belgian-tervuren",
+    "size": "中大型",
+    "coat": "双层长毛",
+    "fact": "长毛、黑色面罩，颈部饰毛明显。",
+    "formal": "否"
+  },
+  {
+    "id": "B062",
+    "name": "比利时格罗安达犬",
+    "english": "Belgian Groenendael",
+    "slug": "belgian-groenendael",
+    "size": "中大型",
+    "coat": "双层长毛",
+    "fact": "通常呈黑色，耳朵直立。",
+    "formal": "否"
+  },
+  {
+    "id": "B063",
+    "name": "比利时拉肯努阿犬",
+    "english": "Belgian Laekenois",
+    "slug": "belgian-laekenois",
+    "size": "中大型",
+    "coat": "粗硬毛",
+    "fact": "粗糙毛质是其明显特征。",
+    "formal": "否"
+  },
+  {
+    "id": "B064",
+    "name": "粗毛柯利犬",
+    "english": "Rough Collie",
+    "slug": "rough-collie",
+    "size": "中大型",
+    "coat": "双层长毛",
+    "fact": "口吻修长，颈胸饰毛丰富。",
+    "formal": "否"
+  },
+  {
+    "id": "B065",
+    "name": "短毛柯利犬",
+    "english": "Smooth Collie",
+    "slug": "smooth-collie",
+    "size": "中大型",
+    "coat": "双层短毛",
+    "fact": "与粗毛型相比，被毛较短贴身。",
+    "formal": "否"
+  },
+  {
+    "id": "B066",
+    "name": "古代英国牧羊犬",
+    "english": "Old English Sheepdog",
+    "slug": "old-english-sheepdog",
+    "size": "大型",
+    "coat": "浓密长毛",
+    "fact": "灰白被毛，常覆盖眼部。",
+    "formal": "否"
+  },
+  {
+    "id": "B067",
+    "name": "长须柯利犬",
+    "english": "Bearded Collie",
+    "slug": "bearded-collie",
+    "size": "中型",
+    "coat": "双层长毛",
+    "fact": "面部形成明显胡须。",
+    "formal": "否"
+  },
+  {
+    "id": "B068",
+    "name": "布里牧羊犬",
+    "english": "Briard",
+    "slug": "briard",
+    "size": "大型",
+    "coat": "长毛",
+    "fact": "额部毛长，后肢有双狼爪特征。",
+    "formal": "否"
+  },
+  {
+    "id": "B069",
+    "name": "波利犬",
+    "english": "Puli",
+    "slug": "puli",
+    "size": "中型",
+    "coat": "可成绳状长毛",
+    "fact": "成绳被毛需要专门护理。",
+    "formal": "否"
+  },
+  {
+    "id": "B070",
+    "name": "科蒙多犬",
+    "english": "Komondor",
+    "slug": "komondor",
+    "size": "大型",
+    "coat": "白色绳状毛",
+    "fact": "成熟被毛形成长绳状结构。",
+    "formal": "否"
+  },
+  {
+    "id": "B071",
+    "name": "穆迪犬",
+    "english": "Mudi",
+    "slug": "mudi",
+    "size": "中型",
+    "coat": "波浪或卷毛",
+    "fact": "面部毛短，身体毛呈波浪或卷曲。",
+    "formal": "否"
+  },
+  {
+    "id": "B072",
+    "name": "普米犬",
+    "english": "Pumi",
+    "slug": "pumi",
+    "size": "中型",
+    "coat": "卷曲毛",
+    "fact": "耳朵上部向前折，外形独特。",
+    "formal": "否"
+  },
+  {
+    "id": "B073",
+    "name": "波兰低地牧羊犬",
+    "english": "Polish Lowland Sheepdog",
+    "slug": "polish-lowland-sheepdog",
+    "size": "中型",
+    "coat": "双层长毛",
+    "fact": "身体结实，面部长毛浓密。",
+    "formal": "否"
+  },
+  {
+    "id": "B074",
+    "name": "伯格马斯科牧羊犬",
+    "english": "Bergamasco Sheepdog",
+    "slug": "bergamasco-sheepdog",
+    "size": "中大型",
+    "coat": "毡片状长毛",
+    "fact": "成熟毛层形成扁平毡片。",
+    "formal": "否"
+  },
+  {
+    "id": "B075",
+    "name": "博斯牧羊犬",
+    "english": "Beauceron",
+    "slug": "beauceron",
+    "size": "大型",
+    "coat": "双层短毛",
+    "fact": "后肢常有双狼爪，常见黑棕色。",
+    "formal": "否"
+  },
+  {
+    "id": "B076",
+    "name": "卡迪根威尔士柯基犬",
+    "english": "Cardigan Welsh Corgi",
+    "slug": "cardigan-welsh-corgi",
+    "size": "小型",
+    "coat": "双层中短毛",
+    "fact": "四肢短，尾巴长，耳朵较大。",
+    "formal": "否"
+  },
+  {
+    "id": "B077",
+    "name": "白色瑞士牧羊犬",
+    "english": "White Swiss Shepherd Dog",
+    "slug": "white-swiss-shepherd-dog",
+    "size": "大型",
+    "coat": "白色双层毛",
+    "fact": "有中长毛与长毛类型。",
+    "formal": "否"
+  },
+  {
+    "id": "B078",
+    "name": "英国可卡犬",
+    "english": "English Cocker Spaniel",
+    "slug": "english-cocker-spaniel",
+    "size": "中型",
+    "coat": "丝质中长毛",
+    "fact": "长垂耳，四肢有饰毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B079",
+    "name": "美国可卡犬",
+    "english": "American Cocker Spaniel",
+    "slug": "american-cocker-spaniel",
+    "size": "中小型",
+    "coat": "丝质长毛",
+    "fact": "头部较圆，被毛需要持续护理。",
+    "formal": "否"
+  },
+  {
+    "id": "B080",
+    "name": "英国史宾格犬",
+    "english": "English Springer Spaniel",
+    "slug": "english-springer-spaniel",
+    "size": "中型",
+    "coat": "中长毛",
+    "fact": "垂耳，胸腹及四肢带饰毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B081",
+    "name": "威尔士史宾格犬",
+    "english": "Welsh Springer Spaniel",
+    "slug": "welsh-springer-spaniel",
+    "size": "中型",
+    "coat": "中长毛",
+    "fact": "典型被毛为红白色。",
+    "formal": "否"
+  },
+  {
+    "id": "B082",
+    "name": "克伦伯猎犬",
+    "english": "Clumber Spaniel",
+    "slug": "clumber-spaniel",
+    "size": "中型",
+    "coat": "浓密中长毛",
+    "fact": "身躯较低，骨量大，白色为主。",
+    "formal": "否"
+  },
+  {
+    "id": "B083",
+    "name": "苏塞克斯猎犬",
+    "english": "Sussex Spaniel",
+    "slug": "sussex-spaniel",
+    "size": "中型",
+    "coat": "浓密中长毛",
+    "fact": "金肝色被毛，身长腿短。",
+    "formal": "否"
+  },
+  {
+    "id": "B084",
+    "name": "田野猎犬",
+    "english": "Field Spaniel",
+    "slug": "field-spaniel",
+    "size": "中型",
+    "coat": "丝质中长毛",
+    "fact": "垂耳，体态较修长。",
+    "formal": "否"
+  },
+  {
+    "id": "B085",
+    "name": "爱尔兰水猎犬",
+    "english": "Irish Water Spaniel",
+    "slug": "irish-water-spaniel",
+    "size": "中大型",
+    "coat": "浓密卷毛",
+    "fact": "头顶卷毛与短毛尾形成对比。",
+    "formal": "否"
+  },
+  {
+    "id": "B086",
+    "name": "美国水猎犬",
+    "english": "American Water Spaniel",
+    "slug": "american-water-spaniel",
+    "size": "中型",
+    "coat": "波浪或卷毛",
+    "fact": "常见肝色、棕色或巧克力色。",
+    "formal": "否"
+  },
+  {
+    "id": "B087",
+    "name": "葡萄牙水犬",
+    "english": "Portuguese Water Dog",
+    "slug": "portuguese-water-dog",
+    "size": "中型",
+    "coat": "卷毛或波浪毛",
+    "fact": "无论造型如何均需定期梳理。",
+    "formal": "否"
+  },
+  {
+    "id": "B088",
+    "name": "西班牙水犬",
+    "english": "Spanish Water Dog",
+    "slug": "spanish-water-dog",
+    "size": "中型",
+    "coat": "卷毛",
+    "fact": "被毛可形成绳状，护理方式需专业指导。",
+    "formal": "否"
+  },
+  {
+    "id": "B089",
+    "name": "罗马涅水犬",
+    "english": "Lagotto Romagnolo",
+    "slug": "lagotto-romagnolo",
+    "size": "中小型",
+    "coat": "紧密卷毛",
+    "fact": "卷毛浓密，面部有明显毛饰。",
+    "formal": "否"
+  },
+  {
+    "id": "B090",
+    "name": "切萨皮克湾寻回犬",
+    "english": "Chesapeake Bay Retriever",
+    "slug": "chesapeake-bay-retriever",
+    "size": "大型",
+    "coat": "双层短毛",
+    "fact": "肩背毛可略呈波浪，毛质较粗。",
+    "formal": "否"
+  },
+  {
+    "id": "B091",
+    "name": "平毛寻回犬",
+    "english": "Flat-Coated Retriever",
+    "slug": "flat-coated-retriever",
+    "size": "大型",
+    "coat": "平直中长毛",
+    "fact": "常见黑色或肝色，被毛带光泽。",
+    "formal": "否"
+  },
+  {
+    "id": "B092",
+    "name": "卷毛寻回犬",
+    "english": "Curly-Coated Retriever",
+    "slug": "curly-coated-retriever",
+    "size": "大型",
+    "coat": "紧密卷毛",
+    "fact": "身体覆紧贴小卷，面部毛较短。",
+    "formal": "否"
+  },
+  {
+    "id": "B093",
+    "name": "新斯科舍诱鸭寻回犬",
+    "english": "Nova Scotia Duck Tolling Retriever",
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "size": "中型",
+    "coat": "双层中长毛",
+    "fact": "红色系被毛，常见白色标记。",
+    "formal": "否"
+  },
+  {
+    "id": "B094",
+    "name": "德国短毛指示犬",
+    "english": "German Shorthaired Pointer",
+    "slug": "german-shorthaired-pointer",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "常见肝色及肝白色斑点。",
+    "formal": "否"
+  },
+  {
+    "id": "B095",
+    "name": "德国刚毛指示犬",
+    "english": "German Wirehaired Pointer",
+    "slug": "german-wirehaired-pointer",
+    "size": "中大型",
+    "coat": "刚毛",
+    "fact": "眉部与口吻有粗硬毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B096",
+    "name": "魏玛犬",
+    "english": "Weimaraner",
+    "slug": "weimaraner",
+    "size": "大型",
+    "coat": "短毛或长毛",
+    "fact": "银灰色系被毛具有辨识度。",
+    "formal": "否"
+  },
+  {
+    "id": "B097",
+    "name": "维兹拉犬",
+    "english": "Vizsla",
+    "slug": "vizsla",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "金锈色被毛，耳朵下垂。",
+    "formal": "否"
+  },
+  {
+    "id": "B098",
+    "name": "英国指示犬",
+    "english": "English Pointer",
+    "slug": "english-pointer",
+    "size": "中大型",
+    "coat": "短毛",
+    "fact": "四肢修长，鼻梁与头部轮廓清晰。",
+    "formal": "否"
+  },
+  {
+    "id": "B099",
+    "name": "英国塞特犬",
+    "english": "English Setter",
+    "slug": "english-setter",
+    "size": "中大型",
+    "coat": "丝质长毛",
+    "fact": "白底细斑点，四肢带饰毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B100",
+    "name": "爱尔兰塞特犬",
+    "english": "Irish Setter",
+    "slug": "irish-setter",
+    "size": "大型",
+    "coat": "丝质长毛",
+    "fact": "红栗色被毛，体态修长。",
+    "formal": "否"
+  },
+  {
+    "id": "B101",
+    "name": "戈登塞特犬",
+    "english": "Gordon Setter",
+    "slug": "gordon-setter",
+    "size": "大型",
+    "coat": "中长毛",
+    "fact": "黑棕色被毛，骨架较结实。",
+    "formal": "否"
+  },
+  {
+    "id": "B102",
+    "name": "布列塔尼犬",
+    "english": "Brittany",
+    "slug": "brittany",
+    "size": "中型",
+    "coat": "平毛或波浪毛",
+    "fact": "体型紧凑，常见橙白或肝白色。",
+    "formal": "否"
+  },
+  {
+    "id": "B103",
+    "name": "英国斗牛犬",
+    "english": "Bulldog",
+    "slug": "bulldog",
+    "size": "中型",
+    "coat": "短毛",
+    "fact": "头部宽、口吻短，需关注呼吸与散热。",
+    "formal": "否"
+  },
+  {
+    "id": "B104",
+    "name": "法国斗牛犬",
+    "english": "French Bulldog",
+    "slug": "french-bulldog",
+    "size": "小型",
+    "coat": "短毛",
+    "fact": "蝙蝠状立耳、短口吻，需注意热应激。",
+    "formal": "否"
+  },
+  {
+    "id": "B105",
+    "name": "波士顿梗",
+    "english": "Boston Terrier",
+    "slug": "boston-terrier",
+    "size": "小型",
+    "coat": "短毛",
+    "fact": "常见深色配白色标记，口吻短。",
+    "formal": "否"
+  },
+  {
+    "id": "B106",
+    "name": "巴哥犬",
+    "english": "Pug",
+    "slug": "pug",
+    "size": "小型",
+    "coat": "短毛",
+    "fact": "卷尾、短口吻，需关注呼吸与体重。",
+    "formal": "否"
+  },
+  {
+    "id": "B107",
+    "name": "北京犬",
+    "english": "Pekingese",
+    "slug": "pekingese",
+    "size": "小型",
+    "coat": "双层长毛",
+    "fact": "面部较平，颈胸部毛量丰富。",
+    "formal": "否"
+  },
+  {
+    "id": "B108",
+    "name": "西施犬",
+    "english": "Shih Tzu",
+    "slug": "shih-tzu",
+    "size": "小型",
+    "coat": "长毛",
+    "fact": "面部毛浓，需注意眼周清洁。",
+    "formal": "否"
+  },
+  {
+    "id": "B109",
+    "name": "拉萨犬",
+    "english": "Lhasa Apso",
+    "slug": "lhasa-apso",
+    "size": "小型",
+    "coat": "浓密长毛",
+    "fact": "长毛垂落，日常梳理要求较高。",
+    "formal": "否"
+  },
+  {
+    "id": "B110",
+    "name": "马尔济斯犬",
+    "english": "Maltese",
+    "slug": "maltese",
+    "size": "小型",
+    "coat": "丝质长毛",
+    "fact": "白色被毛，需定期梳理。",
+    "formal": "否"
+  },
+  {
+    "id": "B111",
+    "name": "哈瓦那犬",
+    "english": "Havanese",
+    "slug": "havanese",
+    "size": "小型",
+    "coat": "柔软长毛",
+    "fact": "可有多种毛色，尾巴覆于背上。",
+    "formal": "否"
+  },
+  {
+    "id": "B112",
+    "name": "棉花面纱犬",
+    "english": "Coton de Tulear",
+    "slug": "coton-de-tulear",
+    "size": "小型",
+    "coat": "棉絮状长毛",
+    "fact": "白色为主，毛质柔软蓬松。",
+    "formal": "否"
+  },
+  {
+    "id": "B113",
+    "name": "约克夏梗",
+    "english": "Yorkshire Terrier",
+    "slug": "yorkshire-terrier",
+    "size": "小型",
+    "coat": "丝质长毛",
+    "fact": "成年常见钢蓝与棕色毛。",
+    "formal": "否"
+  },
+  {
+    "id": "B114",
+    "name": "丝毛梗",
+    "english": "Silky Terrier",
+    "slug": "silky-terrier",
+    "size": "小型",
+    "coat": "丝质长毛",
+    "fact": "身躯较长，耳朵直立。",
+    "formal": "否"
+  },
+  {
+    "id": "B115",
+    "name": "凯恩梗",
+    "english": "Cairn Terrier",
+    "slug": "cairn-terrier",
+    "size": "小型",
+    "coat": "粗硬双层毛",
+    "fact": "体型紧凑，面部毛蓬松。",
+    "formal": "否"
+  },
+  {
+    "id": "B116",
+    "name": "苏格兰梗",
+    "english": "Scottish Terrier",
+    "slug": "scottish-terrier",
+    "size": "小型",
+    "coat": "刚毛",
+    "fact": "身长腿短，胡须与眉毛明显。",
+    "formal": "否"
+  },
+  {
+    "id": "B117",
+    "name": "西利哈姆梗",
+    "english": "Sealyham Terrier",
+    "slug": "sealyham-terrier",
+    "size": "小型",
+    "coat": "刚毛",
+    "fact": "白色为主，头部可有色斑。",
+    "formal": "否"
+  },
+  {
+    "id": "B118",
+    "name": "爱尔兰梗",
+    "english": "Irish Terrier",
+    "slug": "irish-terrier",
+    "size": "中型",
+    "coat": "刚毛",
+    "fact": "红色系被毛，身形较修长。",
+    "formal": "否"
+  },
+  {
+    "id": "B119",
+    "name": "万能梗",
+    "english": "Airedale Terrier",
+    "slug": "airedale-terrier",
+    "size": "中大型",
+    "coat": "刚毛",
+    "fact": "梗类中体型较大，常见黑棕色。",
+    "formal": "否"
+  },
+  {
+    "id": "B120",
+    "name": "巴吉度猎犬",
+    "english": "Basset Hound",
+    "slug": "basset-hound",
+    "size": "中型",
+    "coat": "短毛",
+    "fact": "耳朵长而下垂，身躯较低、骨量较大。",
+    "formal": "否"
+  }
+]

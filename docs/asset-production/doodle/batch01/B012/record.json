@@ -1,0 +1,93 @@
+{
+  "id": "B012",
+  "name": "腊肠犬",
+  "english": "Dachshund",
+  "slug": "dachshund",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:24.353927+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-b38acb05-4613-4c7c-b24d-495396727269.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Dachshund, choose smooth-haired red-brown variant: unmistakably EXTREMELY LONG LOW sausage body, very short little legs, long narrow projecting muzzle, very long rounded floppy ears hanging next to cheek, slender long naturally tapering tail extends straight with gentle upward curve. Sideways standing facing left, four short paws distinguishable, head tipped slightly up with naive curious eyes. Two flat red-brown/ochre shades, no black saddle. Not a corgi: much longer ear flaps and narrower muzzle, no upright ears.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B012/raw.png",
+  "raw_sha256": "0f2e8749452984408112751b54fd7ab3ebf4d8fadfbe24340ad6912bb73a1205",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B012/prompt.txt",
+  "prompt_sha256": "92f85bea56051c38df1d8352e0a08c91950884fe82e5944f724732481e7f6158",
+  "path": "public/assets/dogs/doodle-v01/B012-full.png",
+  "sha256": "5680a915163cfe8b7a650abbf361ba192b465928146db3f7893dbd68267d8bcb",
+  "pixels_sha256": "e394ac60526279a4bb8057548015a5d50360eab3ff6c1736ecb3e654af39a5e9",
+  "processing": {
+    "bbox": [
+      73,
+      296,
+      1222,
+      985
+    ],
+    "scale": 0.7101827676240209,
+    "resized_dimensions": [
+      816,
+      489
+    ],
+    "position": [
+      104,
+      267
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      104,
+      267,
+      920,
+      756
+    ],
+    "margins": [
+      104,
+      267,
+      104,
+      268
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 855660,
+    "opaque_pixels": 180871,
+    "partial_alpha_pixels": 12045,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "B009",
+  "name": "萨摩耶犬",
+  "english": "Samoyed",
+  "slug": "samoyed",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:21.941432+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-79c214d3-d6e5-437a-b9c0-f05b5ed59d0c.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Samoyed: white coat fully opaque (never transparent fur), a few cream patches optional. Small triangular erect ears set widely in a broad rounded fluffy head, shorter wedge muzzle, stocky compact torso with stout medium-short legs. Big fluffy plumed tail curls over back but clearly distinct from orange Shiba by larger cloud-like overall coat silhouette and broad white cheeks. Sit sideways facing left, looking up with a simple soft smile; broad 5-6 lumpy contours suggest mane and plume, no hairs.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B009/raw.png",
+  "raw_sha256": "20272fec07e08707f51a452b3c74f45b4ad4cf524990bf1ed92aa5b291509cc1",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B009/prompt.txt",
+  "prompt_sha256": "1ded2ef38d6699d1149f7c862178b10e08079f85f4ba7cd54eb713a0149e227c",
+  "path": "public/assets/dogs/doodle-v01/B009-full.png",
+  "sha256": "0ba4fcf5382a45397f4077b7064df64c22d639728a7c75134c891731d39bb021",
+  "pixels_sha256": "d2cc0982def75e5f45cd4ea1d4cd52e91f94c40c55602a3b8c5f4997e372c496",
+  "processing": {
+    "bbox": [
+      171,
+      124,
+      1135,
+      1140
+    ],
+    "scale": 0.8031496062992126,
+    "resized_dimensions": [
+      774,
+      816
+    ],
+    "position": [
+      125,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      126,
+      104,
+      899,
+      920
+    ],
+    "margins": [
+      126,
+      104,
+      125,
+      104
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 618500,
+    "opaque_pixels": 414901,
+    "partial_alpha_pixels": 15175,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

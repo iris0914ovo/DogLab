@@ -1,0 +1,93 @@
+{
+  "id": "B016",
+  "name": "喜乐蒂牧羊犬",
+  "english": "Shetland Sheepdog",
+  "slug": "shetland-sheepdog",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:56:43.609282+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-651cc6ca-7c4c-4841-bf87-103673f99751.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Shetland Sheepdog: narrow long fine wedge-shaped head and long slender muzzle, small semi-erect ears with distinctly forward-FOLDED tips, slim small body with medium legs, long fuller neck ruff and low long plumed tail. Sable-brown and opaque white ruff/chest/paws, small dark brown saddle optional. Seated three-quarter facing right, front paws close and rear paws readable, head shyly turned toward viewer. Use only a handful of broad ruff outline tufts, not many strands. Distinct from Border Collie by narrow head, sable color, fuller white neck ruff and seated pose.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B016/raw.png",
+  "raw_sha256": "1aa078689b0b597767c1e87ec27c028f6059b4d57f0c6331d22831892c110ab7",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B016/prompt.txt",
+  "prompt_sha256": "cd19ef2702e6adda8b7cc4beb639aa150e7c799c9d929ed8874ee8903603993b",
+  "path": "public/assets/dogs/doodle-v01/B016-full.png",
+  "sha256": "70a358e772498652aafbe263395038bdb14cfc197470bbca35815ae9ba2a5e01",
+  "pixels_sha256": "be082df81a243f25ce8713ad9faeba71f0c92e5c5a520c98c9246a5c6b155e29",
+  "processing": {
+    "bbox": [
+      131,
+      126,
+      1126,
+      1139
+    ],
+    "scale": 0.805528134254689,
+    "resized_dimensions": [
+      802,
+      816
+    ],
+    "position": [
+      111,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      111,
+      104,
+      912,
+      920
+    ],
+    "margins": [
+      111,
+      104,
+      112,
+      104
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 707458,
+    "opaque_pixels": 327868,
+    "partial_alpha_pixels": 13250,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

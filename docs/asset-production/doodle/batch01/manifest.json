@@ -1,0 +1,1125 @@
+{
+  "style": "DPL-DOODLE-1.0",
+  "status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "records": [
+    {
+      "id": "B006",
+      "name": "拉布拉多寻回犬",
+      "english": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:20.268379+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-eacf7a5c-7700-4a7e-be52-2dfb2e114592.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Labrador Retriever. Choose yellow Labrador: broad head, medium broad muzzle, natural triangular dropped ears close to cheeks, thick strong neck, solid barrel-shaped body, sturdy medium-length legs and a THICK straight tapering otter tail, short smooth coat not feathered. Four-foot standing broadside facing left, head facing viewer with slightly goofy closed mouth. Pale yellow solid coat with tiny cream muzzle accent. Differentiate from Golden by short coat, no fluffy feathered ears or tail.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B006/raw.png",
+      "raw_sha256": "acf17dbf02937bd86899d1c246e238936b92bc0dcf98be4ce17830efb18e1a5c",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B006/prompt.txt",
+      "prompt_sha256": "7f8544677e9bd2f08a6df828a0355b34d906d876f7d779f0bd653b8c8c52cf26",
+      "path": "public/assets/dogs/doodle-v01/B006-full.png",
+      "sha256": "d3634a24aedd5a756bd76b1bd8f6147cb91248d5792e3b61b0a2ea997b17974a",
+      "pixels_sha256": "0d60673aa0c017de90ccc4f7c16c4038f78f148b053cfb0996b73696f0c747c9",
+      "processing": {
+        "bbox": [
+          70,
+          179,
+          1209,
+          1116
+        ],
+        "scale": 0.7164179104477612,
+        "resized_dimensions": [
+          816,
+          671
+        ],
+        "position": [
+          104,
+          176
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          105,
+          176,
+          920,
+          846
+        ],
+        "margins": [
+          105,
+          176,
+          104,
+          178
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 756357,
+        "opaque_pixels": 274030,
+        "partial_alpha_pixels": 18189,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B008",
+      "name": "德国牧羊犬",
+      "english": "German Shepherd Dog",
+      "slug": "german-shepherd-dog",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:21.089034+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-6f27bf70-44a5-4efa-8435-094b29bb4063.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "German Shepherd Dog: large erect pointed ears, long wedge-shaped head and long black muzzle, black saddle over tan body and tan legs, relatively long strong body and four medium-long legs, LONG LOW bushy tail curving down behind left rear. Standing three-quarter facing right, one front foot slightly ahead, relaxed uneven dot eyes. Use simple blocky black/tan/cream shapes, only 2-3 broad outline bumps. No steeply sloped back or exaggerated angulation.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B008/raw.png",
+      "raw_sha256": "3c07668f6a9b40255ab0daf67d96a8881dd84c507218bcca3a50f54d24904398",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B008/prompt.txt",
+      "prompt_sha256": "0159ecfc9b1e51480619c8b548af8439f8fba6becb0d9352539e7d8c07512399",
+      "path": "public/assets/dogs/doodle-v01/B008-full.png",
+      "sha256": "c210c213e676211c38d4dbcaa69612b73706e704d5c780b78d2247826cb28f09",
+      "pixels_sha256": "a61317db3d0803e3bc0581061180e15b4a723f4e31cb70b0cf03468fb3de8c61",
+      "processing": {
+        "bbox": [
+          82,
+          108,
+          1169,
+          1174
+        ],
+        "scale": 0.7506899724011039,
+        "resized_dimensions": [
+          816,
+          800
+        ],
+        "position": [
+          104,
+          112
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          104,
+          112,
+          920,
+          912
+        ],
+        "margins": [
+          104,
+          112,
+          104,
+          112
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 723551,
+        "opaque_pixels": 306506,
+        "partial_alpha_pixels": 18519,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B009",
+      "name": "萨摩耶犬",
+      "english": "Samoyed",
+      "slug": "samoyed",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:21.941432+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-79c214d3-d6e5-437a-b9c0-f05b5ed59d0c.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Samoyed: white coat fully opaque (never transparent fur), a few cream patches optional. Small triangular erect ears set widely in a broad rounded fluffy head, shorter wedge muzzle, stocky compact torso with stout medium-short legs. Big fluffy plumed tail curls over back but clearly distinct from orange Shiba by larger cloud-like overall coat silhouette and broad white cheeks. Sit sideways facing left, looking up with a simple soft smile; broad 5-6 lumpy contours suggest mane and plume, no hairs.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B009/raw.png",
+      "raw_sha256": "20272fec07e08707f51a452b3c74f45b4ad4cf524990bf1ed92aa5b291509cc1",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B009/prompt.txt",
+      "prompt_sha256": "1ded2ef38d6699d1149f7c862178b10e08079f85f4ba7cd54eb713a0149e227c",
+      "path": "public/assets/dogs/doodle-v01/B009-full.png",
+      "sha256": "0ba4fcf5382a45397f4077b7064df64c22d639728a7c75134c891731d39bb021",
+      "pixels_sha256": "d2cc0982def75e5f45cd4ea1d4cd52e91f94c40c55602a3b8c5f4997e372c496",
+      "processing": {
+        "bbox": [
+          171,
+          124,
+          1135,
+          1140
+        ],
+        "scale": 0.8031496062992126,
+        "resized_dimensions": [
+          774,
+          816
+        ],
+        "position": [
+          125,
+          104
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          126,
+          104,
+          899,
+          920
+        ],
+        "margins": [
+          126,
+          104,
+          125,
+          104
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 618500,
+        "opaque_pixels": 414901,
+        "partial_alpha_pixels": 15175,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B010",
+      "name": "秋田犬",
+      "english": "Akita",
+      "slug": "akita",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:57:16.117567+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-df2479ba-7969-40f8-88e1-12de337347ea.png",
+      "references": [
+        {
+          "path": "artifacts/illustrations/doodle-v01/batch01/B010/candidate-v01.png",
+          "sha256": "b5ada2673be8dd04118569c7de4b83ce0ce50d4b5789299a580f63f96ce9732b"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        }
+      ],
+      "generation_version": "v02",
+      "design": "Revision v02: broad bear-like head, smaller wide-set ears, broad muzzle and neck, heavy seated torso and stout legs; reddish-brown and cream, thick curled tail. v01 rejected as too Shiba-like.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B010/raw-v02.png",
+      "raw_sha256": "25989c07cd37da7ad0964048196ca7eb5e0792ea21acc801d9e9a9ef92379026",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B010/prompt.txt",
+      "prompt_sha256": "d1eabf541d67e44218c98e02b21020a5e83620d201c0f0ff66e786982cf3b340",
+      "path": "public/assets/dogs/doodle-v01/B010-full.png",
+      "sha256": "6edc8eea050ecc87e22662ed2be284abe1064b11f7fc02c2814b67332c82b4dc",
+      "pixels_sha256": "974015a93730ef6cd082264afe9438349b6dc3836112a1b73c2a79a29da217e6",
+      "processing": {
+        "bbox": [
+          78,
+          62,
+          1178,
+          1173
+        ],
+        "scale": 0.7344734473447345,
+        "resized_dimensions": [
+          808,
+          816
+        ],
+        "position": [
+          108,
+          104
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          108,
+          104,
+          916,
+          920
+        ],
+        "margins": [
+          108,
+          104,
+          108,
+          104
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 604347,
+        "opaque_pixels": 433622,
+        "partial_alpha_pixels": 10607,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B011",
+      "name": "比格犬",
+      "english": "Beagle",
+      "slug": "beagle",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:23.642203+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-76d6caa4-98d4-4c52-8d9e-7d788bbafb31.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Beagle: long smooth floppy ears with rounded tips, moderately broad head with medium projecting muzzle, compact moderately long body and sturdy short-to-medium legs, white-tipped tail held high and nearly straight with gentle curve (not curled). Natural tricolor black saddle, tan head and patches, opaque white chest paws muzzle and tail tip. Stand three-quarter facing right nose slightly raised as if sniffing; one forepaw a little forward. Goofy small dot eyes and few mouth strokes. No long fur or corgi proportions.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B011/raw.png",
+      "raw_sha256": "94f91429debafd0195787d9595081cb59f71236e9a1b17bf5d6d8d8ca2db29a9",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B011/prompt.txt",
+      "prompt_sha256": "a17a98e9deea522f4279e6547fe866cbc2af6ad10c6d5b84d6c56d648d3c308d",
+      "path": "public/assets/dogs/doodle-v01/B011-full.png",
+      "sha256": "a9cc05cdbf3054e03928720d2e2521443d93cae450fb1c91e66c93c385472423",
+      "pixels_sha256": "ae8fc45ecf99fe230715aeee4955f5b42d391ab26527e86c5d3b24ef9c6e4d7f",
+      "processing": {
+        "bbox": [
+          168,
+          177,
+          1155,
+          1135
+        ],
+        "scale": 0.8267477203647416,
+        "resized_dimensions": [
+          816,
+          792
+        ],
+        "position": [
+          104,
+          116
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          104,
+          116,
+          920,
+          908
+        ],
+        "margins": [
+          104,
+          116,
+          104,
+          116
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 637929,
+        "opaque_pixels": 391165,
+        "partial_alpha_pixels": 19482,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B012",
+      "name": "腊肠犬",
+      "english": "Dachshund",
+      "slug": "dachshund",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:24.353927+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-b38acb05-4613-4c7c-b24d-495396727269.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Dachshund, choose smooth-haired red-brown variant: unmistakably EXTREMELY LONG LOW sausage body, very short little legs, long narrow projecting muzzle, very long rounded floppy ears hanging next to cheek, slender long naturally tapering tail extends straight with gentle upward curve. Sideways standing facing left, four short paws distinguishable, head tipped slightly up with naive curious eyes. Two flat red-brown/ochre shades, no black saddle. Not a corgi: much longer ear flaps and narrower muzzle, no upright ears.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B012/raw.png",
+      "raw_sha256": "0f2e8749452984408112751b54fd7ab3ebf4d8fadfbe24340ad6912bb73a1205",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B012/prompt.txt",
+      "prompt_sha256": "92f85bea56051c38df1d8352e0a08c91950884fe82e5944f724732481e7f6158",
+      "path": "public/assets/dogs/doodle-v01/B012-full.png",
+      "sha256": "5680a915163cfe8b7a650abbf361ba192b465928146db3f7893dbd68267d8bcb",
+      "pixels_sha256": "e394ac60526279a4bb8057548015a5d50360eab3ff6c1736ecb3e654af39a5e9",
+      "processing": {
+        "bbox": [
+          73,
+          296,
+          1222,
+          985
+        ],
+        "scale": 0.7101827676240209,
+        "resized_dimensions": [
+          816,
+          489
+        ],
+        "position": [
+          104,
+          267
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          104,
+          267,
+          920,
+          756
+        ],
+        "margins": [
+          104,
+          267,
+          104,
+          268
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 855660,
+        "opaque_pixels": 180871,
+        "partial_alpha_pixels": 12045,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B013",
+      "name": "杰克罗素梗",
+      "english": "Jack Russell Terrier",
+      "slug": "jack-russell-terrier",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:56:41.951533+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-df1e2d2c-9684-4e2a-ad7b-9e1037e13b91.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Jack Russell Terrier, smooth coat: predominantly opaque white body with tan patch over one eye and one ear, narrow athletic compact body and medium-short but athletic legs, wedge-shaped head and medium sharp muzzle; small V-shaped ears with clearly FOLDED forward tips, not erect fox ears. Naturally long slim upright-curving tail, not docked. Slight play bow, chest mildly lowered but four feet readable, hindquarters raised, sideways facing right with goofy alert expression. No short corgi body or fluffy coat.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B013/raw.png",
+      "raw_sha256": "5f54afdf8988d45a4c12b3182b82fe3d0388e89afdf22de9c120174c7273b9ad",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B013/prompt.txt",
+      "prompt_sha256": "4d972b5bc0d375675d6a42a24632d8b6b95b764a792084d2887c899d5be5abf5",
+      "path": "public/assets/dogs/doodle-v01/B013-full.png",
+      "sha256": "6898f63085ccbfa919cc39b5a1a3e7bc0e2fbd6a397796ba28999043da832989",
+      "pixels_sha256": "1d0f7e91b46c6cd0bfa57d4fdc3b154f745bd94059edfa3aab852693585584e8",
+      "processing": {
+        "bbox": [
+          117,
+          136,
+          1171,
+          1131
+        ],
+        "scale": 0.7741935483870968,
+        "resized_dimensions": [
+          816,
+          770
+        ],
+        "position": [
+          104,
+          127
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          104,
+          127,
+          920,
+          897
+        ],
+        "margins": [
+          104,
+          127,
+          104,
+          127
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 740058,
+        "opaque_pixels": 287709,
+        "partial_alpha_pixels": 20809,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B014",
+      "name": "西高地白梗",
+      "english": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:54:25.177255+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-9a9ee398-4709-44c1-9812-edaa7f13df2d.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "West Highland White Terrier: entirely opaque white coat with only small cream accents, SMALL sharp triangular upright ears, rounded broad head framed by rough coat, SHORT blunt muzzle, dark nose. Compact square sturdy short-legged body, short-ish but natural straight upright CARROT-shaped tail, not curled. Stand four-foot three-quarter facing left with slightly tilted head, calm small uneven black dot eyes. Suggest coarse coat through a few blocky outline bumps ONLY. Distinct from cloud fluffy curled-tail Samoyed and bearded schnauzer.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B014/raw.png",
+      "raw_sha256": "bf05afe202c6c79d083e36d21764d328685e2049b4c5cee95621a0c8d371495a",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B014/prompt.txt",
+      "prompt_sha256": "0133c690bba10ee027eb7f9fd547dd571c1fad7ea8b5c1e2cd43c3c30c5ef9f0",
+      "path": "public/assets/dogs/doodle-v01/B014-full.png",
+      "sha256": "0e243d41c858241da9e20b6722feb963a2be318bc65c4fec358cee6bbbc1873f",
+      "pixels_sha256": "25e46b6ecbcb5b40f2c51ff4971d948af5716b699e7733f3052d9cb0e63ab850",
+      "processing": {
+        "bbox": [
+          164,
+          142,
+          1090,
+          1121
+        ],
+        "scale": 0.8335035750766088,
+        "resized_dimensions": [
+          772,
+          816
+        ],
+        "position": [
+          126,
+          104
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          126,
+          104,
+          898,
+          920
+        ],
+        "margins": [
+          126,
+          104,
+          126,
+          104
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 654273,
+        "opaque_pixels": 376888,
+        "partial_alpha_pixels": 17415,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B015",
+      "name": "迷你雪纳瑞",
+      "english": "Miniature Schnauzer",
+      "slug": "miniature-schnauzer",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:56:42.764404+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-195cfae9-7e27-4633-8942-6cc383bad413.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Miniature Schnauzer: rectangular head and blunt rectangular projecting muzzle, prominent chunky simplified moustache/beard and two eyebrow masses (flat gray blocks, no detailed hairs). Small V-shaped naturally FOLDED ears, square compact torso, sturdy medium-short legs. Salt-and-pepper dark gray body with pale gray beard/eyebrows and lower legs in simple 3 flat tones. Natural LONG upward saber tail, NOT docked, not curled over back. Four-foot three-quarter standing toward right, serious but goofy dot eyes (visible below small eyebrow blocks), no accessories.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B015/raw.png",
+      "raw_sha256": "f49e549541f09844c49a3afdb5c7b29659ce3ddc440edb858c87ae53f5783061",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B015/prompt.txt",
+      "prompt_sha256": "2a1619f3a473fbf8fa06455fc149f10841d1306f7d108d25697d268366310ded",
+      "path": "public/assets/dogs/doodle-v01/B015-full.png",
+      "sha256": "1c5fb0a7fa04a643d1305d3452d0be0f76c341b425cb0430d4b8ede5ad2b656e",
+      "pixels_sha256": "0b6cf4459d0f619177927d84c8d00e43fc96d4cd986403eb611bf59c94065677",
+      "processing": {
+        "bbox": [
+          177,
+          156,
+          1131,
+          1138
+        ],
+        "scale": 0.8309572301425662,
+        "resized_dimensions": [
+          793,
+          816
+        ],
+        "position": [
+          115,
+          104
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          115,
+          104,
+          908,
+          920
+        ],
+        "margins": [
+          115,
+          104,
+          116,
+          104
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 658730,
+        "opaque_pixels": 369671,
+        "partial_alpha_pixels": 20175,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B016",
+      "name": "喜乐蒂牧羊犬",
+      "english": "Shetland Sheepdog",
+      "slug": "shetland-sheepdog",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:56:43.609282+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-651cc6ca-7c4c-4841-bf87-103673f99751.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Shetland Sheepdog: narrow long fine wedge-shaped head and long slender muzzle, small semi-erect ears with distinctly forward-FOLDED tips, slim small body with medium legs, long fuller neck ruff and low long plumed tail. Sable-brown and opaque white ruff/chest/paws, small dark brown saddle optional. Seated three-quarter facing right, front paws close and rear paws readable, head shyly turned toward viewer. Use only a handful of broad ruff outline tufts, not many strands. Distinct from Border Collie by narrow head, sable color, fuller white neck ruff and seated pose.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B016/raw.png",
+      "raw_sha256": "1aa078689b0b597767c1e87ec27c028f6059b4d57f0c6331d22831892c110ab7",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B016/prompt.txt",
+      "prompt_sha256": "cd19ef2702e6adda8b7cc4beb639aa150e7c799c9d929ed8874ee8903603993b",
+      "path": "public/assets/dogs/doodle-v01/B016-full.png",
+      "sha256": "70a358e772498652aafbe263395038bdb14cfc197470bbca35815ae9ba2a5e01",
+      "pixels_sha256": "be082df81a243f25ce8713ad9faeba71f0c92e5c5a520c98c9246a5c6b155e29",
+      "processing": {
+        "bbox": [
+          131,
+          126,
+          1126,
+          1139
+        ],
+        "scale": 0.805528134254689,
+        "resized_dimensions": [
+          802,
+          816
+        ],
+        "position": [
+          111,
+          104
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          111,
+          104,
+          912,
+          920
+        ],
+        "margins": [
+          111,
+          104,
+          112,
+          104
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 707458,
+        "opaque_pixels": 327868,
+        "partial_alpha_pixels": 13250,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B017",
+      "name": "澳大利亚牧羊犬",
+      "english": "Australian Shepherd",
+      "slug": "australian-shepherd",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:57:28.073906+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-fd5255d3-3d54-4f34-ab38-dca5f687bbc0.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "generation_version": "v01",
+      "design": "Australian Shepherd: broadish head with medium muzzle, BOTH natural triangular ears FOLDED to sides (not tall upright ears); compact but muscular medium body, substantial four medium-length legs, moderate fluffy ruff. Choose red-tricolor: chocolate-brown main coat, rust tan cheek/leg accents and opaque white blaze/chest/paws (3 coat colors only). Natural FULL LONG LOW bushy tail clearly visible, not docked. Four-foot slightly sideways stance facing left, head looking right over shoulder, friendly inquisitive dot eyes. Distinguish from slender narrow-headed black-white Border Collie and sable Sheltie, no intricate merle speckles.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B017/raw.png",
+      "raw_sha256": "3d36fab9d33ecb3ceed0cffae0a77ba0bb4290522a81f8a4fc9c4155383b7b92",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B017/prompt.txt",
+      "prompt_sha256": "af64b73ff5bd2f102b3037280a6569f0779ebc247aab5b7004ceb9ae2bccdfc8",
+      "path": "public/assets/dogs/doodle-v01/B017-full.png",
+      "sha256": "f1055cb758326d6b2d51221a45fa7891238fce8fbfc52fd6ede245c1571a884d",
+      "pixels_sha256": "e1c2cfcba8d81021820f84619b9114c769e87ed5ed531bb97c04def74e8b3f1e",
+      "processing": {
+        "bbox": [
+          139,
+          161,
+          1203,
+          1135
+        ],
+        "scale": 0.7669172932330827,
+        "resized_dimensions": [
+          816,
+          747
+        ],
+        "position": [
+          104,
+          138
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          106,
+          138,
+          920,
+          885
+        ],
+        "margins": [
+          106,
+          138,
+          104,
+          139
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 708494,
+        "opaque_pixels": 323514,
+        "partial_alpha_pixels": 16568,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    },
+    {
+      "id": "B018",
+      "name": "杜宾犬",
+      "english": "Dobermann",
+      "slug": "dobermann",
+      "style": "DPL-DOODLE-1.0",
+      "batch": "batch01",
+      "production_status": "GENERATED",
+      "human_review_status": "PENDING_REVIEW",
+      "saved_at_utc": "2026-11-02T03:56:44.408674+00:00",
+      "tool": "image_gen__imagegen",
+      "model_id": null,
+      "seed": null,
+      "tool_source_path": "/workspace/generated_images/exec-1bede8fc-9a6b-4cfb-a6f0-6dc3888cb390.png",
+      "references": [
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+          "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+          "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+        },
+        {
+          "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+          "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+        }
+      ],
+      "design": "Dobermann: LONG NARROW wedge-shaped head and noticeably long slim muzzle, NATURAL SOFT DROPPED ears folded by cheeks (absolutely no cropped erect ears), very lean deep-chested short-coated torso with tucked waist, FOUR LONG SLIM straight legs, natural FULL LENGTH thin tapering tail curving gently behind. Black coat with flat rust tan muzzle, chest accents and lower legs. Sideways standing facing right chin slightly lifted, little uneven dot eyes and tiny relaxed mouth. No aggression, no collar, no cropped ears or docked tail. Do NOT use blocky Rottweiler/Labrador body.",
+      "raw_path": "artifacts/illustrations/doodle-v01/batch01/B018/raw.png",
+      "raw_sha256": "400d245a48adefaf3fdafbddc07c7efed4edd13a0e94287b76ec34b33cb0af7e",
+      "raw_size": [
+        1254,
+        1254
+      ],
+      "prompt_path": "docs/asset-production/doodle/batch01/B018/prompt.txt",
+      "prompt_sha256": "0fadeb98eb9e70f9fee90f3f6a694b826bf0872f35bd8a2aa69d30ab01a63aef",
+      "path": "public/assets/dogs/doodle-v01/B018-full.png",
+      "sha256": "571db4bf9bdbadad90535b164b06fd5d10f0b06c2cdbfb6b2f6ae29c6a08043c",
+      "pixels_sha256": "bbaf0a991c44ee3ed38cd542cd76f68a034c805056246298ec92cb97b74571a1",
+      "processing": {
+        "bbox": [
+          99,
+          141,
+          1164,
+          1124
+        ],
+        "scale": 0.7661971830985915,
+        "resized_dimensions": [
+          816,
+          753
+        ],
+        "position": [
+          104,
+          135
+        ],
+        "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+      },
+      "qc": {
+        "size": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "bbox": [
+          104,
+          135,
+          920,
+          888
+        ],
+        "margins": [
+          104,
+          135,
+          104,
+          136
+        ],
+        "alpha_min": 0,
+        "alpha_max": 255,
+        "transparent_pixels": 811011,
+        "opaque_pixels": 220682,
+        "partial_alpha_pixels": 16883,
+        "translucent_core_pixels": 0,
+        "checks": {
+          "size": true,
+          "rgba": true,
+          "real_transparency": true,
+          "safe_margin": true,
+          "opaque_core": true,
+          "antialias": true
+        },
+        "technical_pass": true
+      }
+    }
+  ]
+}

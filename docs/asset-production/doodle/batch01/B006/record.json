@@ -1,0 +1,93 @@
+{
+  "id": "B006",
+  "name": "拉布拉多寻回犬",
+  "english": "Labrador Retriever",
+  "slug": "labrador-retriever",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:54:20.268379+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-eacf7a5c-7700-4a7e-be52-2dfb2e114592.png",
+  "references": [
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/border-collie-full.png",
+      "sha256": "00316d44f54517b8c212e85e9710b212eeb6f1e4431f7649f4457c0f50d35149"
+    }
+  ],
+  "design": "Labrador Retriever. Choose yellow Labrador: broad head, medium broad muzzle, natural triangular dropped ears close to cheeks, thick strong neck, solid barrel-shaped body, sturdy medium-length legs and a THICK straight tapering otter tail, short smooth coat not feathered. Four-foot standing broadside facing left, head facing viewer with slightly goofy closed mouth. Pale yellow solid coat with tiny cream muzzle accent. Differentiate from Golden by short coat, no fluffy feathered ears or tail.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B006/raw.png",
+  "raw_sha256": "acf17dbf02937bd86899d1c246e238936b92bc0dcf98be4ce17830efb18e1a5c",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B006/prompt.txt",
+  "prompt_sha256": "7f8544677e9bd2f08a6df828a0355b34d906d876f7d779f0bd653b8c8c52cf26",
+  "path": "public/assets/dogs/doodle-v01/B006-full.png",
+  "sha256": "d3634a24aedd5a756bd76b1bd8f6147cb91248d5792e3b61b0a2ea997b17974a",
+  "pixels_sha256": "0d60673aa0c017de90ccc4f7c16c4038f78f148b053cfb0996b73696f0c747c9",
+  "processing": {
+    "bbox": [
+      70,
+      179,
+      1209,
+      1116
+    ],
+    "scale": 0.7164179104477612,
+    "resized_dimensions": [
+      816,
+      671
+    ],
+    "position": [
+      104,
+      176
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      105,
+      176,
+      920,
+      846
+    ],
+    "margins": [
+      105,
+      176,
+      104,
+      178
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 756357,
+    "opaque_pixels": 274030,
+    "partial_alpha_pixels": 18189,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}

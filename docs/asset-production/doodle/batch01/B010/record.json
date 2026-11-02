@@ -1,0 +1,94 @@
+{
+  "id": "B010",
+  "name": "秋田犬",
+  "english": "Akita",
+  "slug": "akita",
+  "style": "DPL-DOODLE-1.0",
+  "batch": "batch01",
+  "production_status": "GENERATED",
+  "human_review_status": "PENDING_REVIEW",
+  "saved_at_utc": "2026-11-02T03:57:16.117567+00:00",
+  "tool": "image_gen__imagegen",
+  "model_id": null,
+  "seed": null,
+  "tool_source_path": "/workspace/generated_images/exec-df2479ba-7969-40f8-88e1-12de337347ea.png",
+  "references": [
+    {
+      "path": "artifacts/illustrations/doodle-v01/batch01/B010/candidate-v01.png",
+      "sha256": "b5ada2673be8dd04118569c7de4b83ce0ce50d4b5789299a580f63f96ce9732b"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/shiba-inu-full.png",
+      "sha256": "dc17b0e7228fc82e463ef27ff7e182a387ba52390a245ae91f2ae5ef4c3b1019"
+    },
+    {
+      "path": "public/assets/dogs/style-tests/doodle-v01/golden-retriever-full.png",
+      "sha256": "37311e8fd032b1e71a56753186f7402ca1dd0a8e6d0a3f6518d1757bee8b62c4"
+    }
+  ],
+  "generation_version": "v02",
+  "design": "Revision v02: broad bear-like head, smaller wide-set ears, broad muzzle and neck, heavy seated torso and stout legs; reddish-brown and cream, thick curled tail. v01 rejected as too Shiba-like.",
+  "raw_path": "artifacts/illustrations/doodle-v01/batch01/B010/raw-v02.png",
+  "raw_sha256": "25989c07cd37da7ad0964048196ca7eb5e0792ea21acc801d9e9a9ef92379026",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "prompt_path": "docs/asset-production/doodle/batch01/B010/prompt.txt",
+  "prompt_sha256": "d1eabf541d67e44218c98e02b21020a5e83620d201c0f0ff66e786982cf3b340",
+  "path": "public/assets/dogs/doodle-v01/B010-full.png",
+  "sha256": "6edc8eea050ecc87e22662ed2be284abe1064b11f7fc02c2814b67332c82b4dc",
+  "pixels_sha256": "974015a93730ef6cd082264afe9438349b6dc3836112a1b73c2a79a29da217e6",
+  "processing": {
+    "bbox": [
+      78,
+      62,
+      1178,
+      1173
+    ],
+    "scale": 0.7344734473447345,
+    "resized_dimensions": [
+      808,
+      816
+    ],
+    "position": [
+      108,
+      104
+    ],
+    "alpha": "<=2 to0; eroded interior and >=250 to255; preserve edge AA; raw retained"
+  },
+  "qc": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "bbox": [
+      108,
+      104,
+      916,
+      920
+    ],
+    "margins": [
+      108,
+      104,
+      108,
+      104
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 604347,
+    "opaque_pixels": 433622,
+    "partial_alpha_pixels": 10607,
+    "translucent_core_pixels": 0,
+    "checks": {
+      "size": true,
+      "rgba": true,
+      "real_transparency": true,
+      "safe_margin": true,
+      "opaque_core": true,
+      "antialias": true
+    },
+    "technical_pass": true
+  }
+}
